@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:42:05.158455+00:00",
+  "updated": "2026-11-24T10:42:28.375527+00:00",
   "sources": [
     {
       "id": "pitchfork.com",
@@ -13,7 +13,7 @@
         "Electronica",
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:43.163073+00:00",
+      "checked": "2026-11-24T10:42:16.333439+00:00",
       "websiteStatus": 200,
       "feed": "https://pitchfork.com/feed/feed-album-reviews/rss",
       "entryCount": 29,
@@ -61,7 +61,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:43.163624+00:00",
+      "checked": "2026-11-24T10:42:16.333956+00:00",
       "websiteStatus": 200,
       "feed": "https://stereogum.com/feed",
       "entryCount": 40,
@@ -114,7 +114,7 @@
         "Rock",
         "Country"
       ],
-      "checked": "2026-11-24T10:41:43.166094+00:00",
+      "checked": "2026-11-24T10:42:16.335822+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -137,7 +137,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:43.167398+00:00",
+      "checked": "2026-11-24T10:42:16.336833+00:00",
       "websiteStatus": 200,
       "feed": "https://nme.com/feed/",
       "entryCount": 10,
@@ -194,7 +194,7 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:43.168233+00:00",
+      "checked": "2026-11-24T10:42:16.337576+00:00",
       "websiteStatus": 200,
       "feed": "https://brooklynvegan.com/feed/",
       "entryCount": 15,
@@ -239,7 +239,7 @@
         "Indie",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:43.169038+00:00",
+      "checked": "2026-11-24T10:42:16.338292+00:00",
       "websiteStatus": 200,
       "feed": "https://thelineofbestfit.com/feed/",
       "entryCount": 10,
@@ -286,7 +286,7 @@
         "Electronica",
         "Ambient"
       ],
-      "checked": "2026-11-24T10:41:43.510175+00:00",
+      "checked": "2026-11-24T10:42:16.847704+00:00",
       "websiteStatus": 200,
       "feed": "https://thequietus.com/feed/",
       "entryCount": 32,
@@ -342,7 +342,7 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:43.553563+00:00",
+      "checked": "2026-11-24T10:42:16.884978+00:00",
       "websiteStatus": 200,
       "feed": "https://www.kerrang.com/feed.rss",
       "entryCount": 1,
@@ -378,7 +378,7 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:43.734886+00:00",
+      "checked": "2026-11-24T10:42:16.949418+00:00",
       "websiteStatus": 200,
       "feed": "https://www.loudersound.com/feeds.xml",
       "entryCount": 50,
@@ -429,7 +429,7 @@
         "Country",
         "Hip-hop"
       ],
-      "checked": "2026-11-24T10:41:43.821529+00:00",
+      "checked": "2026-11-24T10:42:17.094357+00:00",
       "websiteStatus": 200,
       "feed": "https://www.rollingstone.com/feed/rss/",
       "entryCount": 10,
@@ -478,7 +478,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T10:41:43.938937+00:00",
+      "checked": "2026-11-24T10:42:17.095702+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -509,7 +509,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T10:41:44.345135+00:00",
+      "checked": "2026-11-24T10:42:17.549085+00:00",
       "websiteStatus": 200,
       "feed": "https://savingcountrymusic.com/feed/",
       "entryCount": 38,
@@ -556,7 +556,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T10:41:44.415446+00:00",
+      "checked": "2026-11-24T10:42:17.771062+00:00",
       "websiteStatus": 200,
       "feed": "https://nodepression.org/rss/",
       "entryCount": 15,
@@ -613,7 +613,7 @@
         "Hip-hop",
         "Country"
       ],
-      "checked": "2026-11-24T10:41:44.605935+00:00",
+      "checked": "2026-11-24T10:42:18.043824+00:00",
       "websiteStatus": 200,
       "feed": "https://www.billboard.com/feed/rss/",
       "entryCount": 10,
@@ -661,7 +661,7 @@
         "Indie",
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:44.628232+00:00",
+      "checked": "2026-11-24T10:42:18.143889+00:00",
       "websiteStatus": 200,
       "feed": "https://www.popmatters.com/feed",
       "entryCount": 200,
@@ -716,7 +716,7 @@
       "genres": [
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:44.645213+00:00",
+      "checked": "2026-11-24T10:42:18.394079+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -739,7 +739,7 @@
       "genres": [
         "Hip-hop"
       ],
-      "checked": "2026-11-24T10:41:44.990641+00:00",
+      "checked": "2026-11-24T10:42:18.525486+00:00",
       "websiteStatus": 200,
       "feed": "https://www.xxlmag.com/feed/",
       "entryCount": 35,
@@ -783,7 +783,7 @@
       "genres": [
         "Hip-hop"
       ],
-      "checked": "2026-11-24T10:41:45.387940+00:00",
+      "checked": "2026-11-24T10:42:18.668475+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -806,7 +806,7 @@
         "Pop",
         "Indie"
       ],
-      "checked": "2026-11-24T10:41:45.709030+00:00",
+      "checked": "2026-11-24T10:42:18.705189+00:00",
       "websiteStatus": 200,
       "feed": "https://thefader.com/feed/",
       "entryCount": 20,
@@ -850,8 +850,8 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:45.823260+00:00",
-      "websiteStatus": null,
+      "checked": "2026-11-24T10:42:19.241263+00:00",
+      "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
       "datedEntries": 0,
@@ -872,7 +872,7 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:46.257527+00:00",
+      "checked": "2026-11-24T10:42:19.651477+00:00",
       "websiteStatus": null,
       "feed": null,
       "entryCount": 0,
@@ -894,22 +894,46 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:46.297497+00:00",
+      "checked": "2026-11-24T10:42:20.023611+00:00",
       "websiteStatus": 200,
-      "feed": null,
-      "entryCount": 0,
-      "datedEntries": 0,
+      "feed": "https://www.allaboutjazz.com/rss_reviews.xml",
+      "entryCount": 20,
+      "datedEntries": 20,
       "reviewCandidates": [
         "https://www.allaboutjazz.com/reviews/",
         "https://www.allaboutjazz.com/reviews/",
         "https://www.allaboutjazz.com/hidden-gems-giving-great-stories-another-time-to-shine-by-michael-ricci",
         "https://www.allaboutjazz.com/a-guide-to-getting-your-music-reviewed-at-all-about-jazz"
       ],
-      "errors": [
-        "404 Client Error: Not Found for url: https://www.allaboutjazz.com/404",
-        "404 Client Error: Not Found for url: https://www.allaboutjazz.com/404"
+      "errors": [],
+      "sample": [
+        {
+          "title": "Jakob Bro, Larry Grenadier and Jorge Rossy featuring Charles Lloyd: Bjerge, Strand",
+          "url": "https://www.allaboutjazz.com/bjerge-strand-jakob-bro-larry-grenadier-and-jorge-rossy-featuring-charles-lloyd-loveland-records",
+          "date": "Tue, 24 Nov 2026 06:33:48 +0000"
+        },
+        {
+          "title": "Eyal Maoz's EDOM: Blinding",
+          "url": "https://www.allaboutjazz.com/blinding-eyal-maozs-edom-adhyaropa-records",
+          "date": "Tue, 24 Nov 2026 06:33:41 +0000"
+        },
+        {
+          "title": "Joe Henderson Quintet: At The Lighthouse: If You're Not Part of the Solution, You're Part of the Problem",
+          "url": "https://www.allaboutjazz.com/at-the-lighthouse-if-youre-not-part-of-the-solution-youre-part-of-the-problem-joe-henderson-quintet-craft-recordings",
+          "date": "Tue, 24 Nov 2026 06:33:36 +0000"
+        },
+        {
+          "title": "Ryan Keberle's Collectiv do Brasil: Here is Donato!",
+          "url": "https://www.allaboutjazz.com/here-is-donato-ryan-keberles-collectiv-do-brasil-alternate-side-records",
+          "date": "Mon, 23 Nov 2026 06:33:37 +0000"
+        },
+        {
+          "title": "David Borgo: Panta Rhei",
+          "url": "https://www.allaboutjazz.com/panta-rhei-david-borgo-borgoriginals",
+          "date": "Mon, 23 Nov 2026 06:33:35 +0000"
+        }
       ],
-      "status": "website_only",
+      "status": "feed_available",
       "editorialVerification": "manual_review_required"
     },
     {
@@ -919,7 +943,7 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:47.046520+00:00",
+      "checked": "2026-11-24T10:42:20.211124+00:00",
       "websiteStatus": 200,
       "feed": "https://ukjazznews.com/feed/",
       "entryCount": 10,
@@ -974,7 +998,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:47.072392+00:00",
+      "checked": "2026-11-24T10:42:20.503088+00:00",
       "websiteStatus": 200,
       "feed": "https://www.decibelmagazine.com/feed/",
       "entryCount": 10,
@@ -1018,7 +1042,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:47.526148+00:00",
+      "checked": "2026-11-24T10:42:20.674803+00:00",
       "websiteStatus": 403,
       "feed": "https://metalinjection.net/feed/",
       "entryCount": 25,
@@ -1062,7 +1086,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T10:41:47.710241+00:00",
+      "checked": "2026-11-24T10:42:20.848125+00:00",
       "websiteStatus": 200,
       "feed": "https://www.angrymetalguy.com/feed/",
       "entryCount": 10,
@@ -1122,7 +1146,7 @@
         "UK Garage",
         "Ambient"
       ],
-      "checked": "2026-11-24T10:41:48.148365+00:00",
+      "checked": "2026-11-24T10:42:20.879001+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -1147,7 +1171,7 @@
         "Trance",
         "Disco"
       ],
-      "checked": "2026-11-24T10:41:48.320487+00:00",
+      "checked": "2026-11-24T10:42:21.062061+00:00",
       "websiteStatus": 200,
       "feed": "https://mixmag.net/rss.xml",
       "entryCount": 80,
@@ -1196,7 +1220,7 @@
         "Trance",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T10:41:48.754696+00:00",
+      "checked": "2026-11-24T10:42:21.359537+00:00",
       "websiteStatus": 200,
       "feed": "https://djmag.com/feed/",
       "entryCount": 30,
@@ -1247,9 +1271,9 @@
         "Ambient",
         "Elektronisk"
       ],
-      "checked": "2026-11-24T10:41:49.003108+00:00",
-      "websiteStatus": null,
-      "feed": "https://electronicsound.co.uk/feed/",
+      "checked": "2026-11-24T10:42:21.460923+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.electronicsound.co.uk/feed/",
       "entryCount": 10,
       "datedEntries": 10,
       "reviewCandidates": [],
@@ -1302,7 +1326,7 @@
         "Drum & Bass",
         "UK Garage"
       ],
-      "checked": "2026-11-24T10:41:49.785427+00:00",
+      "checked": "2026-11-24T10:42:21.777154+00:00",
       "websiteStatus": 200,
       "feed": "https://daily.bandcamp.com/feed/",
       "entryCount": 37,
@@ -1348,7 +1372,7 @@
         "House",
         "Techno"
       ],
-      "checked": "2026-11-24T10:41:49.800918+00:00",
+      "checked": "2026-11-24T10:42:21.831993+00:00",
       "websiteStatus": 200,
       "feed": "https://xlr8r.com/feed/",
       "entryCount": 10,
@@ -1404,7 +1428,7 @@
         "UK Garage",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T10:41:50.000350+00:00",
+      "checked": "2026-11-24T10:42:22.047456+00:00",
       "websiteStatus": 200,
       "feed": "https://ukf.com/feed/",
       "entryCount": 10,
@@ -1450,7 +1474,7 @@
         "House",
         "Electronica"
       ],
-      "checked": "2026-11-24T10:41:50.304269+00:00",
+      "checked": "2026-11-24T10:42:22.152363+00:00",
       "websiteStatus": 200,
       "feed": "https://groove.de/feed/",
       "entryCount": 10,
@@ -1505,7 +1529,7 @@
       "genres": [
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T10:41:51.768773+00:00",
+      "checked": "2026-11-24T10:42:22.442904+00:00",
       "websiteStatus": 200,
       "feed": "https://www.drumandbass.nl/feed/",
       "entryCount": 10,
@@ -1550,7 +1574,7 @@
         "Ambient",
         "Electronica"
       ],
-      "checked": "2026-11-24T10:41:51.884502+00:00",
+      "checked": "2026-11-24T10:42:22.513097+00:00",
       "websiteStatus": 200,
       "feed": "https://acloserlisten.com/feed/",
       "entryCount": 8,
@@ -1599,7 +1623,7 @@
         "UK Garage",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T10:41:52.260233+00:00",
+      "checked": "2026-11-24T10:42:22.690289+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -1621,7 +1645,7 @@
         "Disco",
         "House"
       ],
-      "checked": "2026-11-24T10:41:52.614315+00:00",
+      "checked": "2026-11-24T10:42:22.736281+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -1640,7 +1664,7 @@
         "Electronica",
         "Jazz"
       ],
-      "checked": "2026-11-24T10:41:52.730630+00:00",
+      "checked": "2026-11-24T10:42:23.217296+00:00",
       "websiteStatus": 200,
       "feed": "https://thewire.co.uk/rss",
       "entryCount": 89,
@@ -1697,8 +1721,8 @@
         "Country",
         "Ambient"
       ],
-      "checked": "2026-11-24T10:41:52.803282+00:00",
-      "websiteStatus": null,
+      "checked": "2026-11-24T10:42:23.608535+00:00",
+      "websiteStatus": 200,
       "feed": "https://aquariumdrunkard.com/feed/",
       "entryCount": 15,
       "datedEntries": 15,
@@ -1746,7 +1770,7 @@
         "Hip-hop",
         "Elektronisk"
       ],
-      "checked": "2026-11-24T10:41:53.186592+00:00",
+      "checked": "2026-11-24T10:42:23.991743+00:00",
       "websiteStatus": 200,
       "feed": "https://clashmusic.com/feed/",
       "entryCount": 10,
@@ -1795,7 +1819,7 @@
         "Metal",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:54.766377+00:00",
+      "checked": "2026-11-24T10:42:24.023739+00:00",
       "websiteStatus": 200,
       "feed": "https://consequence.net/feed/",
       "entryCount": 15,
@@ -1852,7 +1876,7 @@
         "Indie",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:54.998573+00:00",
+      "checked": "2026-11-24T10:42:24.262204+00:00",
       "websiteStatus": 200,
       "feed": "https://spin.com/feed/",
       "entryCount": 10,
@@ -1901,7 +1925,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T10:41:55.897799+00:00",
+      "checked": "2026-11-24T10:42:24.291799+00:00",
       "websiteStatus": 200,
       "feed": "https://diymag.com/feeds/all",
       "entryCount": 50,
@@ -1949,7 +1973,7 @@
         "House",
         "Disco"
       ],
-      "checked": "2026-11-24T10:41:55.909370+00:00",
+      "checked": "2026-11-24T10:42:24.632811+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -1970,13 +1994,14 @@
       "genres": [
         "Rock"
       ],
-      "checked": "2026-11-24T10:41:57.424815+00:00",
+      "checked": "2026-11-24T10:42:24.945377+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
       "datedEntries": 0,
       "reviewCandidates": [],
       "errors": [
+        "403 Client Error: Forbidden for url: https://www.therockpit.net/category/reviews-albums-feature/feed/",
         "403 Client Error: Forbidden for url: https://www.therockpit.net/feed/",
         "403 Client Error: Forbidden for url: https://www.therockpit.net/rss",
         "403 Client Error: Forbidden for url: https://www.therockpit.net/rss.xml"
@@ -1991,7 +2016,7 @@
       "genres": [
         "Hip-hop"
       ],
-      "checked": "2026-11-24T10:41:57.642860+00:00",
+      "checked": "2026-11-24T10:42:25.269341+00:00",
       "websiteStatus": 200,
       "feed": "https://www.rapreviews.com/feed/",
       "entryCount": 6,
