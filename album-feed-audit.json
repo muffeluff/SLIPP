@@ -1,0 +1,1095 @@
+{
+  "updated": "2026-11-24T11:23:00.946427+00:00",
+  "results": [
+    {
+      "source": "Apple Music v2",
+      "genre": "Alle",
+      "genreId": null,
+      "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json",
+      "http": 200,
+      "count": 100,
+      "recentCount": 17,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "YFN Lucci",
+          "title": "everything i said i am. / everything she said she is.",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            }
+          ],
+          "id": "6834596383"
+        },
+        {
+          "rank": 2,
+          "artist": "Lil Baby",
+          "title": "FRESH (Bonus Track)",
+          "date": "2026-11-10",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            },
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            }
+          ],
+          "id": "6832737653"
+        },
+        {
+          "rank": 3,
+          "artist": "Various Artists",
+          "title": "Grand Theft Auto VI: The Album",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtrack",
+              "url": "https://itunes.apple.com/us/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            }
+          ],
+          "id": "6812476961"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "YFN Lucci",
+          "title": "everything i said i am. / everything she said she is.",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            }
+          ],
+          "id": "6834596383"
+        },
+        {
+          "rank": 2,
+          "artist": "Lil Baby",
+          "title": "FRESH (Bonus Track)",
+          "date": "2026-11-10",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            },
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            }
+          ],
+          "id": "6832737653"
+        },
+        {
+          "rank": 3,
+          "artist": "Various Artists",
+          "title": "Grand Theft Auto VI: The Album",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtrack",
+              "url": "https://itunes.apple.com/us/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            }
+          ],
+          "id": "6812476961"
+        },
+        {
+          "rank": 6,
+          "artist": "Belly Gang Kushington",
+          "title": "GOOD DOPE SELL ITSELF",
+          "date": "2026-11-13",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            },
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            }
+          ],
+          "id": "6829222417"
+        },
+        {
+          "rank": 10,
+          "artist": "BigXthaPlug",
+          "title": "BETTER OVER TIME",
+          "date": "2026-11-02",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/us/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Music",
+              "url": "https://itunes.apple.com/us/genre/id34"
+            }
+          ],
+          "id": "6827763091"
+        }
+      ],
+      "feedTitle": "Top Albums",
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Indie",
+      "genreId": 20,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/20/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/20/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Indie",
+      "genreId": 20,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json",
+      "http": 200,
+      "count": 51,
+      "recentCount": 5,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Kings of Leon",
+          "title": "O My Beloved",
+          "date": "2026-11-06T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6802901441"
+        },
+        {
+          "rank": 2,
+          "artist": "Phoebe Bridgers",
+          "title": "Lost Weekend",
+          "date": "2026-08-14T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6781051268"
+        },
+        {
+          "rank": 3,
+          "artist": "Mumford & Sons",
+          "title": "Prizefighter",
+          "date": "2026-02-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "1848218113"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "Kings of Leon",
+          "title": "O My Beloved",
+          "date": "2026-11-06T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6802901441"
+        },
+        {
+          "rank": 5,
+          "artist": "Atlas Sound",
+          "title": "Thanatos",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6831731444"
+        },
+        {
+          "rank": 14,
+          "artist": "Mondo Cozmo",
+          "title": "Sweet Forever",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6805129290"
+        },
+        {
+          "rank": 23,
+          "artist": "Appleseed",
+          "title": "Morning Blue",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6822026639"
+        },
+        {
+          "rank": 45,
+          "artist": "Jeena",
+          "title": "To Know My Name - EP",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://music.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          },
+          "id": "6822168925"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Alternative"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Rock",
+      "genreId": 21,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/21/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/21/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Rock",
+      "genreId": 21,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=21/json",
+      "http": 200,
+      "count": 75,
+      "recentCount": 1,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "The Beatles",
+          "title": "Abbey Road (Remastered)",
+          "date": "1969-09-26T00:00:00-07:00",
+          "genre": {
+            "im:id": "21",
+            "term": "Rock",
+            "scheme": "https://music.apple.com/us/genre/music-rock/id21?uo=2",
+            "label": "Rock"
+          },
+          "id": "1441164426"
+        },
+        {
+          "rank": 2,
+          "artist": "Phil Collins",
+          "title": "The Singles (Remastered)",
+          "date": "2016-10-14T00:00:00-07:00",
+          "genre": {
+            "im:id": "21",
+            "term": "Rock",
+            "scheme": "https://music.apple.com/us/genre/music-rock/id21?uo=2",
+            "label": "Rock"
+          },
+          "id": "1148642251"
+        },
+        {
+          "rank": 3,
+          "artist": "Eagles",
+          "title": "Their Greatest Hits 1971-1975",
+          "date": "1976-02-17T00:00:00-07:00",
+          "genre": {
+            "im:id": "21",
+            "term": "Rock",
+            "scheme": "https://music.apple.com/us/genre/music-rock/id21?uo=2",
+            "label": "Rock"
+          },
+          "id": "635829435"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 61,
+          "artist": "Crimson Vale",
+          "title": "I Wasn't Ready - EP",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "6822684953"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Rock"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Pop",
+      "genreId": 14,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/14/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/14/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Pop",
+      "genreId": 14,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json",
+      "http": 200,
+      "count": 78,
+      "recentCount": 12,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "TOMORROW X TOGETHER",
+          "title": "PERFECT STORM - EP",
+          "date": "2026-11-16T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6815062084"
+        },
+        {
+          "rank": 2,
+          "artist": "RAYE",
+          "title": "THIS MUSIC MAY CONTAIN HOPE.",
+          "date": "2026-03-27T00:00:00-07:00",
+          "genre": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          },
+          "id": "1871085677"
+        },
+        {
+          "rank": 3,
+          "artist": "ATEEZ",
+          "title": "GOLDEN HOUR : Part.6 - EP",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6819932396"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "TOMORROW X TOGETHER",
+          "title": "PERFECT STORM - EP",
+          "date": "2026-11-16T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6815062084"
+        },
+        {
+          "rank": 3,
+          "artist": "ATEEZ",
+          "title": "GOLDEN HOUR : Part.6 - EP",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6819932396"
+        },
+        {
+          "rank": 4,
+          "artist": "TOMORROW X TOGETHER",
+          "title": "PERFECT STORM (BEOMGYU Ver.)",
+          "date": "2026-11-23T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6836398476"
+        },
+        {
+          "rank": 8,
+          "artist": "TOMORROW X TOGETHER",
+          "title": "PERFECT STORM (HUENINGKAI Ver.)",
+          "date": "2026-11-23T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6836167544"
+        },
+        {
+          "rank": 10,
+          "artist": "TOMORROW X TOGETHER",
+          "title": "PERFECT STORM (SOOBIN Ver.)",
+          "date": "2026-11-23T00:00:00-07:00",
+          "genre": {
+            "im:id": "51",
+            "term": "K-Pop",
+            "scheme": "https://music.apple.com/us/genre/music-pop-k-pop/id51?uo=2",
+            "label": "K-Pop"
+          },
+          "id": "6836398624"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Pop"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Hip-hop",
+      "genreId": 18,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/18/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/18/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Hip-hop",
+      "genreId": 18,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=18/json",
+      "http": 200,
+      "count": 12,
+      "recentCount": 2,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Eminem",
+          "title": "Infinite EP",
+          "date": "2026-11-12T00:00:00-07:00",
+          "genre": {
+            "im:id": "18",
+            "term": "Hip Hop/Rap",
+            "scheme": "https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2",
+            "label": "Hip-Hop/Rap"
+          },
+          "id": "6831186026"
+        },
+        {
+          "rank": 2,
+          "artist": "Rovan Sigurd",
+          "title": "The Names We Carry",
+          "date": "2026-08-31T00:00:00-07:00",
+          "genre": {
+            "im:id": "18",
+            "term": "Hip Hop/Rap",
+            "scheme": "https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2",
+            "label": "Hip-Hop/Rap"
+          },
+          "id": "6807174042"
+        },
+        {
+          "rank": 3,
+          "artist": "Beastie Boys",
+          "title": "Licensed to Ill",
+          "date": "1986-11-15T00:00:00-07:00",
+          "genre": {
+            "im:id": "18",
+            "term": "Hip Hop/Rap",
+            "scheme": "https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2",
+            "label": "Hip-Hop/Rap"
+          },
+          "id": "1440912031"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "Eminem",
+          "title": "Infinite EP",
+          "date": "2026-11-12T00:00:00-07:00",
+          "genre": {
+            "im:id": "18",
+            "term": "Hip Hop/Rap",
+            "scheme": "https://music.apple.com/us/genre/music-hip-hop-rap/id18?uo=2",
+            "label": "Hip-Hop/Rap"
+          },
+          "id": "6831186026"
+        },
+        {
+          "rank": 6,
+          "artist": "Lil Baby",
+          "title": "FRESH",
+          "date": "2026-11-05T00:00:00-07:00",
+          "genre": {
+            "im:id": "1073",
+            "term": "Hip-Hop",
+            "scheme": "https://music.apple.com/us/genre/music-hip-hop-rap-hip-hop/id1073?uo=2",
+            "label": "Hip-Hop"
+          },
+          "id": "6836040643"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Hip Hop/Rap"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Country",
+      "genreId": 6,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/6/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/6/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Country",
+      "genreId": 6,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json",
+      "http": 200,
+      "count": 88,
+      "recentCount": 9,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Ella Langley",
+          "title": "Dandelion",
+          "date": "2026-04-10T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "1895159736"
+        },
+        {
+          "rank": 2,
+          "artist": "The Red Clay Strays",
+          "title": "Grateful",
+          "date": "2026-06-05T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "1893402542"
+        },
+        {
+          "rank": 3,
+          "artist": "The Red Clay Strays",
+          "title": "Made by These Moments",
+          "date": "2024-07-26T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "1746991953"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 4,
+          "artist": "Mack Geiger",
+          "title": "Dying In This House",
+          "date": "2026-11-06T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "6825883834"
+        },
+        {
+          "rank": 9,
+          "artist": "NEEDTOBREATHE",
+          "title": "The Long Surrender and The Fellow Passengers of Pain",
+          "date": "2026-11-19T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "6809912967"
+        },
+        {
+          "rank": 17,
+          "artist": "River Cain",
+          "title": "A Cain Christmas",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "6830821455"
+        },
+        {
+          "rank": 19,
+          "artist": "Blake Whiten",
+          "title": "Something To Say (Deluxe)",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "6833125913"
+        },
+        {
+          "rank": 24,
+          "artist": "Waylon Jennings",
+          "title": "Diamonds",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://music.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          },
+          "id": "6781405825"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Country"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Jazz",
+      "genreId": 11,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/11/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/11/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Jazz",
+      "genreId": 11,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json",
+      "http": 200,
+      "count": 100,
+      "recentCount": 9,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "David Benoit",
+          "title": "David Benoit Conducts A Vince Guaraldi Holiday Symphony (feat. Czech National Symphony Orchestra)",
+          "date": "2026-10-30T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6811165088"
+        },
+        {
+          "rank": 2,
+          "artist": "Diana Krall",
+          "title": "The Look Of Love (25th Anniversary Edition)",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6814688069"
+        },
+        {
+          "rank": 3,
+          "artist": "Frank Sinatra",
+          "title": "Nothing But the Best (Remastered)",
+          "date": "2008-05-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "1440858119"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "David Benoit",
+          "title": "David Benoit Conducts A Vince Guaraldi Holiday Symphony (feat. Czech National Symphony Orchestra)",
+          "date": "2026-10-30T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6811165088"
+        },
+        {
+          "rank": 2,
+          "artist": "Diana Krall",
+          "title": "The Look Of Love (25th Anniversary Edition)",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6814688069"
+        },
+        {
+          "rank": 6,
+          "artist": "Joshua Redman",
+          "title": "If Ever You Would Leave Us (we play for Rollins) [feat. Christian McBride, Marcus Gilmore, Larry Grenadier, Cécile McLorin Salvant, Kevin Hays, Chris Potter, Peter Bernstein & Gabrielle Cavassa]",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6808849195"
+        },
+        {
+          "rank": 8,
+          "artist": "Don Was and the Pan-Detroit Ensemble",
+          "title": "Live Dispatch Vol. 1: Blues For Allah '26",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6817600425"
+        },
+        {
+          "rank": 10,
+          "artist": "VERDII",
+          "title": "Velvet Hours - EP",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "11",
+            "term": "Jazz",
+            "scheme": "https://music.apple.com/us/genre/music-jazz/id11?uo=2",
+            "label": "Jazz"
+          },
+          "id": "6830516621"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Jazz"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Metal",
+      "genreId": 1153,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/1153/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/1153/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Metal",
+      "genreId": 1153,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json",
+      "http": 200,
+      "count": 47,
+      "recentCount": 3,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Metallica",
+          "title": "Metallica (Remastered)",
+          "date": "1991-08-12T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "1572046434"
+        },
+        {
+          "rank": 2,
+          "artist": "Metallica",
+          "title": "Ride the Lightning (Remastered) [2016 Remastered Version]",
+          "date": "1984-07-27T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "579148345"
+        },
+        {
+          "rank": 3,
+          "artist": "TOOL",
+          "title": "Lateralus",
+          "date": "2001-05-15T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "1474185412"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 4,
+          "artist": "Crimson Vale",
+          "title": "I Wasn't Ready - EP",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "6822684953"
+        },
+        {
+          "rank": 13,
+          "artist": "Cult of Luna",
+          "title": "In the Shadow of Your Shadow",
+          "date": "2026-11-06T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "6782122885"
+        },
+        {
+          "rank": 30,
+          "artist": "Artificial Brain",
+          "title": "Antillia",
+          "date": "2026-11-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "1153",
+            "term": "Heavy Metal",
+            "scheme": "https://music.apple.com/us/genre/music-rock-metal/id1153?uo=2",
+            "label": "Metal"
+          },
+          "id": "6803212536"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Heavy Metal"
+      },
+      "status": "returned_rows"
+    },
+    {
+      "source": "Apple Music legacy",
+      "genre": "Elektronisk",
+      "genreId": 7,
+      "url": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/7/100/json",
+      "http": 503,
+      "status": "error",
+      "error": "503 Server Error: Service Unavailable for url: https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/7/100/json"
+    },
+    {
+      "source": "iTunes Store purchases",
+      "genre": "Elektronisk",
+      "genreId": 7,
+      "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=7/json",
+      "http": 200,
+      "count": 79,
+      "recentCount": 5,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Yves",
+          "title": "Cute & Anxiety - EP",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "6822634780"
+        },
+        {
+          "rank": 2,
+          "artist": "Justice",
+          "title": "Justice",
+          "date": "2007-06-11T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "259751732"
+        },
+        {
+          "rank": 3,
+          "artist": "Nocturnal Flow",
+          "title": "Lost in Monaco at Midnight",
+          "date": "2026-09-13T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "6816902479"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "Yves",
+          "title": "Cute & Anxiety - EP",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "6822634780"
+        },
+        {
+          "rank": 8,
+          "artist": "Jean-Michel Jarre",
+          "title": "Oxygène (50th Anniversary Remastered Edition)",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "1056",
+            "term": "Ambient",
+            "scheme": "https://music.apple.com/us/genre/music-electronic-ambient/id1056?uo=2",
+            "label": "Ambient"
+          },
+          "id": "6816011429"
+        },
+        {
+          "rank": 9,
+          "artist": "Brian Eno & J. Peter Schwalm",
+          "title": "Intenser",
+          "date": "2026-11-20T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "6834329441"
+        },
+        {
+          "rank": 31,
+          "artist": "Bronski Beat",
+          "title": "Smalltown Boy (Club Mixes)",
+          "date": "2026-11-06T00:00:00-07:00",
+          "genre": {
+            "im:id": "7",
+            "term": "Electronic",
+            "scheme": "https://music.apple.com/us/genre/music-electronic/id7?uo=2",
+            "label": "Electronic"
+          },
+          "id": "6830142264"
+        },
+        {
+          "rank": 78,
+          "artist": "Kevin Keller",
+          "title": "Altus",
+          "date": "2026-10-30T00:00:00-07:00",
+          "genre": {
+            "im:id": "1056",
+            "term": "Ambient",
+            "scheme": "https://music.apple.com/us/genre/music-electronic-ambient/id1056?uo=2",
+            "label": "Ambient"
+          },
+          "id": "6813356707"
+        }
+      ],
+      "feedTitle": {
+        "label": "iTunes Store: Top Albums in Electronic"
+      },
+      "status": "returned_rows"
+    }
+  ]
+}
