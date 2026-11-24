@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:27:28.392Z",
+  "updated": "2026-11-24T15:28:42.778Z",
   "releases": [
     {
       "artist": "Kings of Leon",
@@ -97,6 +97,14 @@
           "published": "2026-11-23T14:26:06+00:00",
           "verified": true,
           "verification": "editorial-feed-match"
+        },
+        {
+          "source": "Pitchfork",
+          "title": "Atlas Sound: Thanatos Album Review",
+          "url": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+          "published": "2026-11-23",
+          "verified": true,
+          "verification": "article-checked"
         }
       ]
     },
@@ -116,6 +124,14 @@
           "published": "2026-10-27T13:25:21+00:00",
           "verified": true,
           "verification": "editorial-feed-match"
+        },
+        {
+          "source": "NME",
+          "title": "Queens Of The Stone Age – Perfecth review",
+          "url": "https://www.nme.com/reviews/album/queens-of-the-stone-age-perfecth-album-review-3974374",
+          "published": "2026-10-29",
+          "verified": true,
+          "verification": "article-checked"
         }
       ]
     },
@@ -137,7 +153,16 @@
     {
       "artist": "Nickelback",
       "title": "Everything Under The Sun",
-      "articles": []
+      "articles": [
+        {
+          "source": "Kerrang!",
+          "title": "Album review: Nickelback – Everything Under The Sun",
+          "url": "https://www.kerrang.com/album-review-nickelback-everything-under-the-sun",
+          "published": null,
+          "verified": true,
+          "verification": "article-checked"
+        }
+      ]
     },
     {
       "artist": "ぽんすけ",
@@ -147,7 +172,16 @@
     {
       "artist": "Bryan Adams",
       "title": "How's It Goin'",
-      "articles": []
+      "articles": [
+        {
+          "source": "Louder",
+          "title": "Bryan Adams: How’s It Goin' album review",
+          "url": "https://www.loudersound.com/music/albums/bryan-adams-hows-it-goin",
+          "published": "2026-11-06",
+          "verified": true,
+          "verification": "article-checked"
+        }
+      ]
     },
     {
       "artist": "Yello",
@@ -226,7 +260,16 @@
     {
       "artist": "Keith Jarrett",
       "title": "Roma (Live)",
-      "articles": []
+      "articles": [
+        {
+          "source": "All About Jazz",
+          "title": "Keith Jarrett: Roma",
+          "url": "https://www.allaboutjazz.com/roma-keith-jarrett-ecm-records__8956",
+          "published": "2026-11-23",
+          "verified": true,
+          "verification": "article-checked"
+        }
+      ]
     },
     {
       "artist": "Blue Earth Sound",
@@ -257,6 +300,14 @@
           "published": "2026-11-20T14:57:27+00:00",
           "verified": true,
           "verification": "editorial-feed-match"
+        },
+        {
+          "source": "Kerrang!",
+          "title": "Album review: Trivium – Crown In The Grave",
+          "url": "https://www.kerrang.com/album-review-trivium-crown-in-the-grave-matt-heafy-metal",
+          "published": "2026-11-17",
+          "verified": true,
+          "verification": "article-checked"
         }
       ]
     },
