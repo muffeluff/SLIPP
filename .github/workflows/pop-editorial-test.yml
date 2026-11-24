@@ -1,0 +1,94 @@
+name: Pop editorial pilot
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/pop-editorial-test.yml']
+permissions:
+  contents: write
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests beautifulsoup4 feedparser
+      - run: |
+          python - <<'PY'
+          import requests, json, re, datetime, feedparser
+          from bs4 import BeautifulSoup
+          from pathlib import Path
+          from concurrent.futures import ThreadPoolExecutor
+          def read(p):return json.loads(Path(p).read_text())
+          def norm(s):return ''.join(c for c in s.casefold() if c.isalnum())
+          today=datetime.date.today()
+          friday=today-datetime.timedelta(days=(today.weekday()-4)%7)
+          def get(url,**kw):return requests.get(url,timeout=18,headers={'User-Agent':'SLIPP editorial pilot/1.0'},**kw)
+          registry=read('sources.json')['sources']
+          allowed={s['id'] for s in registry if 'Pop' in s['genres'] and s['type']=='editorial'}
+          articles=[a for a in read('editorial/articles.json')['articles'] if a['sourceId'] in allowed and a.get('published') and a['published'][:10]>=str(today-datetime.timedelta(days=30)) and a.get('kind') in ('review','recommendation','premiere')]
+          def parse(a):
+              try:
+                  r=get(a['url']);r.raise_for_status()
+                  soup=BeautifulSoup(r.text,'html.parser')
+                  body=soup.find('article') or soup.find('main')
+                  title=a['title']
+                  pairs=[]
+                  for tag in soup.select('script[type="application/ld+json"]'):
+                      try:
+                          def walk(x):
+                              if isinstance(x,list):
+                                  for v in x:yield from walk(v)
+                              elif isinstance(x,dict):
+                                  yield x
+                                  for v in x.values():yield from walk(v)
+                          for x in walk(json.loads(tag.string or '{}')):
+                              if x.get('@type')=='MusicAlbum':
+                                  artist=x.get('byArtist',{})
+                                  if isinstance(artist,dict) and artist.get('name') and x.get('name'):pairs.append((artist['name'],x['name']))
+                      except Exception:pass
+                  if a['source']=='Pitchfork' and '/reviews/albums/' in a['url']:
+                      for el in soup.select('h1,h2,[class*="artist"],[class*="Artist"]'):
+                          v=el.get_text(' ',strip=True)
+                          if v and len(v)<100 and norm(v)!=norm(title):pairs.append((v,title))
+                  for sep in [' – ',' — ',' ~ ',': ']:
+                      if sep in title:pairs.append(tuple(title.split(sep,1)))
+                  pairs=[(x.strip(),re.sub(r'\s+(album )?review$','',y,flags=re.I).strip(' “”—')) for x,y in pairs]
+                  for artist,album in pairs[:12]:
+                      if not artist or not album:continue
+                      data=get('https://itunes.apple.com/search',params={'term':artist+' '+album,'entity':'album','limit':10}).json()
+                      for x in data.get('results',[]):
+                          if norm(x.get('artistName',''))!=norm(artist) or norm(x.get('collectionName',''))!=norm(album):continue
+                          if 'pop' not in x.get('primaryGenreName','').lower() or x.get('trackCount',0)<7:continue
+                          rd=x.get('releaseDate','')[:10]
+                          if not str(today-datetime.timedelta(days=30))<=rd<=str(today):continue
+                          if re.search(r'\b(deluxe|anniversary|remaster\w*|EP|single|collection)\b',album,re.I):continue
+                          art=x.get('artworkUrl100','')
+                          if not art:continue
+                          im=get(art,stream=True);ok=im.ok and im.headers.get('Content-Type','').startswith('image/');im.close()
+                          if not ok:continue
+                          score=None
+                          if a['source']=='Pitchfork':
+                              for el in soup.select('[class*="Score"],[class*="score"]'):
+                                  v=el.get_text(strip=True)
+                                  if re.fullmatch(r'(?:[0-9]\.\d|10\.0)',v):score=float(v);break
+                          return dict(artist=artist,title=album,releaseDate=rd,artwork=art,catalogUrl=x.get('collectionViewUrl'),article=dict(source=a['source'],title=title,url=a['url'],published=a['published'],score=score,positive=score>=7.5 if score is not None else None),status='matched')
+                  return dict(url=a['url'],status='unresolved',pairs=pairs[:8],http=r.status_code,bodyAvailable=bool(body))
+              except Exception as e:return dict(url=a['url'],status='error',error=str(e))
+          with ThreadPoolExecutor(max_workers=5) as pool:results=list(pool.map(parse,articles[:60]))
+          albums={}
+          for x in results:
+              if x['status']!='matched':continue
+              key=norm(x['artist'])+'|'+norm(x['title'])
+              row=albums.setdefault(key,{k:v for k,v in x.items() if k not in ('article','status')}|{'articles':[]})
+              row['articles'].append(x['article'])
+          rows=list(albums.values())
+          positive=lambda x:len({a['source'] for a in x['articles'] if a['positive'] is True})
+          fresh=[a for a in read('genres.json')['Pop'][0]['items'] if a[5]['releaseDate']>=str(friday)]
+          out=dict(date=str(today),friday=str(friday),fresh=fresh,recommended=[x for x in rows if positive(x)>=1],critics=[x for x in rows if positive(x)>=2],matched=rows,diagnostics=results,notes='Fresh releases from existing validated catalog; editorial score threshold 7.5/10 for pilot; unscored articles are not classified as positive.')
+          Path('editorial/pop-pilot.json').write_text(json.dumps(out,ensure_ascii=False,indent=2))
+          print({k:len(out[k]) for k in ['fresh','recommended','critics','matched','diagnostics']})
+          PY
+      - run: |
+          git config user.name "SLIPP bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add editorial/pop-pilot.json
+          git diff --cached --quiet || (git commit -m "Pop editorial pilot results" && git pull --rebase -X theirs origin main && git push)
