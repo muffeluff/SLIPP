@@ -505,5 +505,261 @@
       "url": "https://www.angrymetalguy.com/",
       "items": []
     }
+  ],
+  "Electronica": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "House": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "UK Garage": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Techno": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Drum & Bass": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Ambient": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Trance": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Disco": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
   ]
 }
