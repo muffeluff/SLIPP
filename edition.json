@@ -209,5 +209,67 @@
       ],
       "kind": "previous"
     }
-  ]
+  ],
+  "mustListen": {
+    "date": "2026-11-20",
+    "method": "SLIPP-utvalg basert på omtale og artistpopularitet, ikke målt ukentlig streaming",
+    "albums": [
+      [
+        "Take That",
+        "Dreamers",
+        "Pop"
+      ],
+      [
+        "Various Artists",
+        "Grand Theft Auto VI: The Album",
+        "Soundtrack"
+      ],
+      [
+        "Lambchop",
+        "Demoed",
+        "Indie / Country"
+      ],
+      [
+        "Bodywash",
+        "Laughing at Noise",
+        "Indie"
+      ],
+      [
+        "Dermot Henry",
+        "Bad Throw, Good Catch",
+        "Folk"
+      ]
+    ],
+    "singles": [
+      [
+        "The Kid LAROI",
+        "A Place To Go",
+        "Pop"
+      ],
+      [
+        "Gracie Abrams",
+        "Lost In It",
+        "Pop"
+      ],
+      [
+        "beabadoobee",
+        "No Punctuation",
+        "Indie"
+      ],
+      [
+        "Blondie",
+        "Come Back Home",
+        "Rock"
+      ],
+      [
+        "Phoebe Bridgers",
+        "Anything",
+        "Folk"
+      ]
+    ],
+    "sources": [
+      "https://www.officialcharts.com/chart-news/new-music-friday-20-november-2026/",
+      "https://www.lpm.org/music/2026-11-20/new-music-friday-the-best-albums-out-nov-20"
+    ]
+  }
 }
