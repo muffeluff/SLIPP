@@ -1,0 +1,1970 @@
+{
+  "updated": "2026-11-24T09:56:43.047559+00:00",
+  "sources": [
+    {
+      "id": "pitchfork.com",
+      "name": "Pitchfork",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:31.642054+00:00",
+      "websiteStatus": 200,
+      "feed": "https://pitchfork.com/feed/feed-album-reviews/rss",
+      "entryCount": 29,
+      "datedEntries": 29,
+      "reviewCandidates": [
+        "https://pitchfork.com/reviews/albums/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Fly 1111",
+          "url": "https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/",
+          "date": "Tue, 24 Nov 2026 05:01:00 +0000"
+        },
+        {
+          "title": "American Bully XL",
+          "url": "https://pitchfork.com/reviews/albums/font-american-bully-xl/",
+          "date": "Tue, 24 Nov 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Thanatos",
+          "url": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+          "date": "Mon, 23 Nov 2026 05:02:00 +0000"
+        },
+        {
+          "title": "Demoed EP",
+          "url": "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/",
+          "date": "Mon, 23 Nov 2026 05:01:00 +0000"
+        },
+        {
+          "title": "Khudgarzi",
+          "url": "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/",
+          "date": "Mon, 23 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "stereogum.com",
+      "name": "Stereogum",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:31.643104+00:00",
+      "websiteStatus": 200,
+      "feed": "https://stereogum.com/feed",
+      "entryCount": 40,
+      "datedEntries": 40,
+      "reviewCandidates": [
+        "https://stereogum.com/category/reviews",
+        "https://stereogum.com/category/reviews/concert-review",
+        "https://stereogum.com/category/reviews/merch-review",
+        "https://stereogum.com/category/reviews/movie-review",
+        "https://stereogum.com/category/reviews/tv-review",
+        "https://stereogum.com/category/lists/year-in-review"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Slayyyter, Charli XCX Added As Final SNL Musical Guests Of 2026",
+          "url": "https://stereogum.com/2520410/slayyyter-charli-xcx-added-as-final-snl-musical-guests-of-2026/news/",
+          "date": "Mon, 23 Nov 2026 21:52:17 +0000"
+        },
+        {
+          "title": "El Michels Affair & Clairo – “Lavender Buds” (MF DOOM Cover)",
+          "url": "https://stereogum.com/2520307/el-michels-affair-clairo-lavender-buds-mf-doom-cover/music/",
+          "date": "Mon, 23 Nov 2026 18:09:09 +0000"
+        },
+        {
+          "title": "Soundwalk Collective With Patti Smith – “Cry Of The Lost”",
+          "url": "https://stereogum.com/2520300/soundwalk-collective-with-patti-smith-cry-of-the-lost/music/",
+          "date": "Mon, 23 Nov 2026 17:52:13 +0000"
+        },
+        {
+          "title": "Craig Wedren & Anna Waronker Announce Yellowjackets Final Season Soundtrack: Hear “Feed Someone”",
+          "url": "https://stereogum.com/2520293/craig-wedren-anna-waronker-announce-yellowjackets-final-season-soundtrack-hear-feed-someone/music/",
+          "date": "Mon, 23 Nov 2026 17:33:08 +0000"
+        },
+        {
+          "title": "Billy Corgan Announces Deluxe Zwan Reissue With Previously Unreleased Tracks",
+          "url": "https://stereogum.com/2520267/billy-corgan-announces-deluxe-zwan-reissue-with-previously-unreleased-tracks/music/",
+          "date": "Mon, 23 Nov 2026 17:06:59 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "pastemagazine.com",
+      "name": "Paste",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Country"
+      ],
+      "checked": "2026-11-24T09:56:31.643735+00:00",
+      "websiteStatus": 403,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.pastemagazine.com/feed/",
+        "403 Client Error: Forbidden for url: https://www.pastemagazine.com/rss",
+        "403 Client Error: Forbidden for url: https://www.pastemagazine.com/rss.xml"
+      ],
+      "status": "needs_review",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "nme.com",
+      "name": "NME",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:31.644314+00:00",
+      "websiteStatus": 200,
+      "feed": "https://nme.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.nme.com/reviews/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-prime-3976755",
+        "https://www.nme.com/reviews/film-reviews/focker-in-law-review-ariana-grande-ben-stiller-rober-de-niro-3976765",
+        "https://www.nme.com/reviews/game-reviews/grand-theft-auto-6-best-games-ever-made-3976226",
+        "https://www.nme.com/reviews/album",
+        "https://www.nme.com/reviews/album/2hollis-pirouette-review-3975633",
+        "https://www.nme.com/reviews/album/say-now-say-what-you-see-ep-review-3975820",
+        "https://www.nme.com/reviews/album/u2-carnaval-de-luz-review-3975730",
+        "https://www.nme.com/reviews/album/skepta-the-fork-and-knife-review-3975634",
+        "https://www.nme.com/reviews/live",
+        "https://www.nme.com/reviews/film-reviews"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works on lyrics for new album",
+          "url": "https://www.nme.com/news/music/nick-cave-bad-seeds-live-footage-manchester-1986-lyrics-for-new-album-3976823",
+          "date": "Tue, 24 Nov 2026 09:45:38 +0000"
+        },
+        {
+          "title": "Sex Pistols and Frank Carter to end collab after final tour dates: “It’s been a glorious ride”",
+          "url": "https://www.nme.com/news/sex-pistols-and-frank-carter-to-end-collab-after-final-tour-dates-its-been-a-glorious-ride-3976760",
+          "date": "Tue, 24 Nov 2026 09:00:59 +0000"
+        },
+        {
+          "title": "With ‘33’, Hyukoh enter a new, more assured era: “Let’s push it as far as we possibly can”",
+          "url": "https://www.nme.com/features/music-interviews/hyukoh-33-interview-3976768",
+          "date": "Tue, 24 Nov 2026 09:00:36 +0000"
+        },
+        {
+          "title": "Today’s Wordle answer and hints for #1984 on November 24",
+          "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240",
+          "date": "Tue, 24 Nov 2026 00:01:34 +0000"
+        },
+        {
+          "title": "‘Connections’ answers and hints for today, November 24",
+          "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066",
+          "date": "Tue, 24 Nov 2026 00:00:27 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "brooklynvegan.com",
+      "name": "BrooklynVegan",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:31.644933+00:00",
+      "websiteStatus": 403,
+      "feed": "https://brooklynvegan.com/feed/",
+      "entryCount": 15,
+      "datedEntries": 15,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "New Godflesh & Jesu with Phoebe too",
+          "url": "https://www.brooklynvegan.com/new-godflesh-jesu-with-phoebe-too/",
+          "date": "Tue, 06 Oct 2026 18:17:04 +0000"
+        },
+        {
+          "title": "5 Artists We Want to See at Louder Than Life 2026",
+          "url": "https://www.brooklynvegan.com/5-artists-we-want-to-see-at-louder-than-life-2026/",
+          "date": "Wed, 16 Sep 2026 01:39:10 +0000"
+        },
+        {
+          "title": "Cypress Hill announce ‘Haunted’ shows in NYC & Colorado + more tour dates (BV presale for NY)",
+          "url": "https://www.brooklynvegan.com/cypress-hill-announce-haunted-shows-in-nyc-colorado-more-tour-dates-bv-presale-for-ny/",
+          "date": "Tue, 25 Aug 2026 20:11:00 +0000"
+        },
+        {
+          "title": "Haywire sign to Roadrunner, announce new LP & video, threw $$ into the crowd at Sound & Fury, keep touring & stuff (BV-exclusive vinyl)",
+          "url": "https://www.brooklynvegan.com/haywire-sign-to-roadrunner-announce-new-lp-video-threw-into-the-crowd-at-sound-fury-keep-touring-stuff-bv-exclusive-vinyl/",
+          "date": "Wed, 19 Aug 2026 13:21:54 +0000"
+        },
+        {
+          "title": "Fontaines D.C. announce new album ‘Dopamine Chamber,’ share ‘Marianne,’ sang with Kurt Vile",
+          "url": "https://www.brooklynvegan.com/fontaines-d-c-announce-new-album-dopamine-chamber-share-marianne-sang-with-kurt-vile/",
+          "date": "Tue, 18 Aug 2026 15:06:49 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "thelineofbestfit.com",
+      "name": "The Line of Best Fit",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:31.645455+00:00",
+      "websiteStatus": 200,
+      "feed": "https://thelineofbestfit.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Purple Pilgrims’ corner of the world",
+          "url": "https://www.thelineofbestfit.com/features/interviews/purple-pilgrims-corner-of-the-world",
+          "date": "Tue, 24 Nov 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Truck Festival announces first names for 2027, including Jamie T and Biffy Clyro",
+          "url": "https://www.thelineofbestfit.com/news/truck-festival-announces-first-names-for-2027-including-jamie-t-and-biffy-clyro",
+          "date": "Mon, 23 Nov 2026 18:00:00 +0000"
+        },
+        {
+          "title": "Clairo just released an MF DOOM cover",
+          "url": "https://www.thelineofbestfit.com/news/clairo-just-released-an-mf-doom-cover",
+          "date": "Mon, 23 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Brand new tracks from Slayyter, The Dare, Overmono, dozens more are on the GTA VI soundtrack",
+          "url": "https://www.thelineofbestfit.com/news/brand-new-tracks-from-slayyter-the-dare-overmono-dozens-more-are-on-the-gta-vi-soundtrack",
+          "date": "Mon, 23 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Nick Cave and The Bad Seeds share unseen live footage from 1986",
+          "url": "https://www.thelineofbestfit.com/news/nick-cave-and-the-bad-seeds-share-unseen-live-footage-from-1986",
+          "date": "Mon, 23 Nov 2026 15:00:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "thequietus.com",
+      "name": "The Quietus",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "checked": "2026-11-24T09:56:31.905131+00:00",
+      "websiteStatus": 200,
+      "feed": "https://thequietus.com/feed/",
+      "entryCount": 32,
+      "datedEntries": 32,
+      "reviewCandidates": [
+        "https://thequietus.com/reviews/",
+        "https://thequietus.com/reviews/",
+        "https://thequietus.com/reviews/",
+        "https://thequietus.com/reviews/",
+        "https://thequietus.com/quietus-reviews/quietus-international/best-new-french-music-review-saravah-elizabeth-vogler-omerta-ino-casablanca/",
+        "https://thequietus.com/columns/quietus-reviews/",
+        "https://thequietus.com/columns/quietus-reviews/",
+        "https://thequietus.com/columns/quietus-reviews/",
+        "https://thequietus.com/quietus-reviews/philip-golub-loop-8-9-review/",
+        "https://thequietus.com/quietus-reviews/quietus-international/best-new-french-music-review-saravah-elizabeth-vogler-omerta-ino-casablanca/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Rockfort! French Music for November, Reviewed by David McKenna",
+          "url": "https://thequietus.com/quietus-reviews/quietus-international/best-new-french-music-review-saravah-elizabeth-vogler-omerta-ino-casablanca/",
+          "date": "Tue, 24 Nov 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Philip Golub – Loop 8/9",
+          "url": "https://thequietus.com/quietus-reviews/philip-golub-loop-8-9-review/",
+          "date": "Tue, 24 Nov 2026 06:00:00 +0000"
+        },
+        {
+          "title": "Nikola Balberčáková on New Album and PAF Olomouc Appearance",
+          "url": "https://thequietus.com/news/nikola-balbercakova-interview/",
+          "date": "Mon, 23 Nov 2026 14:11:52 +0000"
+        },
+        {
+          "title": "Guest Playlist: Marina Herlop",
+          "url": "https://thequietus.com/subscriber-area/playlists/guest-playlist-marina-herlop/",
+          "date": "Mon, 23 Nov 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Robyn Rocket and People You May of Heard Of – Open Doors to Other People’s Worlds",
+          "url": "https://thequietus.com/quietus-reviews/robyn-rocket-and-people-you-may-of-heard-of-open-doors-to-other-peoples-worlds-review/",
+          "date": "Mon, 23 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "kerrang.com",
+      "name": "Kerrang!",
+      "type": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:31.934401+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.kerrang.com/feed.rss",
+      "entryCount": 1,
+      "datedEntries": 1,
+      "reviewCandidates": [
+        "https://www.kerrang.com/categories/reviews",
+        "https://www.kerrang.com/categories/music-reviews",
+        "https://www.kerrang.com/categories/culture-reviews",
+        "https://www.kerrang.com/categories/reviews",
+        "https://www.kerrang.com/categories/music-reviews",
+        "https://www.kerrang.com/categories/culture-reviews",
+        "https://www.kerrang.com/categories/music-reviews",
+        "https://www.kerrang.com/categories/culture-reviews",
+        "https://www.kerrang.com/live-review-president-cardiff-depot-vianova-dreamwake-blood-of-your-empire",
+        "https://www.kerrang.com/album-review-trivium-crown-in-the-grave-matt-heafy-metal"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Sex Pistols confirm upcoming dates with Frank Carter will be his last with the band",
+          "url": "https://www.kerrang.com/sex-pistols-confirm-upcoming-dates-with-frank-carter-will-be-his-last-with-the-band",
+          "date": "Tue, 24 Nov 2026 09:00:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "loudersound.com",
+      "name": "Louder",
+      "type": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:32.035616+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.loudersound.com/feeds.xml",
+      "entryCount": 50,
+      "datedEntries": 50,
+      "reviewCandidates": [
+        "https://www.loudersound.com/reviews",
+        "https://www.loudersound.com/bands-artists/concerts-shows/parkway-drive-home-review",
+        "https://www.loudersound.com/music-industry/magazines/progs-gift-packed-ultimate-review-of-the-year-issue-is-on-sale-now"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Sex Pistols announce final shows with Frank Carter to celebrate 50 years of punk",
+          "url": "https://www.loudersound.com/news/sex-pistols-announce-final-frank-carter-shows-2026",
+          "date": "Tue, 24 Nov 2026 09:35:44 +0000"
+        },
+        {
+          "title": "Little Angels: A story of a No.1 album, hit singles, limousines, fame… and empty bank accounts",
+          "url": "https://www.loudersound.com/bands-artists/little-angels-big-bad-back",
+          "date": "Tue, 24 Nov 2026 09:05:00 +0000"
+        },
+        {
+          "title": "Why Robert Fripp and wife Toyah live four miles apart",
+          "url": "https://www.loudersound.com/bands-artists/robert-fripp-toyah-living-apart",
+          "date": "Tue, 24 Nov 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Chris Campbell, longtime bassist with Bob Seger and the Silver Bullet Band, dead at 78. \"He was one of the best ever\"",
+          "url": "https://www.loudersound.com/bands-artists/chris-campbell-bassist-silver-bullet-band-dead-at-78",
+          "date": "Tue, 24 Nov 2026 03:27:57 +0000"
+        },
+        {
+          "title": "Nine Ry Cooder albums you should listen to... and one to avoid",
+          "url": "https://www.loudersound.com/music/albums/ry-cooder-best-albums",
+          "date": "Tue, 24 Nov 2026 01:05:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "rollingstone.com",
+      "name": "Rolling Stone",
+      "type": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "checked": "2026-11-24T09:56:32.255372+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.rollingstone.com/feed/rss/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.rollingstone.com/music/music-album-reviews/",
+        "https://www.rollingstone.com/music/music-live-reviews/",
+        "https://www.rollingstone.com/tv-movies/tv-movie-reviews/",
+        "https://www.rollingstone.com/t/rs-recommends/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Jimmy Kimmel Criticizes Trump’s ‘Fishy’ Support of Nvidia CEO Jensen Huang",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-nvidia-ceo-jensen-huang-donald-trump-support-1235663346/",
+          "date": "Tue, 24 Nov 2026 08:43:08 +0000"
+        },
+        {
+          "title": "Hila Klein Shares ‘Incredibly Painful’ Decision to Leave ‘H3 Podcast’ After Ethan Klein’s Affair",
+          "url": "https://www.rollingstone.com/culture/culture-news/hila-klein-h3-podcast-departure-ethan-klein-affair-1235663340/",
+          "date": "Tue, 24 Nov 2026 08:07:04 +0000"
+        },
+        {
+          "title": "Anthem Singer Apologizes for ‘O Canada’ Flub at Leafs-Islanders Game",
+          "url": "https://www.rollingstone.com/music/music-news/singer-apologizes-o-canada-anthem-leafs-islanders-game-1235663328/",
+          "date": "Tue, 24 Nov 2026 06:50:50 +0000"
+        },
+        {
+          "title": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
+          "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-wedding-father-billy-ray-cyrus-1235663323/",
+          "date": "Tue, 24 Nov 2026 05:36:39 +0000"
+        },
+        {
+          "title": "The Best Magnesium Supplements and What to Look For, According to an Expert",
+          "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-magnesium-supplements-according-to-expert-shop-online-1235617573/",
+          "date": "Tue, 24 Nov 2026 05:02:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "holler.country",
+      "name": "Holler",
+      "type": "editorial",
+      "genres": [
+        "Country"
+      ],
+      "checked": "2026-11-24T09:56:32.394393+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [
+        "https://holler.country/reviews",
+        "https://holler.country/reviews",
+        "https://holler.country/reviews/album-review",
+        "https://holler.country/reviews",
+        "https://holler.country/reviews/album-review/country-singles-review-emily-ann-roberts-willow-avalon-kygo-carter-faith/",
+        "https://holler.country/reviews",
+        "https://holler.country/reviews",
+        "https://holler.country/reviews",
+        "https://holler.country/reviews"
+      ],
+      "errors": [
+        "404 Client Error: Not Found for url: https://holler.country/feed",
+        "404 Client Error: Not Found for url: https://holler.country/rss",
+        "404 Client Error: Not Found for url: https://holler.country/rss.xml"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "savingcountrymusic.com",
+      "name": "Saving Country Music",
+      "type": "editorial",
+      "genres": [
+        "Country"
+      ],
+      "checked": "2026-11-24T09:56:32.434006+00:00",
+      "websiteStatus": 200,
+      "feed": "https://savingcountrymusic.com/feed/",
+      "entryCount": 38,
+      "datedEntries": 38,
+      "reviewCandidates": [
+        "https://savingcountrymusic.com/album-review-tony-logues-sixty-cycle-hum/",
+        "https://savingcountrymusic.com/album-review-randy-travis-same-old-way/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Roger Miller Announced As New Posthumous Inductee to Songwriters Hall of Fame",
+          "url": "https://savingcountrymusic.com/roger-miller-announced-as-new-posthumous-inductee-to-songwriters-hall-of-fame/?utm_source=rss&utm_medium=rss&utm_campaign=roger-miller-announced-as-new-posthumous-inductee-to-songwriters-hall-of-fame",
+          "date": "Mon, 23 Nov 2026 16:00:20 +0000"
+        },
+        {
+          "title": "Recap of The Hook Episode 20",
+          "url": "https://savingcountrymusic.com/recap-of-the-hook-episode-20/?utm_source=rss&utm_medium=rss&utm_campaign=recap-of-the-hook-episode-20",
+          "date": "Mon, 23 Nov 2026 14:44:51 +0000"
+        },
+        {
+          "title": "Album Review – Tony Logue’s “Sixty Cycle Hum”",
+          "url": "https://savingcountrymusic.com/album-review-tony-logues-sixty-cycle-hum/?utm_source=rss&utm_medium=rss&utm_campaign=album-review-tony-logues-sixty-cycle-hum",
+          "date": "Sun, 22 Nov 2026 16:18:25 +0000"
+        },
+        {
+          "title": "No, Noah Kahan Was Not “Snubbed” by the Grammy Awards",
+          "url": "https://savingcountrymusic.com/no-noah-kahan-was-not-snubbed-by-the-grammy-awards/?utm_source=rss&utm_medium=rss&utm_campaign=no-noah-kahan-was-not-snubbed-by-the-grammy-awards",
+          "date": "Fri, 20 Nov 2026 18:33:00 +0000"
+        },
+        {
+          "title": "Channing Wilson Readies New Album “I Ain’t No Outlaw”",
+          "url": "https://savingcountrymusic.com/channing-wilson-readies-new-album-i-aint-no-outlaw/?utm_source=rss&utm_medium=rss&utm_campaign=channing-wilson-readies-new-album-i-aint-no-outlaw",
+          "date": "Fri, 20 Nov 2026 15:14:51 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "nodepression.com",
+      "name": "No Depression",
+      "type": "editorial",
+      "genres": [
+        "Country"
+      ],
+      "checked": "2026-11-24T09:56:32.534371+00:00",
+      "websiteStatus": 200,
+      "feed": "https://nodepression.org/rss/",
+      "entryCount": 15,
+      "datedEntries": 15,
+      "reviewCandidates": [
+        "https://nodepression.org/tag/album-reviews/",
+        "https://nodepression.org/album-review-jim-kweskins-a-songsters-journey-is-a-timeless-trek-through-american-roots-music/",
+        "https://nodepression.org/album-review-neal-casals-book-of-stories-showcases-a-master-craftsman-in-the-shadows/",
+        "https://nodepression.org/album-review-a-decade-in-heather-littlefield-is-still-bound-to-roam-on-wildflowers/",
+        "https://nodepression.org/tag/album-reviews/",
+        "https://nodepression.org/album-review-jim-kweskins-a-songsters-journey-is-a-timeless-trek-through-american-roots-music/",
+        "https://nodepression.org/album-review-neal-casals-book-of-stories-showcases-a-master-craftsman-in-the-shadows/",
+        "https://nodepression.org/album-review-a-decade-in-heather-littlefield-is-still-bound-to-roam-on-wildflowers/",
+        "https://nodepression.org/album-review-jake-buggs-alamo-explores-the-dark-night-of-the-soul/",
+        "https://nodepression.org/album-review-james-felice-enters-a-world-of-wonder-on-homeworld-blue/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Kathleen Edwards’ 2005 Album ‘Back to Me’ Continues to Harness the Power of Survival",
+          "url": "https://nodepression.org/kathleen-edwards-2005-album-back-to-me-continues-to-harness-the-power-of-survival/",
+          "date": "Mon, 23 Nov 2026 20:38:28 GMT"
+        },
+        {
+          "title": "BONUS TRACKS: Grammy Noms, Jason Isbell and Drive-by Truckers 2027 Tour, and More Roots Music News",
+          "url": "https://nodepression.org/bonus-tracks-grammy-noms-jason-isbell-and-drive-by-truckers-2027-tour-and-more-roots-music-news/",
+          "date": "Fri, 20 Nov 2026 19:12:55 GMT"
+        },
+        {
+          "title": "ALBUM REVIEW: Jim Kweskin's 'A Songster's Journey' Is a Timeless Trek Through American Roots Music",
+          "url": "https://nodepression.org/album-review-jim-kweskins-a-songsters-journey-is-a-timeless-trek-through-american-roots-music/",
+          "date": "Fri, 20 Nov 2026 14:27:00 GMT"
+        },
+        {
+          "title": "CROWDFUNDING RADAR: Shirley Barr, Adam Kirkup, and Christine Kammerer",
+          "url": "https://nodepression.org/crowdfunding-radar-shirley-barr-adam-kirkup-and-christine-kammerer/",
+          "date": "Thu, 19 Nov 2026 18:00:00 GMT"
+        },
+        {
+          "title": "ALBUM REVIEW: Neal Casal’s ‘Book of Stories’ Showcases a Master Craftsman in the Shadows",
+          "url": "https://nodepression.org/album-review-neal-casals-book-of-stories-showcases-a-master-craftsman-in-the-shadows/",
+          "date": "Thu, 19 Nov 2026 16:29:31 GMT"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "billboard.com",
+      "name": "Billboard",
+      "type": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "checked": "2026-11-24T09:56:32.594248+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.billboard.com/feed/rss/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.billboard.com/c/music/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Billy Ray Cyrus on Miley’s Wedding: ‘I’m the Proudest Dad Alive’",
+          "url": "https://www.billboard.com/music/pop/billy-ray-cyrus-miley-wedding-photos-proudest-dad-alive-1236388527/",
+          "date": "Tue, 24 Nov 2026 07:39:10 +0000"
+        },
+        {
+          "title": "Benny Benassi and Fedde Le Grand Set Three Australian Shows for January",
+          "url": "https://www.billboard.com/music/concerts/benny-benassi-fedde-le-grand-australian-shows-1236388520/",
+          "date": "Tue, 24 Nov 2026 07:01:31 +0000"
+        },
+        {
+          "title": "See the Sasha & Digweed Poster That Sold for $21,500 at Auction",
+          "url": "https://www.billboard.com/music/music-news/sasha-digweed-poster-sold-21500-auction-photo-1236388407/",
+          "date": "Tue, 24 Nov 2026 00:41:55 +0000"
+        },
+        {
+          "title": "Robert Glasper on the State of R&B, Kendrick Lamar’s ‘To Pimp a Butterfly’ & Why ‘AI Can’t Copy This’",
+          "url": "https://www.billboard.com/music/rb-hip-hop/robert-glasper-interview-rb-kendrick-lamar-ai-1236388434/",
+          "date": "Tue, 24 Nov 2026 00:39:19 +0000"
+        },
+        {
+          "title": "Jagged Edge Member Brandon Casey Sued by Woman Claiming Child Rape",
+          "url": "https://www.billboard.com/pro/jagged-edge-brandon-casey-lawsuit-child-rape/",
+          "date": "Tue, 24 Nov 2026 00:23:25 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "popmatters.com",
+      "name": "PopMatters",
+      "type": "editorial",
+      "genres": [
+        "Pop",
+        "Indie",
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:32.909359+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.popmatters.com/feed",
+      "entryCount": 200,
+      "datedEntries": 200,
+      "reviewCandidates": [
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/category/music-reviews",
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/category/music-reviews",
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/category/music-reviews",
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/category/reviews",
+        "https://www.popmatters.com/submit-an-essay-review-interview-or-list-to-popmatters"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Sympathy for the Devils in ‘You Can See Everything’ and ‘The Altruists’",
+          "url": "https://www.popmatters.com/you-can-see-everything-the-altruists",
+          "date": "Mon, 23 Nov 2026 14:47:33 +0000"
+        },
+        {
+          "title": "Spice Girls’ Debut Is Still One of the Best 30 Years Later",
+          "url": "https://www.popmatters.com/spice-girls-debut-atr-30",
+          "date": "Mon, 23 Nov 2026 14:41:22 +0000"
+        },
+        {
+          "title": "Trentemøller Goes Full Shoegaze Mode on New Album",
+          "url": "https://www.popmatters.com/trentemoller-self-titled-2026",
+          "date": "Mon, 23 Nov 2026 14:36:50 +0000"
+        },
+        {
+          "title": "Thief Roots His Electro-Industrial in Black Metal",
+          "url": "https://www.popmatters.com/thief-sermons-from-the-pit",
+          "date": "Mon, 23 Nov 2026 14:30:43 +0000"
+        },
+        {
+          "title": "Dominic Miller’s ‘Diana’ Rides on Lyrical Waves and Melancholy",
+          "url": "https://www.popmatters.com/dominic-miller-diana",
+          "date": "Mon, 23 Nov 2026 14:25:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "popjustice.com",
+      "name": "Popjustice",
+      "type": "editorial",
+      "genres": [
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:32.934949+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.popjustice.com/feed/",
+        "403 Client Error: Forbidden for url: https://www.popjustice.com/comments/feed/",
+        "403 Client Error: Forbidden for url: https://popjustice.com/feed/",
+        "403 Client Error: Forbidden for url: https://www.popjustice.com/feed/",
+        "404 Client Error: Not Found for url: https://www.popjustice.com/rss.xml"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "xxlmag.com",
+      "name": "XXL",
+      "type": "editorial",
+      "genres": [
+        "Hip-hop"
+      ],
+      "checked": "2026-11-24T09:56:33.566533+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.xxlmag.com/feed/",
+      "entryCount": 35,
+      "datedEntries": 35,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "2 Chainz Survives Terrifying Car Accident in Custom Cybertruck",
+          "url": "https://www.xxlmag.com/2-chainz-survives-car-accident-cybertruck/",
+          "date": "Mon, 23 Nov 2026 23:51:14 GMT"
+        },
+        {
+          "title": "Jaÿ-Z’s Super Bowl Halftime Show Will Be Shown in IMAX Theaters",
+          "url": "https://www.xxlmag.com/jay-z-superbowl-halftime-show-movie-theaters/",
+          "date": "Mon, 23 Nov 2026 20:49:20 GMT"
+        },
+        {
+          "title": "Rappers Who Have the Most Kids",
+          "url": "https://www.xxlmag.com/rappers-who-have-a-lot-of-kids/",
+          "date": "Mon, 23 Nov 2026 20:48:57 GMT"
+        },
+        {
+          "title": "Molly Santana Says Underground Rap Fans Don't Really Like Women",
+          "url": "https://www.xxlmag.com/molly-santana-underground-fans-dislike-women/",
+          "date": "Mon, 23 Nov 2026 20:03:48 GMT"
+        },
+        {
+          "title": "Swae Lee Gets Hit With Beer While Performing at India Show",
+          "url": "https://www.xxlmag.com/swae-lee-india-beer-thrown-fan/",
+          "date": "Mon, 23 Nov 2026 19:07:50 GMT"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "hiphopdx.com",
+      "name": "HipHopDX",
+      "type": "editorial",
+      "genres": [
+        "Hip-hop"
+      ],
+      "checked": "2026-11-24T09:56:33.734595+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "410 Client Error: Gone for url: https://hiphopdx.com/feed/",
+        "410 Client Error: Gone for url: https://hiphopdx.com/rss",
+        "404 Client Error: Not Found for url: https://hiphopdx.com/rss.xml"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "thefader.com",
+      "name": "The FADER",
+      "type": "editorial",
+      "genres": [
+        "Hip-hop",
+        "Pop",
+        "Indie"
+      ],
+      "checked": "2026-11-24T09:56:33.789411+00:00",
+      "websiteStatus": 200,
+      "feed": "https://thefader.com/feed/",
+      "entryCount": 20,
+      "datedEntries": 20,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "See photos from Destin Conrad’s jam-packed Jamaican bashment in Bushwick",
+          "url": "https://www.thefader.com/2026/11/23/see-photos-from-destin-conrads-sweaty-jamaican-bashment-in-bushwick",
+          "date": "Mon, 23 Nov 2026 15:39:43 -0500"
+        },
+        {
+          "title": "The Opener: Pretty Sick’s earnest alt-pop keeps her feelings front and center",
+          "url": "https://www.thefader.com/2026/11/23/the-opener-pretty-sick-anarchy",
+          "date": "Mon, 23 Nov 2026 15:04:16 -0500"
+        },
+        {
+          "title": "Alarm Will Sound on recreating SOPHIE’s “Faceshopping” for a chamber ensemble",
+          "url": "https://www.thefader.com/2026/11/23/alarm-will-sound-recreating-sophie-faceshopping-for-a-chamber-ensemble-interview",
+          "date": "Mon, 23 Nov 2026 14:29:36 -0500"
+        },
+        {
+          "title": "Grand Theft Auto VI: The Album gets 23-track deluxe with Slayyyter, tana, and more",
+          "url": "https://www.thefader.com/2026/11/23/grand-theft-auto-vi-album-deluxe-slayyyter-tana-overmono",
+          "date": "Mon, 23 Nov 2026 11:01:48 -0500"
+        },
+        {
+          "title": "The Go-Go’s debut gets a numbered audiophile reissue",
+          "url": "https://www.thefader.com/2026/11/21/the-go-gos-debut-gets-a-numbered-audiophile-reissue",
+          "date": "Sat, 21 Nov 2026 09:46:56 -0500"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "downbeat.com",
+      "name": "DownBeat",
+      "type": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:33.792795+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [
+        "https://downbeat.com/reviews",
+        "https://downbeat.com/reviews",
+        "https://downbeat.com/reviews"
+      ],
+      "errors": [
+        "404 Client Error: Not Found for url: https://downbeat.com/feed/",
+        "404 Client Error: Not Found for url: https://downbeat.com/rss",
+        "404 Client Error: Not Found for url: https://downbeat.com/rss.xml"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "jazzwise.com",
+      "name": "Jazzwise",
+      "type": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:34.144257+00:00",
+      "websiteStatus": null,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+        "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+        "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+        "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      ],
+      "status": "needs_review",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "allaboutjazz.com",
+      "name": "All About Jazz",
+      "type": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:34.272059+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [
+        "https://www.allaboutjazz.com/reviews/",
+        "https://www.allaboutjazz.com/reviews/",
+        "https://www.allaboutjazz.com/hidden-gems-giving-great-stories-another-time-to-shine-by-michael-ricci",
+        "https://www.allaboutjazz.com/a-guide-to-getting-your-music-reviewed-at-all-about-jazz"
+      ],
+      "errors": [
+        "404 Client Error: Not Found for url: https://www.allaboutjazz.com/404",
+        "404 Client Error: Not Found for url: https://www.allaboutjazz.com/404"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "londonjazznews.com",
+      "name": "London Jazz News",
+      "type": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:34.767425+00:00",
+      "websiteStatus": 200,
+      "feed": "https://ukjazznews.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/preview/",
+        "https://ukjazznews.com/category/reviews/",
+        "https://ukjazznews.com/category/reviews/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Zoe Rahman Trio (2026 EFG LJF)",
+          "url": "https://ukjazznews.com/zoe-rahman-trio-2026-efg-ljf/",
+          "date": "Mon, 23 Nov 2026 21:16:01 +0000"
+        },
+        {
+          "title": "Mondays with Morgan: Ulysses Owens Jr.",
+          "url": "https://ukjazznews.com/ulysses-owens-jr/",
+          "date": "Mon, 23 Nov 2026 18:16:02 +0000"
+        },
+        {
+          "title": "Gerald Clayton Trio at Cadogan Hall (2026 EFG LJF)",
+          "url": "https://ukjazznews.com/gerald-clayton-trio-at-cadogan-hall-2026-efg-ljf/",
+          "date": "Mon, 23 Nov 2026 17:44:48 +0000"
+        },
+        {
+          "title": "Norma Winstone receives 2026 ISM Distinguished Musician Award",
+          "url": "https://ukjazznews.com/norma-winstone-receives-2026-ism-distinguished-musician-award/",
+          "date": "Mon, 23 Nov 2026 17:29:48 +0000"
+        },
+        {
+          "title": "Olivia Cuttill Quintet + un.procedure (2026 EFG LJF)",
+          "url": "https://ukjazznews.com/olivia-cuttill-quintet-un-procedure-2026-efg-ljf/",
+          "date": "Mon, 23 Nov 2026 16:46:53 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "decibelmagazine.com",
+      "name": "Decibel",
+      "type": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:34.807423+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.decibelmagazine.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Track Premiere: Burning Hammer – “Mimic” (ft. Jeff Loomis of Nevermore)",
+          "url": "https://www.decibelmagazine.com/2026/11/23/track-premiere-burning-hammer-mimic-ft-jeff-loomis-of-nevermore/",
+          "date": "Mon, 23 Nov 2026 20:00:42 +0000"
+        },
+        {
+          "title": "Interview: Mental Cruelty Singer Discusses New Album, Echoes of a Forlorn Land",
+          "url": "https://www.decibelmagazine.com/2026/11/23/interview-mental-cruelty-singer-discusses-new-album-echoes-of-a-forlorn-land/",
+          "date": "Mon, 23 Nov 2026 17:00:22 +0000"
+        },
+        {
+          "title": "OXYGEN DESTROYER to Release Exclusive New Song, “Relentless Desire for Nuclear Radiation,” via the Decibel Flexi Series!",
+          "url": "https://www.decibelmagazine.com/2026/11/23/oxygen-destroyer-to-release-exclusive-new-song-relentless-desire-for-nuclear-radiation-via-the-decibel-flexi-series/",
+          "date": "Mon, 23 Nov 2026 16:37:35 +0000"
+        },
+        {
+          "title": "Five For Friday: November 20, 2027",
+          "url": "https://www.decibelmagazine.com/2026/11/20/five-for-friday-november-20-2027/",
+          "date": "Fri, 20 Nov 2026 17:00:54 +0000"
+        },
+        {
+          "title": "Video Premiere: Gorgatron – “Turmoil”",
+          "url": "https://www.decibelmagazine.com/2026/11/20/video-premiere-gorgatron-turmoil/",
+          "date": "Fri, 20 Nov 2026 14:30:15 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "metalinjection.net",
+      "name": "Metal Injection",
+      "type": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:35.187076+00:00",
+      "websiteStatus": 403,
+      "feed": "https://metalinjection.net/feed/",
+      "entryCount": 25,
+      "datedEntries": 25,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Geddy Lee Responds to \"Woke Agenda\" Critics of Anika Nilles: \"We Chose Anika Because She's Brilliant\"",
+          "url": "https://metalinjection.net/news/geddy-lee-anika-nilles-woke-agenda-critics",
+          "date": "Mon, 23 Nov 2026 21:34:27 +0000"
+        },
+        {
+          "title": "Photos: Arch Enemy, The Black Dahlia Murder, Crypta, Septicflesh & Thrown Into Exile in Oregon",
+          "url": "https://metalinjection.net/news/photos-arch-enemy-the-black-dahlia-murder-crypta-septicflesh-thrown-into-exile-in-oregon",
+          "date": "Mon, 23 Nov 2026 20:20:43 +0000"
+        },
+        {
+          "title": "Paradise Lost Makes Cryptic Instagram Post",
+          "url": "https://metalinjection.net/news/paradise-lost-makes-cryptic-instagram-post",
+          "date": "Mon, 23 Nov 2026 19:12:21 +0000"
+        },
+        {
+          "title": "The Plot In You Adds The Devil Wears Prada and 156/Silence to Headlining Tour",
+          "url": "https://metalinjection.net/tour-dates/the-plot-in-you-adds-the-devil-wears-prada-and-156-silence-to-headlining-tour",
+          "date": "Mon, 23 Nov 2026 18:20:10 +0000"
+        },
+        {
+          "title": "Metallica Gives $200K to Fight Hunger and Domestic Violence in Las Vegas",
+          "url": "https://metalinjection.net/news/metallica-gives-200k-to-fight-hunger-and-domestic-violence-in-las-vegas",
+          "date": "Mon, 23 Nov 2026 17:39:53 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "angrymetalguy.com",
+      "name": "Angry Metal Guy",
+      "type": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "checked": "2026-11-24T09:56:35.339743+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.angrymetalguy.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.angrymetalguy.com/another-band-less-plausible-album-review/6f2cf3255dc3eb5d",
+        "https://www.angrymetalguy.com/category/reviews/",
+        "https://www.angrymetalguy.com/category/reviews/",
+        "https://www.angrymetalguy.com/graviton-graviton-review/",
+        "https://www.angrymetalguy.com/category/reviews/",
+        "https://www.angrymetalguy.com/trivium-crown-in-the-grave-review/",
+        "https://www.angrymetalguy.com/category/reviews/",
+        "https://www.angrymetalguy.com/soulfallen-uncharted-plains-review/",
+        "https://www.angrymetalguy.com/category/reviews/",
+        "https://www.angrymetalguy.com/maceration-mercy-to-the-miserable-review/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Graviton – Graviton Review",
+          "url": "https://www.angrymetalguy.com/graviton-graviton-review/",
+          "date": "Mon, 23 Nov 2026 19:51:38 +0000"
+        },
+        {
+          "title": "Trivium – Crown in the Grave Review",
+          "url": "https://www.angrymetalguy.com/trivium-crown-in-the-grave-review/",
+          "date": "Mon, 23 Nov 2026 15:46:57 +0000"
+        },
+        {
+          "title": "Soulfallen – Uncharted Plains Review",
+          "url": "https://www.angrymetalguy.com/soulfallen-uncharted-plains-review/",
+          "date": "Mon, 23 Nov 2026 12:13:00 +0000"
+        },
+        {
+          "title": "Lividus – Scarabaeus [Things You Might Have Missed 2026]",
+          "url": "https://www.angrymetalguy.com/lividus-scarabaeus-things-you-might-have-missed-2026/",
+          "date": "Sun, 22 Nov 2026 16:05:55 +0000"
+        },
+        {
+          "title": "Record(s) o’ the Month – September 2026",
+          "url": "https://www.angrymetalguy.com/records-o-the-month-september-2026/",
+          "date": "Sat, 21 Nov 2026 14:07:01 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "ra.co",
+      "name": "Resident Advisor",
+      "type": "editorial",
+      "genres": [
+        "Elektronisk",
+        "Electronica",
+        "House",
+        "Techno",
+        "UK Garage",
+        "Ambient"
+      ],
+      "checked": "2026-11-24T09:56:35.391193+00:00",
+      "websiteStatus": 403,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "404 Client Error: Not Found for url: https://ra.co/rss",
+        "404 Client Error: Not Found for url: https://ra.co/rss.xml"
+      ],
+      "status": "needs_review",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "mixmag.net",
+      "name": "Mixmag",
+      "type": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Disco"
+      ],
+      "checked": "2026-11-24T09:56:35.641151+00:00",
+      "websiteStatus": 200,
+      "feed": "https://mixmag.net/rss.xml",
+      "entryCount": 80,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Legendary Detroit DJ and producer Delano Smith has died",
+          "url": "https://mixmag.net/read/legendary-detroit-dj-producer-delano-smith-rip-news",
+          "date": ""
+        },
+        {
+          "title": "Josh Baker headlines Aston Martin F1's I / AM event at the Las Vegas Grand Prix",
+          "url": "https://mixmag.net/feature/josh-baker-headlines-aston-martins-i-am-party-at-the-las-vegas-grand-prix",
+          "date": ""
+        },
+        {
+          "title": "Chicago house pioneer and Hot Mix 5 member Kenny 'Jammin' Jason has died",
+          "url": "https://mixmag.net/read/chicago-house-pioneer-and-hot-mix-5-member-kenny-jammin-jason-has-died-news",
+          "date": ""
+        },
+        {
+          "title": "Don Toliver show in Manchester evacuated after \"unknown substance\" released into crowd",
+          "url": "https://mixmag.net/read/don-toliver-co-op-live-show-manchester-evacuated-unknown-subs-news",
+          "date": ""
+        },
+        {
+          "title": "New music on our radar this week: DJ Gigola, Skin on Skin, Hamdi",
+          "url": "https://mixmag.net/read/new-music-on-our-radar-this-week-9-news",
+          "date": ""
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "djmag.com",
+      "name": "DJ Mag",
+      "type": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "checked": "2026-11-24T09:56:35.855647+00:00",
+      "websiteStatus": 200,
+      "feed": "https://djmag.com/feed/",
+      "entryCount": 30,
+      "datedEntries": 30,
+      "reviewCandidates": [
+        "https://djmag.com/reviews",
+        "https://djmag.com/reviews",
+        "https://djmag.com/reviews",
+        "https://djmag.com/reviews"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Asia Music Event conference 2026 full programme announced",
+          "url": "https://djmag.com/news/asia-music-event-conference-2026-full-programme-announced",
+          "date": "Mon, 23 Nov 2026 19:31:02 GMT"
+        },
+        {
+          "title": "Delano Smith, pioneering Detroit house DJ and producer, dies",
+          "url": "https://djmag.com/news/delano-smith-pioneering-detroit-house-dj-and-producer-dies",
+          "date": "Mon, 23 Nov 2026 17:45:06 GMT"
+        },
+        {
+          "title": "Four Tet announces five-night, new music-focused live residency at London's ICA",
+          "url": "https://djmag.com/news/four-tet-announces-five-night-new-music-focused-live-residency-londons-ica",
+          "date": "Mon, 23 Nov 2026 16:35:33 GMT"
+        },
+        {
+          "title": "Watch Fred again.. create an hour-long Tokyo soundtrack with ambient composer Chihei Hatakeyama",
+          "url": "https://djmag.com/news/watch-fred-again-create-hour-long-tokyo-soundtrack-ambient-composer-chihei-hatakeyama",
+          "date": "Mon, 23 Nov 2026 16:24:09 GMT"
+        },
+        {
+          "title": "Watch Justice, Prospa, Nick León, more perform at GTA VI launch festival in Miami",
+          "url": "https://djmag.com/news/watch-justice-prospa-nick-leon-more-perform-gta-vi-launch-festival-miami",
+          "date": "Mon, 23 Nov 2026 15:54:05 GMT"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "electronicsound.co.uk",
+      "name": "Electronic Sound",
+      "type": "editorial",
+      "genres": [
+        "Electronica",
+        "Ambient",
+        "Elektronisk"
+      ],
+      "checked": "2026-11-24T09:56:36.072628+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.electronicsound.co.uk/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.electronicsound.co.uk/category/reviews/",
+        "https://www.electronicsound.co.uk/category/reviews/",
+        "https://www.electronicsound.co.uk/category/reviews/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Lewis ‘L’amour’ (Light In The Attic, 2014 (Reissue))",
+          "url": "https://www.electronicsound.co.uk/features/buried-treasure/lewis-lamour-light-in-the-attic-2014-reissue/",
+          "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Gyrofield",
+          "url": "https://www.electronicsound.co.uk/qandas/first-and-last-and-always/gyrofield/",
+          "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Sounds A Bit Like Snowballs",
+          "url": "https://www.electronicsound.co.uk/columns/banging-on/sounds-a-bit-like-snowballs/",
+          "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+        },
+        {
+          "title": "The Electronic Seven Inch Single ES7143",
+          "url": "https://www.electronicsound.co.uk/news/the-electronic-seven-inch-single-es7143/",
+          "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Catherine Ribeiro + Alpes",
+          "url": "https://www.electronicsound.co.uk/columns/enigmas/catherine-ribeiro-alpes/",
+          "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "daily.bandcamp.com",
+      "name": "Bandcamp Daily",
+      "type": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "checked": "2026-11-24T09:56:36.288265+00:00",
+      "websiteStatus": 200,
+      "feed": "https://daily.bandcamp.com/feed/",
+      "entryCount": 37,
+      "datedEntries": 37,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "The Best Field Recordings on Bandcamp, November 2026",
+          "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-november-2026",
+          "date": "Mon, 23 Nov 2026 14:26:46 -0000"
+        },
+        {
+          "title": "The Best Contemporary Classical Music on Bandcamp, November 2026",
+          "url": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-november-2026",
+          "date": "Mon, 23 Nov 2026 14:24:15 -0000"
+        },
+        {
+          "title": "Bang on a Can All-Stars, “Sakamoto: 1996”",
+          "url": "https://daily.bandcamp.com/album-of-the-day/bang-on-a-can-all-stars-sakamoto-1996-review",
+          "date": "Mon, 23 Nov 2026 14:23:31 -0000"
+        },
+        {
+          "title": "FREER Records and the Art of Liberation",
+          "url": "https://daily.bandcamp.com/features/freer-records-label-profile",
+          "date": "Fri, 20 Nov 2026 18:46:35 -0000"
+        },
+        {
+          "title": "Essential Releases, November 20, 2026",
+          "url": "https://daily.bandcamp.com/essential-releases/essential-releases-november-20-2026",
+          "date": "Fri, 20 Nov 2026 14:40:35 -0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "xlr8r.com",
+      "name": "XLR8R",
+      "type": "editorial",
+      "genres": [
+        "Electronica",
+        "House",
+        "Techno"
+      ],
+      "checked": "2026-11-24T09:56:36.353758+00:00",
+      "websiteStatus": 200,
+      "feed": "https://xlr8r.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://xlr8r.com/category/reviews/",
+        "https://xlr8r.com/category/reviews/",
+        "https://xlr8r.com/reviews/review-semibreve-festival-2019/",
+        "https://xlr8r.com/category/reviews/",
+        "https://xlr8r.com/reviews/review-secular-sabbath-los-angeles-2019/",
+        "https://xlr8r.com/category/reviews/",
+        "https://xlr8r.com/reviews/review-up-festival-2019/",
+        "https://xlr8r.com/category/reviews/",
+        "https://xlr8r.com/reviews/unum-festival-raresh-zip-dygas-albania/",
+        "https://xlr8r.com/category/reviews/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Get Physical and M.A.N.D.Y. Co-Founder Philipp Jung Has Passed Away",
+          "url": "https://xlr8r.com/news/get-physical-and-m-a-n-d-y-co-founder-philipp-jung-has-passed-away/",
+          "date": "Sun, 24 May 2026 21:31:33 +0000"
+        },
+        {
+          "title": "Download an Ableton Live Set From Polygonia",
+          "url": "https://xlr8r.com/features/download-an-ableton-live-set-from-polygonia/",
+          "date": "Fri, 20 Dec 2024 23:04:29 +0000"
+        },
+        {
+          "title": "Bjarki Returns with New Album",
+          "url": "https://xlr8r.com/news/bjarki-returns-with-new-album/",
+          "date": "Tue, 29 Oct 2024 22:19:52 +0000"
+        },
+        {
+          "title": "Podcast 873: Andy Graham",
+          "url": "https://xlr8r.com/podcasts/podcast-873-andy-graham/",
+          "date": "Wed, 23 Oct 2024 19:53:54 +0000"
+        },
+        {
+          "title": "Beatrice Dillon to Launch Label with Double-Single",
+          "url": "https://xlr8r.com/news/beatrice-dillon-to-launch-label-with-double-single/",
+          "date": "Wed, 23 Oct 2024 08:37:18 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "ukf.com",
+      "name": "UKF",
+      "type": "editorial",
+      "genres": [
+        "UK Garage",
+        "Drum & Bass"
+      ],
+      "checked": "2026-11-24T09:56:36.568075+00:00",
+      "websiteStatus": 200,
+      "feed": "https://ukf.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "In Conversation With Kit Rice",
+          "url": "https://ukf.com/read/in-conversation-with-kit-rice/?utm_source=rss&utm_medium=rss&utm_campaign=in-conversation-with-kit-rice",
+          "date": "Mon, 02 Nov 2026 08:13:52 +0000"
+        },
+        {
+          "title": "Ones To Watch: Froidy",
+          "url": "https://ukf.com/read/ones-to-watch-froidy/?utm_source=rss&utm_medium=rss&utm_campaign=ones-to-watch-froidy",
+          "date": "Sat, 31 Oct 2026 08:37:51 +0000"
+        },
+        {
+          "title": "Gridlok: Symptoms of the Chaos Mind",
+          "url": "https://ukf.com/read/gridlok-symptoms-of-the-chaos-mind/?utm_source=rss&utm_medium=rss&utm_campaign=gridlok-symptoms-of-the-chaos-mind",
+          "date": "Thu, 29 Oct 2026 13:45:59 +0000"
+        },
+        {
+          "title": "Yamatai: Five Years",
+          "url": "https://ukf.com/read/yamatai-five-years/?utm_source=rss&utm_medium=rss&utm_campaign=yamatai-five-years",
+          "date": "Thu, 29 Oct 2026 13:17:58 +0000"
+        },
+        {
+          "title": "In Conversation With Tyke",
+          "url": "https://ukf.com/read/in-conversation-with-tyke/?utm_source=rss&utm_medium=rss&utm_campaign=in-conversation-with-tyke",
+          "date": "Wed, 28 Oct 2026 06:50:18 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "groove.de",
+      "name": "Groove",
+      "type": "editorial",
+      "genres": [
+        "Techno",
+        "House",
+        "Electronica"
+      ],
+      "checked": "2026-11-24T09:56:36.849577+00:00",
+      "websiteStatus": 200,
+      "feed": "https://groove.de/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://groove.de/reviews/",
+        "https://groove.de/reviews/",
+        "https://groove.de/2026/11/19/groove-reviews-die-alben-im-november-2026-teil-1-3/",
+        "https://groove.de/reviews",
+        "https://groove.de/category/reviews/",
+        "https://groove.de/category/reviews/",
+        "https://groove.de/2026/11/19/groove-reviews-die-alben-im-november-2026-teil-1-3/",
+        "https://groove.de/category/reviews/",
+        "https://groove.de/2026/11/19/groove-reviews-die-alben-im-november-2026-teil-1-3/",
+        "https://groove.de/category/reviews/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Dirk Scheuring: Kölner Soul-DJ und SPEX-Mitgründer verstorben",
+          "url": "https://groove.de/2026/11/23/dirk-scheuring-spex-mitgruender-verstorben/",
+          "date": "Mon, 23 Nov 2026 17:35:22 +0000"
+        },
+        {
+          "title": "„Go Hard or Go Home: An Oral History of Hard House & Hard Dance“: Velocity Press veröffentlicht erste Hard-House-Monografie",
+          "url": "https://groove.de/2026/11/23/go-hard-or-go-home-an-oral-history-of-hard-house-hard-dance-velocity-press-veroeffentlicht-erste-hard-house-monografie/",
+          "date": "Mon, 23 Nov 2026 16:25:55 +0000"
+        },
+        {
+          "title": "Saferparty: Schweizer Drug-Checker warnen vor überdosierter Pille",
+          "url": "https://groove.de/2026/11/23/saferparty-schweizer-drug-checker-warnen-vor-ueberdosierter-pille/",
+          "date": "Mon, 23 Nov 2026 15:44:31 +0000"
+        },
+        {
+          "title": "Nach Tuba und Akkordeon: Synthesizer zum Instrument des Jahres 2027 gekürt",
+          "url": "https://groove.de/2026/11/23/nach-tuba-und-akkordeon-synthesizer-zum-instrument-des-jahres-2027-gekuert/",
+          "date": "Mon, 23 Nov 2026 15:35:12 +0000"
+        },
+        {
+          "title": "Von Justice bis Palms Trax: In GTA VI sind mehr als 70 elektronische Artists vertreten",
+          "url": "https://groove.de/2026/11/20/von-justice-bis-palms-trax-in-gta-vi-sind-mehr-als-70-elektronische-artists-vertreten/",
+          "date": "Fri, 20 Nov 2026 16:05:38 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "drumandbass.nl",
+      "name": "DNBA",
+      "type": "editorial",
+      "genres": [
+        "Drum & Bass"
+      ],
+      "checked": "2026-11-24T09:56:36.879286+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.drumandbass.nl/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Sunday 25.10 – Infest & Jesh",
+          "url": "https://www.drumandbass.nl/sunday-25-10-infest-jesh/",
+          "date": "Sat, 24 Oct 2026 13:34:48 +0000"
+        },
+        {
+          "title": "Saturday 24.10 – Summit & Friends",
+          "url": "https://www.drumandbass.nl/saturday-24-10-summit-friends/",
+          "date": "Sat, 24 Oct 2026 13:20:07 +0000"
+        },
+        {
+          "title": "Friday 11.09 – Stepping Through radio 48Past & Selwyn",
+          "url": "https://www.drumandbass.nl/friday-11-09-stepping-through-radio/",
+          "date": "Fri, 28 Aug 2026 21:31:19 +0000"
+        },
+        {
+          "title": "Sunday 13.09 – Arkah, Morty, TradeMarc",
+          "url": "https://www.drumandbass.nl/sunday-13-09-arkah-trademarc-morty/",
+          "date": "Tue, 08 Sep 2026 18:02:30 +0000"
+        },
+        {
+          "title": "Constructive Sine drops 2 bangers on Moonshine: Quiet / Something between",
+          "url": "https://www.drumandbass.nl/constructive-sine/",
+          "date": "Sun, 06 Sep 2026 18:35:29 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "acloserlisten.com",
+      "name": "A Closer Listen",
+      "type": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "checked": "2026-11-24T09:56:37.032335+00:00",
+      "websiteStatus": 200,
+      "feed": "https://acloserlisten.com/feed/",
+      "entryCount": 8,
+      "datedEntries": 8,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Zoë Mc Pherson feat. Jay Mitta ~ 3OK",
+          "url": "https://acloserlisten.com/2026/11/24/zoe-mc-pherson-feat-jay-mitta-3ok/",
+          "date": "Tue, 24 Nov 2026 00:01:36 +0000"
+        },
+        {
+          "title": "Aeson Zervas ~ τρία",
+          "url": "https://acloserlisten.com/2026/11/23/aeson-zervas-%cf%84%cf%81%ce%af%ce%b1/",
+          "date": "Mon, 23 Nov 2026 12:01:45 +0000"
+        },
+        {
+          "title": "春山後潮 Spring Hill Post Tide ~ 打開城邦的門 The City Portal Will Be Open",
+          "url": "https://acloserlisten.com/2026/11/23/%e6%98%a5%e5%b1%b1%e5%be%8c%e6%bd%ae-spring-hill-post-tide-%e6%89%93%e9%96%8b%e5%9f%8e%e9%82%a6%e7%9a%84%e9%96%80-the-city-portal-will-be-open/",
+          "date": "Mon, 23 Nov 2026 00:01:05 +0000"
+        },
+        {
+          "title": "gina lo ~ thousands of glowing eyes",
+          "url": "https://acloserlisten.com/2026/11/22/gina-lo-thousands-of-glowing-eyes/",
+          "date": "Sun, 22 Nov 2026 00:01:02 +0000"
+        },
+        {
+          "title": "The Vegetable Orchestra ~ Season V",
+          "url": "https://acloserlisten.com/2026/11/21/the-vegetable-orchestra-season-v/",
+          "date": "Sat, 21 Nov 2026 00:01:25 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "juno.co.uk",
+      "name": "Juno Daily",
+      "type": "retailer_editorial",
+      "genres": [
+        "Disco",
+        "House",
+        "Techno",
+        "Trance",
+        "UK Garage",
+        "Drum & Bass"
+      ],
+      "checked": "2026-11-24T09:56:37.360480+00:00",
+      "websiteStatus": 403,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.juno.co.uk/feed/",
+        "403 Client Error: Forbidden for url: https://www.juno.co.uk/rss",
+        "403 Client Error: Forbidden for url: https://www.juno.co.uk/rss.xml"
+      ],
+      "status": "needs_review",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "discobelle.net",
+      "name": "Discobelle",
+      "type": "editorial",
+      "genres": [
+        "Disco",
+        "House"
+      ],
+      "checked": "2026-11-24T09:56:37.375016+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "thewire.co.uk",
+      "name": "The Wire",
+      "type": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz"
+      ],
+      "checked": "2026-11-24T09:56:37.664787+00:00",
+      "websiteStatus": 200,
+      "feed": "https://thewire.co.uk/rss",
+      "entryCount": 89,
+      "datedEntries": 89,
+      "reviewCandidates": [
+        "https://www.thewire.co.uk/in-writing/essays/a-temporary-syncing-of-the-timelines-faust-reviewed",
+        "https://www.thewire.co.uk/in-writing/essays/a-trip-through-the-other-side-of-enlightenment-funkadelic-reviewed",
+        "https://www.thewire.co.uk/in-writing/essays/omnivorous-exuberance-francisco-mela-reviewed",
+        "https://www.thewire.co.uk/about/contributors/peter-margasak/intimately-rustic-motvind-festival-reviewed",
+        "https://www.thewire.co.uk/about/contributors/mosi-reeves/one-can-t-help-but-wonder-why-he-hasn-t-received-greater-attention-marvin-tate-reviewed",
+        "https://www.thewire.co.uk/about/contributors/ken-hollings/a-seamless-formation-of-reflective-surfaces-bibliotek-ufo-reviewed",
+        "https://www.thewire.co.uk/in-writing/essays/a-bardo-gong-bath-of-in-betweenness-jake-muir-reviewed"
+      ],
+      "errors": [
+        "404 Client Error: Not Found for url: https://www.thewire.co.uk/feed/"
+      ],
+      "sample": [
+        {
+          "title": "Read an extract from  Viva Negativa! The New Blockaders: The Noise Of Art And Nothing",
+          "url": "https://www.thewire.co.uk/in-writing/book-extracts/read-an-extract-from-viva-negativa-the-new-blockaders-the-noise-of-art-and-nothing",
+          "date": "Fri, 20 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Call for submissions:  The Wire  New Voices",
+          "url": "https://www.thewire.co.uk/in-writing/essays/introducing-the-wire-new-voices",
+          "date": "Wed, 07 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Unlimited Editions: Blah Records",
+          "url": "https://www.thewire.co.uk/audio/tracks/unlimited-editions-blah-records",
+          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Mark Korven: Borderline Sonics and Dimensional Demarcation",
+          "url": "https://www.thewire.co.uk/in-writing/columns/mark-korven-borderline-sonics-and-dimensional-demarcation",
+          "date": "Mon, 16 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Shane Woolman presents  Adventures In Sound And Music",
+          "url": "https://www.thewire.co.uk/audio/on-air/shane-woolman-presents-adventures-in-sound-and-music-80033",
+          "date": "Thu, 12 Nov 2026 00:00:00 GMT"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "aquariumdrunkard.com",
+      "name": "Aquarium Drunkard",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Jazz",
+        "Country",
+        "Ambient"
+      ],
+      "checked": "2026-11-24T09:56:38.019937+00:00",
+      "websiteStatus": 200,
+      "feed": "https://aquariumdrunkard.com/feed/",
+      "entryCount": 15,
+      "datedEntries": 15,
+      "reviewCandidates": [],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Fine :: Jazz Dreams",
+          "url": "https://aquariumdrunkard.com/2026/11/23/fine-jazz-dreams/",
+          "date": "Mon, 23 Nov 2026 18:31:44 +0000"
+        },
+        {
+          "title": "Tía Rosa :: Thirteen Automatic Dreams",
+          "url": "https://aquariumdrunkard.com/2026/11/23/tia-rosa-thirteen-automatic-dreams/",
+          "date": "Mon, 23 Nov 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Sunday Mourners :: A-Rhythm Absolute",
+          "url": "https://aquariumdrunkard.com/2026/11/23/sunday-mourners-a-rhythm-absolute/",
+          "date": "Mon, 23 Nov 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Happy Thanksgiving :: Doug Sahm And Friends – Austin, TX 1972",
+          "url": "https://aquariumdrunkard.com/2026/11/21/happy-thanksgiving-doug-sahm-and-friends-austin-tx-1972-12/",
+          "date": "Sat, 21 Nov 2026 18:30:09 +0000"
+        },
+        {
+          "title": "Yr Knives :: Begin Yr Singing",
+          "url": "https://aquariumdrunkard.com/2026/11/20/yr-knives-begin-yr-singing/",
+          "date": "Fri, 20 Nov 2026 14:41:24 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "clashmusic.com",
+      "name": "Clash",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "checked": "2026-11-24T09:56:38.452488+00:00",
+      "websiteStatus": 200,
+      "feed": "https://clashmusic.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.clashmusic.com/reviews/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Wormogenic Is Creating Her Own Pop Universe with Debut EP ‘bandaids’",
+          "url": "https://www.clashmusic.com/news/wormogenic-is-creating-her-own-pop-universe-with-debut-ep-bandaids/",
+          "date": "Fri, 20 Nov 2026 18:31:01 +0000"
+        },
+        {
+          "title": "“Our Connection Is What Makes Us Special” JUST YOUR TYPE Interviewed",
+          "url": "https://www.clashmusic.com/features/our-connection-is-what-makes-us-special-just-your-type-interviewed/",
+          "date": "Fri, 20 Nov 2026 17:29:03 +0000"
+        },
+        {
+          "title": "Tems Shares Powerful Single ‘African Love Story’",
+          "url": "https://www.clashmusic.com/news/tems-shares-powerful-single-african-love-story/",
+          "date": "Fri, 20 Nov 2026 17:21:56 +0000"
+        },
+        {
+          "title": "Live Report: Soweto Kinch And LSO – Trilogy At The Barbican, London",
+          "url": "https://www.clashmusic.com/live/live-report-soweto-kinch-and-lso-trilogy-at-the-barbican-london/",
+          "date": "Fri, 20 Nov 2026 17:09:07 +0000"
+        },
+        {
+          "title": "Finding Beauty In The Brutal: Kwamie Liv Interviewed",
+          "url": "https://www.clashmusic.com/features/finding-beauty-in-the-brutal-kwamie-liv-interviewed/",
+          "date": "Fri, 20 Nov 2026 15:58:21 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "consequence.net",
+      "name": "Consequence",
+      "type": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:38.610555+00:00",
+      "websiteStatus": 200,
+      "feed": "https://consequence.net/feed/",
+      "entryCount": 15,
+      "datedEntries": 15,
+      "reviewCandidates": [
+        "https://consequence.net/category/reviews/",
+        "https://consequence.net/category/music/music-reviews/",
+        "https://consequence.net/category/live/concert-reviews/",
+        "https://consequence.net/category/live/festival-reviews/",
+        "https://consequence.net/category/tv-movies/tv-movie-reviews/",
+        "https://consequence.net/2026/11/metallica-mohegan-sun-arena-final-show-2026/",
+        "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-review/",
+        "https://consequence.net/2026/10/fontaines-dc-dopamine-chamber-review/",
+        "https://consequence.net/2026/09/taylor-swift-the-life-of-a-showgirl-the-encore-review/",
+        "https://consequence.net/2026/09/mileys-bass-persuades-review/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Foo Fighters Will “Go Away for a While” After Upcoming Tour, Dave Grohl Says",
+          "url": "https://consequence.net/2026/11/foo-fighters-dave-grohl-hints-at-break/",
+          "date": "Tue, 24 Nov 2026 03:09:18 +0000"
+        },
+        {
+          "title": "Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream",
+          "url": "https://consequence.net/2026/11/nick-cave-bad-seeds-1986-live-footage-your-funeral-my-trial/",
+          "date": "Mon, 23 Nov 2026 22:38:37 +0000"
+        },
+        {
+          "title": "Two of David Lee Roth’s Drummers Take on Van Halen’s “Jump” for Drumeo: Watch",
+          "url": "https://consequence.net/2026/11/two-former-david-lee-roth-drummers-jump-drumeo/",
+          "date": "Mon, 23 Nov 2026 22:07:21 +0000"
+        },
+        {
+          "title": "SNL Sets New Episodes with Timothée Chalamet, Charli xcx, and Slayyyter",
+          "url": "https://consequence.net/2026/11/snl-christmas-episode-timothee-chalamet-charli-xcx/",
+          "date": "Mon, 23 Nov 2026 21:00:08 +0000"
+        },
+        {
+          "title": "Metallica Bring the Heat to Mohegan Sun Arena for Final Show of 2026: Review, Photos, Video",
+          "url": "https://consequence.net/2026/11/metallica-mohegan-sun-arena-final-show-2026/",
+          "date": "Mon, 23 Nov 2026 20:44:31 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "spin.com",
+      "name": "SPIN",
+      "type": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:38.756278+00:00",
+      "websiteStatus": 200,
+      "feed": "https://spin.com/feed/",
+      "entryCount": 10,
+      "datedEntries": 10,
+      "reviewCandidates": [
+        "https://www.spinmagazine.com/new-music/reviews/",
+        "https://www.spinmagazine.com/2016/09/nirvana-nevermind-1991-review/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "D’Angelo’s Unheard ‘GTA VI’ Song Hits Streaming",
+          "url": "https://www.spinmagazine.com/2026/11/dangelo-grand-theft-auto/",
+          "date": "Mon, 23 Nov 2026 22:05:21 +0000"
+        },
+        {
+          "title": "Zwan’s ‘Mary Star Of The Sea’ Gets Deluxe Vinyl Reissue",
+          "url": "https://www.spinmagazine.com/2026/11/zwan-mary-star-of-the-sea-reissue/",
+          "date": "Mon, 23 Nov 2026 21:06:20 +0000"
+        },
+        {
+          "title": "Justin Timberlake Confronts His Legacy In Apple TV Doc Trailer",
+          "url": "https://www.spinmagazine.com/2026/11/justin-timberlake-apple-tv/",
+          "date": "Mon, 23 Nov 2026 21:05:15 +0000"
+        },
+        {
+          "title": "Soundwalk Collective, Patti Smith Continue ‘Correspondences’",
+          "url": "https://www.spinmagazine.com/2026/11/soundwalk-collective-patti-smith/",
+          "date": "Mon, 23 Nov 2026 21:04:00 +0000"
+        },
+        {
+          "title": "The Grandson of The Greatest: Nico Ali Walsh on Fighting, Loss, and Protecting the Ali Boxing Reform Act",
+          "url": "https://www.spinmagazine.com/2026/11/nico-ali-walsh-interview-fighting-for-boxers-rights/",
+          "date": "Mon, 23 Nov 2026 20:44:47 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "diymag.com",
+      "name": "DIY",
+      "type": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "checked": "2026-11-24T09:56:39.092729+00:00",
+      "websiteStatus": 200,
+      "feed": "https://diymag.com/feeds/all",
+      "entryCount": 50,
+      "datedEntries": 50,
+      "reviewCandidates": [
+        "https://diymag.com/reviews",
+        "https://diymag.com/reviews"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Lambrini Girls: No Holds Barred",
+          "url": "https://diymag.com/interview/lambrini-girls-no-refunds-",
+          "date": "Mon, 23 Nov 2026 18:00:00 +0000"
+        },
+        {
+          "title": "The Neu Bulletin (Madra Salach, The Slow Country, THEATRE)",
+          "url": "https://diymag.com/feature/the-neu-bulletin-madra-salach-the-slow-country-theatre",
+          "date": "Fri, 20 Nov 2026 13:16:00 +0000"
+        },
+        {
+          "title": "Nieve Ella: Drama Queen",
+          "url": "https://diymag.com/interview/nieve-ella-debut-album-how-long-will-it-take",
+          "date": "Thu, 19 Nov 2026 16:00:00 +0000"
+        },
+        {
+          "title": "Full line-up for Bristol edition of DIY Neu Nights announced with Isaac Neilsen set to perform",
+          "url": "https://diymag.com/news/full-line-up-for-bristol-edition-of-diy-neu-nights-announced-with-isaac-neilsen-set-to-perform",
+          "date": "Wed, 18 Nov 2026 12:45:00 +0000"
+        },
+        {
+          "title": "Harry Styles, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+          "url": "https://diymag.com/news/harry-styles-sam-fender-and-billie-eilish-headline-glastonbury-2027",
+          "date": "Wed, 18 Nov 2026 09:46:00 +0000"
+        }
+      ],
+      "status": "feed_available",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "defected.com",
+      "name": "Defected",
+      "type": "label",
+      "genres": [
+        "House",
+        "Disco"
+      ],
+      "checked": "2026-11-24T09:56:39.339101+00:00",
+      "websiteStatus": 200,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "404 Client Error: Not Found for url: https://defected.com/feed/",
+        "404 Client Error: Not Found for url: https://defected.com/rss",
+        "404 Client Error: Not Found for url: https://defected.com/rss.xml"
+      ],
+      "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    }
+  ]
+}
