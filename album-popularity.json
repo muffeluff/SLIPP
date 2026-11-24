@@ -1,0 +1,5989 @@
+{
+  "updated": "2026-11-24T11:28:09.798060+00:00",
+  "method": "Sum of 101 minus rank per source and country; purchase and streaming scores separate; not a global official chart",
+  "genres": {
+    "Indie": [
+      {
+        "artist": "Kings of Leon",
+        "title": "O My Beloved",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6802901441",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 99,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 1,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 1,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 59,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 2,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 14,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 2,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 23,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 39,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 31,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 460,
+        "streamScore": 279,
+        "score": 739
+      },
+      {
+        "artist": "Radie Peat",
+        "title": "No Human Tongue Can Tell",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6800850186",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 55,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 30,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 9,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 1,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 29,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 47,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 22,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 514,
+        "streamScore": 0,
+        "score": 514
+      },
+      {
+        "artist": "Atlas Sound",
+        "title": "Thanatos",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6831731444",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 5,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 25,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 59,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 51,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 55,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 268,
+        "streamScore": 42,
+        "score": 310
+      },
+      {
+        "artist": "In Strict Confidence",
+        "title": "The Final Kiss",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6825834434",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 4,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 27,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 35,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 237,
+        "streamScore": 0,
+        "score": 237
+      },
+      {
+        "artist": "Queens of the Stone Age",
+        "title": "Perfecth",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6797444451",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 40,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 35,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 41,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 187,
+        "score": 187
+      },
+      {
+        "artist": "Sylvie",
+        "title": "New Season",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6791639265",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 15,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 21,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 166,
+        "streamScore": 0,
+        "score": 166
+      },
+      {
+        "artist": "León Riviera",
+        "title": "HACIENDA MONTE AMORE",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6829088928",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 21,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 34,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 147,
+        "streamScore": 0,
+        "score": 147
+      },
+      {
+        "artist": "Ex:Re",
+        "title": "Save As",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6805069535",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 32,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 23,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 147,
+        "streamScore": 0,
+        "score": 147
+      },
+      {
+        "artist": "Viento Sagrado",
+        "title": "My Footsteps",
+        "releaseDate": "2026-10-26",
+        "catalogId": "6824870687",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 12,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 48,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 142,
+        "streamScore": 0,
+        "score": 142
+      },
+      {
+        "artist": "Phoebe Bridgers",
+        "title": "Anything",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6836585808",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 22,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 48,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 132,
+        "score": 132
+      },
+      {
+        "artist": "Twisted Teens",
+        "title": "The Holy Cross Tigers",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6797957482",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 35,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 40,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 127,
+        "streamScore": 0,
+        "score": 127
+      },
+      {
+        "artist": "Vepsestikk",
+        "title": "Hjertestikk",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6827208555",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 1,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "Anberlin",
+        "title": "CURRENCY",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6793055569",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 1,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "キタニタツヤ",
+        "title": "DEKAI",
+        "releaseDate": "2026-11-04",
+        "catalogId": "6827386823",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 2,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 0,
+        "score": 99
+      },
+      {
+        "artist": "Editors",
+        "title": "Surface, Echo & Sound",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6773928610",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 21,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 89,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 80,
+        "streamScore": 12,
+        "score": 92
+      },
+      {
+        "artist": "The Revivalists",
+        "title": "Get It Honest (Nashville Session)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6824634340",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 9,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 0,
+        "score": 92
+      },
+      {
+        "artist": "Streichelt",
+        "title": "Nur nicht die Norm",
+        "releaseDate": "2026-11-20",
+        "catalogId": "1894945666",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 11,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 90,
+        "streamScore": 0,
+        "score": 90
+      },
+      {
+        "artist": "Mondo Cozmo",
+        "title": "Sweet Forever",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6805129290",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 14,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 87,
+        "streamScore": 0,
+        "score": 87
+      },
+      {
+        "artist": "DYYA",
+        "title": "Welcome to Nowhere",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6827119158",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 14,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 87,
+        "streamScore": 0,
+        "score": 87
+      },
+      {
+        "artist": "KJW",
+        "title": "Pocket Tapes",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6829584100",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 19,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 82,
+        "streamScore": 0,
+        "score": 82
+      },
+      {
+        "artist": "Lael Neale",
+        "title": "As Killers Do",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6792738942",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 19,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 82,
+        "streamScore": 0,
+        "score": 82
+      },
+      {
+        "artist": "Biddy Early",
+        "title": "Otherworldly",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834563574",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 19,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 82,
+        "streamScore": 0,
+        "score": 82
+      },
+      {
+        "artist": "Kat Frankie & B O D I E S",
+        "title": "The Dream",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6802236403",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 20,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 81,
+        "streamScore": 0,
+        "score": 81
+      },
+      {
+        "artist": "Appleseed",
+        "title": "Morning Blue",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6822026639",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 23,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 78,
+        "streamScore": 0,
+        "score": 78
+      },
+      {
+        "artist": "CIVIL POLIS",
+        "title": "Selected Works 1910 - 2026",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6827546252",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 23,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 78,
+        "streamScore": 0,
+        "score": 78
+      },
+      {
+        "artist": "[AMATORY]",
+        "title": "Одержимость",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6821989277",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 26,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "品品(ピンポン)",
+        "title": "イミテイションサマー",
+        "releaseDate": "2026-11-04",
+        "catalogId": "6823485243",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 28,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 73,
+        "streamScore": 0,
+        "score": 73
+      },
+      {
+        "artist": "Hiigo",
+        "title": "ii",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6807512556",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 30,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 71,
+        "streamScore": 0,
+        "score": 71
+      },
+      {
+        "artist": "H. C. Fell",
+        "title": "Tremble, rejoice, my tongue's harvest",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6806173229",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 32,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 69,
+        "streamScore": 0,
+        "score": 69
+      },
+      {
+        "artist": "The Big Moon",
+        "title": "Forever",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6777988734",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 34,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 67,
+        "streamScore": 0,
+        "score": 67
+      },
+      {
+        "artist": "Rapture",
+        "title": "Your Own Death",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6826062815",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 36,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 65,
+        "streamScore": 0,
+        "score": 65
+      },
+      {
+        "artist": "SHERBETS",
+        "title": "MINK",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6827030216",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 38,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 63,
+        "streamScore": 0,
+        "score": 63
+      },
+      {
+        "artist": "Night Rider",
+        "title": "Fatebringer",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6816241824",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 39,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 62,
+        "streamScore": 0,
+        "score": 62
+      },
+      {
+        "artist": "有村竜太朗",
+        "title": "個人作品集2022-2026「デも / demo #3」",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6823601869",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 41,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 60,
+        "streamScore": 0,
+        "score": 60
+      },
+      {
+        "artist": "Stephanie Lippert",
+        "title": "Shooting the heart with love",
+        "releaseDate": "2026-11-07",
+        "catalogId": "6831610335",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 43,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 58,
+        "streamScore": 0,
+        "score": 58
+      },
+      {
+        "artist": "J.Bernardt",
+        "title": "Wild Swim",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6798765886",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 44,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "iVy",
+        "title": "存在する理由",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6826104068",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 45,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 56,
+        "streamScore": 0,
+        "score": 56
+      },
+      {
+        "artist": "キングス・オブ・レオン",
+        "title": "O My Beloved",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6802901441",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 49,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 52,
+        "streamScore": 0,
+        "score": 52
+      },
+      {
+        "artist": "Galileo Galilei",
+        "title": "Rise of The Man",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6818441548",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 50,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 51,
+        "streamScore": 0,
+        "score": 51
+      },
+      {
+        "artist": "アンバーリン",
+        "title": "CURRENCY",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6793210792",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 53,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 48,
+        "streamScore": 0,
+        "score": 48
+      },
+      {
+        "artist": "RÓIS",
+        "title": "MO LÉAN (EXPANDED)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6813530902",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 53,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 48,
+        "streamScore": 0,
+        "score": 48
+      },
+      {
+        "artist": "文藝天国",
+        "title": "プールサイド・コア",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6823027378",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 56,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 45,
+        "streamScore": 0,
+        "score": 45
+      },
+      {
+        "artist": "キタニタツヤ",
+        "title": "PURE",
+        "releaseDate": "2026-11-04",
+        "catalogId": "6827385362",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "jp",
+            "rank": 57,
+            "url": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 44,
+        "score": 44
+      },
+      {
+        "artist": "AEAEA",
+        "title": "Mist (feat. Patrick Higgins & Nicolas Jaar)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6796435149",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 57,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 44,
+        "streamScore": 0,
+        "score": 44
+      },
+      {
+        "artist": "Michael Kaneko",
+        "title": "Reprise",
+        "releaseDate": "2026-11-04",
+        "catalogId": "6823172264",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 59,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 42,
+        "streamScore": 0,
+        "score": 42
+      },
+      {
+        "artist": "CHILLTOWN",
+        "title": "Almost Us",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6837236075",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 63,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 38,
+        "streamScore": 0,
+        "score": 38
+      },
+      {
+        "artist": "Tove Styrke",
+        "title": "I thought this story wasn't about me",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6779538276",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 69,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+          }
+        ],
+        "purchaseScore": 32,
+        "streamScore": 0,
+        "score": 32
+      }
+    ],
+    "Rock": [
+      {
+        "artist": "Trivium",
+        "title": "Crown In The Grave",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6818635321",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 24,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 21,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 21,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 56,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 78,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 305,
+        "score": 305
+      },
+      {
+        "artist": "Rammstein",
+        "title": "Live in Mexico City",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6813114279",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 7,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 3,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 11,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 282,
+        "score": 282
+      },
+      {
+        "artist": "ONE OK ROCK",
+        "title": "Unreleased Collection - Japan Exclusive",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6824719544",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "jp",
+            "rank": 10,
+            "url": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 2,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 91,
+        "score": 190
+      },
+      {
+        "artist": "Thy Catafalque",
+        "title": "XIII: Sárga Erdő",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6798033431",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 25,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 25,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 152,
+        "streamScore": 0,
+        "score": 152
+      },
+      {
+        "artist": "Indochine",
+        "title": "Arena Tour, Le Film",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835451272",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 55,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 1,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 146,
+        "streamScore": 0,
+        "score": 146
+      },
+      {
+        "artist": "Steven Wilson",
+        "title": "Requiem for a Village",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6779529412",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 33,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 82,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 62,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 107,
+        "streamScore": 19,
+        "score": 126
+      },
+      {
+        "artist": "Nickelback",
+        "title": "Everything Under The Sun",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6784018115",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 68,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 57,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 68,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 110,
+        "score": 110
+      },
+      {
+        "artist": "FalKKonE",
+        "title": "School of the Falcon",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6828990790",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 17,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 84,
+        "streamScore": 0,
+        "score": 84
+      },
+      {
+        "artist": "Rockon Social Club",
+        "title": "WARRIORS -男闘呼組 SELF COVERS- Rockon Social Club II",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6830701256",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 18,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 83,
+        "streamScore": 0,
+        "score": 83
+      },
+      {
+        "artist": "DOWN",
+        "title": "Volume V",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6796236881",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 19,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 82,
+        "score": 82
+      },
+      {
+        "artist": "ぽんすけ",
+        "title": "NOCTURNE DOLLs 6th Six Starry Nights",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6836003256",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 20,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 81,
+        "streamScore": 0,
+        "score": 81
+      },
+      {
+        "artist": "Rockon Social Club",
+        "title": "WARRIORS -男闘呼組 SELF COVERS- Rockon Social Club I",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6830493244",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 21,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 80,
+        "streamScore": 0,
+        "score": 80
+      },
+      {
+        "artist": "Enslaved",
+        "title": "Mið",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6795843320",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 23,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 78,
+        "streamScore": 0,
+        "score": 78
+      },
+      {
+        "artist": "Various Artists",
+        "title": "GAS 1",
+        "releaseDate": "2026-11-21",
+        "catalogId": "6824420474",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 24,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 77,
+        "streamScore": 0,
+        "score": 77
+      },
+      {
+        "artist": "SatchVai, ジョー・サトリアーニ & スティーヴ・ヴァイ",
+        "title": "THE SEA OF EMOTION",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6825165378",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 28,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 73,
+        "streamScore": 0,
+        "score": 73
+      },
+      {
+        "artist": "Queen",
+        "title": "Queen Budapest (Live)",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6792889537",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 39,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 62,
+        "streamScore": 0,
+        "score": 62
+      },
+      {
+        "artist": "Sable Hills",
+        "title": "Homura",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6802989626",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 40,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 61,
+        "streamScore": 0,
+        "score": 61
+      },
+      {
+        "artist": "Cult of Luna",
+        "title": "In the Shadow of Your Shadow",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6782122885",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 41,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 60,
+        "streamScore": 0,
+        "score": 60
+      },
+      {
+        "artist": "Bob Dylan",
+        "title": "The Rolling Thunder Revue 1976: Fort Worth Texas, May 16th",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6810863405",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 46,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 55,
+        "streamScore": 0,
+        "score": 55
+      },
+      {
+        "artist": "Wolf",
+        "title": "Hour of the Wolf",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6802306552",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 51,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 50,
+        "streamScore": 0,
+        "score": 50
+      },
+      {
+        "artist": "People In The Box",
+        "title": "World Technique",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6819646657",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 51,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 50,
+        "streamScore": 0,
+        "score": 50
+      },
+      {
+        "artist": "Glass Hammer",
+        "title": "Black Light",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6834065281",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 54,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 47,
+        "streamScore": 0,
+        "score": 47
+      },
+      {
+        "artist": "Joe Satriani & Steve Vai",
+        "title": "SatchVai: The Sea of Emotion",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6790394334",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 57,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 44,
+        "streamScore": 0,
+        "score": 44
+      },
+      {
+        "artist": "Mostly Autumn",
+        "title": "Life in the Mirror",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6817835245",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 64,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 37,
+        "streamScore": 0,
+        "score": 37
+      },
+      {
+        "artist": "Asia",
+        "title": "Indigo",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6786070473",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 68,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 33,
+        "streamScore": 0,
+        "score": 33
+      },
+      {
+        "artist": "ISProject",
+        "title": "What Remains of Us",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834361417",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 72,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 29,
+        "streamScore": 0,
+        "score": 29
+      },
+      {
+        "artist": "Celestial Scourge",
+        "title": "Exomia",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6819252326",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 74,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 27,
+        "streamScore": 0,
+        "score": 27
+      },
+      {
+        "artist": "Lockslip",
+        "title": "The Conversation",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6804745901",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 74,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 27,
+        "streamScore": 0,
+        "score": 27
+      },
+      {
+        "artist": "Replicant & Elitist",
+        "title": "Indomitable Hostility",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6803554487",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 75,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 26,
+        "streamScore": 0,
+        "score": 26
+      },
+      {
+        "artist": "The Mars Volta",
+        "title": "Lucro Sucio; Unfinished Business",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6782105299",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 76,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 25,
+        "streamScore": 0,
+        "score": 25
+      },
+      {
+        "artist": "Iversen",
+        "title": "Ranglefant",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835402957",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 79,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+          }
+        ],
+        "purchaseScore": 22,
+        "streamScore": 0,
+        "score": 22
+      }
+    ],
+    "Pop": [
+      {
+        "artist": "Take That",
+        "title": "Dreamers",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6814543019",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 1,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 53,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 35,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 2,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 3,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 57,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 51,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 439,
+        "streamScore": 66,
+        "score": 505
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Airplane Mode",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6805055407",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 2,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 88,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 55,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 78,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 41,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 77,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 70,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 45,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 47,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 52,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 334,
+        "streamScore": 121,
+        "score": 455
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "How's It Goin'",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6809936545",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 22,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 51,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 3,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 53,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 2,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 324,
+        "streamScore": 50,
+        "score": 374
+      },
+      {
+        "artist": "Yello",
+        "title": "Time Lab",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6807127117",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 9,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 44,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 25,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 225,
+        "streamScore": 0,
+        "score": 225
+      },
+      {
+        "artist": "Suzan & Freek",
+        "title": "Pijnstiller",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6831229071",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 3,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 7,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 98,
+        "score": 192
+      },
+      {
+        "artist": "The Hawkstone Farmers Choir",
+        "title": "This is Home",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6808612182",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 4,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 14,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 184,
+        "streamScore": 0,
+        "score": 184
+      },
+      {
+        "artist": "TeddyBear",
+        "title": "Le Plus Beau",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6810726342",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 1,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 22,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 179,
+        "streamScore": 0,
+        "score": 179
+      },
+      {
+        "artist": "TOMORROW X TOGETHER",
+        "title": "PERFECT STORM (TAEHYUN Ver.)",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6836168694",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 11,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 13,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 178,
+        "streamScore": 0,
+        "score": 178
+      },
+      {
+        "artist": "Joy Denalane",
+        "title": "A Joyful Christmas",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6814519998",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 22,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 5,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 96,
+        "streamScore": 79,
+        "score": 175
+      },
+      {
+        "artist": "TOMORROW X TOGETHER",
+        "title": "PERFECT STORM (SOOBIN Ver.)",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6836398624",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 10,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 22,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 170,
+        "streamScore": 0,
+        "score": 170
+      },
+      {
+        "artist": "George Michael",
+        "title": "The Faith Tour",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6801587846",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 21,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 47,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 67,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 168,
+        "streamScore": 0,
+        "score": 168
+      },
+      {
+        "artist": "NCT DREAM",
+        "title": "DREAM AFTER DREAM",
+        "releaseDate": "2026-11-09",
+        "catalogId": "6827483714",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "jp",
+            "rank": 35,
+            "url": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 12,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 89,
+        "streamScore": 66,
+        "score": 155
+      },
+      {
+        "artist": "jet van der steen",
+        "title": "Beetje Arrogant",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6833402189",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 51,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 9,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 50,
+        "score": 142
+      },
+      {
+        "artist": "Bente",
+        "title": "DWARS",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6809728106",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 13,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 63,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 38,
+        "streamScore": 88,
+        "score": 126
+      },
+      {
+        "artist": "Pur",
+        "title": "Bleib mir",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6815700513",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 76,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 6,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 95,
+        "streamScore": 25,
+        "score": 120
+      },
+      {
+        "artist": "Nouvelle Vague",
+        "title": "A Date with Depeche Mode",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6769391492",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 46,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 43,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 113,
+        "streamScore": 0,
+        "score": 113
+      },
+      {
+        "artist": "AMPERS&ONE",
+        "title": "PATHFINDER",
+        "releaseDate": "2026-11-17",
+        "catalogId": "6832808258",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 68,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 29,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 105,
+        "streamScore": 0,
+        "score": 105
+      },
+      {
+        "artist": "Johnny Reid",
+        "title": "In Retrospect",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6825143602",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 1,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "Adèle Castillon",
+        "title": "(Re)belle",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6820122684",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 2,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 0,
+        "score": 99
+      },
+      {
+        "artist": "Mikael Wiehe",
+        "title": "Ska nya röster sjunga",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6823406465",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 3,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 98,
+        "streamScore": 0,
+        "score": 98
+      },
+      {
+        "artist": "Bonnie St. Claire",
+        "title": "Bonnie Op Haar Best (Expanded Edition)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6833082025",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 3,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 98,
+        "streamScore": 0,
+        "score": 98
+      },
+      {
+        "artist": "TOMORROW X TOGETHER",
+        "title": "PERFECT STORM (BEOMGYU Ver.)",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6836398476",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 4,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Bonnie St. Claire",
+        "title": "De Duitse Singles 1968-1977",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6833081912",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 4,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Van Dik Hout",
+        "title": "Teveel Is Niet Genoeg",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6819642410",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 5,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 96,
+        "streamScore": 0,
+        "score": 96
+      },
+      {
+        "artist": "Various Artists",
+        "title": "NOW That's What I Call Music! 125",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6825005024",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 6,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 95,
+        "streamScore": 0,
+        "score": 95
+      },
+      {
+        "artist": "Various Artists",
+        "title": "NOW - Legends",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6827223152",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 7,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 0,
+        "score": 94
+      },
+      {
+        "artist": "TOMORROW X TOGETHER",
+        "title": "PERFECT STORM (HUENINGKAI Ver.)",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6836167544",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 8,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 93,
+        "streamScore": 0,
+        "score": 93
+      },
+      {
+        "artist": "Various Artists",
+        "title": "NOW That's What I Call An Era - Ballroom Blitz: 1967-1976",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6823711755",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 9,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 0,
+        "score": 92
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Airplane Mode: The Red Eye Edition",
+        "releaseDate": "2026-11-09",
+        "catalogId": "6831706802",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 12,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 89,
+        "streamScore": 0,
+        "score": 89
+      },
+      {
+        "artist": "TOMORROW X TOGETHER",
+        "title": "PERFECT STORM (YEONJUN Ver.)",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6836168769",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 15,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 86,
+        "streamScore": 0,
+        "score": 86
+      },
+      {
+        "artist": "Lara Fabian",
+        "title": "Je suis là (Tour)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6829832725",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 16,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 85,
+        "streamScore": 0,
+        "score": 85
+      },
+      {
+        "artist": "Peter Jöback",
+        "title": "Soundtracks från mitt liv",
+        "releaseDate": "2026-11-03",
+        "catalogId": "6825287208",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 18,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 83,
+        "streamScore": 0,
+        "score": 83
+      },
+      {
+        "artist": "Gregor Hägele",
+        "title": "Weihnachtslieder",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6818513053",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 20,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 81,
+        "streamScore": 0,
+        "score": 81
+      },
+      {
+        "artist": "Jill Johnson",
+        "title": "Where It Hurts",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828564884",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 23,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 78,
+        "score": 78
+      },
+      {
+        "artist": "VALERION",
+        "title": "ALT I HODET MITT",
+        "releaseDate": "2026-11-22",
+        "catalogId": "6837376533",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 28,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 73,
+        "streamScore": 0,
+        "score": 73
+      },
+      {
+        "artist": "Maik Baum",
+        "title": "Coaching in Concert 3.0 (Live)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835438327",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 28,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 73,
+        "streamScore": 0,
+        "score": 73
+      },
+      {
+        "artist": "JAEYOUNG",
+        "title": "Dreamchaser",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834245353",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 29,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 72,
+        "streamScore": 0,
+        "score": 72
+      },
+      {
+        "artist": "ジョージ・マイケル",
+        "title": "The Faith Tour",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6801587846",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 29,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 72,
+        "streamScore": 0,
+        "score": 72
+      },
+      {
+        "artist": "Isabèl Usher",
+        "title": "Meisje Van Het Noorden",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6819742155",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 30,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 71,
+        "score": 71
+      },
+      {
+        "artist": "Forever Grey",
+        "title": "A Silence Like Eternity",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6821024037",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 36,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 65,
+        "streamScore": 0,
+        "score": 65
+      },
+      {
+        "artist": "Gianna Nannini",
+        "title": "GIANNAGOLD",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6823433501",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 42,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 59,
+        "streamScore": 0,
+        "score": 59
+      },
+      {
+        "artist": "Karsten Skovgaard Trio",
+        "title": "Imens Kim lå og sov",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835411452",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 44,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "ブライアン・アダムス",
+        "title": "How's It Goin'",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6809936545",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 44,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "MidnightTearwave",
+        "title": "Full of Pain",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6828205814",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 47,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 54,
+        "streamScore": 0,
+        "score": 54
+      },
+      {
+        "artist": "BK",
+        "title": "GTA 7",
+        "releaseDate": "2026-11-12",
+        "catalogId": "6827322151",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 49,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 52,
+        "score": 52
+      },
+      {
+        "artist": "Il Volo",
+        "title": "Our Christmas",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6820222948",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 51,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 50,
+        "streamScore": 0,
+        "score": 50
+      },
+      {
+        "artist": "Various Artists",
+        "title": "音乐缘计划3 第3期 (Live)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6837436929",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 56,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 45,
+        "streamScore": 0,
+        "score": 45
+      },
+      {
+        "artist": "Various Artists",
+        "title": "音乐缘计划3 第2期 (Live)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6834881891",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 57,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 44,
+        "streamScore": 0,
+        "score": 44
+      },
+      {
+        "artist": "Gregorian",
+        "title": "Magical Chants",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6815613533",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 57,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 44,
+        "streamScore": 0,
+        "score": 44
+      },
+      {
+        "artist": "Elton John",
+        "title": "Apple Music Live",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6828442730",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 66,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 35,
+        "streamScore": 0,
+        "score": 35
+      },
+      {
+        "artist": "Steve Strange",
+        "title": "Le Palais de Danse",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6820968099",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 77,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 24,
+        "streamScore": 0,
+        "score": 24
+      },
+      {
+        "artist": "Kandis",
+        "title": "Danmarks Største \"Kandis\" Koncert (Live)",
+        "releaseDate": "2026-11-03",
+        "catalogId": "6829797755",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 77,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 24,
+        "streamScore": 0,
+        "score": 24
+      },
+      {
+        "artist": "Nico Santos",
+        "title": "POV (Personal - Optimist - ...)",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6803952823",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 79,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 22,
+        "streamScore": 0,
+        "score": 22
+      },
+      {
+        "artist": "Henning",
+        "title": "Konventionell magi",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6809448419",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 80,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 21,
+        "score": 21
+      },
+      {
+        "artist": "Ella-Jenna Oosterglorenwoud",
+        "title": "Achter de Schermen",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6831625535",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 80,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "purchaseScore": 21,
+        "streamScore": 0,
+        "score": 21
+      }
+    ],
+    "Hip-hop": [
+      {
+        "artist": "Zwangere Guy & Sef",
+        "title": "De Traantjes",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828651335",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 19,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=18/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 70,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 82,
+        "streamScore": 31,
+        "score": 113
+      },
+      {
+        "artist": "Offset",
+        "title": "GMFU",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6832783991",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 28,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 62,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 112,
+        "score": 112
+      },
+      {
+        "artist": "YFN Lucci",
+        "title": "everything i said i am. / everything she said she is.",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834596383",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 1,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 99,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 102,
+        "score": 102
+      },
+      {
+        "artist": "Draugr Balled",
+        "title": "Where legends never die",
+        "releaseDate": "2026-10-26",
+        "catalogId": "6827057197",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 1,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "Kevin",
+        "title": "DE GIER",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6834007064",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 1,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 100,
+        "score": 100
+      },
+      {
+        "artist": "BigXthaPlug",
+        "title": "BETTER OVER TIME",
+        "releaseDate": "2026-11-02",
+        "catalogId": "6827763091",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 10,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 93,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 99,
+        "score": 99
+      },
+      {
+        "artist": "Armand Hammer, billy woods & E L U C I D",
+        "title": "Snakes & Ladders",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6826321007",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 2,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 0,
+        "score": 99
+      },
+      {
+        "artist": "Various Artists",
+        "title": "RAPSTAR 2026 ROOTS STAGE",
+        "releaseDate": "2026-11-22",
+        "catalogId": "6833420403",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "jp",
+            "rank": 2,
+            "url": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 99,
+        "score": 99
+      },
+      {
+        "artist": "Sampa the Great",
+        "title": "Nu Zamrock",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6800037021",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 5,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 96,
+        "streamScore": 0,
+        "score": 96
+      },
+      {
+        "artist": "Belly Gang Kushington",
+        "title": "GOOD DOPE SELL ITSELF",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6829222417",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 6,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 95,
+        "score": 95
+      },
+      {
+        "artist": "Lil Baby",
+        "title": "FRESH",
+        "releaseDate": "2026-11-05",
+        "catalogId": "6836040643",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 6,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 95,
+        "streamScore": 0,
+        "score": 95
+      },
+      {
+        "artist": "Deadman Rashaun",
+        "title": "Deadman's Hand",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6836679672",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 6,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 95,
+        "streamScore": 0,
+        "score": 95
+      },
+      {
+        "artist": "Various Artists",
+        "title": "RAPSTAR 2026 SELECTION CYPHER",
+        "releaseDate": "2026-10-25",
+        "catalogId": "6822690206",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "jp",
+            "rank": 8,
+            "url": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 93,
+        "score": 93
+      },
+      {
+        "artist": "Daniel Saad",
+        "title": "Until It Doesn't",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6819878895",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 8,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 93,
+        "streamScore": 0,
+        "score": 93
+      },
+      {
+        "artist": "Wiz Khalifa",
+        "title": "Cool",
+        "releaseDate": "2026-11-12",
+        "catalogId": "6836917708",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 10,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 91,
+        "streamScore": 0,
+        "score": 91
+      },
+      {
+        "artist": "FAYAN & Dalton",
+        "title": "GUTE ALTE ZEIT",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6789563737",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 16,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=18/json"
+          }
+        ],
+        "purchaseScore": 85,
+        "streamScore": 0,
+        "score": 85
+      },
+      {
+        "artist": "Conway the Machine",
+        "title": "OTIS",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6826458152",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 33,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 85,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 84,
+        "score": 84
+      },
+      {
+        "artist": "Babyface Ray",
+        "title": "Unfuckwitable 2",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6830426421",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 22,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 79,
+        "score": 79
+      },
+      {
+        "artist": "Summer Cem",
+        "title": "DUMAN",
+        "releaseDate": "2026-11-05",
+        "catalogId": "1876509416",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 33,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 68,
+        "score": 68
+      },
+      {
+        "artist": "SDM",
+        "title": "IN INFINITUM",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6816215989",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 39,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 62,
+        "score": 62
+      },
+      {
+        "artist": "BILLA JOE",
+        "title": "capeesh?",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6803124671",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 43,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 58,
+        "score": 58
+      },
+      {
+        "artist": "Westside Gunn",
+        "title": "HEELMATIC",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6825097873",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 57,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 44,
+        "score": 44
+      },
+      {
+        "artist": "Skepta",
+        "title": "The Fork and Knife",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6817874931",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 71,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 87,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 44,
+        "score": 44
+      },
+      {
+        "artist": "Sfera Ebbasta",
+        "title": "PUROSANGUE",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835544984",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 60,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 41,
+        "score": 41
+      },
+      {
+        "artist": "Dardan",
+        "title": "Dilemma",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6827636233",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 61,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 40,
+        "score": 40
+      },
+      {
+        "artist": "Jack Harlow",
+        "title": "Sweet Action II",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6829221591",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 63,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 38,
+        "score": 38
+      },
+      {
+        "artist": "Sleepy Hallow",
+        "title": "STILL SLEEP ??",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6827331170",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 70,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 31,
+        "score": 31
+      },
+      {
+        "artist": "Dopebwoy",
+        "title": "Project Flex",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6823589849",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 71,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 30,
+        "score": 30
+      }
+    ],
+    "Country": [
+      {
+        "artist": "Eric Clapton & J.J. Cale",
+        "title": "The Road To Escondido: Enhanced Edition",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6800802919",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 83,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 28,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 28,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 8,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 30,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 16,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 11,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 345,
+        "streamScore": 158,
+        "score": 503
+      },
+      {
+        "artist": "Mack Geiger",
+        "title": "Dying In This House",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6825883834",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "us",
+            "rank": 29,
+            "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 4,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 27,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 44,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 18,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 30,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 325,
+        "streamScore": 129,
+        "score": 454
+      },
+      {
+        "artist": "NEEDTOBREATHE",
+        "title": "The Long Surrender and The Fellow Passengers of Pain",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6809912967",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 9,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 65,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 60,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 31,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 39,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 301,
+        "streamScore": 0,
+        "score": 301
+      },
+      {
+        "artist": "Jill Johnson",
+        "title": "Where It Hurts",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828564884",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 23,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 10,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 91,
+        "streamScore": 78,
+        "score": 169
+      },
+      {
+        "artist": "River Cain",
+        "title": "A Cain Christmas",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6830821455",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 17,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 26,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 159,
+        "streamScore": 0,
+        "score": 159
+      },
+      {
+        "artist": "Waylon Jennings",
+        "title": "Diamonds",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6781405825",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 24,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 48,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 80,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 151,
+        "streamScore": 0,
+        "score": 151
+      },
+      {
+        "artist": "Greylan James",
+        "title": "GREYLAN JAMES",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6815413014",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 39,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 49,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 64,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 151,
+        "streamScore": 0,
+        "score": 151
+      },
+      {
+        "artist": "Goldie Boone",
+        "title": "Open Till Two",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6828800690",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 39,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 42,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 121,
+        "streamScore": 0,
+        "score": 121
+      },
+      {
+        "artist": "Jace Dutton",
+        "title": "Country Christmas",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6827453885",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 27,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 58,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 117,
+        "streamScore": 0,
+        "score": 117
+      },
+      {
+        "artist": "Randy Travis",
+        "title": "Same Old Way",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6807553130",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 43,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 44,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 115,
+        "streamScore": 0,
+        "score": 115
+      },
+      {
+        "artist": "Lila Hart & Ryder James",
+        "title": "Wrapped Up in You",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6831847859",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 68,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 23,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 111,
+        "streamScore": 0,
+        "score": 111
+      },
+      {
+        "artist": "エリック・クラプトン & J.J.ケイル",
+        "title": "The Road To Escondido: Enhanced Edition",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6800802919",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 1,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "Lost Ragas, Matt Walker & Shane Reilly",
+        "title": "Counterfeit Kangaroo",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6831015360",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 3,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 98,
+        "streamScore": 0,
+        "score": 98
+      },
+      {
+        "artist": "Silver Lining",
+        "title": "Bygones",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6783829493",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 4,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Mason Crow",
+        "title": "What Time Takes",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6823529131",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 46,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 62,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 0,
+        "score": 94
+      },
+      {
+        "artist": "Late Night Blues",
+        "title": "Snow is coming",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6824188783",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 93,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 17,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 0,
+        "score": 92
+      },
+      {
+        "artist": "Derek Ryan",
+        "title": "Here & There",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6830204925",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 86,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 27,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 89,
+        "streamScore": 0,
+        "score": 89
+      },
+      {
+        "artist": "Jack Blocker",
+        "title": "Big Jefe",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6797610311",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 25,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 76,
+        "streamScore": 0,
+        "score": 76
+      },
+      {
+        "artist": "Mario Peter Merkel",
+        "title": "Country-Christmas 2026",
+        "releaseDate": "2026-11-01",
+        "catalogId": "6823972286",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 26,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "Ira Candy",
+        "title": "NZ COUNTRY CHRISTMAS",
+        "releaseDate": "2026-11-16",
+        "catalogId": "6821217717",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 28,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 73,
+        "streamScore": 0,
+        "score": 73
+      },
+      {
+        "artist": "Lindsay Everly",
+        "title": "Fool's Gold",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6810187475",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 44,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "Grace Callwen",
+        "title": "Sing Along With Grace Callwen (A Country Christmas)",
+        "releaseDate": "2026-10-26",
+        "catalogId": "6825822741",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 47,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 54,
+        "streamScore": 0,
+        "score": 54
+      },
+      {
+        "artist": "Kaden Rome",
+        "title": "Kaden Rome's Greatest Ballads",
+        "releaseDate": "2026-11-21",
+        "catalogId": "6834828326",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 49,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 52,
+        "streamScore": 0,
+        "score": 52
+      },
+      {
+        "artist": "Elder Norths",
+        "title": "Walhalla Calling Viking Soul Southern Pride (Outlaw Country Rap)",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6830956222",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 55,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 46,
+        "streamScore": 0,
+        "score": 46
+      },
+      {
+        "artist": "Waylon Wyatt",
+        "title": "Live from Cain's Ballroom",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6831021300",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 56,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 45,
+        "streamScore": 0,
+        "score": 45
+      },
+      {
+        "artist": "Uncharted Country",
+        "title": "Almost Live",
+        "releaseDate": "2026-11-24",
+        "catalogId": "6837043725",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 75,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 26,
+        "streamScore": 0,
+        "score": 26
+      },
+      {
+        "artist": "Silas Kirk",
+        "title": "It Hurts More At Christmas",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6836642301",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 76,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 25,
+        "streamScore": 0,
+        "score": 25
+      },
+      {
+        "artist": "Uncharted Country",
+        "title": "Original Christmas Country",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835687399",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 77,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 24,
+        "streamScore": 0,
+        "score": 24
+      },
+      {
+        "artist": "Elijah Ocean",
+        "title": "Country Mile",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6807538135",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 81,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 20,
+        "streamScore": 0,
+        "score": 20
+      },
+      {
+        "artist": "Arlo McKinley",
+        "title": "Untitled",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6818292819",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 89,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 12,
+        "streamScore": 0,
+        "score": 12
+      },
+      {
+        "artist": "Mylène Chamblain",
+        "title": "Wild Echo",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6822258566",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 94,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=6/json"
+          }
+        ],
+        "purchaseScore": 7,
+        "streamScore": 0,
+        "score": 7
+      }
+    ],
+    "Jazz": [
+      {
+        "artist": "Dominic Miller",
+        "title": "Diana",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6816905677",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 26,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 11,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 37,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 10,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 1,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 420,
+        "streamScore": 0,
+        "score": 420
+      },
+      {
+        "artist": "Joshua Redman",
+        "title": "If Ever You Would Leave Us (we play for Rollins) [feat. Christian McBride, Marcus Gilmore, Larry Grenadier, Cécile McLorin Salvant, Kevin Hays, Chris Potter, Peter Bernstein & Gabrielle Cavassa]",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6808849195",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 6,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 40,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 91,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 83,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 31,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 16,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 339,
+        "streamScore": 0,
+        "score": 339
+      },
+      {
+        "artist": "Keith Jarrett",
+        "title": "Roma (Live)",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6804688781",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 25,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 10,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 47,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 87,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 36,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 300,
+        "streamScore": 0,
+        "score": 300
+      },
+      {
+        "artist": "Blue Earth Sound",
+        "title": "Everything to Remember",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6787231855",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 22,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 26,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 154,
+        "streamScore": 0,
+        "score": 154
+      },
+      {
+        "artist": "Eva Cassidy",
+        "title": "JAZZED",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6794743079",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 27,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 27,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 148,
+        "streamScore": 0,
+        "score": 148
+      },
+      {
+        "artist": "Bill Laurance & Michael League",
+        "title": "Close to Home",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6795964175",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 48,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 46,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 108,
+        "streamScore": 0,
+        "score": 108
+      },
+      {
+        "artist": "David Benoit",
+        "title": "David Benoit Conducts A Vince Guaraldi Holiday Symphony (feat. Czech National Symphony Orchestra)",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6811165088",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 1,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "Tyreek McDole",
+        "title": "CHROMA",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6770977034",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 2,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 0,
+        "score": 99
+      },
+      {
+        "artist": "Serafina Martino",
+        "title": "The Bergman Project (feat. Janice Friedman)",
+        "releaseDate": "2026-11-22",
+        "catalogId": "6832652877",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 3,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 98,
+        "streamScore": 0,
+        "score": 98
+      },
+      {
+        "artist": "Adèle Viret",
+        "title": "Spirality (feat. Wajdi Riahi, Oscar Viret & Pierre Hurty)",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6816878226",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 4,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Yuri Honing Acoustic Quartet",
+        "title": "This is not David Bowie",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6780995261",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 4,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Louis Dowdeswell",
+        "title": "Out of Print",
+        "releaseDate": "2026-11-02",
+        "catalogId": "6806353062",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 7,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 0,
+        "score": 94
+      },
+      {
+        "artist": "Don Was and the Pan-Detroit Ensemble",
+        "title": "Live Dispatch Vol. 1: Blues For Allah '26",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6817600425",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 8,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 93,
+        "streamScore": 0,
+        "score": 93
+      },
+      {
+        "artist": "Massimo Roberti",
+        "title": "Lounge Bossa Nova, Vol. 5 - Blue Hour in Rio",
+        "releaseDate": "2026-11-21",
+        "catalogId": "6837747883",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 8,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 93,
+        "streamScore": 0,
+        "score": 93
+      },
+      {
+        "artist": "Relaxing Piano Crew",
+        "title": "Elegant Christmas Jazz in a Hotel Lounge",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6827991206",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 37,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 81,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 84,
+        "streamScore": 0,
+        "score": 84
+      },
+      {
+        "artist": "Anatole Muster",
+        "title": "anatole muster live",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6825796964",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 18,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 83,
+        "streamScore": 0,
+        "score": 83
+      },
+      {
+        "artist": "Rory Green",
+        "title": "Moments Brighter Than The Sun",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6795117885",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 20,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 81,
+        "streamScore": 0,
+        "score": 81
+      },
+      {
+        "artist": "Anna Butterss, John Raymond & Ben Lumsdaine",
+        "title": "Beginningless",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6802414507",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 21,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 80,
+        "streamScore": 0,
+        "score": 80
+      },
+      {
+        "artist": "Cory Wong",
+        "title": "Other People's Songs (Live at Ronnie Scotts)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828244689",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 80,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 47,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "SDP & JazzDP",
+        "title": "JazzDP (feat. The Capital Dance Orchestra)",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6823595951",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 27,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 74,
+        "score": 74
+      },
+      {
+        "artist": "Niia",
+        "title": "Christmas With Niia",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6809939822",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 30,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 71,
+        "streamScore": 0,
+        "score": 71
+      },
+      {
+        "artist": "Joan Osborne",
+        "title": "Relish Reimagined",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6810700207",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 32,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 69,
+        "streamScore": 0,
+        "score": 69
+      },
+      {
+        "artist": "Will Bernard & Freelance Subversives",
+        "title": "Whereabouts",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828093522",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 33,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 68,
+        "streamScore": 0,
+        "score": 68
+      },
+      {
+        "artist": "笹久保伸 & Frederico Heliodoro",
+        "title": "Jardim Pacifico",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6833959288",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 36,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 65,
+        "streamScore": 0,
+        "score": 65
+      },
+      {
+        "artist": "Phillip Howe",
+        "title": "Clanton Park",
+        "releaseDate": "2026-11-23",
+        "catalogId": "6833578031",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 37,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 64,
+        "streamScore": 0,
+        "score": 64
+      },
+      {
+        "artist": "Isaac Asumadu",
+        "title": "Imagination",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6823503110",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 38,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 63,
+        "streamScore": 0,
+        "score": 63
+      },
+      {
+        "artist": "Jakob Bro, Larry Grenadier & Jorge Rossy",
+        "title": "Bjerge, Strand (feat. Charles Lloyd)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6788670803",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 39,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 62,
+        "streamScore": 0,
+        "score": 62
+      },
+      {
+        "artist": "Samuel Moore",
+        "title": "Camino Flamenco",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6807011162",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 39,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 62,
+        "streamScore": 0,
+        "score": 62
+      },
+      {
+        "artist": "De-Phazz",
+        "title": "belooped (MPS Remixed)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6818446432",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 40,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 61,
+        "streamScore": 0,
+        "score": 61
+      },
+      {
+        "artist": "Muses",
+        "title": "Eternal Creation",
+        "releaseDate": "2026-11-18",
+        "catalogId": "6826354030",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 43,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 58,
+        "streamScore": 0,
+        "score": 58
+      },
+      {
+        "artist": "Stella Cole",
+        "title": "Imagination",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6800920111",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 44,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "Louis Armstrong",
+        "title": "One Night In Highland Park (Live)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6814586519",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 44,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "ジョシュア・レッドマン",
+        "title": "If Ever You Would Leave Us (we play for Rollins) [feat. Christian McBride, Marcus Gilmore, Larry Grenadier, Cécile McLorin Salvant, Kevin Hays, Chris Potter, Peter Bernstein & Gabrielle Cavassa]",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6808849195",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 45,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 56,
+        "streamScore": 0,
+        "score": 56
+      },
+      {
+        "artist": "Dogmode",
+        "title": "Dogmode",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6813093044",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 46,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 55,
+        "streamScore": 0,
+        "score": 55
+      },
+      {
+        "artist": "Dweilband Lat Mar Ore",
+        "title": "Ok da's Vastenavend!",
+        "releaseDate": "2026-11-11",
+        "catalogId": "6821166717",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 59,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 42,
+        "streamScore": 0,
+        "score": 42
+      },
+      {
+        "artist": "Laura Anglade",
+        "title": "Something's Coming",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6783523854",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 67,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 34,
+        "streamScore": 0,
+        "score": 34
+      },
+      {
+        "artist": "HOOP",
+        "title": "HOOP",
+        "releaseDate": "2026-11-12",
+        "catalogId": "6823552477",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 69,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 32,
+        "streamScore": 0,
+        "score": 32
+      },
+      {
+        "artist": "Jazzrausch Bigband",
+        "title": "Am Weihnachtsabend",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6799038313",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 74,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 27,
+        "streamScore": 0,
+        "score": 27
+      },
+      {
+        "artist": "Jenny Scheinman",
+        "title": "One Hundred Years Today",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6809910700",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 76,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 25,
+        "streamScore": 0,
+        "score": 25
+      },
+      {
+        "artist": "Massimo Roberti",
+        "title": "Christmas in Jazz – Vol. 2",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6832989533",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 77,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 24,
+        "streamScore": 0,
+        "score": 24
+      },
+      {
+        "artist": "Spirit Fingers, Blaque Dynamite & Greg Spero",
+        "title": "Spirit Fingers: Live at the JammJam (feat. Mohini Dey)",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6833283158",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 78,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 23,
+        "streamScore": 0,
+        "score": 23
+      },
+      {
+        "artist": "Cafe Music BGM Channel",
+        "title": "Christmas Jazz 2026",
+        "releaseDate": "2026-11-01",
+        "catalogId": "6823506967",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 79,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 22,
+        "streamScore": 0,
+        "score": 22
+      },
+      {
+        "artist": "Billy Hare",
+        "title": "Room 12a",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6827232304",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 82,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 19,
+        "streamScore": 0,
+        "score": 19
+      },
+      {
+        "artist": "Magneto Trio",
+        "title": "QUATRE",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6809886598",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 93,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 8,
+        "streamScore": 0,
+        "score": 8
+      },
+      {
+        "artist": "Diego Imbert",
+        "title": "Guerres (feat. David El-Malek, Quentin Ghomari, Franck Agulhon, Claudia Solal & Manu Codjia)",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6815186717",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 95,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+          }
+        ],
+        "purchaseScore": 6,
+        "streamScore": 0,
+        "score": 6
+      }
+    ],
+    "Metal": [
+      {
+        "artist": "Trivium",
+        "title": "Crown In The Grave",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6818635321",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 24,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 21,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "au",
+            "rank": 21,
+            "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "ca",
+            "rank": 56,
+            "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 78,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 305,
+        "score": 305
+      },
+      {
+        "artist": "Joe Satriani & Steve Vai",
+        "title": "SatchVai: The Sea of Emotion",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6790394334",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 7,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 17,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 30,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 249,
+        "streamScore": 0,
+        "score": 249
+      },
+      {
+        "artist": "Cult of Luna",
+        "title": "In the Shadow of Your Shadow",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6782122885",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 13,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 47,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 3,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 240,
+        "streamScore": 0,
+        "score": 240
+      },
+      {
+        "artist": "Disfear",
+        "title": "The Last Nail",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6791700794",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 18,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 51,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 32,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 202,
+        "streamScore": 0,
+        "score": 202
+      },
+      {
+        "artist": "Sable Hills",
+        "title": "Homura",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6802989626",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 1,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 100,
+        "streamScore": 0,
+        "score": 100
+      },
+      {
+        "artist": "FalKKonE",
+        "title": "School of the Falcon",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6828990790",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 4,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 97,
+        "streamScore": 0,
+        "score": 97
+      },
+      {
+        "artist": "Iron Savior",
+        "title": "Deathbringer",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6814622784",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 5,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 96,
+        "streamScore": 0,
+        "score": 96
+      },
+      {
+        "artist": "Lockslip",
+        "title": "The Conversation",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6804745901",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 6,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 95,
+        "streamScore": 0,
+        "score": 95
+      },
+      {
+        "artist": "Wolf",
+        "title": "Hour of the Wolf",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6802306552",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 7,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 0,
+        "score": 94
+      },
+      {
+        "artist": "Serpent Skies",
+        "title": "Hollow Crown",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6813100402",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 9,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 0,
+        "score": 92
+      },
+      {
+        "artist": "E-L-R",
+        "title": "Atropa",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6792683828",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 11,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 90,
+        "streamScore": 0,
+        "score": 90
+      },
+      {
+        "artist": "Saor",
+        "title": "Caledonia",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6797560513",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 15,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 86,
+        "streamScore": 0,
+        "score": 86
+      },
+      {
+        "artist": "DOWN",
+        "title": "Volume V",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6796236881",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 19,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 82,
+        "score": 82
+      },
+      {
+        "artist": "Crowquill",
+        "title": "Slept With Cannula",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6807927129",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 21,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 80,
+        "streamScore": 0,
+        "score": 80
+      },
+      {
+        "artist": "Prong",
+        "title": "Prong",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6787142090",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 22,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 79,
+        "streamScore": 0,
+        "score": 79
+      },
+      {
+        "artist": "Skald Sisters",
+        "title": "The Wolf Saga, Vol. 1",
+        "releaseDate": "2026-11-17",
+        "catalogId": "6835653532",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 23,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 78,
+        "streamScore": 0,
+        "score": 78
+      },
+      {
+        "artist": "Schwarzwasser",
+        "title": "In Stillem Grund",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6822583200",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 24,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 77,
+        "streamScore": 0,
+        "score": 77
+      },
+      {
+        "artist": "Malastre",
+        "title": "Into the Unknown",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6819900317",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 26,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "Artificial Brain",
+        "title": "Antillia",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6803212536",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 30,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 71,
+        "streamScore": 0,
+        "score": 71
+      },
+      {
+        "artist": "Daedric Shryne",
+        "title": "Galactic Pain",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6810206808",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 38,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 63,
+        "streamScore": 0,
+        "score": 63
+      },
+      {
+        "artist": "Black Pegasus",
+        "title": "Noctis Monstrum",
+        "releaseDate": "2026-11-15",
+        "catalogId": "6835193810",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 48,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 53,
+        "streamScore": 0,
+        "score": 53
+      },
+      {
+        "artist": "Kingdom of Giants",
+        "title": "Usurper",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6802372022",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 60,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 41,
+        "streamScore": 0,
+        "score": 41
+      },
+      {
+        "artist": "Sally",
+        "title": "RE:RAIGN",
+        "releaseDate": "2026-11-14",
+        "catalogId": "6829772598",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 61,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+          }
+        ],
+        "purchaseScore": 40,
+        "streamScore": 0,
+        "score": 40
+      }
+    ],
+    "Elektronisk": [
+      {
+        "artist": "Brian Eno & J. Peter Schwalm",
+        "title": "Intenser",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834329441",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 9,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 21,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 4,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 83,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 18,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 6,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 465,
+        "streamScore": 0,
+        "score": 465
+      },
+      {
+        "artist": "Ane Brun",
+        "title": "I Thought We Were the Same",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6773276555",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 10,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 9,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "se",
+            "rank": 67,
+            "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 2,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 31,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 352,
+        "streamScore": 34,
+        "score": 386
+      },
+      {
+        "artist": "DJ HEARTSTRING",
+        "title": "Sentimental Ultra",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6815353226",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 19,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 46,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 137,
+        "streamScore": 0,
+        "score": 137
+      },
+      {
+        "artist": "Poom",
+        "title": "2026",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6819617348",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 20,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 49,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 133,
+        "streamScore": 0,
+        "score": 133
+      },
+      {
+        "artist": "Good Vibes Tribe 11:11",
+        "title": "I Am (432Hz)",
+        "releaseDate": "2026-11-07",
+        "catalogId": "6831941552",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 30,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 44,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 128,
+        "streamScore": 0,
+        "score": 128
+      },
+      {
+        "artist": "Marina Surgan",
+        "title": "Music for Ballet Class Live 5, Pt. 2",
+        "releaseDate": "2026-11-16",
+        "catalogId": "6833185329",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 2,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 99,
+        "streamScore": 0,
+        "score": 99
+      },
+      {
+        "artist": "Acid Pauli, Hani Mojtahedy & Kingdom Molongi",
+        "title": "Mystic Meltdown",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6811013458",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 3,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 98,
+        "streamScore": 0,
+        "score": 98
+      },
+      {
+        "artist": "Noveo",
+        "title": "Game On",
+        "releaseDate": "2026-11-09",
+        "catalogId": "6828755351",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 7,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 94,
+        "streamScore": 0,
+        "score": 94
+      },
+      {
+        "artist": "Renegade Soundwave",
+        "title": "Renegade Soundwave Rewired Vol. 1",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6825388280",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 9,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 92,
+        "streamScore": 0,
+        "score": 92
+      },
+      {
+        "artist": "Sw@da & Niczos",
+        "title": "RYT-M",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6828950288",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 12,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 89,
+        "streamScore": 0,
+        "score": 89
+      },
+      {
+        "artist": "Eric Hilton",
+        "title": "The Easy Underground",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6808187919",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 76,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 37,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 89,
+        "streamScore": 0,
+        "score": 89
+      },
+      {
+        "artist": "Axel Karakasis, Kill Ref, Vkn.modular & Varøsian",
+        "title": "Wicked Mechanism",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6820136395",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 13,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 88,
+        "streamScore": 0,
+        "score": 88
+      },
+      {
+        "artist": "sjkgsds",
+        "title": "Relic",
+        "releaseDate": "2026-11-24",
+        "catalogId": "6829622128",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 13,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 88,
+        "streamScore": 0,
+        "score": 88
+      },
+      {
+        "artist": "Michael Heinkel",
+        "title": "Eigenwerke 1980-1983",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6820017331",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 14,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 87,
+        "streamScore": 0,
+        "score": 87
+      },
+      {
+        "artist": "Ecco2k",
+        "title": "Echo",
+        "releaseDate": "2026-11-12",
+        "catalogId": "6830945395",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "se",
+            "rank": 18,
+            "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 83,
+        "streamScore": 0,
+        "score": 83
+      },
+      {
+        "artist": "ブライアン・イーノ & J. Peter Schwalm",
+        "title": "Intenser",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6834329441",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 22,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 79,
+        "streamScore": 0,
+        "score": 79
+      },
+      {
+        "artist": "打打だいず & Ashrount",
+        "title": "Abyssal Duality",
+        "releaseDate": "2026-11-21",
+        "catalogId": "6832880938",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 23,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 78,
+        "streamScore": 0,
+        "score": 78
+      },
+      {
+        "artist": "Haberdashery",
+        "title": "Overdrive",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6828527838",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 25,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 76,
+        "streamScore": 0,
+        "score": 76
+      },
+      {
+        "artist": "Yellow Productions",
+        "title": "Yellow Productions: A French Touch by Bob Sinclar & Dj Yellow Vol. 4",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6825834605",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 25,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 76,
+        "streamScore": 0,
+        "score": 76
+      },
+      {
+        "artist": "Teho",
+        "title": "A Decade of Melodies",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6819751327",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 26,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "カフェインジャンキー",
+        "title": "// STILL UP ?",
+        "releaseDate": "2026-11-18",
+        "catalogId": "6832164370",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 26,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 75,
+        "streamScore": 0,
+        "score": 75
+      },
+      {
+        "artist": "Isabèl Usher",
+        "title": "Meisje Van Het Noorden",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6819742155",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 30,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 71,
+        "score": 71
+      },
+      {
+        "artist": "Bronski Beat",
+        "title": "Smalltown Boy (Club Mixes)",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6830142264",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 31,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 70,
+        "streamScore": 0,
+        "score": 70
+      },
+      {
+        "artist": "Stella Z",
+        "title": "Thunder Is the Sky Dreaming",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6819917135",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 34,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 67,
+        "streamScore": 0,
+        "score": 67
+      },
+      {
+        "artist": "Synthion",
+        "title": "aquamarine",
+        "releaseDate": "2026-11-06",
+        "catalogId": "6826580418",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 43,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 58,
+        "streamScore": 0,
+        "score": 58
+      },
+      {
+        "artist": "Kriistal Ann, Twins Natalia & Paradox Obscur",
+        "title": "I Died On Mars",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6830810209",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "ca",
+            "rank": 44,
+            "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 57,
+        "streamScore": 0,
+        "score": 57
+      },
+      {
+        "artist": "Martin Garrix",
+        "title": "Race Day Rev-Up: Las Vegas (DJ Mix)",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6829885058",
+        "signals": [
+          {
+            "source": "Apple Music v2",
+            "country": "nl",
+            "rank": 45,
+            "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+          }
+        ],
+        "purchaseScore": 0,
+        "streamScore": 56,
+        "score": 56
+      },
+      {
+        "artist": "Scratch Massive",
+        "title": "Live at L'Olympia",
+        "releaseDate": "2026-11-19",
+        "catalogId": "6816176230",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 51,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 50,
+        "streamScore": 0,
+        "score": 50
+      },
+      {
+        "artist": "テクノポップ・有機・シンセサイザーちゃん",
+        "title": "Sound・電機・Electronics",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6820052894",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 63,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 38,
+        "streamScore": 0,
+        "score": 38
+      },
+      {
+        "artist": "Uninvited Lab",
+        "title": "Keeper of the Spark",
+        "releaseDate": "2026-11-17",
+        "catalogId": "6835907241",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 67,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 34,
+        "streamScore": 0,
+        "score": 34
+      },
+      {
+        "artist": "Nocturnal Flow",
+        "title": "Macau After Midnight",
+        "releaseDate": "2026-10-26",
+        "catalogId": "6833416504",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 68,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 33,
+        "streamScore": 0,
+        "score": 33
+      },
+      {
+        "artist": "Andy Stott",
+        "title": "Late Loop",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6805585492",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "jp",
+            "rank": 69,
+            "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 32,
+        "streamScore": 0,
+        "score": 32
+      },
+      {
+        "artist": "Sledger",
+        "title": "Split Perzonalities",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6828306647",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 73,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 28,
+        "streamScore": 0,
+        "score": 28
+      },
+      {
+        "artist": "A.L.I.S.O.N",
+        "title": "Probably Stolen (Original Soundtrack)",
+        "releaseDate": "2026-10-28",
+        "catalogId": "6813593824",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 75,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 26,
+        "streamScore": 0,
+        "score": 26
+      },
+      {
+        "artist": "Kevin Keller",
+        "title": "Altus",
+        "releaseDate": "2026-10-30",
+        "catalogId": "6813356707",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "us",
+            "rank": 78,
+            "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 23,
+        "streamScore": 0,
+        "score": 23
+      },
+      {
+        "artist": "Ebony",
+        "title": "MENELIK REMIX",
+        "releaseDate": "2026-11-20",
+        "catalogId": "6835424017",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 78,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 23,
+        "streamScore": 0,
+        "score": 23
+      },
+      {
+        "artist": "Tara Cunningham",
+        "title": "Warm Ground",
+        "releaseDate": "2026-11-13",
+        "catalogId": "6830204817",
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 82,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+          }
+        ],
+        "purchaseScore": 19,
+        "streamScore": 0,
+        "score": 19
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:26:08.431929+00:00",
+  "updated": "2026-11-24T11:28:09.790647+00:00",
   "results": [
     {
       "source": "Apple Music v2",
@@ -2564,486 +2564,9 @@
       "genreId": null,
       "url": "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json",
       "country": "no",
-      "http": 200,
-      "count": 100,
-      "recentCount": 21,
-      "sample": [
-        {
-          "rank": 1,
-          "artist": "Various Artists",
-          "title": "Grand Theft Auto VI: The Album",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Soundtrack",
-              "url": "https://itunes.apple.com/no/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6812476961"
-        },
-        {
-          "rank": 2,
-          "artist": "Marstein",
-          "title": "YAP.",
-          "date": "2026-10-23",
-          "genre": [
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "18",
-              "name": "Hip-Hop/Rap",
-              "url": "https://itunes.apple.com/no/genre/id18"
-            }
-          ],
-          "id": "6821300960"
-        },
-        {
-          "rank": 3,
-          "artist": "Vepsestikk",
-          "title": "Hjertestikk",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6827208555"
-        }
-      ],
-      "recentSample": [
-        {
-          "rank": 1,
-          "artist": "Various Artists",
-          "title": "Grand Theft Auto VI: The Album",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Soundtrack",
-              "url": "https://itunes.apple.com/no/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6812476961"
-        },
-        {
-          "rank": 3,
-          "artist": "Vepsestikk",
-          "title": "Hjertestikk",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6827208555"
-        },
-        {
-          "rank": 4,
-          "artist": "Ane Brun",
-          "title": "I Thought We Were the Same",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "7",
-              "name": "Electronic",
-              "url": "https://itunes.apple.com/no/genre/id7"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6802316407"
-        },
-        {
-          "rank": 5,
-          "artist": "Gracie Abrams",
-          "title": "Daughter from Hell (Deluxe)",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "14",
-              "name": "Pop",
-              "url": "https://itunes.apple.com/no/genre/id14"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "10",
-              "name": "Singer/Songwriter",
-              "url": "https://itunes.apple.com/no/genre/id10"
-            }
-          ],
-          "id": "6827357170"
-        },
-        {
-          "rank": 6,
-          "artist": "U2",
-          "title": "Carnaval De Luz (Deluxe Edition)",
-          "date": "2026-11-12",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6833589758"
-        },
-        {
-          "rank": 9,
-          "artist": "Cezinando",
-          "title": "EP 2 - EP",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "18",
-              "name": "Hip-Hop/Rap",
-              "url": "https://itunes.apple.com/no/genre/id18"
-            }
-          ],
-          "id": "6829787391"
-        },
-        {
-          "rank": 12,
-          "artist": "Rammstein",
-          "title": "Live in Mexico City",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "21",
-              "name": "Rock",
-              "url": "https://itunes.apple.com/no/genre/id21"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6813114279"
-        },
-        {
-          "rank": 18,
-          "artist": "Tobias Sten",
-          "title": "Ein sommar forbi (Live 2026)",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "6",
-              "name": "Country",
-              "url": "https://itunes.apple.com/no/genre/id6"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6829750950"
-        },
-        {
-          "rank": 22,
-          "artist": "Trivium",
-          "title": "Crown In The Grave",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "1153",
-              "name": "Metal",
-              "url": "https://itunes.apple.com/no/genre/id1153"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "21",
-              "name": "Rock",
-              "url": "https://itunes.apple.com/no/genre/id21"
-            }
-          ],
-          "id": "6818635321"
-        },
-        {
-          "rank": 28,
-          "artist": "Eric Clapton & J.J. Cale",
-          "title": "The Road To Escondido: Enhanced Edition",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "6",
-              "name": "Country",
-              "url": "https://itunes.apple.com/no/genre/id6"
-            }
-          ],
-          "id": "6800802919"
-        },
-        {
-          "rank": 31,
-          "artist": "Dirty Oppland",
-          "title": "Endetidstegn",
-          "date": "2026-11-11",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-Hop/Rap",
-              "url": "https://itunes.apple.com/no/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6828370830"
-        },
-        {
-          "rank": 35,
-          "artist": "R.E.M.",
-          "title": "Reveal (25th Anniversary Edition)",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6805610367"
-        },
-        {
-          "rank": 39,
-          "artist": "Queens of the Stone Age",
-          "title": "Perfecth",
-          "date": "2026-10-30",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6797444451"
-        },
-        {
-          "rank": 40,
-          "artist": "Various Artists",
-          "title": "The Hunger Games: Sunrise on the Reaping - The Album",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Soundtrack",
-              "url": "https://itunes.apple.com/no/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6814870921"
-        },
-        {
-          "rank": 48,
-          "artist": "Snoh Aalegra",
-          "title": "Legendary Love",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "15",
-              "name": "R&B/Soul",
-              "url": "https://itunes.apple.com/no/genre/id15"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6819862096"
-        },
-        {
-          "rank": 50,
-          "artist": "Kings of Leon",
-          "title": "O My Beloved",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/no/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6802901441"
-        },
-        {
-          "rank": 57,
-          "artist": "Julenissens Verksted & Thorbjørn Egner",
-          "title": "Julenissens Verksted (fra Julenissens Verksted)",
-          "date": "2026-11-03",
-          "genre": [
-            {
-              "genreId": "4",
-              "name": "Children’s Music",
-              "url": "https://itunes.apple.com/no/genre/id4"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6826232011"
-        },
-        {
-          "rank": 68,
-          "artist": "Steven Wilson",
-          "title": "Requiem for a Village",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "21",
-              "name": "Rock",
-              "url": "https://itunes.apple.com/no/genre/id21"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6779529412"
-        },
-        {
-          "rank": 75,
-          "artist": "Yunchan Lim",
-          "title": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
-          "date": "2026-11-10",
-          "genre": [
-            {
-              "genreId": "5",
-              "name": "Classical",
-              "url": "https://itunes.apple.com/no/genre/id5"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6831706961"
-        },
-        {
-          "rank": 87,
-          "artist": "Víkingur Ólafsson",
-          "title": "Continuum II",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "5",
-              "name": "Classical",
-              "url": "https://itunes.apple.com/no/genre/id5"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            }
-          ],
-          "id": "6805467344"
-        },
-        {
-          "rank": 88,
-          "artist": "Waffle Cakes",
-          "title": "Merry Christmas Night",
-          "date": "2026-11-18",
-          "genre": [
-            {
-              "genreId": "4",
-              "name": "Children’s Music",
-              "url": "https://itunes.apple.com/no/genre/id4"
-            },
-            {
-              "genreId": "34",
-              "name": "Music",
-              "url": "https://itunes.apple.com/no/genre/id34"
-            },
-            {
-              "genreId": "8",
-              "name": "Christmas",
-              "url": "https://itunes.apple.com/no/genre/id8"
-            }
-          ],
-          "id": "6833034300"
-        }
-      ],
-      "feedTitle": "Top Albums",
-      "status": "returned_rows"
+      "http": 502,
+      "status": "error",
+      "error": "502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json"
     },
     {
       "source": "iTunes Store purchases",
@@ -5532,8 +5055,514 @@
       "genreId": null,
       "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json",
       "country": "de",
-      "status": "error",
-      "error": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=25)"
+      "http": 200,
+      "count": 100,
+      "recentCount": 23,
+      "sample": [
+        {
+          "rank": 1,
+          "artist": "Verschiedene Interpret:innen",
+          "title": "Grand Theft Auto VI: The Album",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtracks",
+              "url": "https://itunes.apple.com/de/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6812476961"
+        },
+        {
+          "rank": 2,
+          "artist": "Sido",
+          "title": "FRIEDEN",
+          "date": "2026-11-26",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            },
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/de/genre/id18"
+            }
+          ],
+          "id": "6818133439"
+        },
+        {
+          "rank": 3,
+          "artist": "Rammstein",
+          "title": "Live in Mexico City",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "21",
+              "name": "Rock",
+              "url": "https://itunes.apple.com/de/genre/id21"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6813114279"
+        }
+      ],
+      "recentSample": [
+        {
+          "rank": 1,
+          "artist": "Verschiedene Interpret:innen",
+          "title": "Grand Theft Auto VI: The Album",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtracks",
+              "url": "https://itunes.apple.com/de/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6812476961"
+        },
+        {
+          "rank": 3,
+          "artist": "Rammstein",
+          "title": "Live in Mexico City",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "21",
+              "name": "Rock",
+              "url": "https://itunes.apple.com/de/genre/id21"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6813114279"
+        },
+        {
+          "rank": 5,
+          "artist": "Gracie Abrams",
+          "title": "Daughter from Hell (Deluxe)",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "14",
+              "name": "Pop",
+              "url": "https://itunes.apple.com/de/genre/id14"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            },
+            {
+              "genreId": "10",
+              "name": "Singer-Songwriter:innen",
+              "url": "https://itunes.apple.com/de/genre/id10"
+            }
+          ],
+          "id": "6827357170"
+        },
+        {
+          "rank": 8,
+          "artist": "U2",
+          "title": "Carnaval De Luz (Deluxe Edition)",
+          "date": "2026-11-12",
+          "genre": [
+            {
+              "genreId": "20",
+              "name": "Alternative",
+              "url": "https://itunes.apple.com/de/genre/id20"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6833589758"
+        },
+        {
+          "rank": 11,
+          "artist": "DIKKA",
+          "title": "DIKKE WEIHNACHTEN",
+          "date": "2026-11-13",
+          "genre": [
+            {
+              "genreId": "4",
+              "name": "Musik für Kinder",
+              "url": "https://itunes.apple.com/de/genre/id4"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6817852976"
+        },
+        {
+          "rank": 21,
+          "artist": "Trivium",
+          "title": "Crown In The Grave",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "1153",
+              "name": "Metal",
+              "url": "https://itunes.apple.com/de/genre/id1153"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            },
+            {
+              "genreId": "21",
+              "name": "Rock",
+              "url": "https://itunes.apple.com/de/genre/id21"
+            }
+          ],
+          "id": "6818635321"
+        },
+        {
+          "rank": 22,
+          "artist": "Joy Denalane",
+          "title": "A Joyful Christmas",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "14",
+              "name": "Pop",
+              "url": "https://itunes.apple.com/de/genre/id14"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6814519998"
+        },
+        {
+          "rank": 25,
+          "artist": "Verschiedene Interpret:innen",
+          "title": "The Hunger Games: Sunrise on the Reaping - The Album",
+          "date": "2026-11-13",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtracks",
+              "url": "https://itunes.apple.com/de/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6814870921"
+        },
+        {
+          "rank": 27,
+          "artist": "SDP & JazzDP",
+          "title": "JazzDP (feat. The Capital Dance Orchestra)",
+          "date": "2026-11-19",
+          "genre": [
+            {
+              "genreId": "11",
+              "name": "Jazz",
+              "url": "https://itunes.apple.com/de/genre/id11"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6823595951"
+        },
+        {
+          "rank": 33,
+          "artist": "Summer Cem",
+          "title": "DUMAN",
+          "date": "2026-11-05",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/de/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "1876509416"
+        },
+        {
+          "rank": 35,
+          "artist": "Take That",
+          "title": "Dreamers",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "14",
+              "name": "Pop",
+              "url": "https://itunes.apple.com/de/genre/id14"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6814543019"
+        },
+        {
+          "rank": 43,
+          "artist": "BILLA JOE",
+          "title": "capeesh?",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/de/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6803124671"
+        },
+        {
+          "rank": 56,
+          "artist": "Verschiedene Interpret:innen",
+          "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+          "date": "2026-11-23",
+          "genre": [
+            {
+              "genreId": "16",
+              "name": "Soundtracks",
+              "url": "https://itunes.apple.com/de/genre/id16"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6837496123"
+        },
+        {
+          "rank": 59,
+          "artist": "Kings of Leon",
+          "title": "O My Beloved",
+          "date": "2026-11-06",
+          "genre": [
+            {
+              "genreId": "20",
+              "name": "Alternative",
+              "url": "https://itunes.apple.com/de/genre/id20"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6802901441"
+        },
+        {
+          "rank": 60,
+          "artist": "Sfera Ebbasta",
+          "title": "PUROSANGUE",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            },
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/de/genre/id18"
+            }
+          ],
+          "id": "6835544984"
+        },
+        {
+          "rank": 61,
+          "artist": "Dardan",
+          "title": "Dilemma",
+          "date": "2026-11-06",
+          "genre": [
+            {
+              "genreId": "18",
+              "name": "Hip-Hop/Rap",
+              "url": "https://itunes.apple.com/de/genre/id18"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6827636233"
+        },
+        {
+          "rank": 75,
+          "artist": "Eric Clapton & J.J. Cale",
+          "title": "The Road To Escondido: Enhanced Edition",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6800802919"
+        },
+        {
+          "rank": 76,
+          "artist": "Pur",
+          "title": "Bleib mir",
+          "date": "2026-11-13",
+          "genre": [
+            {
+              "genreId": "14",
+              "name": "Pop",
+              "url": "https://itunes.apple.com/de/genre/id14"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6815700513"
+        },
+        {
+          "rank": 77,
+          "artist": "Simone Sommerland, Karsten Glück & Die Kita-Frösche",
+          "title": "Die 30 besten Kinderlieder 2026",
+          "date": "2026-11-06",
+          "genre": [
+            {
+              "genreId": "4",
+              "name": "Musik für Kinder",
+              "url": "https://itunes.apple.com/de/genre/id4"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6783688151"
+        },
+        {
+          "rank": 78,
+          "artist": "James Blunt",
+          "title": "Airplane Mode",
+          "date": "2026-11-06",
+          "genre": [
+            {
+              "genreId": "14",
+              "name": "Pop",
+              "url": "https://itunes.apple.com/de/genre/id14"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6805055407"
+        },
+        {
+          "rank": 90,
+          "artist": "Rolf Zuckowski & Rolf Zuckowski und seine Freunde",
+          "title": "Weihnachten und Winter mit Rolf Zuckowski",
+          "date": "2026-10-30",
+          "genre": [
+            {
+              "genreId": "4",
+              "name": "Musik für Kinder",
+              "url": "https://itunes.apple.com/de/genre/id4"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6823663042"
+        },
+        {
+          "rank": 97,
+          "artist": "R.E.M.",
+          "title": "Reveal (25th Anniversary Edition)",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "20",
+              "name": "Alternative",
+              "url": "https://itunes.apple.com/de/genre/id20"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6805610367"
+        },
+        {
+          "rank": 98,
+          "artist": "Blank & Jones",
+          "title": "#WhatWeDoAtNight5 (Expanded)",
+          "date": "2026-11-20",
+          "genre": [
+            {
+              "genreId": "17",
+              "name": "Dance",
+              "url": "https://itunes.apple.com/de/genre/id17"
+            },
+            {
+              "genreId": "34",
+              "name": "Musik",
+              "url": "https://itunes.apple.com/de/genre/id34"
+            }
+          ],
+          "id": "6814937807"
+        }
+      ],
+      "feedTitle": "Top-Alben",
+      "status": "returned_rows"
     },
     {
       "source": "iTunes Store purchases",
@@ -6751,510 +6780,8 @@
       "genreId": null,
       "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/100/albums.json",
       "country": "fr",
-      "http": 200,
-      "count": 100,
-      "recentCount": 22,
-      "sample": [
-        {
-          "rank": 1,
-          "artist": "SDM",
-          "title": "IN INFINITUM",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6816215989"
-        },
-        {
-          "rank": 2,
-          "artist": "Ninho",
-          "title": "M.I.L.S 4 (Deluxe Edition)",
-          "date": "2026-11-19",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            },
-            {
-              "genreId": "19",
-              "name": "Musiques du monde",
-              "url": "https://itunes.apple.com/fr/genre/id19"
-            }
-          ],
-          "id": "6830737440"
-        },
-        {
-          "rank": 3,
-          "artist": "Multi-interprètes",
-          "title": "Grand Theft Auto VI: The Album",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Bande originale",
-              "url": "https://itunes.apple.com/fr/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6812476961"
-        }
-      ],
-      "recentSample": [
-        {
-          "rank": 1,
-          "artist": "SDM",
-          "title": "IN INFINITUM",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6816215989"
-        },
-        {
-          "rank": 2,
-          "artist": "Ninho",
-          "title": "M.I.L.S 4 (Deluxe Edition)",
-          "date": "2026-11-19",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            },
-            {
-              "genreId": "19",
-              "name": "Musiques du monde",
-              "url": "https://itunes.apple.com/fr/genre/id19"
-            }
-          ],
-          "id": "6830737440"
-        },
-        {
-          "rank": 3,
-          "artist": "Multi-interprètes",
-          "title": "Grand Theft Auto VI: The Album",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Bande originale",
-              "url": "https://itunes.apple.com/fr/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6812476961"
-        },
-        {
-          "rank": 4,
-          "artist": "L2B",
-          "title": "FAST LIFE",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6829004154"
-        },
-        {
-          "rank": 6,
-          "artist": "Niro",
-          "title": "Mentalité",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            },
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            }
-          ],
-          "id": "6832504062"
-        },
-        {
-          "rank": 7,
-          "artist": "Adèle Castillon",
-          "title": "(Re)belle",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "14",
-              "name": "Pop",
-              "url": "https://itunes.apple.com/fr/genre/id14"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6820122684"
-        },
-        {
-          "rank": 8,
-          "artist": "Bekar",
-          "title": "Alba, l'heure bleue",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6821033923"
-        },
-        {
-          "rank": 13,
-          "artist": "TeddyBear",
-          "title": "Le Plus Beau",
-          "date": "2026-10-30",
-          "genre": [
-            {
-              "genreId": "14",
-              "name": "Pop",
-              "url": "https://itunes.apple.com/fr/genre/id14"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6810726342"
-        },
-        {
-          "rank": 18,
-          "artist": "Mylène Farmer",
-          "title": "ÉGRÉGORE",
-          "date": "2026-10-30",
-          "genre": [
-            {
-              "genreId": "50000064",
-              "name": "Variété française",
-              "url": "https://itunes.apple.com/fr/genre/id50000064"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6807920212"
-        },
-        {
-          "rank": 19,
-          "artist": "Pomme",
-          "title": "la forteresse",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "50000064",
-              "name": "Variété française",
-              "url": "https://itunes.apple.com/fr/genre/id50000064"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6810186748"
-        },
-        {
-          "rank": 20,
-          "artist": "Vianney",
-          "title": "Les évadés",
-          "date": "2026-11-06",
-          "genre": [
-            {
-              "genreId": "50000064",
-              "name": "Variété française",
-              "url": "https://itunes.apple.com/fr/genre/id50000064"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6812473165"
-        },
-        {
-          "rank": 24,
-          "artist": "U2",
-          "title": "Carnaval De Luz (Deluxe Edition)",
-          "date": "2026-11-12",
-          "genre": [
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/fr/genre/id20"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6833589758"
-        },
-        {
-          "rank": 29,
-          "artist": "Dalí",
-          "title": "Horse",
-          "date": "2026-11-19",
-          "genre": [
-            {
-              "genreId": "14",
-              "name": "Pop",
-              "url": "https://itunes.apple.com/fr/genre/id14"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            },
-            {
-              "genreId": "20",
-              "name": "Alternative",
-              "url": "https://itunes.apple.com/fr/genre/id20"
-            }
-          ],
-          "id": "6821004871"
-        },
-        {
-          "rank": 37,
-          "artist": "Rema",
-          "title": "E-Mortal Boy",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "100051",
-              "name": "Afrobeats",
-              "url": "https://itunes.apple.com/fr/genre/id100051"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6831560084"
-        },
-        {
-          "rank": 41,
-          "artist": "Ronisia",
-          "title": "Sensation",
-          "date": "2026-10-30",
-          "genre": [
-            {
-              "genreId": "15",
-              "name": "R&B/Soul",
-              "url": "https://itunes.apple.com/fr/genre/id15"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6818234968"
-        },
-        {
-          "rank": 47,
-          "artist": "Gracie Abrams",
-          "title": "Daughter from Hell (Deluxe)",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "14",
-              "name": "Pop",
-              "url": "https://itunes.apple.com/fr/genre/id14"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            },
-            {
-              "genreId": "10",
-              "name": "Paroles/Interprétation",
-              "url": "https://itunes.apple.com/fr/genre/id10"
-            }
-          ],
-          "id": "6827357170"
-        },
-        {
-          "rank": 67,
-          "artist": "Jungle Jack & TonyToxik",
-          "title": "La Revanche Des Cafards",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6822746321"
-        },
-        {
-          "rank": 69,
-          "artist": "Hamza",
-          "title": "Zombie Life (10 Years Anniversary)",
-          "date": "2026-11-04",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6829829065"
-        },
-        {
-          "rank": 70,
-          "artist": "Guizmo",
-          "title": "La Tanière 2.0",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6829304294"
-        },
-        {
-          "rank": 73,
-          "artist": "H JeuneCrack",
-          "title": "3ème Mouvement",
-          "date": "2026-11-13",
-          "genre": [
-            {
-              "genreId": "18",
-              "name": "Hip-hop/Rap",
-              "url": "https://itunes.apple.com/fr/genre/id18"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6828789899"
-        },
-        {
-          "rank": 88,
-          "artist": "Multi-interprètes",
-          "title": "Grand Theft Auto VI: The Album (Deluxe Edition)",
-          "date": "2026-11-23",
-          "genre": [
-            {
-              "genreId": "16",
-              "name": "Bande originale",
-              "url": "https://itunes.apple.com/fr/genre/id16"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6837496123"
-        },
-        {
-          "rank": 98,
-          "artist": "Camille Lellouche",
-          "title": "Minuit",
-          "date": "2026-11-20",
-          "genre": [
-            {
-              "genreId": "50000064",
-              "name": "Variété française",
-              "url": "https://itunes.apple.com/fr/genre/id50000064"
-            },
-            {
-              "genreId": "34",
-              "name": "Musique",
-              "url": "https://itunes.apple.com/fr/genre/id34"
-            }
-          ],
-          "id": "6809835194"
-        }
-      ],
-      "feedTitle": "Classement des albums",
-      "status": "returned_rows"
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "source": "iTunes Store purchases",
