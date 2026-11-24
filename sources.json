@@ -1,0 +1,676 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "pitchfork.com",
+      "name": "Pitchfork",
+      "website": "https://pitchfork.com/",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "rssCandidates": [
+        "https://pitchfork.com/feed/feed-album-reviews/rss"
+      ],
+      "reviewUrl": "https://pitchfork.com/reviews/albums/",
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "stereogum.com",
+      "name": "Stereogum",
+      "website": "https://stereogum.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "pastemagazine.com",
+      "name": "Paste",
+      "website": "https://pastemagazine.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Country"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "nme.com",
+      "name": "NME",
+      "website": "https://nme.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "brooklynvegan.com",
+      "name": "BrooklynVegan",
+      "website": "https://brooklynvegan.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "thelineofbestfit.com",
+      "name": "The Line of Best Fit",
+      "website": "https://thelineofbestfit.com/",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "thequietus.com",
+      "name": "The Quietus",
+      "website": "https://thequietus.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "kerrang.com",
+      "name": "Kerrang!",
+      "website": "https://kerrang.com/",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "loudersound.com",
+      "name": "Louder",
+      "website": "https://loudersound.com/",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "rollingstone.com",
+      "name": "Rolling Stone",
+      "website": "https://rollingstone.com/",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "holler.country",
+      "name": "Holler",
+      "website": "https://holler.country/",
+      "genres": [
+        "Country"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": "https://holler.country/reviews",
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "savingcountrymusic.com",
+      "name": "Saving Country Music",
+      "website": "https://savingcountrymusic.com/",
+      "genres": [
+        "Country"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": "https://savingcountrymusic.com/category/reviews/",
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "nodepression.com",
+      "name": "No Depression",
+      "website": "https://nodepression.com/",
+      "genres": [
+        "Country"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "billboard.com",
+      "name": "Billboard",
+      "website": "https://billboard.com/",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "popmatters.com",
+      "name": "PopMatters",
+      "website": "https://popmatters.com/",
+      "genres": [
+        "Pop",
+        "Indie",
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "popjustice.com",
+      "name": "Popjustice",
+      "website": "https://popjustice.com/",
+      "genres": [
+        "Pop"
+      ],
+      "rssCandidates": [
+        "https://www.popjustice.com/feed/"
+      ],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "xxlmag.com",
+      "name": "XXL",
+      "website": "https://xxlmag.com/",
+      "genres": [
+        "Hip-hop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "hiphopdx.com",
+      "name": "HipHopDX",
+      "website": "https://hiphopdx.com/",
+      "genres": [
+        "Hip-hop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "thefader.com",
+      "name": "The FADER",
+      "website": "https://thefader.com/",
+      "genres": [
+        "Hip-hop",
+        "Pop",
+        "Indie"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "downbeat.com",
+      "name": "DownBeat",
+      "website": "https://downbeat.com/",
+      "genres": [
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "jazzwise.com",
+      "name": "Jazzwise",
+      "website": "https://jazzwise.com/",
+      "genres": [
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "allaboutjazz.com",
+      "name": "All About Jazz",
+      "website": "https://allaboutjazz.com/",
+      "genres": [
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "londonjazznews.com",
+      "name": "London Jazz News",
+      "website": "https://londonjazznews.com/",
+      "genres": [
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "decibelmagazine.com",
+      "name": "Decibel",
+      "website": "https://decibelmagazine.com/",
+      "genres": [
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "metalinjection.net",
+      "name": "Metal Injection",
+      "website": "https://metalinjection.net/",
+      "genres": [
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "angrymetalguy.com",
+      "name": "Angry Metal Guy",
+      "website": "https://angrymetalguy.com/",
+      "genres": [
+        "Metal"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "ra.co",
+      "name": "Resident Advisor",
+      "website": "https://ra.co/",
+      "genres": [
+        "Elektronisk",
+        "Electronica",
+        "House",
+        "Techno",
+        "UK Garage",
+        "Ambient"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "mixmag.net",
+      "name": "Mixmag",
+      "website": "https://mixmag.net/",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Disco"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "djmag.com",
+      "name": "DJ Mag",
+      "website": "https://djmag.com/",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "electronicsound.co.uk",
+      "name": "Electronic Sound",
+      "website": "https://electronicsound.co.uk/",
+      "genres": [
+        "Electronica",
+        "Ambient",
+        "Elektronisk"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "daily.bandcamp.com",
+      "name": "Bandcamp Daily",
+      "website": "https://daily.bandcamp.com/",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "xlr8r.com",
+      "name": "XLR8R",
+      "website": "https://xlr8r.com/",
+      "genres": [
+        "Electronica",
+        "House",
+        "Techno"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "ukf.com",
+      "name": "UKF",
+      "website": "https://ukf.com/",
+      "genres": [
+        "UK Garage",
+        "Drum & Bass"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "groove.de",
+      "name": "Groove",
+      "website": "https://groove.de/",
+      "genres": [
+        "Techno",
+        "House",
+        "Electronica"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "drumandbass.nl",
+      "name": "DNBA",
+      "website": "https://drumandbass.nl/",
+      "genres": [
+        "Drum & Bass"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "acloserlisten.com",
+      "name": "A Closer Listen",
+      "website": "https://acloserlisten.com/",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "juno.co.uk",
+      "name": "Juno Daily",
+      "website": "https://juno.co.uk/",
+      "genres": [
+        "Disco",
+        "House",
+        "Techno",
+        "Trance",
+        "UK Garage",
+        "Drum & Bass"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "retailer_editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "discobelle.net",
+      "name": "Discobelle",
+      "website": "https://discobelle.net/",
+      "genres": [
+        "Disco",
+        "House"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "thewire.co.uk",
+      "name": "The Wire",
+      "website": "https://thewire.co.uk/",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "aquariumdrunkard.com",
+      "name": "Aquarium Drunkard",
+      "website": "https://aquariumdrunkard.com/",
+      "genres": [
+        "Indie",
+        "Jazz",
+        "Country",
+        "Ambient"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "clashmusic.com",
+      "name": "Clash",
+      "website": "https://clashmusic.com/",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "consequence.net",
+      "name": "Consequence",
+      "website": "https://consequence.net/",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "spin.com",
+      "name": "SPIN",
+      "website": "https://spin.com/",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "diymag.com",
+      "name": "DIY",
+      "website": "https://diymag.com/",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "defected.com",
+      "name": "Defected",
+      "website": "https://defected.com/",
+      "genres": [
+        "House",
+        "Disco"
+      ],
+      "rssCandidates": [],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "label",
+      "lastChecked": null
+    }
+  ]
+}
