@@ -1,0 +1,81 @@
+name: Editorial collection
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 5 * * *'
+  push:
+    branches: [main]
+    paths: [.github/workflows/editorial.yml]
+permissions:
+  contents: write
+concurrency:
+  group: editorial-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install feedparser requests beautifulsoup4
+      - run: |
+          python - <<'PY'
+          import json, requests, feedparser, re, calendar
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+          from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+          from concurrent.futures import ThreadPoolExecutor
+          from bs4 import BeautifulSoup
+          now=datetime.now(timezone.utc)
+          stamp=now.isoformat()
+          root=Path('editorial')
+          root.mkdir(exist_ok=True)
+          sources=json.load(open('source-audit.json'))['sources']
+          def canonical(url):
+              p=urlsplit(url)
+              return urlunsplit((p.scheme,p.netloc,p.path,urlencode([(k,v) for k,v in parse_qsl(p.query) if not k.startswith('utm_')]),''))
+          def collect(s):
+              if not s.get('feed'): return s['id'],[], 'no_feed'
+              try:
+                  response=requests.get(s['feed'],timeout=20,headers={'User-Agent':'SLIPP editorial index/1.0'})
+                  response.raise_for_status()
+                  feed=feedparser.parse(response.content)
+                  if not feed.entries: raise ValueError('Empty feed')
+                  rows=[]
+                  for x in feed.entries:
+                      url=canonical(x.get('link',''))
+                      if not url.startswith(('https://','http://')): continue
+                      title=x.get('title','')
+                      tags=[t.get('term','') for t in x.get('tags',[])]
+                      signal=' '.join([title,url,*tags]).lower()
+                      kind='review' if s['id']=='pitchfork.com' or re.search(r'review|rezension|kritik',signal) else 'premiere' if re.search(r'premiere|first.listen',signal) else 'recommendation' if re.search(r'best new|best.of|best-|recommended|essential|new music|albums.of.the.week|tracks.of.the.week',signal) else 'interview' if re.search(r'interview|in conversation',signal) else 'other'
+                      date=x.get('published_parsed') or x.get('updated_parsed')
+                      published=datetime.fromtimestamp(calendar.timegm(date),timezone.utc).isoformat() if date else None
+                      rows.append(dict(source=s['name'],sourceId=s['id'],sourceType=s['type'],genres=s['genres'],title=title,url=url,published=published,firstSeen=stamp,kind=kind,verification='pending',excerpt=BeautifulSoup(x.get('summary',''),'html.parser').get_text(' ',strip=True)[:400]))
+                  return s['id'],rows,'ok'
+              except Exception as e: return s['id'],[],str(e)
+          with ThreadPoolExecutor(max_workers=6) as pool: results=list(pool.map(collect,sources))
+          path=root/'articles.json'
+          old=json.loads(path.read_text())['articles'] if path.exists() else []
+          merged={(x['sourceId'],x['url']):x for x in old}
+          for sid,rows,status in results:
+              for row in rows:
+                  key=(sid,row['url'])
+                  if key in merged: row['firstSeen']=merged[key]['firstSeen']
+                  merged[key]=row
+          cutoff=(now-timedelta(days=60)).isoformat()
+          articles=sorted([x for x in merged.values() if x['firstSeen']>=cutoff],key=lambda x:x['published'] or x['firstSeen'],reverse=True)
+          path.write_text(json.dumps(dict(updated=stamp,articles=articles),ensure_ascii=False,indent=2))
+          candidates=[x for x in articles if x['kind'] in ('review','premiere','recommendation') and x['published'] and x['published']>=(now-timedelta(days=7)).isoformat()]
+          (root/'candidates.json').write_text(json.dumps(dict(updated=stamp,articles=candidates),ensure_ascii=False,indent=2))
+          (root/'status.json').write_text(json.dumps(dict(updated=stamp,total=len(articles),candidates=len(candidates),sources=[dict(id=sid,count=len(rows),status=status) for sid,rows,status in results]),ensure_ascii=False,indent=2))
+          PY
+      - run: |
+          git config user.name "SLIPP editorial bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial
+          if ! git diff --cached --quiet; then
+            git commit -m "Collect editorial articles"
+            git pull --rebase -X theirs origin main
+            git push
+          fi
