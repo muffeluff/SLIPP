@@ -1,765 +1,1502 @@
 {
   "Indie": [
     {
-      "source": "Exclaim!",
-      "title": "Exclaim! · Nye slipp",
-      "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
+        [
+          "Kings of Leon",
+          "O My Beloved",
+          "Alternative",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/84/79/c2847988-ab33-0de8-0dc3-ebf0c6cbd0b4/00823375343684_Cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "us",
+                "rank": 99,
+                "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 1,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 1,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "de",
+                "rank": 59,
+                "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 2,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 14,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 2,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 23,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 39,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 31,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/o-my-beloved/6802901441?uo=4"
+          }
+        ],
+        [
+          "Radie Peat",
+          "No Human Tongue Can Tell",
+          "Alternative",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/32/b2/7432b2d2-0971-b6cb-fe01-35bfe4ed1cbf/191402062977.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 55,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 30,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 9,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 1,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 29,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 47,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 22,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=20/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/no-human-tongue-can-tell/6800850186?uo=4"
+          }
+        ],
         [
           "Atlas Sound",
           "Thanatos",
-          "Indie",
+          "Alternative",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/2a/b5/4e2ab59b-9d81-50a7-8f61-87d825ab0a2b/191400100077.png/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/2a/b5/4e2ab59b-9d81-50a7-8f61-87d825ab0a2b/191400100077.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 5,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 25,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 59,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 51,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 55,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/thanatos/6831731444?uo=4"
+          }
         ],
         [
-          "Bodywash",
-          "Laughing at Noise",
-          "Indie",
+          "In Strict Confidence",
+          "The Final Kiss",
+          "Alternative",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/63/80/8e6380af-dafc-e3d8-1a38-3065c4c1b969/825396149825.png/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/5a/b2/045ab27e-c3c7-6662-7e1b-b1dad034dc34/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 4,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 27,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=20/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 35,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=20/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/the-final-kiss/6825834434?uo=4"
+          }
         ],
         [
-          "Crystal Eyes",
-          "Secret Oscillator",
-          "Indie",
+          "Queens of the Stone Age",
+          "Perfecth",
+          "Alternativt",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/2f/f9/092ff9b7-d7c7-5d76-e1d6-80bb8f70f9c7/885288462555.jpg/100x100bb.jpg"
-        ],
-        [
-          "Lael Neale",
-          "As Killers Do",
-          "Indie",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/b9/77/b9b97799-cf81-2bd7-f562-ea56bdc2171f/128936.jpg/100x100bb.jpg"
-        ],
-        [
-          "Prairie Cat",
-          "Face in Granite",
-          "Indie",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/1e/98/bf1e9842-663f-658a-fc09-536a8992413b/708208362769_cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/62/894a62a0-230a-cff6-e25a-a7de7e95fb40/191401225373.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-10-30",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 40,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 35,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 41,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/perfecth/6797444451?uo=4"
+          }
         ]
       ]
-    },
-    {
-      "source": "Pitchfork",
-      "title": "Pitchfork",
-      "url": "https://pitchfork.com/reviews/albums/",
-      "items": []
-    },
-    {
-      "source": "Stereogum",
-      "title": "Stereogum",
-      "url": "https://stereogum.com/",
-      "items": []
-    },
-    {
-      "source": "Under the Radar",
-      "title": "Under the Radar",
-      "url": "https://www.undertheradarmag.com/",
-      "items": []
-    },
-    {
-      "source": "The Line of Best Fit",
-      "title": "The Line of Best Fit",
-      "url": "https://www.thelineofbestfit.com/",
-      "items": []
-    },
-    {
-      "source": "BrooklynVegan",
-      "title": "BrooklynVegan",
-      "url": "https://www.brooklynvegan.com/",
-      "items": []
     }
   ],
   "Rock": [
     {
-      "source": "Already Heard",
-      "title": "Already Heard · Nye slipp",
-      "url": "https://alreadyheard.com/newmusicfriday-november-20th-2026/",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
         [
-          "Micah Martin",
-          "All I Need",
+          "Rammstein",
+          "Live in Mexico City",
           "Rock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/55/0d/23550dbc-a35b-49fe-a84b-1458fcf4e63d/612891142822.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/f8/13/8cf8138c-ec87-c486-9920-cf3ca5fd1592/26UM1IM19631.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 7,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "de",
+                "rank": 3,
+                "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 11,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/live-in-mexico-city/6813114279?uo=4"
+          }
         ],
         [
-          "Any Given Sin",
-          "Until We Disappear",
+          "Indochine",
+          "Arena Tour, Le Film",
           "Rock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/ee/3e/d3ee3e43-8ba2-be49-e3c6-251f5b3eeb04/8712725749714.png/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/d1/58/48d158b1-f3e5-275b-ac45-c0bac86fd827/196874728963.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 55,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 1,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/arena-tour-le-film/6835451272?uo=4"
+          }
         ],
         [
-          "echochamber",
-          "dead to me",
+          "Steven Wilson",
+          "Requiem for a Village",
           "Rock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/94/7d/88947de6-1f02-cc09-422d-cee6abea65cb/5053760161363_cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/49/86/50498649-9a81-bc78-26c4-09165c7b8779/823375169109_Cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 33,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 82,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 62,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/fr/album/requiem-for-a-village/6779529412?uo=4"
+          }
         ],
         [
-          "in:tides",
-          "in:tides",
-          "Rock",
+          "Nickelback",
+          "Everything Under The Sun",
+          "Hårdrock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/7c/58/9c7c5825-bcb9-592d-c51f-edb2eb90d2ae/211982.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/bb/84/07bb846c-eaea-b26a-aebd-ba911351a35b/00823375244738_Cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-10-30",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 68,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 57,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 68,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/everything-under-the-sun/6784018115?uo=4"
+          }
         ],
         [
-          "GoJuMo",
-          "Let Us In",
-          "Rock",
+          "ぽんすけ",
+          "NOCTURNE DOLLs 6th Six Starry Nights",
+          "ロック",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/9b/b2/909bb203-b2b5-8854-f03e-35e3e8b4e461/885288368147.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/77/06/e1770641-3c29-0b1c-6f9d-e261fe9abcfc/4550796773344_cover.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 20,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/nocturne-dolls-6th-six-starry-nights/6836003256?uo=4"
+          }
         ]
       ]
-    },
-    {
-      "source": "NME",
-      "title": "NME",
-      "url": "https://www.nme.com/reviews",
-      "items": []
-    },
-    {
-      "source": "Kerrang!",
-      "title": "Kerrang!",
-      "url": "https://www.kerrang.com/",
-      "items": []
-    },
-    {
-      "source": "Loudwire",
-      "title": "Loudwire",
-      "url": "https://loudwire.com/",
-      "items": []
-    },
-    {
-      "source": "Classic Rock",
-      "title": "Classic Rock",
-      "url": "https://www.loudersound.com/classic-rock",
-      "items": []
-    },
-    {
-      "source": "Stereogum",
-      "title": "Stereogum",
-      "url": "https://stereogum.com/",
-      "items": []
-    }
-  ],
-  "Country": [
-    {
-      "source": "MusicRow",
-      "title": "MusicRow · Nye slipp",
-      "url": "https://musicrow.com/wp-content/uploads/2026/11/The-MusicRow-Weekly-11.20.2026.pdf",
-      "date": "2026-11-20",
-      "items": [
-        [
-          "Kane Brown",
-          "Losing Hand",
-          "Country",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/6a/d0/c16ad0e2-dd0f-d9b4-3d3b-c8ce82ff7c37/196874999417.jpg/100x100bb.jpg"
-        ],
-        [
-          "Nate Smith",
-          "Til I Can’t",
-          "Country",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/6e/b3/156eb3b2-6d02-9845-f008-79ed26021dea/196874942000.jpg/100x100bb.jpg"
-        ],
-        [
-          "Benny G",
-          "Common Ground",
-          "Country",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/fc/99/40fc99a0-357c-9316-1018-24f8e2268897/196874962893.jpg/100x100bb.jpg"
-        ],
-        [
-          "Emma Smalley",
-          "You Had It",
-          "Country"
-        ],
-        [
-          "Waylon Wyatt",
-          "Live from Cain’s Ballroom",
-          "Country",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/5f/72/5a5f72a6-6313-eb90-a89e-88f8e90759c1/26UM1IM44048.rgb.jpg/100x100bb.jpg"
-        ]
-      ]
-    },
-    {
-      "source": "Saving Country Music",
-      "title": "Saving Country Music",
-      "url": "https://savingcountrymusic.com/",
-      "items": []
-    },
-    {
-      "source": "No Depression",
-      "title": "No Depression",
-      "url": "https://nodepression.com/",
-      "items": []
-    },
-    {
-      "source": "Holler",
-      "title": "Holler",
-      "url": "https://holler.country/",
-      "items": []
-    },
-    {
-      "source": "American Songwriter",
-      "title": "American Songwriter",
-      "url": "https://americansongwriter.com/",
-      "items": []
-    },
-    {
-      "source": "Country Standard Time",
-      "title": "Country Standard Time",
-      "url": "https://www.countrystandardtime.com/",
-      "items": []
     }
   ],
   "Pop": [
     {
-      "source": "Boo Boo Records",
-      "title": "Boo Boo Records · Nye slipp",
-      "url": "https://booboorecords.com/blogs/new-releases/new-releases-november-20-2026",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
         [
           "Take That",
           "Dreamers",
           "Pop",
           "",
-          "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cucmFkaW9tb250ZWNhcmxvLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8xMC9UVC1EcmVhbWVycy1hbGJ1bS1hcnR3b3JrLmpwZw/-/0/0?r=d8d6f758d0fd414dca5292b5c47cdb9a"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/11/22/291122a2-5136-40a9-f195-715fc0b5d87d/26UM1IM20740.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 1,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 53,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "de",
+                "rank": 35,
+                "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 2,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 3,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 57,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 51,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/dreamers/6814543019?uo=4"
+          }
         ],
         [
-          "Lila Gray",
-          "Soft Animal",
+          "James Blunt",
+          "Airplane Mode",
           "Pop",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/bc/9b/fcbc9b24-8371-2cc3-45b3-d190f1d692a5/artwork.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 2,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 88,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 55,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "de",
+                "rank": 78,
+                "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 41,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 77,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 70,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 45,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 47,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 52,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/airplane-mode/6805055407?uo=4"
+          }
         ],
         [
-          "Pomme",
-          "la forteresse",
-          "Pop",
+          "Bryan Adams",
+          "How's It Goin'",
+          "Pop/Rock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/f4/46/b3f446aa-0c37-5713-83fb-e4b22255af9b/cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/9f/f5/de9ff595-ff1c-e4ab-e5ca-09e43f57386c/5059449450919.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 22,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 51,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 3,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 53,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 2,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/hows-it-goin/6809936545?uo=4"
+          }
         ],
         [
-          "Sheherazaad",
-          "Khudgarzi",
+          "Yello",
+          "Time Lab",
           "Pop",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/5c/b6/535cb6da-5a7f-e562-2661-ee701b075d9f/3663729442420_cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/f8/7a/91f87a85-7c41-ef5f-e312-2f4d89f774e0/26UMGIM84592.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-10-30",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 9,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 44,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 25,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/time-lab/6807127117?uo=4"
+          }
+        ],
+        [
+          "Suzan & Freek",
+          "Pijnstiller",
+          "Pop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/ce/1a/73ce1a50-8da6-d855-e391-74e3b30fe076/196874706091.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 3,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 7,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/nl/album/pijnstiller/6831229071?uo=4"
+          }
         ]
       ]
-    },
-    {
-      "source": "Billboard",
-      "title": "Billboard",
-      "url": "https://www.billboard.com/",
-      "items": []
-    },
-    {
-      "source": "NME",
-      "title": "NME",
-      "url": "https://www.nme.com/",
-      "items": []
-    },
-    {
-      "source": "PopMatters",
-      "title": "PopMatters",
-      "url": "https://www.popmatters.com/",
-      "items": []
-    },
-    {
-      "source": "The Line of Best Fit",
-      "title": "The Line of Best Fit",
-      "url": "https://www.thelineofbestfit.com/",
-      "items": []
-    },
-    {
-      "source": "Pitchfork",
-      "title": "Pitchfork",
-      "url": "https://pitchfork.com/",
-      "items": []
     }
   ],
   "Hip-hop": [
     {
-      "source": "Boo Boo Records",
-      "title": "Boo Boo Records · Nye slipp",
-      "url": "https://booboorecords.com/blogs/new-releases/new-releases-november-20-2026",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
         [
-          "Conway the Machine",
-          "OTIS",
-          "Hip-hop",
+          "Offset",
+          "GMFU",
+          "Hip-Hop",
           "",
-          "https://coverartarchive.org/release-group/b88274ab-2be8-40d8-98fe-ccc7daabd9cd/front-500"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/26/bc/c126bca7-bee0-8d53-c8eb-72d3df9c3731/26UM1IM16316.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "us",
+                "rank": 28,
+                "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 62,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/gmfu/6832783991?uo=4"
+          }
+        ],
+        [
+          "YFN Lucci",
+          "everything i said i am. / everything she said she is.",
+          "Hip-Hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e2/4f/34e24f49-2675-8572-e1a9-4f982f2b2ca1/075679546210.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "us",
+                "rank": 1,
+                "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 99,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/everything-i-said-i-am-everything-she-said-she-is/6834596383?uo=4"
+          }
+        ],
+        [
+          "Draugr Balled",
+          "Where legends never die",
+          "Hip-Hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/03/83/d4038326-4a3b-399e-7508-99fbafb721e3/7333596546762.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-10-26",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 1,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=18/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/where-legends-never-die/6827057197?uo=4"
+          }
+        ],
+        [
+          "Kevin",
+          "DE GIER",
+          "Hiphop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/25/63/fe2563d6-a0be-05df-5f6e-09df60b36e9f/26UM1IM44555.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-19",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 1,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/nl/album/de-gier/6834007064?uo=4"
+          }
+        ],
+        [
+          "BigXthaPlug",
+          "BETTER OVER TIME",
+          "Hip-Hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/30/e2/f230e2c5-8527-184a-12f7-442f85567061/711209295424.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-02",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "us",
+                "rank": 10,
+                "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 93,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/better-over-time/6827763091?uo=4"
+          }
         ]
       ]
-    },
+    }
+  ],
+  "Country": [
     {
-      "source": "XXL",
-      "title": "XXL",
-      "url": "https://www.xxlmag.com/",
-      "items": []
-    },
-    {
-      "source": "HipHopDX",
-      "title": "HipHopDX",
-      "url": "https://hiphopdx.com/",
-      "items": []
-    },
-    {
-      "source": "Pitchfork",
-      "title": "Pitchfork",
-      "url": "https://pitchfork.com/",
-      "items": []
-    },
-    {
-      "source": "The Fader",
-      "title": "The Fader",
-      "url": "https://www.thefader.com/",
-      "items": []
-    },
-    {
-      "source": "Stereogum",
-      "title": "Stereogum",
-      "url": "https://stereogum.com/",
-      "items": []
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
+      "items": [
+        [
+          "Mack Geiger",
+          "Dying In This House",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/a2/91/fba291db-11f2-c55d-36bd-f69fe6635771/196874914748.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "us",
+                "rank": 29,
+                "url": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 4,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 27,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 44,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 18,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 30,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/dying-in-this-house/6825883834?uo=4"
+          }
+        ],
+        [
+          "NEEDTOBREATHE",
+          "The Long Surrender and The Fellow Passengers of Pain",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/51/b3/4151b3de-bfcd-3208-a1cf-0fc42d69895b/26UM1IM14330.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-19",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 9,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 65,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 60,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 31,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 39,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/the-long-surrender-and-the-fellow-passengers-of-pain/6809912967?uo=4"
+          }
+        ],
+        [
+          "Jill Johnson",
+          "Where It Hurts",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/ad/43/f5ad437d-9ad5-cbe5-2b1c-30caeaf02343/1200220393497.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 23,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 10,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/where-it-hurts/6828564884?uo=4"
+          }
+        ],
+        [
+          "Waylon Jennings",
+          "Diamonds",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/64/8d/be648dfb-443c-32e8-9f35-cb31bf32c517/820233779517.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 24,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 48,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 80,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/diamonds/6781405825?uo=4"
+          }
+        ],
+        [
+          "Greylan James",
+          "GREYLAN JAMES",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/45/7c/31457c8c-0c9a-b111-c784-674d138662b5/26BMR0008395.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 39,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 49,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 64,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/greylan-james/6815413014?uo=4"
+          }
+        ]
+      ]
     }
   ],
   "Jazz": [
     {
-      "source": "Pause & Play",
-      "title": "Pause & Play · Nye slipp",
-      "url": "https://www.pauseandplay.com/new-releases-nov-20-2026/?noamp=mobile",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
+        [
+          "Dominic Miller",
+          "Diana",
+          "Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/71/62/67716244-fe1a-7477-cba8-07946b2ae696/26UMGIM79249.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 26,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 11,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 37,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 10,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 1,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/diana/6816905677?uo=4"
+          }
+        ],
+        [
+          "Joshua Redman",
+          "If Ever You Would Leave Us (we play for Rollins) [feat. Christian McBride, Marcus Gilmore, Larry Grenadier, Cécile McLorin Salvant, Kevin Hays, Chris Potter, Peter Bernstein & Gabrielle Cavassa]",
+          "Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/91/3b/ff913bef-436c-2408-2ff7-79437b21796f/26UMGIM85240.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 6,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 40,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 91,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 83,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 31,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 16,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/if-ever-you-would-leave-us-we-play-for-rollins-feat/6808849195?uo=4"
+          }
+        ],
+        [
+          "Keith Jarrett",
+          "Roma (Live)",
+          "Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/12/d8/6a12d893-2cf0-d17f-262d-ea14a668f623/26UMGIM42167.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 25,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 10,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 47,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 87,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 36,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/roma-live/6804688781?uo=4"
+          }
+        ],
         [
           "Blue Earth Sound",
           "Everything to Remember",
+          "Zeitgenössischer Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/24/ea/4924eaa4-038e-11be-8544-248c7769b129/823375282587_Cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 22,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 26,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/everything-to-remember/6787231855?uo=4"
+          }
+        ],
+        [
+          "Eva Cassidy",
+          "JAZZED",
           "Jazz",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/24/ea/4924eaa4-038e-11be-8544-248c7769b129/823375282587_Cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/38/be/5138be5b-d404-ba31-7dab-53a58bd49509/1200214680749.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 27,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=11/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 27,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/au/album/jazzed/6794743079?uo=4"
+          }
         ]
       ]
-    },
-    {
-      "source": "DownBeat",
-      "title": "DownBeat",
-      "url": "https://downbeat.com/",
-      "items": []
-    },
-    {
-      "source": "Jazzwise",
-      "title": "Jazzwise",
-      "url": "https://www.jazzwise.com/",
-      "items": []
-    },
-    {
-      "source": "All About Jazz",
-      "title": "All About Jazz",
-      "url": "https://www.allaboutjazz.com/",
-      "items": []
-    },
-    {
-      "source": "Jazz Journal",
-      "title": "Jazz Journal",
-      "url": "https://jazzjournal.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Elektronisk": [
-    {
-      "source": "WXPN",
-      "title": "WXPN · Nye slipp",
-      "url": "https://xpn.org/press-play/",
-      "date": "2026-11-20",
-      "items": [
-        [
-          "Toro y Moi",
-          "Unusua",
-          "Elektronisk",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/0d/42/420d42e6-04cc-3588-be3e-aa58f9c1e03b/193436491488_TyMUnusuax.jpg/100x100bb.jpg"
-        ]
-      ]
-    },
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
     }
   ],
   "Metal": [
     {
-      "source": "Already Heard",
-      "title": "Already Heard · Nye slipp",
-      "url": "https://alreadyheard.com/newmusicfriday-november-20th-2026/",
-      "date": "2026-11-20",
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
       "items": [
         [
           "Trivium",
           "Crown In The Grave",
           "Metal",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b7/ce/43b7ce91-a19e-454e-208d-7ad7ceff459e/075679558688.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 24,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "de",
+                "rank": 21,
+                "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 21,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "ca",
+                "rank": 56,
+                "url": "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "nl",
+                "rank": 78,
+                "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/crown-in-the-grave/6818635321?uo=4"
+          }
         ],
         [
-          "Down",
-          "Volume V",
+          "Joe Satriani & Steve Vai",
+          "SatchVai: The Sea of Emotion",
           "Metal",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/2d/3a/ee2d3af2-4bcb-5190-7892-9bc76a2cbb8a/cover.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/a3/2b/f9a32bf8-741b-9e53-0024-af320b2bfc23/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 7,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 17,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 30,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/satchvai-the-sea-of-emotion/6790394334?uo=4"
+          }
         ],
         [
-          "Ankor",
-          "I See Red",
+          "Cult of Luna",
+          "In the Shadow of Your Shadow",
           "Metal",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/10/f8/9110f88d-8802-4f91-991a-7704f9e33d4a/8721639202840.png/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/66/ed/6966eddd-3265-0110-0519-47e2a629adeb/820233817530.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 13,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 47,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 3,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/in-the-shadow-of-your-shadow/6782122885?uo=4"
+          }
         ],
         [
-          "OmegaShift",
-          "The Burden of Storms",
+          "Disfear",
+          "The Last Nail",
           "Metal",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/9d/99/a29d996a-2e84-3b6d-4ef2-e4263bace4f6/0712132563123.png/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/49/f9/8949f977-4d36-69eb-6fb3-a75a1d2712d8/781676533411.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 18,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 51,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 32,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/the-last-nail/6791700794?uo=4"
+          }
         ],
         [
-          "Suicide Silence",
-          "Graceless",
-          "Metal",
+          "Sable Hills",
+          "Homura",
+          "メタル",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/db/60/60db60f3-214b-a383-3459-35a6837c072d/196874573020.jpg/100x100bb.jpg"
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/cd/9b/c2cd9b84-9f61-96e4-cc1c-f18b301592cb/Sable_Hills_Homura_Album_Artwork.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 1,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/homura/6802989626?uo=4"
+          }
         ]
       ]
-    },
-    {
-      "source": "Metal Hammer",
-      "title": "Metal Hammer",
-      "url": "https://www.loudersound.com/metal-hammer",
-      "items": []
-    },
-    {
-      "source": "Decibel",
-      "title": "Decibel",
-      "url": "https://www.decibelmagazine.com/",
-      "items": []
-    },
-    {
-      "source": "Metal Injection",
-      "title": "Metal Injection",
-      "url": "https://metalinjection.net/",
-      "items": []
-    },
-    {
-      "source": "MetalSucks",
-      "title": "MetalSucks",
-      "url": "https://www.metalsucks.net/",
-      "items": []
-    },
-    {
-      "source": "Angry Metal Guy",
-      "title": "Angry Metal Guy",
-      "url": "https://www.angrymetalguy.com/",
-      "items": []
     }
   ],
-  "Electronica": [
+  "Elektronisk": [
     {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "House": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "UK Garage": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Techno": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Drum & Bass": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Ambient": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Trance": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
-    }
-  ],
-  "Disco": [
-    {
-      "source": "Resident Advisor",
-      "title": "Resident Advisor",
-      "url": "https://ra.co/",
-      "items": []
-    },
-    {
-      "source": "Mixmag",
-      "title": "Mixmag",
-      "url": "https://mixmag.net/",
-      "items": []
-    },
-    {
-      "source": "DJ Mag",
-      "title": "DJ Mag",
-      "url": "https://djmag.com/",
-      "items": []
-    },
-    {
-      "source": "Electronic Sound",
-      "title": "Electronic Sound",
-      "url": "https://www.electronicsound.co.uk/",
-      "items": []
-    },
-    {
-      "source": "Bandcamp Daily",
-      "title": "Bandcamp Daily",
-      "url": "https://daily.bandcamp.com/",
-      "items": []
+      "source": "SLIPP",
+      "title": "Ukens album",
+      "date": "2026-11-24",
+      "items": [
+        [
+          "Ane Brun",
+          "I Thought We Were the Same",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/86/ec/6486ec5b-4ab6-bd0b-9d58-68d753317623/4099964267051.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-06",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 10,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 9,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "se",
+                "rank": 67,
+                "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 2,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 31,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/i-thought-we-were-the-same/6773276555?uo=4"
+          }
+        ],
+        [
+          "Marina Surgan",
+          "Music for Ballet Class Live 5, Pt. 2",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/49/e5/9c49e5ac-c065-e034-c69d-46eee252313b/885000821622.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-16",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 2,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/music-for-ballet-class-live-5-pt-2/6833185329?uo=4"
+          }
+        ],
+        [
+          "Acid Pauli, Hani Mojtahedy & Kingdom Molongi",
+          "Mystic Meltdown",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/8d/19/7d8d1954-9396-469e-7551-b17d4cccbacd/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 3,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/mystic-meltdown/6811013458?uo=4"
+          }
+        ],
+        [
+          "Sw@da & Niczos",
+          "RYT-M",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/e3/d6/71e3d646-8deb-ff6f-ae31-4960f6898429/0001165250989.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-13",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 12,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/ryt-m/6828950288?uo=4"
+          }
+        ],
+        [
+          "Michael Heinkel",
+          "Eigenwerke 1980-1983",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/4b/62/c44b6231-c1ad-68fc-3d02-baf8bbac5215/E-REC010-1_3000x3000RGB.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-20",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 14,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/eigenwerke-1980-1983/6820017331?uo=4"
+          }
+        ]
+      ]
     }
   ]
 }
