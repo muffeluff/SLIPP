@@ -1,0 +1,100 @@
+name: Verify editorial releases
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Editorial collection]
+    types: [completed]
+  push:
+    branches: [main]
+    paths: [.github/workflows/verify-releases.yml]
+permissions:
+  contents: write
+concurrency:
+  group: verify-editorial
+  cancel-in-progress: false
+jobs:
+  verify:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: pip install requests
+      - run: |
+          python - <<'PY'
+          import json,re,time,requests,unicodedata
+          from pathlib import Path
+          from datetime import datetime,timezone,timedelta
+          now=datetime.now(timezone.utc)
+          rows=json.load(open('editorial/candidates.json'))['articles']
+          groups={}
+          unresolved=[]
+          cache={}
+          def norm(s):
+              return ''.join(c for c in unicodedata.normalize('NFKD',s.casefold()) if c.isalnum())
+          def clean(s):
+              return re.sub(r'\s*[-–]\s*(single|ep)$','',s,flags=re.I).strip(' “”,‘’"')
+          def extract(a):
+              t=a['title']
+              t=re.sub(r'^(Track|Song|Album|Single|EP) Premiere:\s*','',t,flags=re.I)
+              t=re.sub(r'\s+Review$','',t,flags=re.I)
+              if ' ~ ' in t or ' – ' in t or ' — ' in t:
+                  return re.split(r' (?:~|–|—) ',t,maxsplit=1)
+              m=re.match(r'^(.+?),\s*[“"](.+?)[”"]$',t)
+              if m:return list(m.groups())
+              return None
+          def lookup(artist,title):
+              key=(norm(artist),norm(title))
+              if key in cache:return cache[key]
+              for entity in ['album','song']:
+                  time.sleep(3.3)
+                  resp=requests.get('https://itunes.apple.com/search',params=dict(term=artist+' '+title,media='music',entity=entity,limit=25,country='US'),timeout=15)
+                  resp.raise_for_status()
+                  for x in resp.json().get('results',[]):
+                      name=x.get('trackName') if entity=='song' else x.get('collectionName')
+                      if not name or norm(x.get('artistName',''))!=key[0] or norm(clean(name))!=key[1]:continue
+                      date=x.get('releaseDate','')[:10]
+                      if not date:continue
+                      if not (now.date()-timedelta(days=30)).isoformat()<=date<=now.date().isoformat():continue
+                      artwork=x.get('artworkUrl100','')
+                      if artwork:
+                          try:
+                              with requests.get(artwork,stream=True,timeout=10) as im:
+                                  if not im.ok or not im.headers.get('Content-Type','').startswith('image/') or not next(im.iter_content(256),b''):artwork=''
+                          except requests.RequestException:artwork=''
+                      cache[key]=dict(artist=x['artistName'],title=clean(name),releaseDate=date,genre=x.get('primaryGenreName'),format=entity,artwork=artwork,catalogUrl=x.get('trackViewUrl') or x.get('collectionViewUrl'),catalogId=x.get('trackId') or x.get('collectionId'))
+                      return cache[key]
+              cache[key]=None
+          for a in rows:
+              pair=extract(a)
+              if not pair:
+                  unresolved.append(dict(article=a,reason='manual_extraction_required'))
+                  continue
+              artist,title=map(clean,pair)
+              try: match=lookup(artist,title)
+              except Exception as e:
+                  unresolved.append(dict(article=a,reason='catalog_error',detail=str(e)))
+                  continue
+              if not match:
+                  unresolved.append(dict(article=a,reason='no_exact_recent_catalog_match'))
+                  continue
+              key=(norm(match['artist']),norm(match['title']),match['format'])
+              g=groups.setdefault(key,dict(**match,articles=[],editorialVerification='pending'))
+              g['articles'].append({k:a.get(k) for k in ['source','sourceId','sourceType','title','url','published','kind']})
+          releases=list(groups.values())
+          for g in releases:
+              g['independentSourceCount']=len({a['sourceId'] for a in g['articles'] if a['sourceType']=='editorial'})
+          releases.sort(key=lambda g:(g['independentSourceCount'],g['releaseDate']),reverse=True)
+          Path('editorial/verified-releases.json').write_text(json.dumps(dict(updated=now.isoformat(),method='Exact recent iTunes catalog match; editorial endorsement not verified',releases=releases),ensure_ascii=False,indent=2))
+          Path('editorial/unresolved.json').write_text(json.dumps(dict(updated=now.isoformat(),articles=unresolved),ensure_ascii=False,indent=2))
+          print('Catalog matches:',len(releases),'Unresolved articles:',len(unresolved))
+          PY
+      - run: |
+          git config user.name "SLIPP verification bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editorial/verified-releases.json editorial/unresolved.json
+          git commit -m "Verify release catalog matches"
+          git pull --rebase -X theirs origin main
+          git push
