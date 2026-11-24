@@ -1,0 +1,232 @@
+{
+  "updated": "2026-11-24T10:04:56.619450+00:00",
+  "total": 964,
+  "candidates": 140,
+  "sources": [
+    {
+      "id": "pitchfork.com",
+      "count": 29,
+      "status": "ok"
+    },
+    {
+      "id": "stereogum.com",
+      "count": 40,
+      "status": "ok"
+    },
+    {
+      "id": "pastemagazine.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "nme.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "brooklynvegan.com",
+      "count": 15,
+      "status": "ok"
+    },
+    {
+      "id": "thelineofbestfit.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "thequietus.com",
+      "count": 32,
+      "status": "ok"
+    },
+    {
+      "id": "kerrang.com",
+      "count": 1,
+      "status": "ok"
+    },
+    {
+      "id": "loudersound.com",
+      "count": 50,
+      "status": "ok"
+    },
+    {
+      "id": "rollingstone.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "holler.country",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "savingcountrymusic.com",
+      "count": 38,
+      "status": "ok"
+    },
+    {
+      "id": "nodepression.com",
+      "count": 15,
+      "status": "ok"
+    },
+    {
+      "id": "billboard.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "popmatters.com",
+      "count": 200,
+      "status": "ok"
+    },
+    {
+      "id": "popjustice.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "xxlmag.com",
+      "count": 35,
+      "status": "ok"
+    },
+    {
+      "id": "hiphopdx.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "thefader.com",
+      "count": 20,
+      "status": "ok"
+    },
+    {
+      "id": "downbeat.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "jazzwise.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "allaboutjazz.com",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "londonjazznews.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "decibelmagazine.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "metalinjection.net",
+      "count": 25,
+      "status": "ok"
+    },
+    {
+      "id": "angrymetalguy.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "ra.co",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "mixmag.net",
+      "count": 80,
+      "status": "ok"
+    },
+    {
+      "id": "djmag.com",
+      "count": 30,
+      "status": "ok"
+    },
+    {
+      "id": "electronicsound.co.uk",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "daily.bandcamp.com",
+      "count": 37,
+      "status": "ok"
+    },
+    {
+      "id": "xlr8r.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "ukf.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "groove.de",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "drumandbass.nl",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "acloserlisten.com",
+      "count": 8,
+      "status": "ok"
+    },
+    {
+      "id": "juno.co.uk",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "discobelle.net",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "thewire.co.uk",
+      "count": 89,
+      "status": "ok"
+    },
+    {
+      "id": "aquariumdrunkard.com",
+      "count": 15,
+      "status": "ok"
+    },
+    {
+      "id": "clashmusic.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "consequence.net",
+      "count": 15,
+      "status": "ok"
+    },
+    {
+      "id": "spin.com",
+      "count": 10,
+      "status": "ok"
+    },
+    {
+      "id": "diymag.com",
+      "count": 50,
+      "status": "ok"
+    },
+    {
+      "id": "defected.com",
+      "count": 0,
+      "status": "no_feed"
+    }
+  ]
+}
