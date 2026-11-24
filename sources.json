@@ -313,8 +313,10 @@
       "genres": [
         "Jazz"
       ],
-      "rssCandidates": [],
-      "reviewUrl": null,
+      "rssCandidates": [
+        "https://www.allaboutjazz.com/rss_reviews.xml"
+      ],
+      "reviewUrl": "https://www.allaboutjazz.com/reviews",
       "status": "pending_test",
       "type": "editorial",
       "lastChecked": null
@@ -680,9 +682,10 @@
         "Rock"
       ],
       "rssCandidates": [
+        "https://www.therockpit.net/category/reviews-albums-feature/feed/",
         "https://www.therockpit.net/feed/"
       ],
-      "reviewUrl": null,
+      "reviewUrl": "https://www.therockpit.net/reviews/albums/",
       "status": "pending_test",
       "type": "editorial",
       "lastChecked": null
