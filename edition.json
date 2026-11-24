@@ -1,8 +1,112 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-24",
   "sections": [
     {
-      "title": "Redaksjonens radar",
+      "title": "Pitchfork · Ukens album",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Atlas Sound",
+          "Thanatos",
+          "Indie / Rock"
+        ],
+        [
+          "Donato Dozzy",
+          "Astro",
+          "Elektronisk"
+        ],
+        [
+          "Toro y Moi",
+          "Unusua",
+          "Ambient / Elektronisk"
+        ],
+        [
+          "Lorenzo Senni",
+          "All Ages",
+          "Elektronisk / Eksperimentell"
+        ],
+        [
+          "Lambchop",
+          "Demoed",
+          "Country / Indie"
+        ]
+      ]
+    },
+    {
+      "title": "Stereogum · Ukens fem låter",
+      "source": "Stereogum",
+      "url": "https://stereogum.com/2518768/the-5-best-songs-of-the-week-653/lists/the-5-best-songs-of-the-week",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Julien Baker",
+          "Hound",
+          "Indie / Rock"
+        ],
+        [
+          "Ryley Walker",
+          "Cloud Of Beaujolais",
+          "Folk / Eksperimentell"
+        ],
+        [
+          "Erika de Casier",
+          "Whispers",
+          "R&B / Elektronisk"
+        ],
+        [
+          "Philip Frobos",
+          "Fulton County Stadium At 8:05AM",
+          "Rock / Indie"
+        ],
+        [
+          "Awning",
+          "I'm Up",
+          "Indie / Rock"
+        ]
+      ]
+    },
+    {
+      "title": "Bandcamp Daily · Album of the Day",
+      "source": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/album-of-the-day",
+      "date": "2026-11-23",
+      "items": [
+        [
+          "Bang on a Can All-Stars",
+          "Sakamoto: 1996",
+          "Klassisk / Eksperimentell",
+          "2026-11-23"
+        ],
+        [
+          "RÓIS",
+          "MO LÉAN",
+          "Folk / Eksperimentell",
+          "2026-11-20"
+        ],
+        [
+          "Wayfarer",
+          "Riders of the Setting Sun",
+          "Metal",
+          "2026-11-19"
+        ],
+        [
+          "Soup Activists",
+          "Where the Rubbish Goes",
+          "Indie / Rock",
+          "2026-11-18"
+        ],
+        [
+          "Pharaoh Overlord",
+          "7",
+          "Eksperimentell / Elektronisk",
+          "2026-11-17"
+        ]
+      ]
+    },
+    {
+      "title": "NPR Music · Redaksjonens radar",
       "source": "NPR Music",
       "url": "https://www.lpm.org/music/2026-11-20/new-music-friday-the-best-albums-out-nov-20",
       "items": [
@@ -26,10 +130,11 @@
           "Lael Neale",
           "As Killers Do"
         ]
-      ]
+      ],
+      "kind": "previous"
     },
     {
-      "title": "Nye album",
+      "title": "Exclaim! · Nye album",
       "source": "Exclaim!",
       "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
       "items": [
@@ -53,10 +158,11 @@
           "Sheherazaad",
           "Khudgarzi"
         ]
-      ]
+      ],
+      "kind": "previous"
     },
     {
-      "title": "Nye singler",
+      "title": "Official Charts · Nye singler",
       "source": "Official Charts",
       "url": "https://www.officialcharts.com/chart-news/new-music-friday-20-november-2026/",
       "items": [
@@ -76,10 +182,11 @@
           "Madra Salach",
           "Serrach"
         ]
-      ]
+      ],
+      "kind": "previous"
     },
     {
-      "title": "Kommer 27. november",
+      "title": "Exclaim! · Kommer 27. november",
       "source": "Exclaim!",
       "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
       "items": [
@@ -99,7 +206,8 @@
           "Björk",
           "Björk Orchestral with the Hamrahlíð Choir"
         ]
-      ]
+      ],
+      "kind": "previous"
     }
   ]
 }
