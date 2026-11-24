@@ -1,0 +1,1 @@
+import cover from './netlify/functions/cover.mjs';export default {async fetch(request,env){if(new URL(request.url).pathname==='/.netlify/functions/cover')return cover(request);return env.ASSETS.fetch(request)}};
