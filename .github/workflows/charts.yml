@@ -22,6 +22,7 @@ jobs:
           import json, urllib.request, concurrent.futures
           from pathlib import Path
           from datetime import datetime, timezone
+          today=datetime.now(timezone.utc).date().isoformat()
           root=Path('charts')
           root.mkdir(exist_ok=True)
           countries='AF AL DZ AO AI AG AR AM AU AT AZ BS BH BD BB BY BE BZ BJ BM BT BO BA BW BR BN BG BF BI KH CM CA CV KY TD CL CN CO KM CG CD CR CI HR CY CZ DK DJ DM DO EC EG SV GQ ER EE SZ ET FJ FI FR GA GM GE DE GH GR GD GT GN GW GY HT HN HK HU IS IN ID IQ IE IL IT JM JP JO KZ KE KI KR KW KG LA LV LB LS LR LY LT LU MO MG MW MY MV ML MT MR MU MX MD MN ME MS MA MZ MM NA NR NP NL NZ NI NE NG MK NO OM PK PW PS PA PG PY PE PH PL PT QA RO RW KN LC VC WS SM ST SA SN RS SC SL SG SK SI SB SO ZA ES LK SR SE CH TW TJ TZ TH TL TG TO TT TN TR TM TC UG UA AE GB US UY UZ VU VE VN YE ZM ZW'.split()
@@ -32,7 +33,22 @@ jobs:
                       feed=json.load(r)['feed']
                   rows=[dict(rank=i+1,title=x['name'],artist=x['artistName'],artwork=x.get('artworkUrl100','')) for i,x in enumerate(feed['results'])]
                   if not rows: raise ValueError('Empty feed')
-                  (root/f'{c}.json').write_text(json.dumps(dict(date=feed.get('updated','')[:10],entries=rows),ensure_ascii=False))
+                  p=root/f'{c}.json'
+                  old=json.loads(p.read_text()) if p.exists() else None
+                  history=root/'history'/c
+                  history.mkdir(parents=True,exist_ok=True)
+                  if old:
+                      day=old.get('date','')[:10]
+                      if len(day)==10 and not (history/f'{day}.json').exists(): (history/f'{day}.json').write_text(json.dumps(old,ensure_ascii=False))
+                  previous=next((json.loads(q.read_text()) for q in sorted(history.glob('*.json'),reverse=True) if q.stem<today),None)
+                  if previous:
+                      ranks={(x['artist'].casefold(),x['title'].casefold()):x['rank'] for x in previous['entries']}
+                      for row in rows:
+                          row['previousRank']=ranks.get((row['artist'].casefold(),row['title'].casefold()))
+                  data=dict(date=today,entries=rows,comparisonDate=previous.get('date') if previous else None)
+                  p.write_text(json.dumps(data,ensure_ascii=False))
+                  (history/f'{today}.json').write_text(json.dumps(data,ensure_ascii=False))
+                  (history/'index.json').write_text(json.dumps(sorted((q.stem for q in history.glob('????-??-??.json')),reverse=True)))
                   return c,dict(count=len(rows),status='ok')
               except Exception as e:
                   print(c,str(e),flush=True)
