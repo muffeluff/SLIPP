@@ -1,0 +1,41 @@
+name: Punk app icon
+on:
+  push:
+    paths:
+      - .github/workflows/punk-icon.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  icon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: |
+          python - <<'PY'
+          from PIL import Image
+          import json
+          from pathlib import Path
+          im=Image.open('43424450-35BA-425D-8F38-969FB96D5803.png').convert('RGB')
+          w,h=im.size
+          crop=im.crop((round(w*.10),round(h*.13),round(w*.345),round(h*.94)))
+          crop.thumbnail((390,390),Image.Resampling.LANCZOS)
+          out=Image.new('RGB',(512,512),(0,0,0))
+          out.paste(crop,((512-crop.width)//2,(512-crop.height)//2))
+          out.save('punk-icon.png')
+          p=Path('manifest.json')
+          d=json.loads(p.read_text())
+          d.update(background_color='#0b0b0b',theme_color='#0b0b0b',icons=[dict(src='punk-icon.png',sizes='512x512',type='image/png')])
+          p.write_text(json.dumps(d))
+          p=Path('index.html')
+          p.write_text(p.read_text().replace('rel="apple-touch-icon" href="icon.png"','rel="apple-touch-icon" href="punk-icon.png"'))
+          p=Path('sw.js')
+          p.write_text(p.read_text().replace('slipp-v52','slipp-v53').replace("'./icon.png'","'./icon.png','./punk-icon.png'"))
+          PY
+      - run: |
+          git config user.name "SLIPP automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add punk-icon.png manifest.json index.html sw.js
+          git diff --cached --quiet || git commit -m "Install single S punk app icon"
+          git push
