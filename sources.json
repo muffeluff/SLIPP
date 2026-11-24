@@ -671,6 +671,36 @@
       "status": "pending_test",
       "type": "label",
       "lastChecked": null
+    },
+    {
+      "id": "therockpit.net",
+      "name": "The Rockpit",
+      "website": "https://www.therockpit.net/",
+      "genres": [
+        "Rock"
+      ],
+      "rssCandidates": [
+        "https://www.therockpit.net/feed/"
+      ],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
+    },
+    {
+      "id": "rapreviews.com",
+      "name": "RapReviews",
+      "website": "https://www.rapreviews.com/",
+      "genres": [
+        "Hip-hop"
+      ],
+      "rssCandidates": [
+        "https://www.rapreviews.com/feed/"
+      ],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null
     }
   ]
 }
