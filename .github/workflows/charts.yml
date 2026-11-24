@@ -1,0 +1,52 @@
+name: Country charts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '45 3 * * *'
+  push:
+    branches: [main]
+    paths: [.github/workflows/charts.yml]
+permissions:
+  contents: write
+concurrency:
+  group: country-charts
+  cancel-in-progress: false
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python - <<'PY'
+          import json, urllib.request, concurrent.futures
+          from pathlib import Path
+          from datetime import datetime, timezone
+          root=Path('charts')
+          root.mkdir(exist_ok=True)
+          countries='AF AL DZ AO AI AG AR AM AU AT AZ BS BH BD BB BY BE BZ BJ BM BT BO BA BW BR BN BG BF BI KH CM CA CV KY TD CL CN CO KM CG CD CR CI HR CY CZ DK DJ DM DO EC EG SV GQ ER EE SZ ET FJ FI FR GA GM GE DE GH GR GD GT GN GW GY HT HN HK HU IS IN ID IQ IE IL IT JM JP JO KZ KE KI KR KW KG LA LV LB LS LR LY LT LU MO MG MW MY MV ML MT MR MU MX MD MN ME MS MA MZ MM NA NR NP NL NZ NI NE NG MK NO OM PK PW PS PA PG PY PE PH PL PT QA RO RW KN LC VC WS SM ST SA SN RS SC SL SG SK SI SB SO ZA ES LK SR SE CH TW TJ TZ TH TL TG TO TT TN TR TM TC UG UA AE GB US UY UZ VU VE VN YE ZM ZW'.split()
+          def fetch(c):
+              try:
+                  url=f'https://rss.applemarketingtools.com/api/v2/{c.lower()}/music/most-played/100/songs.json'
+                  with urllib.request.urlopen(url,timeout=15) as r:
+                      feed=json.load(r)['feed']
+                  rows=[dict(rank=i+1,title=x['name'],artist=x['artistName'],artwork=x.get('artworkUrl100','')) for i,x in enumerate(feed['results'])]
+                  if not rows: raise ValueError('Empty feed')
+                  (root/f'{c}.json').write_text(json.dumps(dict(date=feed.get('updated','')[:10],entries=rows),ensure_ascii=False))
+                  return c,dict(count=len(rows),status='ok')
+              except Exception as e:
+                  print(c,str(e),flush=True)
+                  return c,dict(status='stale' if (root/f'{c}.json').exists() else 'unavailable')
+          with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+              coverage=dict(pool.map(fetch,countries))
+          (root/'index.json').write_text(json.dumps(dict(updated=datetime.now(timezone.utc).isoformat(),countries=coverage)))
+          PY
+      - run: |
+          git config user.name "SLIPP chart bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add charts
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh country charts"
+            git pull --rebase origin main
+            git push
+          fi
