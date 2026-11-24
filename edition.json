@@ -15,7 +15,15 @@
           {
             "releaseDate": "2026-11-06",
             "label": "Populært nå",
-            "articles": [],
+            "articles": [
+              {
+                "source": "Pitchfork",
+                "title": "O My Beloved",
+                "url": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
+                "published": "2026-11-09",
+                "verified": true
+              }
+            ],
             "signals": [
               {
                 "source": "Apple Music v2",
@@ -90,7 +98,22 @@
           {
             "releaseDate": "2026-11-13",
             "label": "Populært nå",
-            "articles": [],
+            "articles": [
+              {
+                "source": "Pitchfork",
+                "title": "No Human Tongue Can Tell",
+                "url": "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+                "published": "2026-11-19",
+                "verified": true
+              },
+              {
+                "source": "The Guardian",
+                "title": "No Human Tongue Can Tell",
+                "url": "https://www.theguardian.com/music/2026/oct/30/radie-peat-no-human-tongue-can-tell-review",
+                "published": "2026-10-30",
+                "verified": true
+              }
+            ],
             "signals": [
               {
                 "source": "iTunes Store purchases",
@@ -1429,7 +1452,15 @@
           {
             "releaseDate": "2026-11-20",
             "label": "Populært nå",
-            "articles": [],
+            "articles": [
+              {
+                "source": "laut.de",
+                "title": "Mystic Meltdown",
+                "url": "https://laut.de/Acid-Pauli/Alben/Mystic-Meltdown-127644",
+                "published": "2026-11-20",
+                "verified": true
+              }
+            ],
             "signals": [
               {
                 "source": "iTunes Store purchases",
@@ -1488,7 +1519,7 @@
   ],
   "mustListen": {
     "date": "2026-11-24",
-    "method": "Foreløpig testutgave: iTunes-kjøp og Apple Music-strømming, ingen verifiserte redaksjonelle anbefalinger",
+    "method": "Test: prioriter uavhengige listeleverandører, deretter Apple-landslister. Anmeldelser er valgfrie.",
     "albums": [
       [
         "Kings of Leon",
@@ -1499,7 +1530,15 @@
         {
           "releaseDate": "2026-11-06",
           "label": "Populært nå",
-          "articles": [],
+          "articles": [
+            {
+              "source": "Pitchfork",
+              "title": "O My Beloved",
+              "url": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
+              "published": "2026-11-09",
+              "verified": true
+            }
+          ],
           "signals": [
             {
               "source": "Apple Music v2",
@@ -1566,6 +1605,81 @@
         }
       ],
       [
+        "James Blunt",
+        "Airplane Mode",
+        "Pop",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-06",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "iTunes Store purchases",
+              "country": "gb",
+              "rank": 2,
+              "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "Apple Music v2",
+              "country": "se",
+              "rank": 88,
+              "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "se",
+              "rank": 55,
+              "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "Apple Music v2",
+              "country": "de",
+              "rank": 78,
+              "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "de",
+              "rank": 41,
+              "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "fr",
+              "rank": 77,
+              "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "Apple Music v2",
+              "country": "au",
+              "rank": 70,
+              "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "au",
+              "rank": 45,
+              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "Apple Music v2",
+              "country": "nl",
+              "rank": 47,
+              "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "nl",
+              "rank": 52,
+              "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/gb/album/airplane-mode/6805055407?uo=4"
+        }
+      ],
+      [
         "Radie Peat",
         "No Human Tongue Can Tell",
         "Alternative",
@@ -1574,7 +1688,22 @@
         {
           "releaseDate": "2026-11-13",
           "label": "Populært nå",
-          "articles": [],
+          "articles": [
+            {
+              "source": "Pitchfork",
+              "title": "No Human Tongue Can Tell",
+              "url": "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+              "published": "2026-11-19",
+              "verified": true
+            },
+            {
+              "source": "The Guardian",
+              "title": "No Human Tongue Can Tell",
+              "url": "https://www.theguardian.com/music/2026/oct/30/radie-peat-no-human-tongue-can-tell-review",
+              "published": "2026-10-30",
+              "verified": true
+            }
+          ],
           "signals": [
             {
               "source": "iTunes Store purchases",
@@ -1677,81 +1806,6 @@
             }
           ],
           "catalogUrl": "https://music.apple.com/gb/album/dreamers/6814543019?uo=4"
-        }
-      ],
-      [
-        "James Blunt",
-        "Airplane Mode",
-        "Pop",
-        "",
-        "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/100x100bb.jpg",
-        {
-          "releaseDate": "2026-11-06",
-          "label": "Populært nå",
-          "articles": [],
-          "signals": [
-            {
-              "source": "iTunes Store purchases",
-              "country": "gb",
-              "rank": 2,
-              "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
-            },
-            {
-              "source": "Apple Music v2",
-              "country": "se",
-              "rank": 88,
-              "url": "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/albums.json"
-            },
-            {
-              "source": "iTunes Store purchases",
-              "country": "se",
-              "rank": 55,
-              "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
-            },
-            {
-              "source": "Apple Music v2",
-              "country": "de",
-              "rank": 78,
-              "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
-            },
-            {
-              "source": "iTunes Store purchases",
-              "country": "de",
-              "rank": 41,
-              "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
-            },
-            {
-              "source": "iTunes Store purchases",
-              "country": "fr",
-              "rank": 77,
-              "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
-            },
-            {
-              "source": "Apple Music v2",
-              "country": "au",
-              "rank": 70,
-              "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
-            },
-            {
-              "source": "iTunes Store purchases",
-              "country": "au",
-              "rank": 45,
-              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
-            },
-            {
-              "source": "Apple Music v2",
-              "country": "nl",
-              "rank": 47,
-              "url": "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/albums.json"
-            },
-            {
-              "source": "iTunes Store purchases",
-              "country": "nl",
-              "rank": 52,
-              "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
-            }
-          ],
-          "catalogUrl": "https://music.apple.com/gb/album/airplane-mode/6805055407?uo=4"
         }
       ],
       [
