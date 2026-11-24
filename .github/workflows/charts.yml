@@ -55,6 +55,17 @@ jobs:
                   return c,dict(status='stale' if (root/f'{c}.json').exists() else 'unavailable')
           with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
               coverage=dict(pool.map(fetch,countries))
+          scores={}
+          for c,v in coverage.items():
+              if v['status']!='ok': continue
+              for row in json.loads((root/f'{c}.json').read_text())['entries']:
+                  key=(row['artist'].casefold(),row['title'].casefold())
+                  entry=scores.setdefault(key,dict(row,score=0))
+                  entry['score']+=101-row['rank']
+          if scores:
+              rows=sorted(scores.values(),key=lambda x:-x['score'])[:100]
+              for i,row in enumerate(rows): row['rank']=i+1
+              (root/'GLOBAL.json').write_text(json.dumps(dict(date=today,entries=rows,countryCount=sum(v['status']=='ok' for v in coverage.values())),ensure_ascii=False))
           (root/'index.json').write_text(json.dumps(dict(updated=datetime.now(timezone.utc).isoformat(),countries=coverage)))
           PY
       - run: |
