@@ -1,6 +1,8 @@
 name: SLIPP album covers
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '15 2 * * *'
   push:
     branches: [main]
     paths: [edition.json, genres.json, scripts/fill_covers.py, .github/workflows/covers.yml]
@@ -25,5 +27,5 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Fill verified album covers"
             git pull --rebase origin main
-          git push
+            git push
           fi
