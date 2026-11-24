@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:56:43.047559+00:00",
+  "updated": "2026-11-24T10:42:05.158455+00:00",
   "sources": [
     {
       "id": "pitchfork.com",
@@ -13,7 +13,7 @@
         "Electronica",
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:31.642054+00:00",
+      "checked": "2026-11-24T10:41:43.163073+00:00",
       "websiteStatus": 200,
       "feed": "https://pitchfork.com/feed/feed-album-reviews/rss",
       "entryCount": 29,
@@ -61,7 +61,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:31.643104+00:00",
+      "checked": "2026-11-24T10:41:43.163624+00:00",
       "websiteStatus": 200,
       "feed": "https://stereogum.com/feed",
       "entryCount": 40,
@@ -114,7 +114,7 @@
         "Rock",
         "Country"
       ],
-      "checked": "2026-11-24T09:56:31.643735+00:00",
+      "checked": "2026-11-24T10:41:43.166094+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -137,7 +137,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:31.644314+00:00",
+      "checked": "2026-11-24T10:41:43.167398+00:00",
       "websiteStatus": 200,
       "feed": "https://nme.com/feed/",
       "entryCount": 10,
@@ -157,6 +157,21 @@
       "errors": [],
       "sample": [
         {
+          "title": "‘You Can See Everything’ comes to streaming in the US",
+          "url": "https://www.nme.com/news/film/you-can-see-everything-streaming-release-date-us-uk-3976838",
+          "date": "Tue, 24 Nov 2026 10:35:26 +0000"
+        },
+        {
+          "title": "Don Toliver postpones two London arena gigs after fans left “screaming in pain” by mystery substance at Manchester’s Co-op Live",
+          "url": "https://www.nme.com/news/music/don-toliver-postpones-london-fans-screaming-pain-mystery-substance-manchester-3976832",
+          "date": "Tue, 24 Nov 2026 10:22:31 +0000"
+        },
+        {
+          "title": "Charlie Cox told he was too old to audition for Bond despite being “same age” as Robert Pattinson",
+          "url": "https://www.nme.com/news/film/charlie-cox-too-old-bond-audition-same-age-robert-pattinson-3976827",
+          "date": "Tue, 24 Nov 2026 10:08:23 +0000"
+        },
+        {
           "title": "Nick Cave & The Bad Seeds share previously unseen live footage from Manchester 1986 gig, as Cave works on lyrics for new album",
           "url": "https://www.nme.com/news/music/nick-cave-bad-seeds-live-footage-manchester-1986-lyrics-for-new-album-3976823",
           "date": "Tue, 24 Nov 2026 09:45:38 +0000"
@@ -165,21 +180,6 @@
           "title": "Sex Pistols and Frank Carter to end collab after final tour dates: “It’s been a glorious ride”",
           "url": "https://www.nme.com/news/sex-pistols-and-frank-carter-to-end-collab-after-final-tour-dates-its-been-a-glorious-ride-3976760",
           "date": "Tue, 24 Nov 2026 09:00:59 +0000"
-        },
-        {
-          "title": "With ‘33’, Hyukoh enter a new, more assured era: “Let’s push it as far as we possibly can”",
-          "url": "https://www.nme.com/features/music-interviews/hyukoh-33-interview-3976768",
-          "date": "Tue, 24 Nov 2026 09:00:36 +0000"
-        },
-        {
-          "title": "Today’s Wordle answer and hints for #1984 on November 24",
-          "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240",
-          "date": "Tue, 24 Nov 2026 00:01:34 +0000"
-        },
-        {
-          "title": "‘Connections’ answers and hints for today, November 24",
-          "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066",
-          "date": "Tue, 24 Nov 2026 00:00:27 +0000"
         }
       ],
       "status": "feed_available",
@@ -194,8 +194,8 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:31.644933+00:00",
-      "websiteStatus": 403,
+      "checked": "2026-11-24T10:41:43.168233+00:00",
+      "websiteStatus": 200,
       "feed": "https://brooklynvegan.com/feed/",
       "entryCount": 15,
       "datedEntries": 15,
@@ -239,7 +239,7 @@
         "Indie",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:31.645455+00:00",
+      "checked": "2026-11-24T10:41:43.169038+00:00",
       "websiteStatus": 200,
       "feed": "https://thelineofbestfit.com/feed/",
       "entryCount": 10,
@@ -286,7 +286,7 @@
         "Electronica",
         "Ambient"
       ],
-      "checked": "2026-11-24T09:56:31.905131+00:00",
+      "checked": "2026-11-24T10:41:43.510175+00:00",
       "websiteStatus": 200,
       "feed": "https://thequietus.com/feed/",
       "entryCount": 32,
@@ -342,7 +342,7 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:31.934401+00:00",
+      "checked": "2026-11-24T10:41:43.553563+00:00",
       "websiteStatus": 200,
       "feed": "https://www.kerrang.com/feed.rss",
       "entryCount": 1,
@@ -362,9 +362,9 @@
       "errors": [],
       "sample": [
         {
-          "title": "Sex Pistols confirm upcoming dates with Frank Carter will be his last with the band",
-          "url": "https://www.kerrang.com/sex-pistols-confirm-upcoming-dates-with-frank-carter-will-be-his-last-with-the-band",
-          "date": "Tue, 24 Nov 2026 09:00:00 +0000"
+          "title": "Biffy Clyro announce huge Scarborough Open Air show for next summer",
+          "url": "https://www.kerrang.com/biffy-clyro-announce-huge-scarborough-open-air-show-for-next-summer",
+          "date": "Tue, 24 Nov 2026 10:23:00 +0000"
         }
       ],
       "status": "feed_available",
@@ -378,7 +378,7 @@
         "Rock",
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:32.035616+00:00",
+      "checked": "2026-11-24T10:41:43.734886+00:00",
       "websiteStatus": 200,
       "feed": "https://www.loudersound.com/feeds.xml",
       "entryCount": 50,
@@ -429,7 +429,7 @@
         "Country",
         "Hip-hop"
       ],
-      "checked": "2026-11-24T09:56:32.255372+00:00",
+      "checked": "2026-11-24T10:41:43.821529+00:00",
       "websiteStatus": 200,
       "feed": "https://www.rollingstone.com/feed/rss/",
       "entryCount": 10,
@@ -478,7 +478,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T09:56:32.394393+00:00",
+      "checked": "2026-11-24T10:41:43.938937+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -509,7 +509,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T09:56:32.434006+00:00",
+      "checked": "2026-11-24T10:41:44.345135+00:00",
       "websiteStatus": 200,
       "feed": "https://savingcountrymusic.com/feed/",
       "entryCount": 38,
@@ -556,7 +556,7 @@
       "genres": [
         "Country"
       ],
-      "checked": "2026-11-24T09:56:32.534371+00:00",
+      "checked": "2026-11-24T10:41:44.415446+00:00",
       "websiteStatus": 200,
       "feed": "https://nodepression.org/rss/",
       "entryCount": 15,
@@ -613,7 +613,7 @@
         "Hip-hop",
         "Country"
       ],
-      "checked": "2026-11-24T09:56:32.594248+00:00",
+      "checked": "2026-11-24T10:41:44.605935+00:00",
       "websiteStatus": 200,
       "feed": "https://www.billboard.com/feed/rss/",
       "entryCount": 10,
@@ -661,7 +661,7 @@
         "Indie",
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:32.909359+00:00",
+      "checked": "2026-11-24T10:41:44.628232+00:00",
       "websiteStatus": 200,
       "feed": "https://www.popmatters.com/feed",
       "entryCount": 200,
@@ -716,7 +716,7 @@
       "genres": [
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:32.934949+00:00",
+      "checked": "2026-11-24T10:41:44.645213+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -739,7 +739,7 @@
       "genres": [
         "Hip-hop"
       ],
-      "checked": "2026-11-24T09:56:33.566533+00:00",
+      "checked": "2026-11-24T10:41:44.990641+00:00",
       "websiteStatus": 200,
       "feed": "https://www.xxlmag.com/feed/",
       "entryCount": 35,
@@ -783,7 +783,7 @@
       "genres": [
         "Hip-hop"
       ],
-      "checked": "2026-11-24T09:56:33.734595+00:00",
+      "checked": "2026-11-24T10:41:45.387940+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -806,7 +806,7 @@
         "Pop",
         "Indie"
       ],
-      "checked": "2026-11-24T09:56:33.789411+00:00",
+      "checked": "2026-11-24T10:41:45.709030+00:00",
       "websiteStatus": 200,
       "feed": "https://thefader.com/feed/",
       "entryCount": 20,
@@ -850,22 +850,19 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:33.792795+00:00",
-      "websiteStatus": 200,
+      "checked": "2026-11-24T10:41:45.823260+00:00",
+      "websiteStatus": null,
       "feed": null,
       "entryCount": 0,
       "datedEntries": 0,
-      "reviewCandidates": [
-        "https://downbeat.com/reviews",
-        "https://downbeat.com/reviews",
-        "https://downbeat.com/reviews"
-      ],
+      "reviewCandidates": [],
       "errors": [
+        "HTTPSConnectionPool(host='downbeat.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='downbeat.com', port=443) at 0x74b3d52f5090>, 'Connection to downbeat.com timed out. (connect timeout=12)'))",
         "404 Client Error: Not Found for url: https://downbeat.com/feed/",
         "404 Client Error: Not Found for url: https://downbeat.com/rss",
         "404 Client Error: Not Found for url: https://downbeat.com/rss.xml"
       ],
-      "status": "website_only",
+      "status": "needs_review",
       "editorialVerification": "manual_review_required"
     },
     {
@@ -875,7 +872,7 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:34.144257+00:00",
+      "checked": "2026-11-24T10:41:46.257527+00:00",
       "websiteStatus": null,
       "feed": null,
       "entryCount": 0,
@@ -897,7 +894,7 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:34.272059+00:00",
+      "checked": "2026-11-24T10:41:46.297497+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -922,7 +919,7 @@
       "genres": [
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:34.767425+00:00",
+      "checked": "2026-11-24T10:41:47.046520+00:00",
       "websiteStatus": 200,
       "feed": "https://ukjazznews.com/feed/",
       "entryCount": 10,
@@ -977,7 +974,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:34.807423+00:00",
+      "checked": "2026-11-24T10:41:47.072392+00:00",
       "websiteStatus": 200,
       "feed": "https://www.decibelmagazine.com/feed/",
       "entryCount": 10,
@@ -1021,7 +1018,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:35.187076+00:00",
+      "checked": "2026-11-24T10:41:47.526148+00:00",
       "websiteStatus": 403,
       "feed": "https://metalinjection.net/feed/",
       "entryCount": 25,
@@ -1065,7 +1062,7 @@
       "genres": [
         "Metal"
       ],
-      "checked": "2026-11-24T09:56:35.339743+00:00",
+      "checked": "2026-11-24T10:41:47.710241+00:00",
       "websiteStatus": 200,
       "feed": "https://www.angrymetalguy.com/feed/",
       "entryCount": 10,
@@ -1125,7 +1122,7 @@
         "UK Garage",
         "Ambient"
       ],
-      "checked": "2026-11-24T09:56:35.391193+00:00",
+      "checked": "2026-11-24T10:41:48.148365+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -1150,7 +1147,7 @@
         "Trance",
         "Disco"
       ],
-      "checked": "2026-11-24T09:56:35.641151+00:00",
+      "checked": "2026-11-24T10:41:48.320487+00:00",
       "websiteStatus": 200,
       "feed": "https://mixmag.net/rss.xml",
       "entryCount": 80,
@@ -1199,7 +1196,7 @@
         "Trance",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T09:56:35.855647+00:00",
+      "checked": "2026-11-24T10:41:48.754696+00:00",
       "websiteStatus": 200,
       "feed": "https://djmag.com/feed/",
       "entryCount": 30,
@@ -1250,17 +1247,15 @@
         "Ambient",
         "Elektronisk"
       ],
-      "checked": "2026-11-24T09:56:36.072628+00:00",
-      "websiteStatus": 200,
-      "feed": "https://www.electronicsound.co.uk/feed/",
+      "checked": "2026-11-24T10:41:49.003108+00:00",
+      "websiteStatus": null,
+      "feed": "https://electronicsound.co.uk/feed/",
       "entryCount": 10,
       "datedEntries": 10,
-      "reviewCandidates": [
-        "https://www.electronicsound.co.uk/category/reviews/",
-        "https://www.electronicsound.co.uk/category/reviews/",
-        "https://www.electronicsound.co.uk/category/reviews/"
+      "reviewCandidates": [],
+      "errors": [
+        "HTTPSConnectionPool(host='electronicsound.co.uk', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='electronicsound.co.uk', port=443) at 0x74b3d52f5590>, 'Connection to electronicsound.co.uk timed out. (connect timeout=12)'))"
       ],
-      "errors": [],
       "sample": [
         {
           "title": "Lewis ‘L’amour’ (Light In The Attic, 2014 (Reissue))",
@@ -1307,7 +1302,7 @@
         "Drum & Bass",
         "UK Garage"
       ],
-      "checked": "2026-11-24T09:56:36.288265+00:00",
+      "checked": "2026-11-24T10:41:49.785427+00:00",
       "websiteStatus": 200,
       "feed": "https://daily.bandcamp.com/feed/",
       "entryCount": 37,
@@ -1353,7 +1348,7 @@
         "House",
         "Techno"
       ],
-      "checked": "2026-11-24T09:56:36.353758+00:00",
+      "checked": "2026-11-24T10:41:49.800918+00:00",
       "websiteStatus": 200,
       "feed": "https://xlr8r.com/feed/",
       "entryCount": 10,
@@ -1409,7 +1404,7 @@
         "UK Garage",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T09:56:36.568075+00:00",
+      "checked": "2026-11-24T10:41:50.000350+00:00",
       "websiteStatus": 200,
       "feed": "https://ukf.com/feed/",
       "entryCount": 10,
@@ -1455,7 +1450,7 @@
         "House",
         "Electronica"
       ],
-      "checked": "2026-11-24T09:56:36.849577+00:00",
+      "checked": "2026-11-24T10:41:50.304269+00:00",
       "websiteStatus": 200,
       "feed": "https://groove.de/feed/",
       "entryCount": 10,
@@ -1480,7 +1475,7 @@
           "date": "Mon, 23 Nov 2026 17:35:22 +0000"
         },
         {
-          "title": "„Go Hard or Go Home: An Oral History of Hard House & Hard Dance“: Velocity Press veröffentlicht erste Hard-House-Monografie",
+          "title": "„Go Hard or Go Home“: Velocity Press veröffentlicht erste Hard-House-Monografie",
           "url": "https://groove.de/2026/11/23/go-hard-or-go-home-an-oral-history-of-hard-house-hard-dance-velocity-press-veroeffentlicht-erste-hard-house-monografie/",
           "date": "Mon, 23 Nov 2026 16:25:55 +0000"
         },
@@ -1510,7 +1505,7 @@
       "genres": [
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T09:56:36.879286+00:00",
+      "checked": "2026-11-24T10:41:51.768773+00:00",
       "websiteStatus": 200,
       "feed": "https://www.drumandbass.nl/feed/",
       "entryCount": 10,
@@ -1555,7 +1550,7 @@
         "Ambient",
         "Electronica"
       ],
-      "checked": "2026-11-24T09:56:37.032335+00:00",
+      "checked": "2026-11-24T10:41:51.884502+00:00",
       "websiteStatus": 200,
       "feed": "https://acloserlisten.com/feed/",
       "entryCount": 8,
@@ -1604,7 +1599,7 @@
         "UK Garage",
         "Drum & Bass"
       ],
-      "checked": "2026-11-24T09:56:37.360480+00:00",
+      "checked": "2026-11-24T10:41:52.260233+00:00",
       "websiteStatus": 403,
       "feed": null,
       "entryCount": 0,
@@ -1626,7 +1621,7 @@
         "Disco",
         "House"
       ],
-      "checked": "2026-11-24T09:56:37.375016+00:00",
+      "checked": "2026-11-24T10:41:52.614315+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -1645,7 +1640,7 @@
         "Electronica",
         "Jazz"
       ],
-      "checked": "2026-11-24T09:56:37.664787+00:00",
+      "checked": "2026-11-24T10:41:52.730630+00:00",
       "websiteStatus": 200,
       "feed": "https://thewire.co.uk/rss",
       "entryCount": 89,
@@ -1702,13 +1697,15 @@
         "Country",
         "Ambient"
       ],
-      "checked": "2026-11-24T09:56:38.019937+00:00",
-      "websiteStatus": 200,
+      "checked": "2026-11-24T10:41:52.803282+00:00",
+      "websiteStatus": null,
       "feed": "https://aquariumdrunkard.com/feed/",
       "entryCount": 15,
       "datedEntries": 15,
       "reviewCandidates": [],
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443) at 0x74b3d54c3250>, 'Connection to aquariumdrunkard.com timed out. (connect timeout=12)'))"
+      ],
       "sample": [
         {
           "title": "Fine :: Jazz Dreams",
@@ -1749,7 +1746,7 @@
         "Hip-hop",
         "Elektronisk"
       ],
-      "checked": "2026-11-24T09:56:38.452488+00:00",
+      "checked": "2026-11-24T10:41:53.186592+00:00",
       "websiteStatus": 200,
       "feed": "https://clashmusic.com/feed/",
       "entryCount": 10,
@@ -1760,29 +1757,29 @@
       "errors": [],
       "sample": [
         {
-          "title": "Wormogenic Is Creating Her Own Pop Universe with Debut EP ‘bandaids’",
-          "url": "https://www.clashmusic.com/news/wormogenic-is-creating-her-own-pop-universe-with-debut-ep-bandaids/",
-          "date": "Fri, 20 Nov 2026 18:31:01 +0000"
+          "title": "BICEP Will Headline Bristol’s FORWARDS Festival",
+          "url": "https://www.clashmusic.com/live/bicep-will-headline-bristols-forwards-festival/",
+          "date": "Tue, 24 Nov 2026 10:32:36 +0000"
         },
         {
-          "title": "“Our Connection Is What Makes Us Special” JUST YOUR TYPE Interviewed",
-          "url": "https://www.clashmusic.com/features/our-connection-is-what-makes-us-special-just-your-type-interviewed/",
-          "date": "Fri, 20 Nov 2026 17:29:03 +0000"
+          "title": "Jamie T, Biffy Clyro For Truck Festival 2027",
+          "url": "https://www.clashmusic.com/live/jamie-t-biffy-clyro-for-truck-festival-2027/",
+          "date": "Tue, 24 Nov 2026 10:23:58 +0000"
         },
         {
-          "title": "Tems Shares Powerful Single ‘African Love Story’",
-          "url": "https://www.clashmusic.com/news/tems-shares-powerful-single-african-love-story/",
-          "date": "Fri, 20 Nov 2026 17:21:56 +0000"
+          "title": "Amahla Shines On New Project ‘a little hope’",
+          "url": "https://www.clashmusic.com/news/amahla-shines-on-new-project-a-little-hope/",
+          "date": "Tue, 24 Nov 2026 10:04:23 +0000"
         },
         {
-          "title": "Live Report: Soweto Kinch And LSO – Trilogy At The Barbican, London",
-          "url": "https://www.clashmusic.com/live/live-report-soweto-kinch-and-lso-trilogy-at-the-barbican-london/",
-          "date": "Fri, 20 Nov 2026 17:09:07 +0000"
+          "title": "The Umbrellas Conjure Jangle-Pop Heaven With ‘Tomorrow’",
+          "url": "https://www.clashmusic.com/news/the-umbrellas-conjure-jangle-pop-heaven-with-tomorrow/",
+          "date": "Tue, 24 Nov 2026 09:50:44 +0000"
         },
         {
-          "title": "Finding Beauty In The Brutal: Kwamie Liv Interviewed",
-          "url": "https://www.clashmusic.com/features/finding-beauty-in-the-brutal-kwamie-liv-interviewed/",
-          "date": "Fri, 20 Nov 2026 15:58:21 +0000"
+          "title": "George FitzGerald, Lil Silva Re-Unite For ‘If You Wait’",
+          "url": "https://www.clashmusic.com/news/george-fitzgerald-lil-silva-re-unite-for-if-you-wait/",
+          "date": "Tue, 24 Nov 2026 09:40:44 +0000"
         }
       ],
       "status": "feed_available",
@@ -1798,7 +1795,7 @@
         "Metal",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:38.610555+00:00",
+      "checked": "2026-11-24T10:41:54.766377+00:00",
       "websiteStatus": 200,
       "feed": "https://consequence.net/feed/",
       "entryCount": 15,
@@ -1855,7 +1852,7 @@
         "Indie",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:38.756278+00:00",
+      "checked": "2026-11-24T10:41:54.998573+00:00",
       "websiteStatus": 200,
       "feed": "https://spin.com/feed/",
       "entryCount": 10,
@@ -1904,7 +1901,7 @@
         "Rock",
         "Pop"
       ],
-      "checked": "2026-11-24T09:56:39.092729+00:00",
+      "checked": "2026-11-24T10:41:55.897799+00:00",
       "websiteStatus": 200,
       "feed": "https://diymag.com/feeds/all",
       "entryCount": 50,
@@ -1952,7 +1949,7 @@
         "House",
         "Disco"
       ],
-      "checked": "2026-11-24T09:56:39.339101+00:00",
+      "checked": "2026-11-24T10:41:55.909370+00:00",
       "websiteStatus": 200,
       "feed": null,
       "entryCount": 0,
@@ -1964,6 +1961,82 @@
         "404 Client Error: Not Found for url: https://defected.com/rss.xml"
       ],
       "status": "website_only",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "therockpit.net",
+      "name": "The Rockpit",
+      "type": "editorial",
+      "genres": [
+        "Rock"
+      ],
+      "checked": "2026-11-24T10:41:57.424815+00:00",
+      "websiteStatus": 403,
+      "feed": null,
+      "entryCount": 0,
+      "datedEntries": 0,
+      "reviewCandidates": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.therockpit.net/feed/",
+        "403 Client Error: Forbidden for url: https://www.therockpit.net/rss",
+        "403 Client Error: Forbidden for url: https://www.therockpit.net/rss.xml"
+      ],
+      "status": "needs_review",
+      "editorialVerification": "manual_review_required"
+    },
+    {
+      "id": "rapreviews.com",
+      "name": "RapReviews",
+      "type": "editorial",
+      "genres": [
+        "Hip-hop"
+      ],
+      "checked": "2026-11-24T10:41:57.642860+00:00",
+      "websiteStatus": 200,
+      "feed": "https://www.rapreviews.com/feed/",
+      "entryCount": 6,
+      "datedEntries": 6,
+      "reviewCandidates": [
+        "https://www.rapreviews.com/category/year-in-review/",
+        "https://www.rapreviews.com/category/review/",
+        "https://www.rapreviews.com/category/year-in-review/",
+        "https://www.rapreviews.com/category/review/",
+        "https://www.rapreviews.com/category/year-in-review/",
+        "https://www.rapreviews.com/category/review/",
+        "https://www.rapreviews.com/2026/11/an-important-notice-to-patreon-supporters/",
+        "https://www.rapreviews.com/2026/11/an-important-notice-to-patreon-supporters/",
+        "https://www.rapreviews.com/category/review/",
+        "https://www.rapreviews.com/category/year-in-review/"
+      ],
+      "errors": [],
+      "sample": [
+        {
+          "title": "Conway the Machine :: OTIS",
+          "url": "https://www.rapreviews.com/2026/11/conway-the-machine-otis/",
+          "date": "Tue, 24 Nov 2026 00:05:00 +0000"
+        },
+        {
+          "title": "Wiz Khalifa :: Cool",
+          "url": "https://www.rapreviews.com/2026/11/wiz-khalifa-cool/",
+          "date": "Tue, 24 Nov 2026 00:04:00 +0000"
+        },
+        {
+          "title": "Benny the Butcher x Fuego Base :: A Friend of Ours 2",
+          "url": "https://www.rapreviews.com/2026/11/benny-the-butcher-x-fuego-base-a-friend-of-ours-2/",
+          "date": "Tue, 24 Nov 2026 00:03:00 +0000"
+        },
+        {
+          "title": "DigiGhouls :: GhoulzHexx2020",
+          "url": "https://www.rapreviews.com/2026/11/digighouls-ghoulzhexx2020/",
+          "date": "Tue, 24 Nov 2026 00:02:00 +0000"
+        },
+        {
+          "title": "Westside Gunn :: Heelmatic",
+          "url": "https://www.rapreviews.com/2026/11/westside-gunn-heelmatic/",
+          "date": "Tue, 24 Nov 2026 00:01:00 +0000"
+        }
+      ],
+      "status": "feed_available",
       "editorialVerification": "manual_review_required"
     }
   ]
