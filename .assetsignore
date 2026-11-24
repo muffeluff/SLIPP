@@ -1,0 +1,7 @@
+.git/
+.github/
+netlify/
+worker.mjs
+wrangler.jsonc
+.assetsignore
+node_modules/
