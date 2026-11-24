@@ -1,10 +1,27 @@
 {
-  "updated": "2026-11-24T14:51:25.349Z",
+  "updated": "2026-11-24T14:53:30.008Z",
   "releases": [
     {
       "artist": "Kings of Leon",
       "title": "O My Beloved",
-      "articles": []
+      "articles": [
+        {
+          "source": "Pitchfork",
+          "title": "Kings of Leon – O My Beloved (review)",
+          "url": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
+          "published": "2026-11-09",
+          "verified": true,
+          "verification": "search-result-match"
+        },
+        {
+          "source": "Hot Press",
+          "title": "Kings of Leon – O My Beloved (review)",
+          "url": "https://www.hotpress.com/music/album-review-kings-of-leon-o-my-beloved-23168182",
+          "published": "2026-11-06",
+          "verified": true,
+          "verification": "search-result-match"
+        }
+      ]
     },
     {
       "artist": "James Blunt",
@@ -14,12 +31,54 @@
     {
       "artist": "Radie Peat",
       "title": "No Human Tongue Can Tell",
-      "articles": []
+      "articles": [
+        {
+          "source": "Pitchfork",
+          "title": "Radie Peat – No Human Tongue Can Tell (review)",
+          "url": "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+          "published": "2026-11-19",
+          "verified": true,
+          "verification": "search-result-match"
+        },
+        {
+          "source": "The Guardian",
+          "title": "Radie Peat – No Human Tongue Can Tell (review)",
+          "url": "https://www.theguardian.com/music/2026/oct/30/radie-peat-no-human-tongue-can-tell-review",
+          "published": "2026-10-30",
+          "verified": true,
+          "verification": "search-result-match"
+        },
+        {
+          "source": "The Irish Times",
+          "title": "Radie Peat – No Human Tongue Can Tell (review)",
+          "url": "https://www.irishtimes.com/culture/music/review/2026/11/13/radie-peat-no-human-tongue-can-tell-review-glorious-album-from-a-voice-that-conveys-vulnerability-anger-and-defiance-all-at-once/",
+          "published": "2026-11-13",
+          "verified": true,
+          "verification": "search-result-match"
+        },
+        {
+          "source": "The Line of Best Fit",
+          "title": "Radie Peat – No Human Tongue Can Tell (review)",
+          "url": "https://www.thelineofbestfit.com/albums/radie-peat-makes-a-home-in-other-womens-sorrow-on-no-human-tongue-can-tell",
+          "published": "2026-11-17",
+          "verified": true,
+          "verification": "search-result-match"
+        }
+      ]
     },
     {
       "artist": "Take That",
       "title": "Dreamers",
-      "articles": []
+      "articles": [
+        {
+          "source": "The Guardian",
+          "title": "Take That – Dreamers (review)",
+          "url": "https://www.theguardian.com/music/2026/nov/20/take-that-dreamers-review-nostalgia",
+          "published": "2026-11-20",
+          "verified": true,
+          "verification": "search-result-match"
+        }
+      ]
     },
     {
       "artist": "Mack Geiger",
@@ -48,7 +107,16 @@
     {
       "artist": "beabadoobee",
       "title": "No Punctuation",
-      "articles": []
+      "articles": [
+        {
+          "source": "Music Talkers",
+          "title": "beabadoobee – No Punctuation (review)",
+          "url": "https://musictalkers.com/reviews/10486-beabadoobee-finds-comfort-in-the-quiet-on-no-punctuation",
+          "published": "2026-11-24",
+          "verified": true,
+          "verification": "search-result-match"
+        }
+      ]
     },
     {
       "artist": "Blondie",
