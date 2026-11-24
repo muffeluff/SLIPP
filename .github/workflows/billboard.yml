@@ -18,11 +18,22 @@ jobs:
       - run: pip install billboard.py
       - run: |
           python - <<'PY'
-          import billboard,json
-          c=billboard.ChartData('hot-100',timeout=30)
-          entries=[dict(rank=x.rank,title=x.title,artist=x.artist,artwork=x.image or '') for x in c]
+          import billboard,json,urllib.request
+          from datetime import date
+          try:
+              c=billboard.ChartData('hot-100',timeout=30)
+              entries=[dict(rank=x.rank,title=x.title,artist=x.artist,artwork=getattr(x,'image','') or '') for x in c]
+              chart_date=c.date
+              assert len(entries)==100
+          except Exception as e:
+              print('Primary source failed:',e)
+              with urllib.request.urlopen('https://raw.githubusercontent.com/mhollingshead/billboard-hot-100/main/recent.json',timeout=30) as response:
+                  data=json.load(response)
+              chart_date=data['date']
+              entries=[dict(rank=x['this_week'],title=x['song'],artist=x['artist'],artwork='') for x in data['data']]
+          assert 0 <= (date.today()-date.fromisoformat(chart_date)).days <= 14 or -7 <= (date.today()-date.fromisoformat(chart_date)).days < 0
           assert len(entries)==100 and [x['rank'] for x in entries]==list(range(1,101))
-          with open('billboard.json','w') as f: json.dump(dict(date=c.date,entries=entries),f,ensure_ascii=False,indent=2)
+          with open('billboard.json','w') as f: json.dump(dict(date=chart_date,entries=entries),f,ensure_ascii=False,indent=2)
           PY
       - run: |
           git config user.name "SLIPP chart bot"
