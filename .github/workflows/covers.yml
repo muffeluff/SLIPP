@@ -24,5 +24,6 @@ jobs:
           git add edition.json genres.json
           if ! git diff --cached --quiet; then
             git commit -m "Fill verified album covers"
-            git push
+            git pull --rebase origin main
+          git push
           fi
