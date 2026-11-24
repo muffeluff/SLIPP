@@ -1,0 +1,64 @@
+name: Editorial source audit
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 4 * * 1'
+  push:
+    branches: [main]
+    paths: [.github/workflows/sources.yml, sources.json]
+permissions:
+  contents: write
+concurrency:
+  group: source-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install feedparser requests beautifulsoup4
+      - run: |
+          python - <<'PY'
+          import json, requests, feedparser
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin
+          from datetime import datetime, timezone
+          from concurrent.futures import ThreadPoolExecutor
+          sources=json.load(open('sources.json'))['sources']
+          def audit(s):
+              out=dict(id=s['id'],name=s['name'],type=s['type'],genres=s['genres'],checked=datetime.now(timezone.utc).isoformat(),websiteStatus=None,feed=None,entryCount=0,datedEntries=0,reviewCandidates=[],errors=[])
+              headers={'User-Agent':'SLIPP editorial index/1.0'}
+              candidates=list(s.get('rssCandidates',[]))
+              try:
+                  response=requests.get(s['website'],headers=headers,timeout=12)
+                  out['websiteStatus']=response.status_code
+                  if response.ok:
+                      soup=BeautifulSoup(response.text,'html.parser')
+                      candidates += [urljoin(response.url,x['href']) for x in soup.select('link[rel="alternate"][href]') if 'rss' in x.get('type','') or 'atom' in x.get('type','')]
+                      out['reviewCandidates']=[urljoin(response.url,x['href']) for x in soup.select('a[href]') if 'review' in x.get_text(' ',strip=True).lower()][:10]
+              except Exception as e: out['errors'].append(str(e))
+              candidates += [urljoin(s['website'],p) for p in ['feed/','rss','rss.xml']]
+              for url in dict.fromkeys(candidates):
+                  try:
+                      response=requests.get(url,headers=headers,timeout=10)
+                      response.raise_for_status()
+                      feed=feedparser.parse(response.content)
+                      if not feed.entries: continue
+                      out.update(feed=url,entryCount=len(feed.entries),datedEntries=sum(bool(x.get('published_parsed') or x.get('updated_parsed')) for x in feed.entries),sample=[dict(title=x.get('title'),url=x.get('link'),date=x.get('published') or x.get('updated')) for x in feed.entries[:5]])
+                      break
+                  except Exception as e: out['errors'].append(str(e))
+              out['status']='feed_available' if out['feed'] else 'website_only' if out['websiteStatus']==200 else 'needs_review'
+              out['editorialVerification']='manual_review_required'
+              print(s['name'],out['status'],flush=True)
+              return out
+          with ThreadPoolExecutor(max_workers=6) as pool: results=list(pool.map(audit,sources))
+          with open('source-audit.json','w') as f: json.dump(dict(updated=datetime.now(timezone.utc).isoformat(),sources=results),f,ensure_ascii=False,indent=2)
+          PY
+      - run: |
+          git config user.name "SLIPP source bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source-audit.json
+          git commit -m "Audit editorial sources"
+          git pull --rebase -X theirs origin main
+          git push
