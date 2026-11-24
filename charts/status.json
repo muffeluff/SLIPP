@@ -1,0 +1,757 @@
+{
+  "updated": "2026-11-24T09:03:40.265878+00:00",
+  "countries": {
+    "AF": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "AL": {
+      "count": 100,
+      "status": "ok"
+    },
+    "DZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AI": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AG": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AR": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "AM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AU": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AT": {
+      "count": 100,
+      "status": "ok"
+    },
+    "AZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BS": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BH": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BD": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BB": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BY": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BE": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BJ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BM": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BT": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BW": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BR": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BN": {
+      "count": 100,
+      "status": "ok"
+    },
+    "BG": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "BF": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "BI": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "KH": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CA": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "CV": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "KY": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TD": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CL": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CN": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "KM": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "CG": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CD": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "CI": {
+      "count": 100,
+      "status": "ok"
+    },
+    "HR": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "CY": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "CZ": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "DK": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "DJ": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "DM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "DO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "EC": {
+      "count": 100,
+      "status": "ok"
+    },
+    "EG": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "SV": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GQ": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "ER": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "EE": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "ET": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "FJ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "FI": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "FR": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "GA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GE": {
+      "count": 100,
+      "status": "ok"
+    },
+    "DE": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GH": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GD": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GT": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GN": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "GW": {
+      "count": 100,
+      "status": "ok"
+    },
+    "GY": {
+      "count": 100,
+      "status": "ok"
+    },
+    "HT": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "HN": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "HK": {
+      "count": 100,
+      "status": "ok"
+    },
+    "HU": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "IS": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "IN": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "ID": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "IQ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "IE": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "IL": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "IT": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "JM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "JP": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "JO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "KZ": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "KE": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "KI": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "KR": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "KW": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "KG": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "LA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "LV": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "LB": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "LS": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "LR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "LY": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "LT": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "LU": {
+      "count": 100,
+      "status": "ok"
+    },
+    "MO": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "MG": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MW": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "MY": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MV": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "ML": {
+      "count": 100,
+      "status": "ok"
+    },
+    "MT": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "MR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "MU": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MX": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MD": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "MN": {
+      "count": 100,
+      "status": "ok"
+    },
+    "ME": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MS": {
+      "count": 100,
+      "status": "ok"
+    },
+    "MA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "MZ": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "MM": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "NA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "NR": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "NP": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "NL": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "NZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "NI": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "NE": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "NG": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "MK": {
+      "count": 100,
+      "status": "ok"
+    },
+    "NO": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "OM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "PK": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "PW": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "PS": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "PA": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "PG": {
+      "count": 100,
+      "status": "ok"
+    },
+    "PY": {
+      "count": 100,
+      "status": "ok"
+    },
+    "PE": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "PH": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "PL": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "PT": {
+      "count": 100,
+      "status": "ok"
+    },
+    "QA": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "RO": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "RW": {
+      "count": 100,
+      "status": "ok"
+    },
+    "KN": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "LC": {
+      "count": 100,
+      "status": "ok"
+    },
+    "VC": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "WS": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "SM": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "ST": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SN": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "RS": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "SC": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SL": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "SG": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SK": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SI": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "SB": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "SO": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "ZA": {
+      "count": 100,
+      "status": "ok"
+    },
+    "ES": {
+      "count": 100,
+      "status": "ok"
+    },
+    "LK": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "SE": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "CH": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "TW": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "TJ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TZ": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TH": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TL": {
+      "status": "unavailable",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    "TG": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "TO": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TT": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "TN": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "TR": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TM": {
+      "count": 100,
+      "status": "ok"
+    },
+    "TC": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "UG": {
+      "count": 100,
+      "status": "ok"
+    },
+    "UA": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "AE": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "GB": {
+      "count": 100,
+      "status": "ok"
+    },
+    "US": {
+      "count": 100,
+      "status": "ok"
+    },
+    "UY": {
+      "status": "unavailable",
+      "error": "The read operation timed out"
+    },
+    "UZ": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "VU": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "VE": {
+      "count": 100,
+      "status": "ok"
+    },
+    "VN": {
+      "count": 100,
+      "status": "ok"
+    },
+    "YE": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "ZM": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "ZW": {
+      "status": "unavailable",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  }
+}
