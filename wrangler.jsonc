@@ -9,5 +9,16 @@
       "/api/*",
       "/.netlify/functions/cover"
     ]
+  },
+  "kv_namespaces": [
+    {
+      "binding": "SLIPP_DATA",
+      "id": "a821390933c34c5fbd1436cb4d6642fa"
+    }
+  ],
+  "triggers": {
+    "crons": [
+      "*/5 * * * *"
+    ]
   }
 }
