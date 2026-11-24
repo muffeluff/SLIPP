@@ -1,0 +1,258 @@
+{
+  "Indie": [
+    {
+      "source": "Pitchfork",
+      "title": "Pitchfork",
+      "url": "https://pitchfork.com/reviews/albums/",
+      "items": []
+    },
+    {
+      "source": "Stereogum",
+      "title": "Stereogum",
+      "url": "https://stereogum.com/",
+      "items": []
+    },
+    {
+      "source": "Under the Radar",
+      "title": "Under the Radar",
+      "url": "https://www.undertheradarmag.com/",
+      "items": []
+    },
+    {
+      "source": "The Line of Best Fit",
+      "title": "The Line of Best Fit",
+      "url": "https://www.thelineofbestfit.com/",
+      "items": []
+    },
+    {
+      "source": "BrooklynVegan",
+      "title": "BrooklynVegan",
+      "url": "https://www.brooklynvegan.com/",
+      "items": []
+    }
+  ],
+  "Rock": [
+    {
+      "source": "NME",
+      "title": "NME",
+      "url": "https://www.nme.com/reviews",
+      "items": []
+    },
+    {
+      "source": "Kerrang!",
+      "title": "Kerrang!",
+      "url": "https://www.kerrang.com/",
+      "items": []
+    },
+    {
+      "source": "Loudwire",
+      "title": "Loudwire",
+      "url": "https://loudwire.com/",
+      "items": []
+    },
+    {
+      "source": "Classic Rock",
+      "title": "Classic Rock",
+      "url": "https://www.loudersound.com/classic-rock",
+      "items": []
+    },
+    {
+      "source": "Stereogum",
+      "title": "Stereogum",
+      "url": "https://stereogum.com/",
+      "items": []
+    }
+  ],
+  "Country": [
+    {
+      "source": "Saving Country Music",
+      "title": "Saving Country Music",
+      "url": "https://savingcountrymusic.com/",
+      "items": []
+    },
+    {
+      "source": "No Depression",
+      "title": "No Depression",
+      "url": "https://nodepression.com/",
+      "items": []
+    },
+    {
+      "source": "Holler",
+      "title": "Holler",
+      "url": "https://holler.country/",
+      "items": []
+    },
+    {
+      "source": "American Songwriter",
+      "title": "American Songwriter",
+      "url": "https://americansongwriter.com/",
+      "items": []
+    },
+    {
+      "source": "Country Standard Time",
+      "title": "Country Standard Time",
+      "url": "https://www.countrystandardtime.com/",
+      "items": []
+    }
+  ],
+  "Pop": [
+    {
+      "source": "Billboard",
+      "title": "Billboard",
+      "url": "https://www.billboard.com/",
+      "items": []
+    },
+    {
+      "source": "NME",
+      "title": "NME",
+      "url": "https://www.nme.com/",
+      "items": []
+    },
+    {
+      "source": "PopMatters",
+      "title": "PopMatters",
+      "url": "https://www.popmatters.com/",
+      "items": []
+    },
+    {
+      "source": "The Line of Best Fit",
+      "title": "The Line of Best Fit",
+      "url": "https://www.thelineofbestfit.com/",
+      "items": []
+    },
+    {
+      "source": "Pitchfork",
+      "title": "Pitchfork",
+      "url": "https://pitchfork.com/",
+      "items": []
+    }
+  ],
+  "Hip-hop": [
+    {
+      "source": "XXL",
+      "title": "XXL",
+      "url": "https://www.xxlmag.com/",
+      "items": []
+    },
+    {
+      "source": "HipHopDX",
+      "title": "HipHopDX",
+      "url": "https://hiphopdx.com/",
+      "items": []
+    },
+    {
+      "source": "Pitchfork",
+      "title": "Pitchfork",
+      "url": "https://pitchfork.com/",
+      "items": []
+    },
+    {
+      "source": "The Fader",
+      "title": "The Fader",
+      "url": "https://www.thefader.com/",
+      "items": []
+    },
+    {
+      "source": "Stereogum",
+      "title": "Stereogum",
+      "url": "https://stereogum.com/",
+      "items": []
+    }
+  ],
+  "Jazz": [
+    {
+      "source": "DownBeat",
+      "title": "DownBeat",
+      "url": "https://downbeat.com/",
+      "items": []
+    },
+    {
+      "source": "Jazzwise",
+      "title": "Jazzwise",
+      "url": "https://www.jazzwise.com/",
+      "items": []
+    },
+    {
+      "source": "All About Jazz",
+      "title": "All About Jazz",
+      "url": "https://www.allaboutjazz.com/",
+      "items": []
+    },
+    {
+      "source": "Jazz Journal",
+      "title": "Jazz Journal",
+      "url": "https://jazzjournal.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Elektronisk": [
+    {
+      "source": "Resident Advisor",
+      "title": "Resident Advisor",
+      "url": "https://ra.co/",
+      "items": []
+    },
+    {
+      "source": "Mixmag",
+      "title": "Mixmag",
+      "url": "https://mixmag.net/",
+      "items": []
+    },
+    {
+      "source": "DJ Mag",
+      "title": "DJ Mag",
+      "url": "https://djmag.com/",
+      "items": []
+    },
+    {
+      "source": "Electronic Sound",
+      "title": "Electronic Sound",
+      "url": "https://www.electronicsound.co.uk/",
+      "items": []
+    },
+    {
+      "source": "Bandcamp Daily",
+      "title": "Bandcamp Daily",
+      "url": "https://daily.bandcamp.com/",
+      "items": []
+    }
+  ],
+  "Metal": [
+    {
+      "source": "Metal Hammer",
+      "title": "Metal Hammer",
+      "url": "https://www.loudersound.com/metal-hammer",
+      "items": []
+    },
+    {
+      "source": "Decibel",
+      "title": "Decibel",
+      "url": "https://www.decibelmagazine.com/",
+      "items": []
+    },
+    {
+      "source": "Metal Injection",
+      "title": "Metal Injection",
+      "url": "https://metalinjection.net/",
+      "items": []
+    },
+    {
+      "source": "MetalSucks",
+      "title": "MetalSucks",
+      "url": "https://www.metalsucks.net/",
+      "items": []
+    },
+    {
+      "source": "Angry Metal Guy",
+      "title": "Angry Metal Guy",
+      "url": "https://www.angrymetalguy.com/",
+      "items": []
+    }
+  ]
+}
