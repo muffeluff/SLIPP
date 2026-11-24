@@ -1,0 +1,50 @@
+name: Test Apple album feeds
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/album-feed-test.yml]
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - run: |
+          python - <<'PY'
+          import requests,json,datetime,concurrent.futures
+          from pathlib import Path
+          genres={'Indie':20,'Rock':21,'Pop':14,'Hip-hop':18,'Country':6,'Jazz':11,'Metal':1153,'Elektronisk':7}
+          jobs=[('Apple Music v2','Alle',None,'https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/albums.json')]
+          for name,g in genres.items():
+              jobs.extend([('Apple Music legacy',name,g,f'https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/{g}/100/json'),('iTunes Store purchases',name,g,f'https://itunes.apple.com/us/rss/topalbums/limit=100/genre={g}/json')])
+          def check(job):
+              source,name,g,url=job
+              out=dict(source=source,genre=name,genreId=g,url=url)
+              try:
+                  res=requests.get(url,timeout=25)
+                  out['http']=res.status_code
+                  res.raise_for_status()
+                  feed=res.json()['feed']
+                  rows=feed.get('results',feed.get('entry',[]))
+                  if isinstance(rows,dict):rows=[rows]
+                  def label(x,k):return x.get(k,{}).get('label','')
+                  parsed=[dict(rank=i+1,artist=x.get('artistName') or label(x,'im:artist'),title=x.get('name') or label(x,'im:name'),date=x.get('releaseDate') or label(x,'im:releaseDate'),genre=x.get('genres') or x.get('category',{}).get('attributes',{}),id=x.get('id') if isinstance(x.get('id'),str) else x.get('id',{}).get('attributes',{}).get('im:id')) for i,x in enumerate(rows)]
+                  cutoff=(datetime.date.today()-datetime.timedelta(days=30)).isoformat()
+                  recent=[x for x in parsed if cutoff<=x['date'][:10]<=datetime.date.today().isoformat()]
+                  out.update(count=len(parsed),recentCount=len(recent),sample=parsed[:3],recentSample=recent[:5],feedTitle=feed.get('title'),status='returned_rows' if parsed else 'empty')
+              except Exception as e:out.update(status='error',error=str(e))
+              return out
+          with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool: results=list(pool.map(check,jobs))
+          Path('album-feed-audit.json').write_text(json.dumps(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(),results=results),indent=2,ensure_ascii=False))
+          for r in results:print(r['source'],r['genre'],r['status'],r.get('count'),r.get('recentCount'))
+          PY
+      - run: |
+          git config user.name "SLIPP bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add album-feed-audit.json
+          git commit -m "Report Apple album feed tests"
+          git pull --rebase -X theirs origin main
+          git push
