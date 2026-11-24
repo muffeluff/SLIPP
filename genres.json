@@ -1,6 +1,39 @@
 {
   "Indie": [
     {
+      "source": "Exclaim!",
+      "title": "Exclaim! · Nye slipp",
+      "url": "https://exclaim.ca/music/article/new-album-releases-masterlist",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Atlas Sound",
+          "Thanatos",
+          "Indie"
+        ],
+        [
+          "Bodywash",
+          "Laughing at Noise",
+          "Indie"
+        ],
+        [
+          "Crystal Eyes",
+          "Secret Oscillator",
+          "Indie"
+        ],
+        [
+          "Lael Neale",
+          "As Killers Do",
+          "Indie"
+        ],
+        [
+          "Prairie Cat",
+          "Face in Granite",
+          "Indie"
+        ]
+      ]
+    },
+    {
       "source": "Pitchfork",
       "title": "Pitchfork",
       "url": "https://pitchfork.com/reviews/albums/",
@@ -32,6 +65,39 @@
     }
   ],
   "Rock": [
+    {
+      "source": "Already Heard",
+      "title": "Already Heard · Nye slipp",
+      "url": "https://alreadyheard.com/newmusicfriday-november-20th-2026/",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Micah Martin",
+          "All I Need",
+          "Rock"
+        ],
+        [
+          "Any Given Sin",
+          "Until We Disappear",
+          "Rock"
+        ],
+        [
+          "echochamber",
+          "dead to me",
+          "Rock"
+        ],
+        [
+          "in:tides",
+          "in:tides",
+          "Rock"
+        ],
+        [
+          "GoJuMo",
+          "Let Us In",
+          "Rock"
+        ]
+      ]
+    },
     {
       "source": "NME",
       "title": "NME",
@@ -65,6 +131,39 @@
   ],
   "Country": [
     {
+      "source": "MusicRow",
+      "title": "MusicRow · Nye slipp",
+      "url": "https://musicrow.com/wp-content/uploads/2026/11/The-MusicRow-Weekly-11.20.2026.pdf",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Kane Brown",
+          "Losing Hand",
+          "Country"
+        ],
+        [
+          "Nate Smith",
+          "Til I Can’t",
+          "Country"
+        ],
+        [
+          "Benny G",
+          "Common Ground",
+          "Country"
+        ],
+        [
+          "Emma Smalley",
+          "You Had It",
+          "Country"
+        ],
+        [
+          "Waylon Wyatt",
+          "Live from Cain’s Ballroom",
+          "Country"
+        ]
+      ]
+    },
+    {
       "source": "Saving Country Music",
       "title": "Saving Country Music",
       "url": "https://savingcountrymusic.com/",
@@ -96,6 +195,34 @@
     }
   ],
   "Pop": [
+    {
+      "source": "Boo Boo Records",
+      "title": "Boo Boo Records · Nye slipp",
+      "url": "https://booboorecords.com/blogs/new-releases/new-releases-november-20-2026",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Take That",
+          "Dreamers",
+          "Pop"
+        ],
+        [
+          "Lila Gray",
+          "Soft Animal",
+          "Pop"
+        ],
+        [
+          "Pomme",
+          "la forteresse",
+          "Pop"
+        ],
+        [
+          "Sheherazaad",
+          "Khudgarzi",
+          "Pop"
+        ]
+      ]
+    },
     {
       "source": "Billboard",
       "title": "Billboard",
@@ -129,6 +256,19 @@
   ],
   "Hip-hop": [
     {
+      "source": "Boo Boo Records",
+      "title": "Boo Boo Records · Nye slipp",
+      "url": "https://booboorecords.com/blogs/new-releases/new-releases-november-20-2026",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Conway the Machine",
+          "OTIS",
+          "Hip-hop"
+        ]
+      ]
+    },
+    {
       "source": "XXL",
       "title": "XXL",
       "url": "https://www.xxlmag.com/",
@@ -160,6 +300,19 @@
     }
   ],
   "Jazz": [
+    {
+      "source": "Pause & Play",
+      "title": "Pause & Play · Nye slipp",
+      "url": "https://www.pauseandplay.com/new-releases-nov-20-2026/?noamp=mobile",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Blue Earth Sound",
+          "Everything to Remember",
+          "Jazz"
+        ]
+      ]
+    },
     {
       "source": "DownBeat",
       "title": "DownBeat",
@@ -193,6 +346,19 @@
   ],
   "Elektronisk": [
     {
+      "source": "WXPN",
+      "title": "WXPN · Nye slipp",
+      "url": "https://xpn.org/press-play/",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Toro y Moi",
+          "Unusua",
+          "Elektronisk"
+        ]
+      ]
+    },
+    {
       "source": "Resident Advisor",
       "title": "Resident Advisor",
       "url": "https://ra.co/",
@@ -224,6 +390,39 @@
     }
   ],
   "Metal": [
+    {
+      "source": "Already Heard",
+      "title": "Already Heard · Nye slipp",
+      "url": "https://alreadyheard.com/newmusicfriday-november-20th-2026/",
+      "date": "2026-11-20",
+      "items": [
+        [
+          "Trivium",
+          "Crown In The Grave",
+          "Metal"
+        ],
+        [
+          "Down",
+          "Volume V",
+          "Metal"
+        ],
+        [
+          "Ankor",
+          "I See Red",
+          "Metal"
+        ],
+        [
+          "OmegaShift",
+          "The Burden of Storms",
+          "Metal"
+        ],
+        [
+          "Suicide Silence",
+          "Graceless",
+          "Metal"
+        ]
+      ]
+    },
     {
       "source": "Metal Hammer",
       "title": "Metal Hammer",
