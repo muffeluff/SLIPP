@@ -34,6 +34,19 @@ jobs:
           def canonical(url):
               p=urlsplit(url)
               return urlunsplit((p.scheme,p.netloc,p.path,urlencode([(k,v) for k,v in parse_qsl(p.query) if not k.startswith('utm_')]),''))
+          def classify(source,title,url,tags):
+              signal=' '.join([title,url,*tags]).lower()
+              path=urlsplit(url).path.lower()
+              if re.search(r'product-recommendations|film-reviews|tv-reviews|book-reviews|live-reviews|concert-review|/interviews?/|/fashion/|/politics/|/tv-movies/|/lifestyle/',path): return 'other'
+              if re.search(r'\b(concert review|live review|tour dates|announces? (a |new |final )?tour|live residency|festival lineup|film review|movie review|book review|in conversation|interview|magnesium supplements|car accident|wedding|has passed away|has died)\b',title.lower()): return 'other'
+              if re.search(r'\b(at|live at)\b.*\b(jazz club|cadogan hall|festival|arena)\b|\bEFG LJF\b',title,re.I): return 'other'
+              if source=='pitchfork.com' and '/reviews/albums/' in path: return 'review'
+              if re.search(r'album.review|track.review|single.review|ep.review|record.review|/reviews/albums/|/reviews/tracks/|/quietus-reviews/|/reviews/premature-evaluation/|album-of-the-day|/music/reviews/',signal): return 'review'
+              if source=='angrymetalguy.com' and re.search(r'\breview\b',title,re.I): return 'review'
+              if re.search(r'\b(track premiere|song premiere|single premiere|album premiere|ep premiere|first listen)\b',signal): return 'premiere'
+              if re.search(r'best (new )?(albums|songs|tracks|singles|eps|music|releases)|albums.of.the.week|tracks.of.the.week|songs.of.the.week|new music friday|best-(ambient|house|techno|jazz|metal|electronic|country|hip-hop|field-recordings|contemporary-classical)',signal): return 'recommendation'
+              if source=='acloserlisten.com' and ' ~ ' in title: return 'review'
+              return 'other'
           def collect(s):
               if not s.get('feed'): return s['id'],[], 'no_feed'
               try:
@@ -48,10 +61,10 @@ jobs:
                       title=x.get('title','')
                       tags=[t.get('term','') for t in x.get('tags',[])]
                       signal=' '.join([title,url,*tags]).lower()
-                      kind='review' if s['id']=='pitchfork.com' or re.search(r'review|rezension|kritik',signal) else 'premiere' if re.search(r'premiere|first.listen',signal) else 'recommendation' if re.search(r'best new|best.of|best-|recommended|essential|new music|albums.of.the.week|tracks.of.the.week',signal) else 'interview' if re.search(r'interview|in conversation',signal) else 'other'
+                      kind=classify(s['id'],title,url,tags)
                       date=x.get('published_parsed') or x.get('updated_parsed')
                       published=datetime.fromtimestamp(calendar.timegm(date),timezone.utc).isoformat() if date else None
-                      rows.append(dict(source=s['name'],sourceId=s['id'],sourceType=s['type'],genres=s['genres'],title=title,url=url,published=published,firstSeen=stamp,kind=kind,verification='pending',excerpt=BeautifulSoup(x.get('summary',''),'html.parser').get_text(' ',strip=True)[:400]))
+                      rows.append(dict(source=s['name'],sourceId=s['id'],sourceType=s['type'],genres=s['genres'],title=title,url=url,tags=tags,published=published,firstSeen=stamp,kind=kind,verification='pending',excerpt=BeautifulSoup(x.get('summary',''),'html.parser').get_text(' ',strip=True)[:400]))
                   return s['id'],rows,'ok'
               except Exception as e: return s['id'],[],str(e)
           with ThreadPoolExecutor(max_workers=6) as pool: results=list(pool.map(collect,sources))
@@ -63,6 +76,8 @@ jobs:
                   key=(sid,row['url'])
                   if key in merged: row['firstSeen']=merged[key]['firstSeen']
                   merged[key]=row
+          for row in merged.values():
+              row['kind']=classify(row['sourceId'],row['title'],row['url'],row.get('tags',[]))
           cutoff=(now-timedelta(days=60)).isoformat()
           articles=sorted([x for x in merged.values() if x['firstSeen']>=cutoff],key=lambda x:x['published'] or x['firstSeen'],reverse=True)
           path.write_text(json.dumps(dict(updated=stamp,articles=articles),ensure_ascii=False,indent=2))
