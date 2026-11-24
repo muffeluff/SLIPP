@@ -1,0 +1,742 @@
+{
+  "date": "2026-11-24",
+  "friday": "2026-11-20",
+  "fresh": [
+    [
+      "Take That",
+      "Dreamers",
+      "Pop",
+      "",
+      "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/11/22/291122a2-5136-40a9-f195-715fc0b5d87d/26UM1IM20740.rgb.jpg/100x100bb.jpg",
+      {
+        "releaseDate": "2026-11-20",
+        "label": "Populært nå",
+        "articles": [],
+        "signals": [
+          {
+            "source": "iTunes Store purchases",
+            "country": "gb",
+            "rank": 1,
+            "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "no",
+            "rank": 53,
+            "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "Apple Music v2",
+            "country": "de",
+            "rank": 35,
+            "url": "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/albums.json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "de",
+            "rank": 2,
+            "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "fr",
+            "rank": 3,
+            "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "au",
+            "rank": 57,
+            "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+          },
+          {
+            "source": "iTunes Store purchases",
+            "country": "nl",
+            "rank": 51,
+            "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=14/json"
+          }
+        ],
+        "catalogUrl": "https://music.apple.com/gb/album/dreamers/6814543019?uo=4"
+      }
+    ]
+  ],
+  "recommended": [],
+  "critics": [],
+  "matched": [],
+  "diagnostics": [
+    {
+      "url": "https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Emma Ogier",
+          "Fly 1111"
+        ],
+        [
+          "Emma Ogier",
+          "Fly 1111"
+        ],
+        [
+          "Emma Ogier",
+          "Fly 1111"
+        ],
+        [
+          "Reader Reviews",
+          "Fly 1111"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/font-american-bully-xl/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Font",
+          "American Bully XL"
+        ],
+        [
+          "Font",
+          "American Bully XL"
+        ],
+        [
+          "Font",
+          "American Bully XL"
+        ],
+        [
+          "Reader Reviews",
+          "American Bully XL"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://stereogum.com/2518477/premature-evaluation-atlas-sound-thanatos/reviews/premature-evaluation/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Premature Evaluation",
+          "Atlas Sound Thanatos"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://www.spinmagazine.com/2026/11/matt-of-matts-is-going-through-it/",
+      "status": "unresolved",
+      "pairs": [],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Atlas Sound",
+          "Thanatos"
+        ],
+        [
+          "Atlas Sound",
+          "Thanatos"
+        ],
+        [
+          "Atlas Sound",
+          "Thanatos"
+        ],
+        [
+          "Reader Reviews",
+          "Thanatos"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Lambchop",
+          "Demoed EP"
+        ],
+        [
+          "Lambchop",
+          "Demoed EP"
+        ],
+        [
+          "Lambchop",
+          "Demoed EP"
+        ],
+        [
+          "Reader Reviews",
+          "Demoed EP"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Sheherazaad",
+          "Khudgarzi"
+        ],
+        [
+          "Sheherazaad",
+          "Khudgarzi"
+        ],
+        [
+          "Sheherazaad",
+          "Khudgarzi"
+        ],
+        [
+          "Reader Reviews",
+          "Khudgarzi"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/mariah-carey-glitter/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Mariah Carey",
+          "Glitter"
+        ],
+        [
+          "Mariah Carey",
+          "Glitter"
+        ],
+        [
+          "Mariah Carey",
+          "Glitter"
+        ],
+        [
+          "Reader Reviews",
+          "Glitter"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "R.E.M.",
+          "Reveal (25th Anniversary Edition)"
+        ],
+        [
+          "R.E.M.",
+          "Reveal (25th Anniversary Edition)"
+        ],
+        [
+          "R.E.M.",
+          "Reveal (25th Anniversary Edition)"
+        ],
+        [
+          "Reader Reviews",
+          "Reveal (25th Anniversary Edition)"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://stereogum.com/2518768/the-5-best-songs-of-the-week-653/lists/the-5-best-songs-of-the-week/",
+      "status": "unresolved",
+      "pairs": [],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://www.thefader.com/2026/11/20/gta-6-soundtrack-album-best-songs",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "The best songs on Grand Theft Auto VI",
+          "The Album, reviewed"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Kim Deal",
+          "Live at the Barbican"
+        ],
+        [
+          "Kim Deal",
+          "Live at the Barbican"
+        ],
+        [
+          "Kim Deal",
+          "Live at the Barbican"
+        ],
+        [
+          "Reader Reviews",
+          "Live at the Barbican"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/donato-dozzy-astro/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Donato Dozzy",
+          "Astro"
+        ],
+        [
+          "Donato Dozzy",
+          "Astro"
+        ],
+        [
+          "Donato Dozzy",
+          "Astro"
+        ],
+        [
+          "Reader Reviews",
+          "Astro"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/rois-mo-lean/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "RÓIS",
+          "MO LÉAN"
+        ],
+        [
+          "RÓIS",
+          "MO LÉAN"
+        ],
+        [
+          "RÓIS",
+          "MO LÉAN"
+        ],
+        [
+          "Reader Reviews",
+          "MO LÉAN"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Nickolas Mohanna",
+          "Whistler"
+        ],
+        [
+          "Nickolas Mohanna",
+          "Whistler"
+        ],
+        [
+          "Nickolas Mohanna",
+          "Whistler"
+        ],
+        [
+          "Reader Reviews",
+          "Whistler"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/ecco2k-echo/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Ecco2k",
+          "Echo"
+        ],
+        [
+          "Ecco2k",
+          "Echo"
+        ],
+        [
+          "Ecco2k",
+          "Echo"
+        ],
+        [
+          "Reader Reviews",
+          "Echo"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Radie Peat",
+          "No Human Tongue Can Tell"
+        ],
+        [
+          "Radie Peat",
+          "No Human Tongue Can Tell"
+        ],
+        [
+          "Radie Peat",
+          "No Human Tongue Can Tell"
+        ],
+        [
+          "Reader Reviews",
+          "No Human Tongue Can Tell"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/boys-noize-7llvsion/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Boys Noize",
+          "7LLVSION"
+        ],
+        [
+          "Boys Noize",
+          "7LLVSION"
+        ],
+        [
+          "Boys Noize",
+          "7LLVSION"
+        ],
+        [
+          "Reader Reviews",
+          "7LLVSION"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/thoom-everyday-everything-is-at-stake/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Thoom",
+          "Everyday, Everything Is at Stake"
+        ],
+        [
+          "Thoom",
+          "Everyday, Everything Is at Stake"
+        ],
+        [
+          "Thoom",
+          "Everyday, Everything Is at Stake"
+        ],
+        [
+          "Reader Reviews",
+          "Everyday, Everything Is at Stake"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Chxrry",
+          "U, Me & My Ego (Deluxe)"
+        ],
+        [
+          "Chxrry",
+          "U, Me & My Ego (Deluxe)"
+        ],
+        [
+          "Chxrry",
+          "U, Me & My Ego (Deluxe)"
+        ],
+        [
+          "Reader Reviews",
+          "U, Me & My Ego (Deluxe)"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Oso Oso",
+          "An Exchange of Information"
+        ],
+        [
+          "Oso Oso",
+          "An Exchange of Information"
+        ],
+        [
+          "Oso Oso",
+          "An Exchange of Information"
+        ],
+        [
+          "Reader Reviews",
+          "An Exchange of Information"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/camden-malik-40-acres/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Camden Malik",
+          "40 Acres"
+        ],
+        [
+          "Camden Malik",
+          "40 Acres"
+        ],
+        [
+          "Camden Malik",
+          "40 Acres"
+        ],
+        [
+          "Reader Reviews",
+          "40 Acres"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://www.popmatters.com/best-metal-november-2026",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/snoh-aalegra-legendary-love/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Snoh Aalegra",
+          "Legendary Love"
+        ],
+        [
+          "Snoh Aalegra",
+          "Legendary Love"
+        ],
+        [
+          "Snoh Aalegra",
+          "Legendary Love"
+        ],
+        [
+          "Reader Reviews",
+          "Legendary Love"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Aaron Dilloway",
+          "No Skill Comedy Mind Reading"
+        ],
+        [
+          "Aaron Dilloway",
+          "No Skill Comedy Mind Reading"
+        ],
+        [
+          "Aaron Dilloway",
+          "No Skill Comedy Mind Reading"
+        ],
+        [
+          "Reader Reviews",
+          "No Skill Comedy Mind Reading"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/cute-history-is-not-woven-by-innocent-hands/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "cute",
+          "history is not woven by innocent hands"
+        ],
+        [
+          "cute",
+          "history is not woven by innocent hands"
+        ],
+        [
+          "cute",
+          "history is not woven by innocent hands"
+        ],
+        [
+          "Reader Reviews",
+          "history is not woven by innocent hands"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/nori-file-1/",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/aesop-rock-blockhead-trouble-mountain/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Aesop Rock / Blockhead",
+          "Trouble Mountain"
+        ],
+        [
+          "Aesop Rock",
+          "Trouble Mountain"
+        ],
+        [
+          "Aesop Rock",
+          "Trouble Mountain"
+        ],
+        [
+          "/",
+          "Trouble Mountain"
+        ],
+        [
+          "Blockhead",
+          "Trouble Mountain"
+        ],
+        [
+          "Blockhead",
+          "Trouble Mountain"
+        ],
+        [
+          "Reader Reviews",
+          "Trouble Mountain"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "OR",
+          "Music for Empty Stadiums"
+        ],
+        [
+          "OR",
+          "Music for Empty Stadiums"
+        ],
+        [
+          "OR",
+          "Music for Empty Stadiums"
+        ],
+        [
+          "Reader Reviews",
+          "Music for Empty Stadiums"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/sam-gendel-advanced-white-trash/",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "Hiroshi Yoshimura",
+          "Quiet Forest"
+        ],
+        [
+          "Hiroshi Yoshimura",
+          "Quiet Forest"
+        ],
+        [
+          "Hiroshi Yoshimura",
+          "Quiet Forest"
+        ],
+        [
+          "Reader Reviews",
+          "Quiet Forest"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://www.popmatters.com/best-electronic-october-2026",
+      "status": "unresolved",
+      "pairs": [
+        [
+          "ElectroMatters",
+          "Best Electronic Music of October 2026"
+        ]
+      ],
+      "http": 200,
+      "bodyAvailable": true
+    },
+    {
+      "url": "https://diymag.com/review/album/do-nothing-friend-world",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "url": "https://www.popmatters.com/best-metal-october-2026",
+      "status": "error",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "notes": "Fresh releases from existing validated catalog; editorial score threshold 7.5/10 for pilot; unscored articles are not classified as positive."
+}
