@@ -1,8 +1,6 @@
 name: SLIPP chart-only test edition
 on:
   workflow_dispatch:
-  push:
-    paths: ['.github/workflows/test-edition.yml']
 permissions:
   contents: write
 jobs:
@@ -84,7 +82,7 @@ jobs:
               write(ep,old);write(gp,oldg)
               if not any(a['date']==stamp for a in archive):archive.append(dict(date=stamp,edition=ep,genres=gp))
               write('archive/index.json',archive)
-          new=dict(date=date,sections=[dict(s[0],title=g+' · Ukens album') for g,s in genres.items()],mustListen=dict(date=date,method='Foreløpig testutgave: iTunes-kjøp og Apple Music-strømming, ingen verifiserte redaksjonelle anbefalinger',albums=[r for _,r in sorted(ranked,key=lambda x:-x[0])[:5]],singles=[]))
+          new=dict(date=date,sections=[dict(s[0],title=g+' · Ukens album') for g,s in genres.items()],mustListen=dict(date=date,method='Foreløpig testutgave: iTunes-kjøp og Apple Music-strømming, ingen verifiserte redaksjonelle anbefalinger',albums=[r for _,r in sorted(ranked,key=lambda x:-x[0])[:5]],singles=old.get('mustListen',{}).get('singles',[])))
           write('genres.json',genres);write('edition.json',new)
           print({g:len(s[0]['items']) for g,s in genres.items()})
           PY
