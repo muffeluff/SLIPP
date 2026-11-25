@@ -1,0 +1,21 @@
+name: iTunes Underground pilot
+on:
+  workflow_dispatch:
+  push:
+    branches: [underground-pilot]
+    paths: [.github/workflows/itunes-underground-pilot.yml]
+permissions:
+  contents: read
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/itunes_underground_pilot.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: itunes-underground-report
+          path: itunes-underground-report.json
+          if-no-files-found: error
