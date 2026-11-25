@@ -11,6 +11,9 @@ jobs:
     if: github.ref == 'refs/heads/slipp-rehearsal'
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env:
+      TZ: Europe/Oslo
+      SLIPP_RELEASE_DATE: '2026-11-20'
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests beautifulsoup4 feedparser
