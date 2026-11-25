@@ -1,7 +1,7 @@
 name: Test Apple album feeds
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
   push:
     branches: [main]
