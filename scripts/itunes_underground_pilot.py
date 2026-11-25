@@ -1,6 +1,7 @@
 import json,time,urllib.request,urllib.error,collections
 from pathlib import Path
-genres={7:"Electronic",17:"Dance",1052:"Breakbeat",1054:"House",1055:"Techno",1056:"Trance",1057:"Ambient",1058:"Downtempo",1061:"Jungle / Drum & Bass",1062:"Dubstep"}
+genres={1056:"Ambient",1057:"Downtempo",1058:"Electronica",1059:"IDM/Experimental",1060:"Dubstep",1061:"Industrial",1068:"Breakbeat",1069:"Hardcore",1070:"House",1071:"Jungle/Drum\u0027n\u0027bass",1072:"Techno",1073:"Trance"}
+aliases={1058:{"electronica","electronic","elektronica"},1059:{"idm/experimental","idm/experimenteel","idm/experimentell"},1061:{"industrial","industrieel"},1071:{"jungle/drum\u0027n\u0027bass","jungle/drum & bass"}}
 out={"method":"Current iTunes purchase chart snapshots; not 30-day streaming counts. Genre IDs are hypotheses to verify against returned labels.","results":[]}
 for gid,label in genres.items():
     for country in ("gb","de","nl","us"):
@@ -19,6 +20,9 @@ for gid,label in genres.items():
                 row["feed_title"]=feed.get("title",{}).get("label")
                 row["updated"]=feed.get("updated",{}).get("label")
                 row["returned_genres"]=dict(collections.Counter(str(e.get("category",{}).get("attributes",{}).get("label","unknown")) for e in entries))
+                row["returned_genre_ids"]=dict(collections.Counter(str(e.get("category",{}).get("attributes",{}).get("im:id","unknown")) for e in entries))
+                allowed=aliases.get(gid,{label.casefold()})
+                row["verified"]=bool(entries) and all(k.casefold() in allowed for k in row["returned_genres"]) and set(row["returned_genre_ids"])=={str(gid)}
                 row["top5"]=[{"rank":i,"artist":e.get("im:artist",{}).get("label"),"title":e.get("im:name",{}).get("label"),"genre":e.get("category",{}).get("attributes",{}).get("label"),"id":e.get("id",{}).get("attributes",{}).get("im:id"),"url":e.get("id",{}).get("label")} for i,e in enumerate(entries[:5],1)]
             except Exception as e:
                 row["error"]=str(e)
@@ -29,5 +33,5 @@ for gid,label in genres.items():
             out["results"].append(row)
             print(json.dumps(row,ensure_ascii=False),flush=True)
             Path("itunes-underground-report.json").write_text(json.dumps(out,ensure_ascii=False,indent=2))
-print("SUMMARY",json.dumps({g:{"working":sum(bool(r.get("count")) for r in out["results"] if r["genre_id"]==g),"errors":sum("error" in r for r in out["results"] if r["genre_id"]==g)} for g in genres}),flush=True)
-if not any(r.get("count") for r in out["results"]): raise SystemExit("No usable feeds")
+print("SUMMARY",json.dumps({g:{"working":sum(bool(r.get("verified")) for r in out["results"] if r["genre_id"]==g),"errors":sum("error" in r for r in out["results"] if r["genre_id"]==g)} for g in genres}),flush=True)
+if not any(r.get("verified") for r in out["results"]): raise SystemExit("No usable feeds")
