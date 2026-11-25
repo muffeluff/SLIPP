@@ -1,7 +1,76 @@
 {
-  "updated": "2026-11-24T10:21:14.623073+00:00",
+  "updated": "2026-11-25T15:32:16.361583+00:00",
   "method": "Exact recent iTunes catalog match; editorial endorsement not verified",
   "releases": [
+    {
+      "artist": "in:tides",
+      "title": "in:tides",
+      "releaseDate": "2026-11-20",
+      "genre": "Alternative",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/7c/58/9c7c5825-bcb9-592d-c51f-edb2eb90d2ae/211982.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/in-tides/6833088548?uo=4",
+      "catalogId": 6833088548,
+      "articles": [
+        {
+          "source": "Angry Metal Guy",
+          "sourceId": "angrymetalguy.com",
+          "sourceType": "editorial",
+          "title": "in:tides – in:tides Review",
+          "url": "https://www.angrymetalguy.com/intides-intides-review/",
+          "published": "2026-11-25T12:48:23+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "Kogumaza",
+      "title": "You Found Yourself Where You Found Yourself",
+      "releaseDate": "2026-11-20",
+      "genre": "Rock",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/22/ad/bc22ad87-c376-827d-0228-849405a1bfff/17354.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/you-found-yourself-where-you-found-yourself/6818496853?uo=4",
+      "catalogId": 6818496853,
+      "articles": [
+        {
+          "source": "The Quietus",
+          "sourceId": "thequietus.com",
+          "sourceType": "editorial",
+          "title": "Kogumaza – You Found Yourself Where You Found Yourself",
+          "url": "https://thequietus.com/quietus-reviews/kogumaza-you-found-yourself-where-you-found-yourself-review/",
+          "published": "2026-11-25T08:30:00+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "The Foreshadowing",
+      "title": "Ozymandias",
+      "releaseDate": "2026-11-20",
+      "genre": "Metal",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/47/e5/0347e58e-e30c-37b8-2828-9783baf2365d/820233968850.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/ozymandias/6788080644?uo=4",
+      "catalogId": 6788080644,
+      "articles": [
+        {
+          "source": "Angry Metal Guy",
+          "sourceId": "angrymetalguy.com",
+          "sourceType": "editorial",
+          "title": "The Foreshadowing – Ozymandias Review",
+          "url": "https://www.angrymetalguy.com/the-foreshadowing-ozymandias-review/",
+          "published": "2026-11-24T12:27:54+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
     {
       "artist": "Bang on a Can All-Stars",
       "title": "Sakamoto: 1996",
@@ -118,29 +187,6 @@
       "independentSourceCount": 1
     },
     {
-      "artist": "Pharaoh Overlord",
-      "title": "7",
-      "releaseDate": "2026-11-20",
-      "genre": "Rock",
-      "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/41/e1/3841e1aa-815b-8ef4-8f0a-3ea8301216c0/17151.jpg/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/7/6804660032?uo=4",
-      "catalogId": 6804660032,
-      "articles": [
-        {
-          "source": "Bandcamp Daily",
-          "sourceId": "daily.bandcamp.com",
-          "sourceType": "editorial",
-          "title": "Pharaoh Overlord, “7”",
-          "url": "https://daily.bandcamp.com/album-of-the-day/pharaoh-overlord-7-review",
-          "published": "2026-11-17T14:43:41+00:00",
-          "kind": "review"
-        }
-      ],
-      "editorialVerification": "pending",
-      "independentSourceCount": 1
-    },
-    {
       "artist": "Graviton",
       "title": "Graviton",
       "releaseDate": "2026-11-13",
@@ -187,22 +233,22 @@
       "independentSourceCount": 1
     },
     {
-      "artist": "Soup Activists",
-      "title": "Where the Rubbish Goes",
-      "releaseDate": "2026-11-13",
+      "artist": "Wilder Maker",
+      "title": "Smoking the Bunny",
+      "releaseDate": "2026-11-06",
       "genre": "Alternative",
       "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/ce/d8/5aced8c3-7a7d-a53b-5a6e-b55f8179adf7/769152441504.jpg/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/where-the-rubbish-goes/6817371474?uo=4",
-      "catalogId": 6817371474,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/7d/14/237d1495-aaba-cd53-d501-20e27d769d71/68283.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/smoking-the-bunny/6801285678?uo=4",
+      "catalogId": 6801285678,
       "articles": [
         {
-          "source": "Bandcamp Daily",
-          "sourceId": "daily.bandcamp.com",
+          "source": "The Quietus",
+          "sourceId": "thequietus.com",
           "sourceType": "editorial",
-          "title": "Soup Activists, “Where the Rubbish Goes”",
-          "url": "https://daily.bandcamp.com/album-of-the-day/soup-activists-where-the-rubbish-goes-review",
-          "published": "2026-11-18T14:48:08+00:00",
+          "title": "Wilder Maker – Smoking The Bunny",
+          "url": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/",
+          "published": "2026-11-25T06:00:00+00:00",
           "kind": "review"
         }
       ],
