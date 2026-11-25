@@ -4,7 +4,11 @@ def read(p):return json.loads(Path(p).read_text())
 def norm(s):return ''.join(c for c in s.casefold() if c.isalnum())
 e=read('edition.json');g=read('genres.json');a=read('editorial/articles.json')['articles'];audit=read('singles-audit.json')
 today=datetime.date.today().isoformat()
-assert e['date']==today and audit['date']==today and audit['selected']==5, 'Fresh singles or edition missing'
+print('Edition date:',e['date'],'Audit date:',audit['date'],'Expected:',today,'Fresh singles:',audit['selected'],flush=True)
+print('Singles source coverage:',json.dumps(audit['sources']),flush=True)
+assert e['date']==today, 'Edition date mismatch'
+assert audit['date']==today, 'Singles audit date mismatch'
+assert audit['selected']==5, f"Only {audit['selected']} verified fresh singles; refusing stale fallback"
 assert len(g)==8 and len(e['mustListen']['albums'])==5 and len(e['mustListen']['singles'])==5
 rows=[r for sections in g.values() for s in sections for r in s['items']]
 assert all(s['items'] for sections in g.values() for s in sections), 'Empty genre'
