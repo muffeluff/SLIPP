@@ -1,10 +1,12 @@
-import json,requests,re,datetime,concurrent.futures
+import json,requests,re,datetime,concurrent.futures,os
+from zoneinfo import ZoneInfo
 from pathlib import Path
 def read(p):return json.loads(Path(p).read_text())
 def write(p,d):
     Path(p).parent.mkdir(parents=True,exist_ok=True)
     Path(p).write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
-today=datetime.date.today()
+today=datetime.datetime.now(ZoneInfo('Europe/Oslo')).date()
+target=os.environ.get('SLIPP_RELEASE_DATE',str(today))
 date=str(today)
 pop=read('album-popularity.json')
 old=read('edition.json')
@@ -22,7 +24,7 @@ def check(a):
                 if x.get('collectionType')!='Album' or norm(x.get('artistName',''))!=norm(a['artist']) or norm(x.get('collectionName',''))!=norm(a['title']):continue
                 if x.get('trackCount',0)<7:continue
                 rd=x.get('releaseDate','')[:10]
-                if not 0<=(today-datetime.date.fromisoformat(rd)).days<=30:continue
+                if rd!=target:continue
                 art=x.get('artworkUrl100','')
                 if not art:continue
                 im=get(art,stream=True)
@@ -46,7 +48,7 @@ ranked=[]
 for genre in ['Indie','Rock','Pop','Hip-hop','Country','Jazz','Metal','Elektronisk']:
     items=[]
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
-        results=list(pool.map(check,pop['genres'][genre][:18]))
+        results=list(pool.map(check,pop['genres'][genre][:60]))
     for result in results:
         if not result:continue
         a,x,rd,art=result
@@ -69,6 +71,6 @@ if not Path(ep).exists():
     write(ep,old);write(gp,oldg)
     if not any(a['date']==stamp for a in archive):archive.append(dict(date=stamp,edition=ep,genres=gp))
     write('archive/index.json',archive)
-new=dict(date=date,sections=[dict(s[0],title=g+' · Ukens album') for g,s in genres.items()],mustListen=dict(date=date,method='Foreløpig testutgave: iTunes-kjøp og Apple Music-strømming, ingen verifiserte redaksjonelle anbefalinger',albums=[r for _,r in sorted(ranked,key=lambda x:-x[0])[:5]],singles=old.get('mustListen',{}).get('singles',[])))
+new=dict(date=date,sections=[dict(s[0],title=g+' · Ukens album') for g,s in genres.items()],mustListen=dict(date=date,method='Fredagens nye album: iTunes-kjøp og Apple Music-strømming',albums=[r for _,r in sorted(ranked,key=lambda x:-x[0])[:5]],singles=old.get('mustListen',{}).get('singles',[])))
 write('genres.json',genres);write('edition.json',new)
 print({g:len(s[0]['items']) for g,s in genres.items()})
