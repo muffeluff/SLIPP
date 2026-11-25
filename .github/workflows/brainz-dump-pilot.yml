@@ -1,0 +1,25 @@
+name: Brainz dump capacity pilot
+on:
+  workflow_dispatch:
+  push:
+    branches: [underground-pilot]
+    paths: [.github/workflows/brainz-dump-pilot.yml]
+permissions:
+  contents: read
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: command -v zstd
+      - run: python scripts/brainz_dump_pilot.py
+      - if: always()
+        run: |
+          if test -f brainz-dump-report.json; then cat brainz-dump-report.json; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: brainz-dump-report
+          path: brainz-dump-report.json
+          if-no-files-found: error
