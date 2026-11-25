@@ -34,6 +34,21 @@ for c in ['us','gb','no','se','de','fr','jp','au','ca','nl']:
         for i,x in enumerate(rows,1):add(x['artistName'],x['name'],'Apple Music',i,url,True)
         audit[url]=len(rows)
     except Exception as e:audit[url]=str(e)
+# Discover new release collections, then verify exact track and collection dates.
+for c in ['us','gb','no','de','au','ca','jp']:
+    for feed in ['newreleases','justadded']:
+        url=f'https://itunes.apple.com/{c}/rss/{feed}/limit=100/json'
+        try:
+            r=get(url);r.raise_for_status()
+            rows=r.json()['feed'].get('entry',[])
+            if isinstance(rows,dict):rows=[rows]
+            n=0
+            for i,x in enumerate(rows,1):
+                title=x.get('im:name',{}).get('label','')
+                if x.get('im:releaseDate',{}).get('label','')[:10]!=str(target) or not title.endswith(' - Single'):continue
+                add(x['im:artist']['label'],title[:-9],'New release discovery',i,url,True);n+=1
+            audit[url]={'rows':len(rows),'candidates':n}
+        except Exception as e:audit[url]=str(e)
 # Discover recent purchases independently of streaming chart placement.
 for c in ['us','gb','no','se','de','fr','jp','au','ca','nl']:
     url=f'https://itunes.apple.com/{c}/rss/topsongs/limit=100/json'
@@ -68,7 +83,7 @@ def score(k):
     ss=signals[k];others={x['source'] for x in ss if not x['apple']}
     best={p:min(x['rank'] for x in ss if x['source']==p) for p in others}
     return (len(others),sum(201-r for r in best.values()),sum(101-x['rank'] for x in ss if x['apple']))
-ordered=sorted(names,key=lambda k:(any(x['source']=='iTunes purchases' for x in signals[k]),score(k)),reverse=True)
+ordered=sorted(names,key=lambda k:(any(x['source'] in ('New release discovery','iTunes purchases') for x in signals[k]),score(k)),reverse=True)
 def verify(k):
     a,t=names[k]
     if re.search(r'remaster|anniversary|re.record|sped up|slowed|karaoke|live version',t,re.I):return
