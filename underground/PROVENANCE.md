@@ -1,0 +1,5 @@
+# Source transparency
+
+Applies to Underground and intended as a shared standard for all SLIPP sections.
+
+Every published release must display adjacent clickable attribution for each source actually used: metadata, release date, popularity/ranking, editorial coverage and artwork. Link to the exact source record or chart where possible. Record retrieval time, metric and time window, license and permission scope. Never imply endorsement or cite a source that did not contribute. Distinguish lifetime listens from weekly listens and editorial selection from chart ranking. Missing data must remain missing; never fabricate attribution. Artwork requires separate permission or a permitted display mechanism. For MusicBrainz supplemental data, provide applicable CC BY-NC-SA attribution and license notice; for ListenBrainz identify CC0 data and link to source. Preserve attribution in archives. Disable publication of rows without required provenance or permission. Provide a public methodology and source register in addition to inline attribution. No new sources activated by this document.
