@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24T10:15:36.297856+00:00",
-  "total": 969,
-  "candidates": 70,
+  "updated": "2026-11-25T15:31:54.555973+00:00",
+  "total": 1201,
+  "candidates": 79,
   "sources": [
     {
       "id": "pitchfork.com",
@@ -110,8 +110,8 @@
     },
     {
       "id": "allaboutjazz.com",
-      "count": 0,
-      "status": "no_feed"
+      "count": 20,
+      "status": "ok"
     },
     {
       "id": "londonjazznews.com",
@@ -155,7 +155,7 @@
     },
     {
       "id": "daily.bandcamp.com",
-      "count": 37,
+      "count": 38,
       "status": "ok"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "id": "thewire.co.uk",
-      "count": 89,
+      "count": 88,
       "status": "ok"
     },
     {
@@ -227,6 +227,16 @@
       "id": "defected.com",
       "count": 0,
       "status": "no_feed"
+    },
+    {
+      "id": "therockpit.net",
+      "count": 0,
+      "status": "no_feed"
+    },
+    {
+      "id": "rapreviews.com",
+      "count": 6,
+      "status": "ok"
     }
   ]
 }

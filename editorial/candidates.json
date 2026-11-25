@@ -1,6 +1,524 @@
 {
-  "updated": "2026-11-24T10:15:36.297856+00:00",
+  "updated": "2026-11-25T15:31:54.555973+00:00",
   "articles": [
+    {
+      "source": "Decibel",
+      "sourceId": "decibelmagazine.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Album Premiere: Erosion – Heinous Depredations",
+      "url": "https://www.decibelmagazine.com/2026/11/25/album-premiere-erosion-heinous-depredations/",
+      "tags": [
+        "Featured",
+        "Streaming",
+        "Crust",
+        "Erosion",
+        "Heinous Depredations",
+        "premiere"
+      ],
+      "published": "2026-11-25T14:30:15+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "premiere",
+      "verification": "pending",
+      "excerpt": "Canadian wrecking/crust crew are Erosion back with Heinous Depredations , and today, we're bringing you the entire miserable experience ahead of its December 1 release through Mechanized Apparatus Revolt. The post Album Premiere: Erosion – <i>Heinous Depredations</i> appeared first on Decibel Magazine ."
+    },
+    {
+      "source": "Bandcamp Daily",
+      "sourceId": "daily.bandcamp.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "title": "The Best Electronic Music on Bandcamp, November 2026",
+      "url": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-november-2026",
+      "tags": [
+        "Best Electronic"
+      ],
+      "published": "2026-11-25T13:50:42+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Our guide to the month’s crucial electronic LPs. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "Bandcamp Daily",
+      "sourceId": "daily.bandcamp.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "title": "Purple Pilgrims, “Given To The Night”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/purple-pilgrims-given-to-the-night-review",
+      "tags": [
+        "Album of the Day"
+      ],
+      "published": "2026-11-25T13:50:08+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "A back-to-nature record from the NZ siblings results in mystic dream pop. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "Angry Metal Guy",
+      "sourceId": "angrymetalguy.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "in:tides – in:tides Review",
+      "url": "https://www.angrymetalguy.com/intides-intides-review/",
+      "tags": [
+        "Reviews",
+        "2026",
+        "3.0",
+        "Explosions in the Sky",
+        "Halocraft",
+        "in:tides",
+        "Instrumental Metal",
+        "Nov26",
+        "Post Rock",
+        "Review",
+        "Ripcord Records",
+        "Scottish Metal",
+        "This Will Destroy You",
+        "Unreqvited"
+      ],
+      "published": "2026-11-25T12:48:23+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "\"Regardless of personal preferences, I think that the majority of us can agree that 2026 has seen an abnormally large quantity of quality metal records. I suspect that the impending Listurnalia is shaping up to be a bloodbath. Even so, this year has not been as good as the last in terms of post-rock releases. Just like with pie on Thanksgiving, I always have room for some stellar post-rock, no mat"
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Grimório de Abril ~ Hypnerotomachia Poliphili",
+      "url": "https://acloserlisten.com/2026/11/25/grimorio-de-abril-hypnerotomachia-poliphili/",
+      "tags": [
+        "Ambient",
+        "gianmarco del re",
+        "Grimório de Abril",
+        "wabi-sabi tapes"
+      ],
+      "published": "2026-11-25T12:01:16+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Much like Poliphilo, the lover of many things, Brazilian musician Veridiana Sanchez, recording as Grimório de Abril, has an appetite for the unexpected. Her latest album takes its title from the extraordinary Renaissance romance Hypnerotomachia Poliphili, published anonymously in Venice"
+    },
+    {
+      "source": "Kerrang!",
+      "sourceId": "kerrang.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Album review: Drag Talk – Drink The Ocean",
+      "url": "https://www.kerrang.com/album-review-drag-talk-drink-the-ocean-jutty-taylor-nameless-ghoul-ghost",
+      "tags": [
+        "Reviews"
+      ],
+      "published": "2026-11-25T09:53:00+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Ex-Nameless Ghoul Jutty Taylor returns to front an excellent new project more interested in shimmering alt. rock cool than infernal theatricality"
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Kogumaza – You Found Yourself Where You Found Yourself",
+      "url": "https://thequietus.com/quietus-reviews/kogumaza-you-found-yourself-where-you-found-yourself-review/",
+      "tags": [
+        "Reviews"
+      ],
+      "published": "2026-11-25T08:30:00+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Kogumaza You Found Yourself Where You Found Yourself Formed in Nottingham in 2009, the drone and ambient rock trio’s first album since 2019’s Fugues is a gorgeous exploration of mantric repetition that hits the ear like a welcome draft of cool but invigorating air You Found Yourself Where You Found Yourself by Kogumaza Despite sharing a family tree with the likes of Rattle, Hey Colossus, Bob Tilto"
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Wilder Maker – Smoking The Bunny",
+      "url": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/",
+      "tags": [
+        "Reviews"
+      ],
+      "published": "2026-11-25T06:00:00+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Wilder Maker Smoking The Bunny Partly improvised and partly crooned, the latest from the Brooklyn quartet matches sonic texture to narrative detail Smoking the Bunny by Wilder Maker The last we heard from the reinvigorated Brooklyn outfit Wilder Maker, on their compelling 2025 LP, These Streets Still Warm Like Beds, the Gabe Birnbaum-led quartet left listeners with an unsettling image: “The sea is"
+    },
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "Collected Rips 2004-2024",
+      "url": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-25T05:00:00+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two decades."
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "DNGDNGDNG ~ Vestigio",
+      "url": "https://acloserlisten.com/2026/11/25/dngdngdng-vestigio/",
+      "tags": [
+        "Electronic",
+        "Club Romantico",
+        "DNGDNGDNG",
+        "gianmarco del re",
+        "Only Now",
+        "Siete Catorce"
+      ],
+      "published": "2026-11-25T00:01:34+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "There is something strangely archival about Vestigio, the latest album by Peruvian duo DNGDNGDNG (formerly Dengue Dengue Dengue). Its rhythms and sonic patterns have an uncanny familiarity, as though they belonged to an established musical tradition, yet their origins are"
+    },
+    {
+      "source": "Angry Metal Guy",
+      "sourceId": "angrymetalguy.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Darkest Hour – Suffer Divine Review",
+      "url": "https://www.angrymetalguy.com/darkest-hour-suffer-divine-review/",
+      "tags": [
+        "Reviews",
+        "2026",
+        "3.5",
+        "American Metal",
+        "At the Gates",
+        "Darkest Hour",
+        "Hardcore",
+        "Melodic Death Metal",
+        "Metalcore",
+        "MNRK Music Group",
+        "Oct26",
+        "Review",
+        "Suffer Divine"
+      ],
+      "published": "2026-11-24T20:01:30+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "\"I have a tumultuous history with Darkest Hour , as they do with their brand of metalcore-infused Swedeath worship. While mostly consistent (like my enjoyment of their music), we have both fallen out of touch from time to time. In the one-sided relationship of band and fan, there isn't much I can do but feel like an on-again, off-again lover, as Darkest Hour flits from too much hardcore to too muc"
+    },
+    {
+      "source": "Bandcamp Daily",
+      "sourceId": "daily.bandcamp.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "title": "The Best Country Music on Bandcamp, November 2026",
+      "url": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-november-2026",
+      "tags": [
+        "Best Country"
+      ],
+      "published": "2026-11-24T19:29:53+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "Angry Metal Guy",
+      "sourceId": "angrymetalguy.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Mystic Prophecy – In Metal Review",
+      "url": "https://www.angrymetalguy.com/mystic-prophecy-in-metal-review/",
+      "tags": [
+        "Reviews",
+        "2026",
+        "3.0",
+        "Brainstorm",
+        "Firewind",
+        "Fullforce",
+        "German Metal",
+        "Heavy Metal",
+        "In Metal",
+        "Mystic Prophecy",
+        "Nov26",
+        "Primal Fear",
+        "Reigning Phoenix Music",
+        "Review"
+      ],
+      "published": "2026-11-24T16:33:53+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "\"Ah, Mystic Prophecy . These German warriors have been slinging a tried-and-true classic heavy metal since 2001, and I've always considered them a lesser version of Primal Fear and Brainstorm . Every album delivers a handful of fist-pumping Teutonic thunder, but consistency hasn't been their strong suit. Because of this, they've always been a playlist band for me rather than a \"whole album\" act, b"
+    },
+    {
+      "source": "PopMatters",
+      "sourceId": "popmatters.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Indie",
+        "Jazz"
+      ],
+      "title": "The 50 Best Rock Albums of 2026",
+      "url": "https://www.popmatters.com/50-best-rock-albums-2026",
+      "tags": [
+        "Music",
+        "Featured: Top of Home Page",
+        "Features",
+        "Music Features",
+        "PopMatters Picks",
+        "The Best Music of 2026",
+        "a place for owls",
+        "A.A. Williams",
+        "alternative rock",
+        "american football",
+        "ANGINE DE POITRINE",
+        "best music",
+        "best music of 2026",
+        "best rock",
+        "Broken Social Scene",
+        "chat pile",
+        "Citizen",
+        "Cola",
+        "Cor de Lux",
+        "courtney barnett",
+        "death cab for cutie",
+        "django django",
+        "DMA’s",
+        "editors",
+        "emma ruth rundle",
+        "Friko",
+        "Gilla Band",
+        "Goose",
+        "gorillaz",
+        "Greg Freeman",
+        "HMLTD",
+        "indie rock",
+        "Interpol",
+        "jack white",
+        "Johnny Blue Skies",
+        "kevin morby",
+        "Khun Narin",
+        "kim gordon",
+        "Kings Of Leon",
+        "low cut connie",
+        "mastodon",
+        "Modest Mouse",
+        "phoebe bridgers",
+        "Prairie Princess",
+        "queens of the stone age",
+        "Ratboys",
+        "richard thompson",
+        "rock",
+        "Slift",
+        "spanish love songs",
+        "Static Dress",
+        "Telehealth",
+        "The Afghan Whigs",
+        "The Tubs",
+        "the twilight sad",
+        "this is lorelei",
+        "Thomas Dollbaum",
+        "Twisted Teens",
+        "Westside Cowboy",
+        "Wild Pink",
+        "Wishy",
+        "Yr Knives"
+      ],
+      "published": "2026-11-24T14:55:44+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "PopMatters counts down the best rock of 2026: 50 albums of indie, punk, psych, garage and heavy noise from a year of remarkable range and diversity."
+    },
+    {
+      "source": "Bandcamp Daily",
+      "sourceId": "daily.bandcamp.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "title": "The Best Jazz on Bandcamp, November 2026",
+      "url": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-november-2026",
+      "tags": [
+        "Best Jazz"
+      ],
+      "published": "2026-11-24T14:44:02+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Our guide to the month’s crucial jazz LPs Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "Bandcamp Daily",
+      "sourceId": "daily.bandcamp.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "Jazz",
+        "Metal",
+        "Indie",
+        "House",
+        "Techno",
+        "Disco",
+        "Drum & Bass",
+        "UK Garage"
+      ],
+      "title": "Rosetta, “Temporal Lapse”",
+      "url": "https://daily.bandcamp.com/album-of-the-day/rosetta-temporal-lapse-review",
+      "tags": [
+        "Album of the Day"
+      ],
+      "published": "2026-11-24T14:43:57+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "The veteran post-rock band bid farewell—for now—with their most phenomenal LP to date. Read full story on the Bandcamp Daily ."
+    },
+    {
+      "source": "Angry Metal Guy",
+      "sourceId": "angrymetalguy.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "The Foreshadowing – Ozymandias Review",
+      "url": "https://www.angrymetalguy.com/the-foreshadowing-ozymandias-review/",
+      "tags": [
+        "Reviews",
+        "2026",
+        "3.0",
+        "A-ha",
+        "Depeche Mode",
+        "Doom Metal",
+        "Gothic Metal",
+        "Gothic Rock",
+        "Italian Metal",
+        "Katatonia",
+        "Lifeforce Records",
+        "Nov26",
+        "Novembre",
+        "Ozymandias",
+        "Paradise Lost",
+        "Review",
+        "Shores of Null",
+        "The Foreshadowing"
+      ],
+      "published": "2026-11-24T12:27:54+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "\"Gothic metal and doom metal often go hand in hand, their dark and morose fusion in the '90s inevitable. Though Italian band The Foreshadowing is not a pioneer of it, they're far from a new kid on the block, releasing their cult classic debut Days of Nothing in 2007. Several more albums—and a severe underrating of their 2016 effort—followed. Each record maintained the debut's format with some beni"
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Cheb Runner ~ 80K",
+      "url": "https://acloserlisten.com/2026/11/24/cheb-runner-80k/",
+      "tags": [
+        "Electronic",
+        "Beat Machine Records",
+        "Cheb Runner",
+        "gianmarco del re"
+      ],
+      "published": "2026-11-24T12:01:52+00:00",
+      "firstSeen": "2026-11-25T15:31:54.555973+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "The rhythmic skeletons of Ahwach, Gnawa and related musical traditions meet 808s, sampling and electronic production on Cheb Runner‘s 80K, retaining their physical force even as their shapes change. The result feels rooted in a specific place while constantly pushing"
+    },
     {
       "source": "The Quietus",
       "sourceId": "thequietus.com",
@@ -41,7 +559,7 @@
       "firstSeen": "2026-11-24T10:04:56.619450+00:00",
       "kind": "review",
       "verification": "pending",
-      "excerpt": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn guitarist explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and co"
+      "excerpt": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and con"
     },
     {
       "source": "Pitchfork",
@@ -510,7 +1028,7 @@
       "firstSeen": "2026-11-24T10:04:56.619450+00:00",
       "kind": "review",
       "verification": "pending",
-      "excerpt": "The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means."
+      "excerpt": "The singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means."
     },
     {
       "source": "Louder",
@@ -592,7 +1110,7 @@
         "Anthrax",
         "Dream Theater",
         "tool",
-        "featured1"
+        "featured2"
       ],
       "published": "2026-11-22T15:18:36+00:00",
       "firstSeen": "2026-11-24T10:04:56.619450+00:00",
@@ -1499,229 +2017,6 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "“So che voglio e non ho cosa io voglia” (I know that I desire, and I don’t have anything I desire) Carlo Michelstaedter (1913) Is All Ages Lorenzo Senni‘s midlife crisis album? Six years after Scacco Matto, the Italian electronic"
-    },
-    {
-      "source": "No Depression",
-      "sourceId": "nodepression.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Country"
-      ],
-      "title": "ALBUM REVIEW: A Decade in, Heather Littlefield Is Still Bound to Roam on 'Wildflowers'",
-      "url": "https://nodepression.org/album-review-a-decade-in-heather-littlefield-is-still-bound-to-roam-on-wildflowers/",
-      "tags": [
-        "Album Reviews"
-      ],
-      "published": "2026-11-18T15:30:59+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The best country albums have a sneak-up quality to them, with the quiet confidence of timeless songs that feel like they’ve always been here. Heather Littlefield’s latest, Wildflowers , is one such record, born from more than a decade as a touring musician and all the"
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "Soup Activists, “Where the Rubbish Goes”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/soup-activists-where-the-rubbish-goes-review",
-      "tags": [
-        "Album of the Day"
-      ],
-      "published": "2026-11-18T14:48:08+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Martin Meyer's instinct may be to scurry away from growing interest in his music—but he's made one of the best noisy pop records of the year. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "The Quietus",
-      "sourceId": "thequietus.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Electronica",
-        "Ambient"
-      ],
-      "title": "Anthony Child – Beginning of the Shadow",
-      "url": "https://thequietus.com/quietus-reviews/anthony-child-beginning-of-the-shadow-review/",
-      "tags": [
-        "Reviews"
-      ],
-      "published": "2026-11-18T06:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Anthony Child Beginning of the Shadow The Northamptonshire-born producer, aka Surgeon, purges himself in Maui with a suite of ten ambient explorations Beginning of the Shadow by Anthony Child Transcendence Orchestra, a duo featuring Anthony Child and Dan Bean, played at the Hottest Supernormal Festival Ever™ in 2022. Clad in chunky hooded robes, they took to a Vortex stage doing its best sweat-box"
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "U, Me & My Ego (Deluxe)",
-      "url": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:03:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The Toronto singer caps her breakout year with a deluxe edition of her debut, a potent blend of 2010s R&B glam, sticky synth-pop, and heroic self-hype."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "An Exchange of Information",
-      "url": "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:02:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "On his sixth album, Jade Lilitri reckons with a crowded mind, a shortened attention span, and the dream of better days ahead in a set of jittery emo and power-pop songs."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "40 Acres",
-      "url": "https://pitchfork.com/reviews/albums/camden-malik-40-acres/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The DMV-based rapper spotlights his community and his loose, nonchalant flow on a breezy new project, executive-produced by MIKE and Surf Gang’s Elipropperr."
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "The Best Hip-Hop on Bandcamp, November 2026",
-      "url": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-november-2026",
-      "tags": [
-        "Best Hip-Hop"
-      ],
-      "published": "2026-11-17T14:43:45+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "Our guide to the month’s crucial rap LPs. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "Pharaoh Overlord, “7”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/pharaoh-overlord-7-review",
-      "tags": [
-        "Album of the Day"
-      ],
-      "published": "2026-11-17T14:43:41+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The Finnish band supplement their experimental metal with pop hooks and far-gone synths. Somehow, it works. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "PopMatters",
-      "sourceId": "popmatters.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Pop",
-        "Indie",
-        "Jazz"
-      ],
-      "title": "MetalMatters: The Best Metal Albums of November 2026",
-      "url": "https://www.popmatters.com/best-metal-november-2026",
-      "tags": [
-        "Music",
-        "Feature Sub Head",
-        "Featured: Top of Home Page",
-        "Features",
-        "Lists",
-        "Music Features",
-        "PopMatters Picks",
-        "Artificial Brain",
-        "Assumption",
-        "Det Eviga Leendet",
-        "Dungeon Serpent",
-        "Leviathan",
-        "Lockslip",
-        "Malignant Spirit",
-        "pharaoh overlord"
-      ],
-      "published": "2026-11-17T13:25:39+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "In November's best metal, Leviathan sit at the apex of black metal, Artificial Brain return with a new vocalist, and Pharaoh Overlord produce brutal electronica."
     }
   ]
 }
