@@ -1,0 +1,53 @@
+import requests,json,datetime,concurrent.futures
+from pathlib import Path
+genres={'Indie':20,'Rock':21,'Pop':14,'Hip-hop':18,'Country':6,'Jazz':11,'Metal':1153,'Elektronisk':7}
+jobs=[]
+for country in ['us','gb','no','se','de','fr','jp','au','ca','nl']:
+    jobs.append(('Apple Music v2','Alle',None,f'https://rss.marketingtools.apple.com/api/v2/{country}/music/most-played/100/albums.json',country))
+    for name,g in genres.items():
+        jobs.append(('iTunes Store purchases',name,g,f'https://itunes.apple.com/{country}/rss/topalbums/limit=100/genre={g}/json',country))
+def check(job):
+    source,name,g,url,country=job
+    out=dict(source=source,genre=name,genreId=g,url=url,country=country)
+    try:
+        res=requests.get(url,timeout=25)
+        out['http']=res.status_code
+        res.raise_for_status()
+        feed=res.json()['feed']
+        rows=feed.get('results',feed.get('entry',[]))
+        if isinstance(rows,dict):rows=[rows]
+        def label(x,k):return x.get(k,{}).get('label','')
+        parsed=[dict(rank=i+1,artist=x.get('artistName') or label(x,'im:artist'),title=x.get('name') or label(x,'im:name'),date=x.get('releaseDate') or label(x,'im:releaseDate'),genre=x.get('genres') or x.get('category',{}).get('attributes',{}),id=x.get('id') if isinstance(x.get('id'),str) else x.get('id',{}).get('attributes',{}).get('im:id')) for i,x in enumerate(rows)]
+        cutoff=(datetime.date.today()-datetime.timedelta(days=30)).isoformat()
+        recent=[x for x in parsed if cutoff<=x['date'][:10]<=datetime.date.today().isoformat()]
+        out.update(count=len(parsed),recentCount=len(recent),sample=parsed[:3],recentSample=recent,feedTitle=feed.get('title'),status='returned_rows' if parsed else 'empty')
+    except Exception as e:out.update(status='error',error=str(e))
+    return out
+with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool: results=list(pool.map(check,jobs))
+Path('album-feed-audit.json').write_text(json.dumps(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(),results=results),indent=2,ensure_ascii=False))
+import re,unicodedata
+def norm(s):return re.sub(r'[^\w]+','',unicodedata.normalize('NFKC',s or '').casefold())
+ranked={}
+for genre,gid in genres.items():
+    albums={}
+    for feed in results:
+        for a in feed.get('recentSample',[]):
+            if feed['source']=='iTunes Store purchases':
+                if feed['genre']!=genre:continue
+            elif not any(str(x.get('genreId'))==str(gid) for x in a['genre']):continue
+            title=a['title'] or ''
+            if re.search(r'\b(remaster\w*|anniversary|deluxe|greatest hits|single|EP|bonus track|reissue)\b',title,re.I):continue
+            if not a['artist'] or not title:continue
+            key=norm(a['artist'])+'|'+norm(title)
+            row=albums.setdefault(key,dict(artist=a['artist'],title=title,releaseDate=a['date'][:10],catalogId=a['id'],signals=[]))
+            signal=dict(source=feed['source'],country=feed['country'],rank=a['rank'],url=feed['url'])
+            old=next((x for x in row['signals'] if x['source']==signal['source'] and x['country']==signal['country']),None)
+            if old is None:row['signals'].append(signal)
+            elif old['rank']>signal['rank']:old.update(signal)
+    for row in albums.values():
+        row['purchaseScore']=sum(101-x['rank'] for x in row['signals'] if x['source']=='iTunes Store purchases')
+        row['streamScore']=sum(101-x['rank'] for x in row['signals'] if x['source']=='Apple Music v2')
+        row['score']=row['purchaseScore']+row['streamScore']
+    ranked[genre]=sorted(albums.values(),key=lambda x:-x['score'])
+Path('album-popularity.json').write_text(json.dumps(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(),method='Sum of 101 minus rank per source and country; purchase and streaming scores separate; not a global official chart',genres=ranked),indent=2,ensure_ascii=False))
+for r in results:print(r['country'],r['source'],r['genre'],r['status'],r.get('count'),r.get('recentCount'))
