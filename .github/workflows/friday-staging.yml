@@ -1,0 +1,43 @@
+name: Friday edition staging
+on:
+  schedule:
+    - cron: '0 0 * * 5'
+    - cron: '0 23 * * 4'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: friday-edition-staging
+  cancel-in-progress: false
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TZ: Europe/Oslo
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Oslo schedule
+        id: gate
+        run: |
+          if [ "$(date +%u-%H)" = "5-01" ] || [ "${{ github.event_name }}" = workflow_dispatch ]; then
+            test "$(date +%u)" = 5
+            echo "go=true" >> "$GITHUB_OUTPUT"
+            echo "SLIPP_RELEASE_DATE=$(date +%F)" >> "$GITHUB_ENV"
+          fi
+      - if: steps.gate.outputs.go == 'true'
+        run: |
+          pip install requests beautifulsoup4 feedparser
+          python scripts/production_album_feeds.py
+          python scripts/production_editorial.py
+          python scripts/production_albums.py
+          python scripts/production_singles.py
+          python scripts/production_validate.py
+          mkdir -p staging
+          cp edition.json genres.json singles-audit.json staging/
+          cp editorial/album-reviews.json staging/
+          git config user.name "SLIPP staging"
+          git config user.email "actions@users.noreply.github.com"
+          git add staging/
+          git diff --cached --quiet || git commit -m "Stage verified Friday edition"
+          git push origin HEAD:main
