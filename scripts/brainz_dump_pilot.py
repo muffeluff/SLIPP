@@ -21,12 +21,12 @@ def count_stream(lines,day,counts):
             if stamp!=day: continue
             metrics["target_day"]+=1
             md=row.get("track_metadata") or {}
-            mapping=md.get("mbid_mapping") or {}
+            mapping=md.get("mbid_mapping") or row.get("mbid_mapping") or {}
             additional=md.get("additional_info") or {}
-            mid=str(uuid.UUID(mapping.get("recording_mbid") or additional.get("recording_mbid") or ""))
+            mid=str(uuid.UUID(mapping.get("recording_mbid") or additional.get("recording_mbid") or row.get("recording_mbid") or ""))
             counts[mid]+=1
             metrics["mapped"]+=1
-        except (ValueError,TypeError,KeyError,OverflowError):
+        except (ValueError,TypeError,KeyError,OverflowError,AttributeError):
             metrics["unmapped_or_invalid"]+=1
     return metrics
 def selftest():
@@ -42,17 +42,33 @@ selftest()
 out["selftest"]="passed"
 save()
 try:
+    endpoint="https://labs.api.listenbrainz.org/bulk-tag-lookup/json"
+    mid="95acf775-12d3-44e2-a7db-06dc5dc34910"
+    with get(endpoint+"?"+urllib.parse.urlencode({"recording_mbid":mid})) as response:
+        out["independent_tag_probe"]={"endpoint":endpoint,"recording_mbid":mid,"response":json.load(response)}
+except Exception as e:
+    out["independent_tag_probe"]={"error":str(e)}
+save()
+try:
     with get(ROOT) as r: listing=r.read(4_000_000).decode()
     dirs=sorted(set(re.findall(r'listenbrainz-dump-\d+-\d{8}-\d{6}-incremental',listing)),key=lambda x:x.split("-")[3:5])
     if not dirs: raise ValueError("No incremental directories")
-    directory=dirs[-1]
-    dumpday=dt.datetime.strptime(directory.split("-")[3],"%Y%m%d").date()
-    day=dumpday-dt.timedelta(days=1)
-    url=ROOT+directory+"/"
-    with get(url) as r: listing=r.read(4_000_000).decode()
-    names=sorted(set(re.findall(r'listenbrainz-listens-dump[\w.-]*\.tar\.zst',listing)))
-    if len(names)!=1: raise ValueError("Expected one listens archive: "+str(names))
-    source=url+names[0]
+    out["archive_candidates"]=[]
+    for directory in reversed(dirs[-7:]):
+        dumpday=dt.datetime.strptime(directory.split("-")[3],"%Y%m%d").date()
+        day=dumpday-dt.timedelta(days=1)
+        url=ROOT+directory+"/"
+        with get(url) as r: listing=r.read(4_000_000).decode()
+        names=sorted(set(re.findall(r'listenbrainz-listens-dump[\w.-]*\.tar\.zst',listing)))
+        if len(names)!=1: continue
+        source=url+names[0]
+        with urllib.request.urlopen(urllib.request.Request(source,method="HEAD",headers={"User-Agent":UA}),timeout=60) as response:
+            length=int(response.headers.get("Content-Length") or 0)
+        out["archive_candidates"].append({"url":source,"bytes":length})
+        save()
+        if 10*1024**2 <= length <= 2*1024**3: break
+        time.sleep(2)
+    else: raise ValueError("No suitable archive in last seven directories")
     out.update({"archive":source,"target_day":str(day)})
     counts=collections.Counter()
     metrics=collections.Counter()
@@ -70,8 +86,14 @@ try:
         with subprocess.Popen(["zstd","-dc",str(path)],stdout=subprocess.PIPE) as proc:
             with tarfile.open(fileobj=proc.stdout,mode="r|") as archive:
                 for member in archive:
-                    if member.isfile() and member.name.endswith(".listens"):
-                        metrics.update(count_stream(archive.extractfile(member),day,counts))
+                    if member.isfile():
+                        suffix=Path(member.name).suffix.lower()
+                        structure=out.setdefault("archive_structure",{})
+                        info=structure.setdefault(suffix or "(none)",{"files":0,"bytes":0})
+                        info["files"]+=1
+                        info["bytes"]+=member.size
+                        if suffix in (".listens",".jsonl",".ndjson",".json") or re.search(r"\.listens\.",member.name):
+                            metrics.update(count_stream(archive.extractfile(member),day,counts))
             if proc.wait()!=0: raise RuntimeError("Decompression failed")
     out["counts"]=dict(metrics)
     out["distinct_recordings"]=len(counts)
