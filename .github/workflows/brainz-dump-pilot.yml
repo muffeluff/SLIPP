@@ -1,4 +1,4 @@
-name: Brainz dump capacity pilot
+name: Brainz dump capacity pilot 4.1
 on:
   workflow_dispatch:
   push:
