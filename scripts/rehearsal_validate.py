@@ -1,15 +1,19 @@
-import json,datetime
+import json,datetime,os
+from zoneinfo import ZoneInfo
 from pathlib import Path
 def read(p):return json.loads(Path(p).read_text())
 def norm(s):return ''.join(c for c in s.casefold() if c.isalnum())
 e=read('edition.json');g=read('genres.json');a=read('editorial/articles.json')['articles'];audit=read('singles-audit.json')
-today=datetime.date.today().isoformat()
+today=datetime.datetime.now(ZoneInfo('Europe/Oslo')).date().isoformat()
+target=os.environ['SLIPP_RELEASE_DATE']
 print('Edition date:',e['date'],'Audit date:',audit['date'],'Expected:',today,'Fresh singles:',audit['selected'],flush=True)
 print('Singles source coverage:',json.dumps(audit['sources']),flush=True)
 assert e['date']==today, 'Edition date mismatch'
 assert audit['date']==today, 'Singles audit date mismatch'
-assert audit['selected']==5, f"Only {audit['selected']} verified fresh singles; refusing stale fallback"
-assert len(g)==8 and len(e['mustListen']['albums'])==5 and len(e['mustListen']['singles'])==5
+assert audit['targetDate']==target
+assert 1<=audit['selected']<=5, 'No verified Friday singles; refusing stale fallback'
+assert all(r[5]['releaseDate']==target for r in e['mustListen']['singles'])
+assert len(g)==8 and len(e['mustListen']['albums'])==5 and len(e['mustListen']['singles'])==audit['selected']
 rows=[r for sections in g.values() for s in sections for r in s['items']]
 assert all(s['items'] for sections in g.values() for s in sections), 'Empty genre'
 assert len({(norm(r[0]),norm(r[1])) for r in rows})==len(rows), 'Duplicate albums'
@@ -20,4 +24,4 @@ for r in rows:
 for r in rows+e['mustListen']['albums']+e['mustListen']['singles']:
     assert r[4].startswith('https://') and r[5]['releaseDate']<=today
 Path('editorial/album-reviews.json').write_text(json.dumps(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(),releases=reviews),ensure_ascii=False,indent=2))
-print('Validated',len(rows),'albums, five singles,',sum(len(r['articles']) for r in reviews),'feed-matched reviews')
+print('Validated',len(rows),'albums,',audit['selected'],'Friday singles,',sum(len(r['articles']) for r in reviews),'feed-matched reviews')
