@@ -1,0 +1,19 @@
+name: Brainz pilot
+on:
+  workflow_dispatch:
+  push:
+    branches: [underground-pilot]
+    paths: [.github/workflows/brainz-pilot.yml]
+permissions:
+  contents: read
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/brainz_pilot.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: brainz-pilot-results
+          path: brainz-pilot-results.json
