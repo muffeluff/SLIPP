@@ -1,4 +1,6 @@
-import requests,json,datetime,concurrent.futures
+import requests,json,datetime,concurrent.futures,os
+from zoneinfo import ZoneInfo
+target=os.environ.get('SLIPP_RELEASE_DATE',datetime.datetime.now(ZoneInfo('Europe/Oslo')).date().isoformat())
 from pathlib import Path
 genres={'Indie':20,'Rock':21,'Pop':14,'Hip-hop':18,'Country':6,'Jazz':11,'Metal':1153,'Elektronisk':7}
 jobs=[]
@@ -19,7 +21,7 @@ def check(job):
         def label(x,k):return x.get(k,{}).get('label','')
         parsed=[dict(rank=i+1,artist=x.get('artistName') or label(x,'im:artist'),title=x.get('name') or label(x,'im:name'),date=x.get('releaseDate') or label(x,'im:releaseDate'),genre=x.get('genres') or x.get('category',{}).get('attributes',{}),id=x.get('id') if isinstance(x.get('id'),str) else x.get('id',{}).get('attributes',{}).get('im:id')) for i,x in enumerate(rows)]
         cutoff=(datetime.date.today()-datetime.timedelta(days=30)).isoformat()
-        recent=[x for x in parsed if cutoff<=x['date'][:10]<=datetime.date.today().isoformat()]
+        recent=[x for x in parsed if x['date'][:10]==target]
         out.update(count=len(parsed),recentCount=len(recent),sample=parsed[:3],recentSample=recent,feedTitle=feed.get('title'),status='returned_rows' if parsed else 'empty')
     except Exception as e:out.update(status='error',error=str(e))
     return out
