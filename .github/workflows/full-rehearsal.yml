@@ -24,6 +24,16 @@ jobs:
         run: python scripts/weekly_singles.py
       - name: Validate and match reviews
         run: python scripts/rehearsal_validate.py
+      - name: Save diagnostic reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rehearsal-diagnostics
+          path: |
+            singles-audit.json
+            album-feed-audit.json
+            edition.json
+            genres.json
       - name: Publish only to test branch
         run: |
           test "$(git branch --show-current)" = slipp-rehearsal
