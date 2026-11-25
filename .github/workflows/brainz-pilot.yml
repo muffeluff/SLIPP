@@ -9,11 +9,13 @@ permissions:
 jobs:
   pilot:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - run: python scripts/brainz_pilot.py
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: brainz-pilot-results
           path: brainz-pilot-results.json
+          if-no-files-found: error
