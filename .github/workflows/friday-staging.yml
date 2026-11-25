@@ -29,7 +29,7 @@ jobs:
         run: |
           pip install requests beautifulsoup4 feedparser
           python scripts/production_album_feeds.py
-          python scripts/production_editorial.py
+          python scripts/production_editorial.py || echo 'Optional editorial collection failed; continuing'
           python scripts/production_albums.py
           python scripts/production_singles.py
           python scripts/production_validate.py
