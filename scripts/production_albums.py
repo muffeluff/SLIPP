@@ -38,7 +38,11 @@ def diagnose(a):
         r=get(a['url'])
         return dict(url=a['url'],status=r.status_code,finalUrl=r.url,contentType=r.headers.get('Content-Type'),bytes=len(r.content),titlePresent=norm(a['title']) in norm(r.text),preview=re.sub(r'\s+',' ',r.text[:500]))
     except Exception as e:return dict(url=a['url'],error=str(e))
-candidates=read('editorial/candidates.json')['articles']
+try:
+    candidates=read('editorial/candidates.json')['articles']
+except Exception as exc:
+    print('Optional editorial candidates unavailable:',exc)
+    candidates=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
     diagnostics=list(pool.map(diagnose,candidates[:30]))
 write('editorial/article-access-audit.json',dict(date=date,results=diagnostics))
