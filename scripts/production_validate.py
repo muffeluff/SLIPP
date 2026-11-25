@@ -3,7 +3,7 @@ from zoneinfo import ZoneInfo
 from pathlib import Path
 def read(p):return json.loads(Path(p).read_text())
 def norm(s):return ''.join(c for c in s.casefold() if c.isalnum())
-e=read('edition.json');g=read('genres.json');a=read('editorial/articles.json')['articles'];audit=read('singles-audit.json')
+e=read('edition.json');g=read('genres.json');audit=read('singles-audit.json')
 today=datetime.datetime.now(ZoneInfo('Europe/Oslo')).date().isoformat()
 target=os.environ['SLIPP_RELEASE_DATE']
 print('Edition date:',e['date'],'Audit date:',audit['date'],'Expected:',today,'Fresh singles:',audit['selected'],flush=True)
@@ -18,8 +18,13 @@ rows=[r for sections in g.values() for s in sections for r in s['items']]
 assert all(len(s['items'])<=5 for sections in g.values() for s in sections)
 print('Friday album coverage:',{k:sum(len(s['items']) for s in v) for k,v in g.items()})
 assert len({(norm(r[0]),norm(r[1])) for r in rows})==len(rows), 'Duplicate albums'
+try:
+    a=read('editorial/articles.json')['articles']
+except Exception as exc:
+    print('Optional editorial data unavailable:',exc)
+    a=[]
 reviews=[]
-for r in rows:
+for r in rows+e['mustListen']['singles']:
     matches=[dict(source=x.get('source',x.get('sourceId','')),title=x['title'],url=x['url'],published=x['published'],verified=True,verification='editorial-feed-match') for x in a if x.get('kind')=='review' and x.get('published') and x.get('url','').startswith('https://') and norm(r[0]) in norm(x['title']) and norm(r[1]) in norm(x['title'])]
     reviews.append(dict(artist=r[0],title=r[1],articles=matches))
 for r in rows+e['mustListen']['albums']+e['mustListen']['singles']:
