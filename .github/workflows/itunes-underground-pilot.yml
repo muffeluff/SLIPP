@@ -1,4 +1,4 @@
-name: iTunes Underground pilot 5.1
+name: iTunes Underground pilot 5.2
 on:
   workflow_dispatch:
   push:
