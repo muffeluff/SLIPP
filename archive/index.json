@@ -8,5 +8,10 @@
     "date": "2026-11-24",
     "edition": "archive/2026-11-24-pretest.json",
     "genres": "archive/2026-11-24-pretest-genres.json"
+  },
+  {
+    "date": "2026-11-25",
+    "edition": "archive/2026-11-25-pretest.json",
+    "genres": "archive/2026-11-25-pretest-genres.json"
   }
 ]

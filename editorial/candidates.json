@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-25T04:53:28.276454+00:00",
+  "updated": "2026-11-25T05:14:48.471297+00:00",
   "articles": [
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "Collected Rips 2004-2024",
+      "url": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-25T05:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two decades."
+    },
     {
       "source": "A Closer Listen",
       "sourceId": "acloserlisten.com",
@@ -1869,75 +1892,6 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "Anthony Child Beginning of the Shadow The Northamptonshire-born producer, aka Surgeon, purges himself in Maui with a suite of ten ambient explorations Beginning of the Shadow by Anthony Child Transcendence Orchestra, a duo featuring Anthony Child and Dan Bean, played at the Hottest Supernormal Festival Ever™ in 2022. Clad in chunky hooded robes, they took to a Vortex stage doing its best sweat-box"
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "U, Me & My Ego (Deluxe)",
-      "url": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:03:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The Toronto singer caps her breakout year with a deluxe edition of her debut, a potent blend of 2010s R&B glam, sticky synth-pop, and heroic self-hype."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "An Exchange of Information",
-      "url": "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:02:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "On his sixth album, Jade Lilitri reckons with a crowded mind, a shortened attention span, and the dream of better days ahead in a set of jittery emo and power-pop songs."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "40 Acres",
-      "url": "https://pitchfork.com/reviews/albums/camden-malik-40-acres/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-18T05:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The DMV-based rapper spotlights his community and his loose, nonchalant flow on a breezy new project, executive-produced by MIKE and Surf Gang’s Elipropperr."
     }
   ]
 }

@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-25T04:53:28.276454+00:00",
+  "updated": "2026-11-25T05:14:48.471297+00:00",
   "articles": [
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Thomas Markle Indicted on Charges of Having Child Sex Abuse Material",
+      "url": "https://www.rollingstone.com/culture/culture-news/thomas-markle-indicted-1235664089/",
+      "tags": [
+        "(Sub)Culture News",
+        "Culture",
+        "controversy",
+        "courts and crime",
+        "Meghan Markle",
+        "thomas markle"
+      ],
+      "published": "2026-11-25T05:08:23+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Prosecutors alleged Markle kept photos where he is pictured with prepubescent children"
+    },
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "Collected Rips 2004-2024",
+      "url": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-25T05:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two decades."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "How Fairport Convention’s folk rock was influenced by The Who: “They were smashing instruments. The shops were running out”",
+      "url": "https://www.loudersound.com/bands-artists/richard-thompson-fairport-convenion-the-who",
+      "tags": [
+        "Bands & Artists"
+      ],
+      "published": "2026-11-25T05:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Richard Thompson says Pete Townshend’s stage stunts brought both artistic and technical benefits to his band – and recommends becoming an accountant if you want a Rolls-Royce out of the music business"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "‘A True Giant of the Music Industry’: King Charles Remembers Ian ‘Molly’ Meldrum And Their Infamous Interview",
+      "url": "https://www.billboard.com/music/music-news/king-charles-remembers-ian-molly-meldrum-1236389344/",
+      "tags": [
+        "Music",
+        "Music News",
+        "bbnews"
+      ],
+      "published": "2026-11-25T04:55:12+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "King Charles, Elton John, Duran Duran and many others pay tribute to the late Australian music icon."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Bryan Adams launches all-star Christmas album with cover of Slade's Merry Xmas Everybody",
+      "url": "https://www.loudersound.com/music/albums/bryan-adams-launches-all-star-christmas-album-slade-merry-xmas-everybody",
+      "tags": [
+        "Albums",
+        "Music"
+      ],
+      "published": "2026-11-25T04:55:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Bryan Adams & Friends' A Great Big Holiday Jam (2026) is the sequel to last year's Bryan Adams & Friends' album A Great Big Holiday Jam"
+    },
     {
       "source": "Mixmag",
       "sourceId": "mixmag.net",
@@ -165,7 +275,7 @@
         "Country",
         "Hip-hop"
       ],
-      "title": "‘Avengers’ Director Recalls Patrick Stewart’s ‘Very Emotional’ Speech on His Last Day on Set",
+      "title": "‘Avengers’ Director Remembers Patrick Stewart’s ‘Very Emotional’ Speech on His Last Day on Set",
       "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/avengers-doomsday-patrick-stewart-ian-mckellen-1235664070/",
       "tags": [
         "TV & Movies",
@@ -1653,6 +1763,28 @@
       "excerpt": "The post Jorg Kuning Announces New Album <em>Clun Pearls</em>: Hear “Bitzer’s Cello” appeared first on Stereogum ."
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Max White Shares Powerful New Single ‘Why’d Nobody Ask?’",
+      "url": "https://www.clashmusic.com/news/max-white-shares-powerful-new-single-whyd-nobody-ask/",
+      "tags": [
+        "News",
+        "Max White"
+      ],
+      "published": "2026-11-24T17:27:51+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Max White has shared his poignant new single ‘Why’d Nobody Ask?’ – tune in now. Mental health is a serious issue in our society, with suicide remaining the leading cause of death for British men under the age of 50. Max White knows this better than most – he lost… The post Max White Shares Powerful New Single ‘Why’d Nobody Ask?’ appeared first on Clash Magazine Music News, Reviews & Interviews ."
+    },
+    {
       "source": "Stereogum",
       "sourceId": "stereogum.com",
       "sourceType": "editorial",
@@ -1874,6 +2006,28 @@
       "excerpt": "It's out on Drag City in February Photo by Vera Marmelo Rafael Toral will start 2027 with the release of a new album, titled Long Ways. Made up of three extended pieces, the album breaks free from the orchestral arrangements of 2025 album Traveling Light and 2024's Spectral Evolution, according to a press release. It was largely built from a process of improvisation. Commenting on the album, Toral"
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "James: Getting Away With It – The Story Of A Remarkable Band",
+      "url": "https://www.clashmusic.com/reviews/james-getting-away-with-it-the-story-of-a-remarkable-band/",
+      "tags": [
+        "Reviews",
+        "James"
+      ],
+      "published": "2026-11-24T16:47:27+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Cult affiliations, a psychic, drug trials and a rather eventful appearance at Lollapalooza: it’s been one hell of a journey for James, and new film James: Getting Away With It All charts the twists, turns and unexpected moments along the way. Directed by Chris Atkins, this candid documentary features interviews… The post James: Getting Away With It – The Story Of A Remarkable Band appeared first o"
+    },
+    {
       "source": "Consequence",
       "sourceId": "consequence.net",
       "sourceType": "editorial",
@@ -2021,6 +2175,29 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "\"Ah, Mystic Prophecy . These German warriors have been slinging a tried-and-true classic heavy metal since 2001, and I've always considered them a lesser version of Primal Fear and Brainstorm . Every album delivers a handful of fist-pumping Teutonic thunder, but consistency hasn't been their strong suit. Because of this, they've always been a playlist band for me rather than a \"whole album\" act, b"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Overmono, Fakemink To Headline Field Day 2027",
+      "url": "https://www.clashmusic.com/live/overmono-fakemink-to-headline-field-day-2027/",
+      "tags": [
+        "Live",
+        "fakemink",
+        "Overmono"
+      ],
+      "published": "2026-11-24T16:31:11+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Overmono and Fakemink have been revealed as Field Day 2027 headliners. The festival returns to its South London base next year on May 29th, with Brockwell Park set to resonate with club, rap, and electronic sounds. XL Recordings duo Overmono will play a special live set as headliners, and the… The post Overmono, Fakemink To Headline Field Day 2027 appeared first on Clash Magazine Music News, Revie"
     },
     {
       "source": "Consequence",
@@ -2281,6 +2458,28 @@
       "excerpt": "Seit über drei Jahrzehnten ohne Investoren und Sponsoren: Aena Spitz spricht über Generationswechsel, steigende Produktionskosten, Unwetter-Evakuierungen und warum die Nation of Gondwana gerade jetzt mehr denn je ein politischer Schutzraum sein muss. Der Beitrag Aena Spitz über 30 Jahre Nation of Gondwana: „Ein wichtiger Punkt ist unsere Philosophie der ‚Realitätsfluchthilfe‘, die wir wirklich all"
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Steve Lacy Announces Show At London’s The O2 Arena",
+      "url": "https://www.clashmusic.com/live/steve-lacy-announces-show-at-londons-the-o2-arena/",
+      "tags": [
+        "Live",
+        "Steve Lacy"
+      ],
+      "published": "2026-11-24T16:06:41+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "American R&B guru Steve Lacy touches down in London year for a show at The O2 Arena. The songwriter made his long-awaited return this year, sharing his album ‘Oh yeah?’ in full to rave reviews from fans and critics alike. With two songs in Spotify’s Billion club, Steve Lacy knows… The post Steve Lacy Announces Show At London’s The O2 Arena appeared first on Clash Magazine Music News, Reviews & Int"
+    },
+    {
       "source": "Louder",
       "sourceId": "loudersound.com",
       "sourceType": "editorial",
@@ -2298,6 +2497,63 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Guitarist hails the band and fans’ family vibe after a health spa trip sparked their reunion – and he can’t believe their luck in hiring the first drummer they auditioned"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Mia Joy and Midwife join forces on new song, \"Circle\"",
+      "url": "https://www.thelineofbestfit.com/news/mia-joy-and-midwife-join-forces-on-new-song-circle",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T16:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Chicago-based musician Mia Joy has released \"Circle\" featuring Midwife — the project of singer-songwriter Madeline Johnston — the latest single from her upcoming second album, Star Echo Heavy Dove."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "PUNCHBAG return with new single, \"FANGIRL\"",
+      "url": "https://www.thelineofbestfit.com/news/punchbag-return-with-new-single-fangirl",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T16:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "South London sibling duo PUNCHBAG have released their new song, \"FANGIRL\"."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Yard Act, Kate Nash and Peaches lead line-up for FOCUS Wales",
+      "url": "https://www.thelineofbestfit.com/news/yard-act-kate-nash-and-peaches-lead-line-up-for-focus",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T16:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "FOCUS Wales has revealed the first sixty names on the line-up for the festival's 2027 edition, returning to Wrexham between 6–8 May."
     },
     {
       "source": "Stereogum",
@@ -2657,6 +2913,29 @@
       "excerpt": "Australia has always been a hotbed for country music talent with international appeal, and that often lean toward more traditional sounds and styles. But heading into 2027, this might be even more true. The post Why Australia’s Golden Guitar Awards Hold Extra Significance in 2027 first appeared on Saving Country Music ."
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Oasis Legend Bonehead Raffles Iconic Live ’25 Tour Cut-Out",
+      "url": "https://www.clashmusic.com/news/oasis-legend-bonehead-raffles-iconic-live-25-tour-cut-out/",
+      "tags": [
+        "News",
+        "Bonehead",
+        "Oasis"
+      ],
+      "published": "2026-11-24T15:02:37+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Oasis guitarist Bonehead is raffling off the iconic Live ’25 tour cut-out the band used onstage. The rhythm guitarist is a founder member of the Manchester legends, and when the call came to reform, Bonehead gladly stepped back out onstage. For fans, he’s the spiritual heart of the band, and… The post Oasis Legend Bonehead Raffles Iconic Live ’25 Tour Cut-Out appeared first on Clash Magazine Music"
+    },
+    {
       "source": "Consequence",
       "sourceId": "consequence.net",
       "sourceType": "editorial",
@@ -2719,6 +2998,82 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The Moon River Music Festival has had some twists and turns since being founded in 2014 by roots singer-songwriter Drew Holcomb. The festival, which highlights Tennessee’s music and culture, while supporting some charitable causes, was held for three years at the Levitt Shell in Holcomb's"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Portugese singer-songwriter Leonor Arnaut details debut solo album, Banho de Pássaro",
+      "url": "https://www.thelineofbestfit.com/news/portugese-singer-songwriter-leonor-arnaut-details-debut-solo-album-banho-de-passaro",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T15:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Leonor Arnaut has announced her upcoming solo album, Banho de Pássaro, and shared her new single, \"Escorpião Na Testa\"."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "George FitzGerald teams up with Lil Silva for new song, \"If You Wait\"",
+      "url": "https://www.thelineofbestfit.com/news/george-fitzgerald-teams-up-with-lil-silva-for-new-song-if-you-wait",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T15:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "George Fitzgerald has released \"If You Wait\" featuring producer Lil Silva, the latest single from his upcoming fourth album, Lima Romeo."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Steve Lacy announces first London headline show in five years",
+      "url": "https://www.thelineofbestfit.com/news/steve-lacy-announces-first-london-headline-show-in-five-years",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T15:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Steve Lacy has announced a headline show at The O2 in London on 26 April 2027."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Welsh quartet Slate unveil new track, \"Lantern\"",
+      "url": "https://www.thelineofbestfit.com/news/welsh-quartet-slate-unveil-new-track-lantern",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T15:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Slate have released \"Lantern\", the second preview of their upcoming second EP, The Grandfather Clock."
     },
     {
       "source": "PopMatters",
@@ -2905,6 +3260,28 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Shudder To Think and La Tène are among those lined up to play the Birmingham event next year Shudder To Think, photo by Seth Olenick Supersonic has shared the first lineup announcement for its 2027 edition next spring. Veteran Washington D.C. punk and post-hardcore band Shudder To Think, who've newly reformed, will head up the lineup, while French-Swiss tQ favourites La Tène are also lined up to p"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Exeter’s 12 Degrees Festival Launches",
+      "url": "https://www.clashmusic.com/live/exeters-12-degrees-festival-launches/",
+      "tags": [
+        "Live",
+        "12 Degrees"
+      ],
+      "published": "2026-11-24T14:46:45+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "New Exeter one-day 12 Degrees Festival has launched. The one day festival takes place on May 22nd next year, aiming to platform left-field music across three spaces in the South West city. Co-curated by DJ and broadcaster Tina Edwards, it’s an ambitious programme which moves from afrobeat to underground electronics… The post Exeter’s 12 Degrees Festival Launches appeared first on Clash Magazine Mu"
     },
     {
       "source": "Decibel",
@@ -3106,6 +3483,74 @@
       "excerpt": "Laid out across a chocolate leather couch in an NBC Studios dressing room ahead of his performance on The Tonight Show Starring Jimmy Fallon , Offset reflects on an existential W that somehow seems as celebration-worthy as his new album. “I don’t go to jail no more,” he tells me. “I feel like I don’t get enough credit for that.” It’s a weird flex, but I’m honestly too surprised — too impressed — t"
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "To The Lighthouse Share Impressive New Single ‘Argue Like I Love You’",
+      "url": "https://www.clashmusic.com/news/to-the-lighthouse-share-impressive-new-single-argue-like-i-love-you/",
+      "tags": [
+        "News",
+        "To The Lighthouse"
+      ],
+      "published": "2026-11-24T14:27:39+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Halifax duo To The Lighthouse have shared their new single ‘Argue Like I Love You’. The band have signed to Fierce Panda, a pre-eminent name in British independent music, with their self-titled debut album set to land on April 16th. Out now, ‘Argue Like A Love You’ finds the duo… The post To The Lighthouse Share Impressive New Single ‘Argue Like I Love You’ appeared first on Clash Magazine Music N"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "True Sound: Oscar Jerome Interviewed",
+      "url": "https://www.clashmusic.com/features/true-sound-oscar-jerome-interviewed/",
+      "tags": [
+        "Features",
+        "Bowers & Wilkins",
+        "Clash Live",
+        "Oscar Jerome"
+      ],
+      "published": "2026-11-24T14:20:22+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "For 60 years, Bowers & Wilkins has been driven by a singular pursuit: bringing listeners closer to the music they love through True Sound. To mark its 60th anniversary, the brand has partnered with CLASH on The Future of True Sound – a series of intimate supper clubs and live… The post True Sound: Oscar Jerome Interviewed appeared first on Clash Magazine Music News, Reviews & Interviews ."
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "U2 Announce Massive North American Stadium Tour",
+      "url": "https://www.clashmusic.com/live/u2-announce-massive-north-american-stadium-tour/",
+      "tags": [
+        "Live",
+        "U2"
+      ],
+      "published": "2026-11-24T14:16:32+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "U2 have confirmed plans for a massive North American stadium tour. The Irish band celebrated 50 years together by unleashing a new album, recruiting long-time collaborator Brian Eno for the sprightly ‘Carnaval de Luz’. In our review, CLASH wrote: At times thrilling, ‘Carnaval De Luz’ isn’t perfect, but it nonetheless… The post U2 Announce Massive North American Stadium Tour appeared first on Clash"
+    },
+    {
       "source": "DJ Mag",
       "sourceId": "djmag.com",
       "sourceType": "editorial",
@@ -3125,6 +3570,50 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Saunderson was among the speakers at the public memorial held at Lincoln Factory in Detroit on Sunday (22nd November)"
+    },
+    {
+      "source": "Aquarium Drunkard",
+      "sourceId": "aquariumdrunkard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Jazz",
+        "Country",
+        "Ambient"
+      ],
+      "title": "The Lagniappe Sessions :: Shane Butler",
+      "url": "https://aquariumdrunkard.com/2026/11/24/the-lagniappe-sessions-shane-butler/",
+      "tags": [
+        "Lagniappe Sessions",
+        "Shane Butler"
+      ],
+      "published": "2026-11-24T14:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Shane Butler's first solo record, Heavy Debt , is due next month, and for this Lagniappe Session he's pulled together three songs that have been rattling around for a long time. Fugazi's \"I'm So Tired,\" a song he first encountered as a kid watching skate videos, Shoes' homemade pop and a 1979 Soft Boys' nugget. The post The Lagniappe Sessions :: Shane Butler first appeared on Aquarium Drunkard ."
+    },
+    {
+      "source": "Aquarium Drunkard",
+      "sourceId": "aquariumdrunkard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Jazz",
+        "Country",
+        "Ambient"
+      ],
+      "title": "Miles Davis: Copenhagen Live 1969",
+      "url": "https://aquariumdrunkard.com/2026/11/24/miles-davis-copenhagen-live-1969/",
+      "tags": [
+        "Jazz",
+        "Miles Davis"
+      ],
+      "published": "2026-11-24T14:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Miles Davis’ 1969 live ensemble existed in a parallel timeline alongside his studio work - greasing his audience for a future for which they were wholly unprepared. A new 2LP set, Copenhagen Live 1969 , captures the band at its peak, stress-testing then-unreleased Bitches Brew material, tearing it down and reassembling it into some of the most far-out, formless music of Miles’ career. The post Mil"
     },
     {
       "source": "Stereogum",
@@ -3214,6 +3703,28 @@
       "excerpt": "Der schwedische Hardwarehersteller Teenage Engineering stellt mit dem EP/BC-1 seinen ersten CD-Player vor, der klassische Wiedergabe mit modernen DJ-Features wie Tempo-Sync, Beat-Erkennung und Varispeed kombiniert. Der Beitrag Teenage Engineering: Neuer CD-Player setzt auf offenes Disc-Format und diese Features erschien zuerst auf Groove ."
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Skepta – The Fork and Knife",
+      "url": "https://www.clashmusic.com/reviews/skepta-the-fork-and-knife/",
+      "tags": [
+        "Reviews",
+        "skepta"
+      ],
+      "published": "2026-11-24T13:40:46+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The world is in motion around Skepta. Things are blurring; life is passing. With that, ‘The Fork and Knife’ is an engaging trauma dump on the weight of what it takes to be a man, or, more specifically, what it takes to be Skepta. Setting the scene is ‘Secrets of… The post Skepta – The Fork and Knife appeared first on Clash Magazine Music News, Reviews & Interviews ."
+    },
+    {
       "source": "PopMatters",
       "sourceId": "popmatters.com",
       "sourceType": "editorial",
@@ -3284,6 +3795,48 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Peter Gabriel will release his latest album o\\i, the follow-up to 2023's i/o, in November"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Ex:Re announces first UK/EU tour in eight years",
+      "url": "https://www.thelineofbestfit.com/news/exre-announces-first-uk-eu-tour-in-eight-years",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T13:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Ex:Re — the solo project of daughter singer Elena Tonra — has announced a 2027 tour of the United Kingdom and Europe, her first tour since the release of her self-titled debut album in 2019."
+    },
+    {
+      "source": "Aquarium Drunkard",
+      "sourceId": "aquariumdrunkard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Jazz",
+        "Country",
+        "Ambient"
+      ],
+      "title": "Frank Black :: The Aquarium Drunkard Interview",
+      "url": "https://aquariumdrunkard.com/2026/11/24/frank-black-the-pixies-the-aquarium-drunkard-interview/",
+      "tags": [
+        "Frank Black",
+        "The AD Interview",
+        "The Pixies"
+      ],
+      "published": "2026-11-24T13:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "In 2025, Pixies leader Frank Black took to the road to celebrate the 30th anniversary of his 1994 sophomore LP Teenager of the Year with the same cast of players who recorded the original album. A sprawling double album, it's held together with the same kind of ramshackle logic that makes The Beatles' The White Album or The Clash's London Calling work. Recently, Aquarium Drunkard caught up with Bl"
     },
     {
       "source": "NME",
@@ -3434,6 +3987,25 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Our latest mag also features interviews with DIIV, Chloe Qisha, PISS, La Roux and loads more."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Frog announce reissue of out of print album, Kind of Blah (Kinda Bloated)",
+      "url": "https://www.thelineofbestfit.com/news/frog-announce-reissue-of-out-of-print-album-kind-of-blah-kinda-bloated",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T11:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Frog have announced a reissue of their 2015 album Kind of Blah (Kinda Bloated), which features fifteen bonus tracks, including B-sides, radio sessions, and live recordings from their 2016 UK tour."
     },
     {
       "source": "NME",
@@ -5157,6 +5729,25 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Hackney songwriter Amahla has shared her new project ‘a little hope’ in full. The songwriter has been on our radar for some time, melting together vintage soul and jazz tropes with a distinctly modern, very British sensibility. Brought up in a large Guyanese-Jamaican family Amahla always sought inspiration in music,… The post Amahla Shines On New Project ‘a little hope’ appeared first on Clash Mag"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Lambrini Girls unveil new song, “Don’t Talk To Me Until I’ve Had My Abortion”",
+      "url": "https://www.thelineofbestfit.com/news/lambrini-girls-unveil-new-song-dont-talk-to-me-until-ive-had-my-abortion",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-24T10:00:00+00:00",
+      "firstSeen": "2026-11-25T05:14:48.471297+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Lambrini Girls have released \"Don't Talk To Me Until I've Had My Abortion\", the latest preview of their upcoming album, No Refunds."
     },
     {
       "source": "Clash",

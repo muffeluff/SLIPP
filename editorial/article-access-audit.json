@@ -2,11 +2,20 @@
   "date": "2026-11-25",
   "results": [
     {
+      "url": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+      "status": 200,
+      "finalUrl": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 910831,
+      "titlePresent": true,
+      "preview": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Weird Baile: Collected Rips 2004-2024 Album Review | Pitchfork</title><meta charSet=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"msapplication-tap-highlight\" content=\"no\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"author\" content=\"Amanda Cavalcanti\"/><meta name=\"copyright\" content=\"Copyright (c) Condé Nast 2026\"/><meta name=\"description\" content=\"Colombia’s TraTraTrax lab"
+    },
+    {
       "url": "https://acloserlisten.com/2026/11/25/dngdngdng-vestigio/",
       "status": 200,
       "finalUrl": "https://acloserlisten.com/2026/11/25/dngdngdng-vestigio/",
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 88943,
+      "bytes": 88893,
       "titlePresent": true,
       "preview": "<!DOCTYPE html> <!--[if IE 8]> <html id=\"ie8\" lang=\"en-US\"> <![endif]--> <!--[if !(IE 8)]><!--> <html lang=\"en-US\"> <!--<![endif]--> <head> <meta charset=\"UTF-8\" /> <title>DNGDNGDNG ~ Vestigio | a closer listen</title> <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" /> <link rel=\"pingback\" href=\"https://acloserlisten.com/xmlrpc.php\" /> <script type=\"text/javascript\"> WebFontConfig = {\"google\":{\"families\":[\"Noto+Serif:r,i,b,bi:latin,latin-ext\"]},\"api_url\":\"https:\\/\\/fonts-api.wp.com\\/css\"}; "
     },
@@ -78,7 +87,7 @@
       "status": 200,
       "finalUrl": "https://acloserlisten.com/2026/11/24/cheb-runner-80k/",
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 77244,
+      "bytes": 77245,
       "titlePresent": true,
       "preview": "<!DOCTYPE html> <!--[if IE 8]> <html id=\"ie8\" lang=\"en-US\"> <![endif]--> <!--[if !(IE 8)]><!--> <html lang=\"en-US\"> <!--<![endif]--> <head> <meta charset=\"UTF-8\" /> <title>Cheb Runner ~ 80K | a closer listen</title> <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" /> <link rel=\"pingback\" href=\"https://acloserlisten.com/xmlrpc.php\" /> <script type=\"text/javascript\"> WebFontConfig = {\"google\":{\"families\":[\"Noto+Serif:r,i,b,bi:latin,latin-ext\"]},\"api_url\":\"https:\\/\\/fonts-api.wp.com\\/css\"}; (f"
     },
@@ -105,7 +114,7 @@
       "status": 200,
       "finalUrl": "https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/",
       "contentType": "text/html; charset=utf-8",
-      "bytes": 959598,
+      "bytes": 959008,
       "titlePresent": true,
       "preview": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Emma Ogier: Fly 1111 Album Review | Pitchfork</title><meta charSet=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"msapplication-tap-highlight\" content=\"no\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"author\" content=\"Lily Goldberg\"/><meta name=\"copyright\" content=\"Copyright (c) Condé Nast 2026\"/><meta name=\"description\" content=\"The Texas singer-songwriter’s debut channels a"
     },
@@ -114,7 +123,7 @@
       "status": 200,
       "finalUrl": "https://pitchfork.com/reviews/albums/font-american-bully-xl/",
       "contentType": "text/html; charset=utf-8",
-      "bytes": 981690,
+      "bytes": 981423,
       "titlePresent": true,
       "preview": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Font: American Bully XL Album Review | Pitchfork</title><meta charSet=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"msapplication-tap-highlight\" content=\"no\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"author\" content=\"Sue Park\"/><meta name=\"copyright\" content=\"Copyright (c) Condé Nast 2026\"/><meta name=\"description\" content=\"On its second album, the Texas quartet runs clas"
     },
@@ -123,7 +132,7 @@
       "status": 200,
       "finalUrl": "https://acloserlisten.com/2026/11/24/zoe-mc-pherson-feat-jay-mitta-3ok/",
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 85296,
+      "bytes": 85323,
       "titlePresent": true,
       "preview": "<!DOCTYPE html> <!--[if IE 8]> <html id=\"ie8\" lang=\"en-US\"> <![endif]--> <!--[if !(IE 8)]><!--> <html lang=\"en-US\"> <!--<![endif]--> <head> <meta charset=\"UTF-8\" /> <title>Zoë Mc Pherson feat. Jay Mitta ~ 3OK | a closer listen</title> <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" /> <link rel=\"pingback\" href=\"https://acloserlisten.com/xmlrpc.php\" /> <script type=\"text/javascript\"> WebFontConfig = {\"google\":{\"families\":[\"Noto+Serif:r,i,b,bi:latin,latin-ext\"]},\"api_url\":\"https:\\/\\/fonts-api."
     },
@@ -141,7 +150,7 @@
       "status": 200,
       "finalUrl": "https://www.decibelmagazine.com/2026/11/23/track-premiere-burning-hammer-mimic-ft-jeff-loomis-of-nevermore/",
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 98922,
+      "bytes": 99046,
       "titlePresent": true,
       "preview": "<!DOCTYPE html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <script> var gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),document.addEventListener(\"gform/theme/scripts_loaded\",function(){gform.themeScriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>\"function\"==typeof InitializeEditor,callIfLoaded:function(o){return!(!"
     },
@@ -159,9 +168,9 @@
       "status": 200,
       "finalUrl": "https://www.angrymetalguy.com/trivium-crown-in-the-grave-review/",
       "contentType": "text/html",
-      "bytes": 120165,
+      "bytes": 120627,
       "titlePresent": true,
-      "preview": " <!DOCTYPE html> <html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-US\"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, height=device-height, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <!-- This site "
+      "preview": " <!DOCTYPE html> <html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-US\"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, height=device-height, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <!"
     },
     {
       "url": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-november-2026",
@@ -177,7 +186,7 @@
       "status": 200,
       "finalUrl": "https://stereogum.com/2518477/premature-evaluation-atlas-sound-thanatos/reviews/premature-evaluation",
       "contentType": "text/html; charset=utf-8",
-      "bytes": 254027,
+      "bytes": 254821,
       "titlePresent": true,
       "preview": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width\" data-next-head=\"\"/><title data-next-head=\"\">Atlas Sound &#x27;Thanatos&#x27; Review: Bradford Cox Returns With First Album In 7 Years</title><link rel=\"preconnect\" href=\"https://lede-admin.stereogum.com\" data-next-head=\"\"/><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" data-next-head=\"\"/><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"a"
     },
@@ -213,18 +222,18 @@
       "status": 200,
       "finalUrl": "https://www.angrymetalguy.com/soulfallen-uncharted-plains-review/",
       "contentType": "text/html",
-      "bytes": 112203,
+      "bytes": 112665,
       "titlePresent": true,
-      "preview": " <!DOCTYPE html> <html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-US\"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, height=device-height, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <!-- This site "
+      "preview": " <!DOCTYPE html> <html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-US\"> <head> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, height=device-height, initial-scale=1\"> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> <link rel=\"profile\" href=\"https://gmpg.org/xfn/11\" /> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> <!"
     },
     {
       "url": "https://acloserlisten.com/2026/11/23/aeson-zervas-%cf%84%cf%81%ce%af%ce%b1/",
       "status": 200,
       "finalUrl": "https://acloserlisten.com/2026/11/23/aeson-zervas-%CF%84%CF%81%CE%AF%CE%B1/",
       "contentType": "text/html; charset=UTF-8",
-      "bytes": 79150,
+      "bytes": 79073,
       "titlePresent": true,
-      "preview": "<!DOCTYPE html> <!--[if IE 8]> <html id=\"ie8\" lang=\"en-US\"> <![endif]--> <!--[if !(IE 8)]><!--> <html lang=\"en-US\"> <!--<![endif]--> <head> <meta charset=\"UTF-8\" /> <title>Aeson Zervas ~ τρία | a closer listen</title> <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" /> <link rel=\"pingback\" href=\"https://acloserlisten.com/xmlrpc.php\" /> <script type=\"text/javascript\"> WebFontConfig = {\"google\":{\"families\":[\"Noto+Serif:r,i,b,bi:latin,latin-ext\"]},\"api_url\":\"https:\\/\\/fonts-api.wp.com\\/css\"}; "
+      "preview": " <!DOCTYPE html> <!--[if IE 8]> <html id=\"ie8\" lang=\"en-US\"> <![endif]--> <!--[if !(IE 8)]><!--> <html lang=\"en-US\"> <!--<![endif]--> <head> <meta charset=\"UTF-8\" /> <title>Aeson Zervas ~ τρία | a closer listen</title> <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" /> <link rel=\"pingback\" href=\"https://acloserlisten.com/xmlrpc.php\" /> <script type=\"text/javascript\"> WebFontConfig = {\"google\":{\"families\":[\"Noto+Serif:r,i,b,bi:latin,latin-ext\"]},\"api_url\":\"https:\\/\\/fonts-api.wp.com\\/css\"}; "
     },
     {
       "url": "https://thequietus.com/quietus-reviews/robyn-rocket-and-people-you-may-of-heard-of-open-doors-to-other-peoples-worlds-review/",
@@ -240,7 +249,7 @@
       "status": 200,
       "finalUrl": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
       "contentType": "text/html; charset=utf-8",
-      "bytes": 1055283,
+      "bytes": 1055103,
       "titlePresent": true,
       "preview": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Atlas Sound: Thanatos Album Review | Pitchfork</title><meta charSet=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"msapplication-tap-highlight\" content=\"no\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"author\" content=\"Andy Cush\"/><meta name=\"copyright\" content=\"Copyright (c) Condé Nast 2026\"/><meta name=\"description\" content=\"Bradford Cox’s first solo album in 15 years is a "
     },
@@ -261,15 +270,6 @@
       "bytes": 968182,
       "titlePresent": true,
       "preview": "<!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Sheherazaad: Khudgarzi Album Review | Pitchfork</title><meta charSet=\"utf-8\"/><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/><meta name=\"msapplication-tap-highlight\" content=\"no\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta name=\"author\" content=\"Vrinda Jagota\"/><meta name=\"copyright\" content=\"Copyright (c) Condé Nast 2026\"/><meta name=\"description\" content=\"The Brooklyn and Delhi-based singer-songwrit"
-    },
-    {
-      "url": "https://www.loudersound.com/music/tracks-singles/classic-rock-tracks-of-the-week-november-23-2027",
-      "status": 200,
-      "finalUrl": "https://www.loudersound.com/music/tracks-singles/classic-rock-tracks-of-the-week-november-23-2027",
-      "contentType": "text/html; charset=utf-8",
-      "bytes": 1603650,
-      "titlePresent": true,
-      "preview": "<!DOCTYPE html><html lang=\"en-GB\" data-locale=\"GB\" dir=\"ltr\" class=\"loudersound\"><head> <!-- [METATAGS - critical] --> <meta charset=\"utf-8\"> <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"> <title>Classic Rock Tracks Of The Week: November 23, 2026 | Louder</title> <meta name=\"pub_date\" content=\"2026-11-23T04:55:00+00:00\"> <meta name=\"description\" content=\"Eight songs you need to hear right now, from Europe, Thundermother, Battlesnake and more\"> <link rel=\"canonical\" href=\"htt"
     }
   ]
 }

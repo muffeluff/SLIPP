@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T04:53:28.276454+00:00",
-  "total": 1143,
-  "candidates": 76,
+  "updated": "2026-11-25T05:14:48.471297+00:00",
+  "total": 1171,
+  "candidates": 74,
   "sources": [
     {
       "id": "pitchfork.com",
@@ -30,8 +30,8 @@
     },
     {
       "id": "thelineofbestfit.com",
-      "count": 0,
-      "status": "429 Client Error: Too Many Requests for url: https://thelineofbestfit.com/feed/"
+      "count": 10,
+      "status": "ok"
     },
     {
       "id": "thequietus.com",
@@ -200,8 +200,8 @@
     },
     {
       "id": "aquariumdrunkard.com",
-      "count": 0,
-      "status": "HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443) at 0x79eecc13f390>, 'Connection to aquariumdrunkard.com timed out. (connect timeout=20)'))"
+      "count": 15,
+      "status": "ok"
     },
     {
       "id": "clashmusic.com",

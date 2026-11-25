@@ -1,35 +1,39 @@
 {
-  "updated": "2026-11-25T04:55:39.946289+00:00",
+  "updated": "2026-11-25T05:16:35.666294+00:00",
   "releases": [
-    {
-      "artist": "Kings of Leon",
-      "title": "O My Beloved",
-      "articles": []
-    },
-    {
-      "artist": "Radie Peat",
-      "title": "No Human Tongue Can Tell",
-      "articles": []
-    },
     {
       "artist": "León Riviera",
       "title": "HACIENDA MONTE AMORE",
       "articles": []
     },
     {
-      "artist": "Anberlin",
-      "title": "CURRENCY",
+      "artist": "Vepsestikk",
+      "title": "Hjertestikk",
       "articles": []
     },
     {
-      "artist": "Viento Sagrado",
-      "title": "My Footsteps",
+      "artist": "In Strict Confidence",
+      "title": "The Final Kiss",
       "articles": []
     },
     {
-      "artist": "Steven Wilson",
-      "title": "Requiem for a Village",
+      "artist": "Mondo Cozmo",
+      "title": "Sweet Forever",
       "articles": []
+    },
+    {
+      "artist": "Atlas Sound",
+      "title": "Thanatos",
+      "articles": [
+        {
+          "source": "Stereogum",
+          "title": "Premature Evaluation: Atlas Sound Thanatos",
+          "url": "https://stereogum.com/2518477/premature-evaluation-atlas-sound-thanatos/reviews/premature-evaluation/",
+          "published": "2026-11-23T14:26:06+00:00",
+          "verified": true,
+          "verification": "editorial-feed-match"
+        }
+      ]
     },
     {
       "artist": "Rammstein",
@@ -42,23 +46,13 @@
       "articles": []
     },
     {
-      "artist": "Asia",
-      "title": "Indigo",
+      "artist": "ぽんすけ",
+      "title": "NOCTURNE DOLLs 6th Six Starry Nights",
       "articles": []
     },
     {
-      "artist": "スピッツ",
-      "title": "kettle",
-      "articles": []
-    },
-    {
-      "artist": "Stray Kids",
-      "title": "SUIATSU",
-      "articles": []
-    },
-    {
-      "artist": "James Blunt",
-      "title": "Airplane Mode",
+      "artist": "Seether",
+      "title": "Rare On Air (Studio Session)",
       "articles": []
     },
     {
@@ -67,28 +61,23 @@
       "articles": []
     },
     {
-      "artist": "Yello",
-      "title": "Time Lab",
+      "artist": "Adèle Castillon",
+      "title": "(Re)belle",
       "articles": []
     },
     {
-      "artist": "Bryan Adams",
-      "title": "How's It Goin'",
+      "artist": "The Hawkstone Farmers Choir",
+      "title": "This is Home",
       "articles": []
     },
     {
-      "artist": "SDM",
-      "title": "IN INFINITUM",
+      "artist": "Django Wagner",
+      "title": "Roots (Live in Carré)",
       "articles": []
     },
     {
-      "artist": "Skepta",
-      "title": "The Fork and Knife",
-      "articles": []
-    },
-    {
-      "artist": "BigXthaPlug",
-      "title": "BETTER OVER TIME",
+      "artist": "Ton Scherpenzeel",
+      "title": "Legions Of The Heart (feat. Thomas Schiphof)",
       "articles": []
     },
     {
@@ -97,42 +86,38 @@
       "articles": []
     },
     {
-      "artist": "Offset",
-      "title": "GMFU",
+      "artist": "Bekar",
+      "title": "Alba, l'heure bleue",
       "articles": []
     },
     {
-      "artist": "Mack Geiger",
-      "title": "Dying In This House",
-      "articles": [
-        {
-          "source": "Saving Country Music",
-          "title": "Album Review – Mack Geiger’s “Dying In This House”",
-          "url": "https://savingcountrymusic.com/album-review-mack-geigers-dying-in-this-house/",
-          "published": "2026-11-08T16:38:48+00:00",
-          "verified": true,
-          "verification": "editorial-feed-match"
-        }
-      ]
-    },
-    {
-      "artist": "NEEDTOBREATHE",
-      "title": "The Long Surrender and The Fellow Passengers of Pain",
+      "artist": "Conway the Machine",
+      "title": "OTIS",
       "articles": []
     },
     {
-      "artist": "Waylon Jennings",
-      "title": "Diamonds",
+      "artist": "BILLA JOE",
+      "title": "capeesh?",
       "articles": []
     },
     {
-      "artist": "Greylan James",
-      "title": "GREYLAN JAMES",
+      "artist": "BexBlu & Paul Stephan",
+      "title": "ALWAYS MOVING",
       "articles": []
     },
     {
-      "artist": "Late Night Blues",
-      "title": "Snow is coming",
+      "artist": "Jill Johnson",
+      "title": "Where It Hurts",
+      "articles": []
+    },
+    {
+      "artist": "Derek Ryan",
+      "title": "Here & There",
+      "articles": []
+    },
+    {
+      "artist": "Arlo McKinley",
+      "title": "Untitled",
       "articles": []
     },
     {
@@ -146,18 +131,18 @@
       "articles": []
     },
     {
-      "artist": "Eva Cassidy",
-      "title": "JAZZED",
+      "artist": "Blue Earth Sound",
+      "title": "Everything to Remember",
       "articles": []
     },
     {
-      "artist": "Keith Jarrett",
-      "title": "Roma (Live)",
+      "artist": "Verschiedene Interpret:innen",
+      "title": "Always Hip: Verve At 70",
       "articles": []
     },
     {
-      "artist": "Louis Dowdeswell",
-      "title": "Out of Print",
+      "artist": "Crispin THE PUMP Taylor",
+      "title": "License To Fill",
       "articles": []
     },
     {
@@ -183,28 +168,23 @@
       ]
     },
     {
-      "artist": "Týr",
-      "title": "Týr",
+      "artist": "Wolf",
+      "title": "Hour of the Wolf",
       "articles": []
     },
     {
-      "artist": "Joe Satriani & Steve Vai",
-      "title": "SatchVai: The Sea of Emotion",
+      "artist": "Disfear",
+      "title": "The Last Nail",
       "articles": []
     },
     {
-      "artist": "Mgła",
-      "title": "Traitors to the Human Cause",
+      "artist": "40 Cycle Hum",
+      "title": "Entertaining Misery",
       "articles": []
     },
     {
-      "artist": "Kingdom of Giants",
-      "title": "Usurper",
-      "articles": []
-    },
-    {
-      "artist": "Ane Brun",
-      "title": "I Thought We Were the Same",
+      "artist": "Domkraft",
+      "title": "Night Songs",
       "articles": []
     },
     {
@@ -218,13 +198,18 @@
       "articles": []
     },
     {
-      "artist": "Marina Surgan",
-      "title": "Music for Ballet Class Live 5, Pt. 2",
+      "artist": "Brock Hewitt: Stories in Sound",
+      "title": "Good News of Great Joy",
       "articles": []
     },
     {
-      "artist": "Sw@da & Niczos",
-      "title": "RYT-M",
+      "artist": "Michael Heinkel",
+      "title": "Eigenwerke 1980-1983",
+      "articles": []
+    },
+    {
+      "artist": "Kriistal Ann, Twins Natalia & Paradox Obscur",
+      "title": "I Died On Mars",
       "articles": []
     }
   ]
