@@ -49,3 +49,5 @@ jobs:
         run: |
           git fetch origin slipp-rehearsal
           test "$(git rev-parse HEAD)" = "$(git rev-parse FETCH_HEAD)"
+
+# Rehearse exact Friday album and single selection.
