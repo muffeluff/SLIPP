@@ -1,0 +1,65 @@
+{
+  "sources": [
+    {
+      "name": "DJ Mag",
+      "feed": "https://djmag.com/rss.xml",
+      "enabled": false,
+      "status": "verify official feed and permission scope before activation"
+    },
+    {
+      "name": "Beatport",
+      "enabled": false,
+      "status": "API approval required"
+    },
+    {
+      "name": "Bandcamp",
+      "enabled": false,
+      "status": "no automated extraction"
+    },
+    {
+      "name": "Mixmag",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "UKF",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "Inverted Audio",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "Resident Advisor",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "XLR8R",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "Groove",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "Electronic Sound",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "The Quietus",
+      "enabled": false,
+      "status": "permission pending"
+    },
+    {
+      "name": "A Closer Listen",
+      "enabled": false,
+      "status": "permission pending"
+    }
+  ]
+}
