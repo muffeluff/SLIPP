@@ -1,7 +1,7 @@
 import json,time,urllib.request,urllib.error,collections
 from pathlib import Path
-genres={1056:"Ambient",1057:"Downtempo",1058:"Electronica",1059:"IDM/Experimental",1060:"Dubstep",1061:"Industrial",1068:"Breakbeat",1069:"Hardcore",1070:"House",1071:"Jungle/Drum\u0027n\u0027bass",1072:"Techno",1073:"Trance"}
-aliases={1058:{"electronica","electronic","elektronica"},1059:{"idm/experimental","idm/experimenteel","idm/experimentell"},1061:{"industrial","industrieel"},1071:{"jungle/drum\u0027n\u0027bass","jungle/drum & bass"}}
+genres={1044:"Breakbeat",1046:"Garage",1047:"Hardcore",1048:"House",1049:"Jungle/Drum'n'bass",1050:"Techno",1051:"Trance",1060:"IDM/Experimental",1941:"Dubstep",1942:"Bass",100014:"Dubstep",100015:"Bass"}
+aliases={1060:{"idm/experimental","idm/experimenteel","idm/experimentell"},1049:{"jungle/drum'n'bass","jungle/drum & bass"}}
 out={"method":"Current iTunes purchase chart snapshots; not 30-day streaming counts. Genre IDs are hypotheses to verify against returned labels.","results":[]}
 for gid,label in genres.items():
     for country in ("gb","de","nl","us"):
