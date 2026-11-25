@@ -1,10 +1,14 @@
-import json, re, unicodedata, requests, time
+import json, re, unicodedata, requests, time, os
+from collections import Counter
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
-today=datetime.now(timezone.utc).date()
+today=datetime.now(ZoneInfo('Europe/Oslo')).date()
+target=datetime.fromisoformat(os.environ.get('SLIPP_RELEASE_DATE',str(today))).date()
+reject=Counter()
 def norm(s): return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum())
 def key(a,t): return norm(a),norm(t)
 signals=defaultdict(list); names={}; audit={}
@@ -13,13 +17,33 @@ def add(a,t,p,rank,url,apple=False):
     if not all(k) or not 1<=rank<=200:return
     names[k]=(a,t)
     signals[k].append(dict(source=p,rank=rank,url=url,apple=apple))
-def get(url): return requests.get(url,timeout=20,headers={'User-Agent':'Mozilla/5.0'} )
+def get(url):
+    for attempt in range(3):
+        try:
+            r=requests.get(url,timeout=15,headers={'User-Agent':'Mozilla/5.0'})
+            if r.status_code not in (429,500,502,503,504):return r
+        except requests.RequestException:
+            if attempt==2:raise
+        time.sleep(1+attempt)
+    return r
 for c in ['us','gb','no','se','de','fr','jp','au','ca','nl']:
     url=f'https://rss.marketingtools.apple.com/api/v2/{c}/music/most-played/100/songs.json'
     try:
         r=get(url);r.raise_for_status()
         rows=r.json()['feed']['results']
         for i,x in enumerate(rows,1):add(x['artistName'],x['name'],'Apple Music',i,url,True)
+        audit[url]=len(rows)
+    except Exception as e:audit[url]=str(e)
+# Discover recent purchases independently of streaming chart placement.
+for c in ['us','gb','no','se','de','fr','jp','au','ca','nl']:
+    url=f'https://itunes.apple.com/{c}/rss/topsongs/limit=100/json'
+    try:
+        r=get(url);r.raise_for_status()
+        rows=r.json()['feed'].get('entry',[])
+        if isinstance(rows,dict):rows=[rows]
+        for i,x in enumerate(rows,1):
+            if x.get('im:releaseDate',{}).get('label','')[:10]==str(target):
+                add(x['im:artist']['label'],x['im:name']['label'],'iTunes purchases',i,url,True)
         audit[url]=len(rows)
     except Exception as e:audit[url]=str(e)
 for provider,url in [('Official Charts','https://www.officialcharts.com/charts/singles-chart/'),('Billboard','https://ca.billboard.com/charts/billboard-global-200')]:
@@ -44,25 +68,27 @@ def score(k):
     ss=signals[k];others={x['source'] for x in ss if not x['apple']}
     best={p:min(x['rank'] for x in ss if x['source']==p) for p in others}
     return (len(others),sum(201-r for r in best.values()),sum(101-x['rank'] for x in ss if x['apple']))
-ordered=sorted(names,key=score,reverse=True)
+ordered=sorted(names,key=lambda k:(any(x['source']=='iTunes purchases' for x in signals[k]),score(k)),reverse=True)
 def verify(k):
     a,t=names[k]
     if re.search(r'remaster|anniversary|re.record|sped up|slowed|karaoke|live version',t,re.I):return
-    try:
-        r=requests.get('https://itunes.apple.com/search',params=dict(term=a+' '+t,entity='song',country='US',limit=25),timeout=20);r.raise_for_status()
-        rows=[x for x in r.json()['results'] if key(x.get('artistName',''),x.get('trackName',''))==k]
-        if not rows:return
-        x=min(rows,key=lambda x:x.get('releaseDate','9999'))
-        day=datetime.fromisoformat(x['releaseDate'].replace('Z','+00:00')).date()
-        if not today-timedelta(days=6)<=day<=today:return
-        if x.get('trackCount',99)>3 or not x.get('artworkUrl100'):return
-        # Confirm single collection and check earlier catalog versions.
-        q=requests.get('https://itunes.apple.com/lookup',params={'id':x['collectionId'],'entity':'song','country':'US'},timeout=15);q.raise_for_status()
-        col=next((y for y in q.json()['results'] if y.get('collectionType')=='Album'),{})
-        if not col or not re.search(r'\bSingle$',col.get('collectionName',''),re.I):return
-        if not today-timedelta(days=6)<=datetime.fromisoformat(col['releaseDate'].replace('Z','+00:00')).date()<=today:return
-        return [x['artistName'],x['trackName'],x.get('primaryGenreName',''),'',x['artworkUrl100'],dict(releaseDate=str(day),articles=[],signals=signals[k])]
-    except Exception:return
+    for country in ['US','GB','NO','DE','AU','CA','JP']:
+        try:
+            r=requests.get('https://itunes.apple.com/search',params=dict(term=a+' '+t,entity='song',country=country,limit=25),timeout=12);r.raise_for_status()
+            rows=[x for x in r.json()['results'] if key(x.get('artistName',''),x.get('trackName',''))==k]
+            if not rows:reject['no exact match']+=1;continue
+            x=min(rows,key=lambda x:x.get('releaseDate','9999'))
+            day=datetime.fromisoformat(x['releaseDate'].replace('Z','+00:00')).date()
+            if day!=target:reject['wrong track date']+=1;continue
+            if x.get('trackCount',99)>3 or not x.get('artworkUrl100'):reject['format or artwork']+=1;continue
+            q=requests.get('https://itunes.apple.com/lookup',params={'id':x['collectionId'],'entity':'song','country':country},timeout=12);q.raise_for_status()
+            col=next((y for y in q.json()['results'] if y.get('collectionType')=='Album'),{})
+            if not col or not re.search(r'\bSingle$',col.get('collectionName',''),re.I):reject['not single']+=1;continue
+            if datetime.fromisoformat(col['releaseDate'].replace('Z','+00:00')).date()!=target:reject['wrong collection date']+=1;continue
+            im=get(x['artworkUrl100'])
+            if not im.ok or not im.headers.get('Content-Type','').startswith('image/'):reject['invalid artwork']+=1;continue
+            return [x['artistName'],x['trackName'],x.get('primaryGenreName',''),'',x['artworkUrl100'],dict(releaseDate=str(day),articles=[],signals=signals[k])]
+        except Exception as e:reject[type(e).__name__]+=1
 # Rate-limit catalog queries and stop after enough verified candidates.
 out=[];artists=set();checked=0
 for k in ordered[:160]:
@@ -78,9 +104,9 @@ try:
     for row in out:
         row[5]['articles']=[a for x in reviews if key(x['artist'],x['title'])==key(*row[:2]) and x.get('format') in ('single','song','track') for a in x.get('articles',[]) if a.get('verified') is True]
 except Exception:pass
-Path('singles-audit.json').write_text(json.dumps(dict(date=str(today),sources=audit,checked=checked,selected=len(out)),indent=2))
+Path('singles-audit.json').write_text(json.dumps(dict(date=str(today),sources=audit,checked=checked,selected=len(out),targetDate=str(target),rejections=dict(reject)),indent=2))
 # Do not overwrite the previous edition on total failure.
-if out:
+if out or os.environ.get('SLIPP_RELEASE_DATE'):
     d.setdefault('mustListen',{})['singles']=out
     d['mustListen']['singlesDate']=str(today)
     p.write_text(json.dumps(d,ensure_ascii=False,indent=2))
