@@ -1,0 +1,36 @@
+name: Friday rehearsal – editorial outage
+on:
+  push:
+    paths:
+      - '.github/workflows/friday-rehearsal.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  rehearsal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TZ: Europe/Oslo
+      SLIPP_RELEASE_DATE: '2026-11-20'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rehearse with last Friday catalog and missing editorial data
+        run: |
+          pip install requests beautifulsoup4 feedparser
+          python scripts/production_album_feeds.py
+          rm -f editorial/articles.json editorial/candidates.json
+          python scripts/production_albums.py
+          python scripts/production_singles.py
+          python scripts/production_validate.py
+          mkdir -p rehearsal
+          cp edition.json genres.json singles-audit.json editorial/album-reviews.json rehearsal/
+          cp -r archive rehearsal/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: friday-rehearsal-result
+          path: |
+            rehearsal/
+            singles-audit.json
+            album-popularity.json
