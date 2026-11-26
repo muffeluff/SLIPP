@@ -1,0 +1,29 @@
+name: Underground
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/production_underground.py', '.github/workflows/underground.yml']
+  schedule:
+    - cron: '30 5 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: underground
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - run: python scripts/production_underground.py
+      - run: |
+          git config user.name "SLIPP bot"
+          git config user.email "slipp-bot@users.noreply.github.com"
+          git add underground.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh Underground recommendations"
+          git pull --rebase
+          git push
