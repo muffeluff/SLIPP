@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:20:30.048045+00:00",
+  "updated": "2026-11-26T15:06:50.795043+00:00",
   "method": "Exact recent iTunes catalog match; editorial endorsement not verified",
   "releases": [
     {
@@ -180,6 +180,29 @@
           "title": "Lottie Brazier – On Course But No-One There To Salute You",
           "url": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
           "published": "2026-11-20T06:00:00+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "Elijah Minnelli",
+      "title": "Spitting Feathers",
+      "releaseDate": "2026-11-13",
+      "genre": "Dub",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/57/3d/ab573d85-f510-d354-fb66-d3a57e74fe06/5063817015211_cover.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/spitting-feathers-ep/6810721599?uo=4",
+      "catalogId": 6810721599,
+      "articles": [
+        {
+          "source": "The Quietus",
+          "sourceId": "thequietus.com",
+          "sourceType": "editorial",
+          "title": "Elijah Minnelli – Spitting Feathers",
+          "url": "https://thequietus.com/quietus-reviews/elijah-minnelli-spitting-feathers-review/",
+          "published": "2026-11-26T05:55:00+00:00",
           "kind": "review"
         }
       ],
