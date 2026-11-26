@@ -1,7 +1,30 @@
 {
-  "updated": "2026-11-25T15:32:16.361583+00:00",
+  "updated": "2026-11-26T02:07:13.503728+00:00",
   "method": "Exact recent iTunes catalog match; editorial endorsement not verified",
   "releases": [
+    {
+      "artist": "Golgothan Remains",
+      "title": "Born From Darkness Absolute",
+      "releaseDate": "2026-11-20",
+      "genre": "Death Metal/Black Metal",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ed/3e17eda7-1874-bee8-ad42-8ddc93e1a2e7/769152440729.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/born-from-darkness-absolute/6835655044?uo=4",
+      "catalogId": 6835655044,
+      "articles": [
+        {
+          "source": "Angry Metal Guy",
+          "sourceId": "angrymetalguy.com",
+          "sourceType": "editorial",
+          "title": "Golgothan Remains – Born from Darkness Absolute Review",
+          "url": "https://www.angrymetalguy.com/golgothan-remains-born-from-darkness-absolute-review/",
+          "published": "2026-11-25T18:48:18+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
     {
       "artist": "in:tides",
       "title": "in:tides",
@@ -157,29 +180,6 @@
           "title": "Lottie Brazier – On Course But No-One There To Salute You",
           "url": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
           "published": "2026-11-20T06:00:00+00:00",
-          "kind": "review"
-        }
-      ],
-      "editorialVerification": "pending",
-      "independentSourceCount": 1
-    },
-    {
-      "artist": "Lorenzo Senni",
-      "title": "All Ages",
-      "releaseDate": "2026-11-20",
-      "genre": "Electronic",
-      "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/79/95/5b799581-3bb3-6989-0d34-c0ba50424f4b/5056818808715.png/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/all-ages/6802783748?uo=4",
-      "catalogId": 6802783748,
-      "articles": [
-        {
-          "source": "A Closer Listen",
-          "sourceId": "acloserlisten.com",
-          "sourceType": "editorial",
-          "title": "Lorenzo Senni ~ All Ages",
-          "url": "https://acloserlisten.com/2026/11/19/lorenzo-senni-all-ages/",
-          "published": "2026-11-19T00:01:55+00:00",
           "kind": "review"
         }
       ],

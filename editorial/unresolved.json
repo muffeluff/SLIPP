@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-25T15:32:16.361583+00:00",
+  "updated": "2026-11-26T02:07:13.503728+00:00",
   "articles": [
+    {
+      "article": {
+        "source": "A Closer Listen",
+        "sourceId": "acloserlisten.com",
+        "sourceType": "editorial",
+        "genres": [
+          "Ambient",
+          "Electronica"
+        ],
+        "title": "Marina Herlop ~ Dja Dja",
+        "url": "https://acloserlisten.com/2026/11/26/marina-herlop-dja-dja/",
+        "tags": [
+          "Electronic",
+          "gianmarco del re",
+          "Marina Herlop"
+        ],
+        "published": "2026-11-26T00:01:45+00:00",
+        "firstSeen": "2026-11-26T02:06:55.709878+00:00",
+        "kind": "review",
+        "verification": "pending",
+        "excerpt": "Marina Herlop‘s Dja Dja unfolds like a picaresque adventure through an enchanted world, populated by witches, angels, wolves and other less identifiable creatures. There are moments of childlike wonder, encounters with darker forces and sudden changes of scenery. The Catalan"
+      },
+      "reason": "no_exact_recent_catalog_match"
+    },
+    {
+      "article": {
+        "source": "Decibel",
+        "sourceId": "decibelmagazine.com",
+        "sourceType": "editorial",
+        "genres": [
+          "Metal"
+        ],
+        "title": "Video Premiere: Drift Into Black – “Storm of the Demon”",
+        "url": "https://www.decibelmagazine.com/2026/11/25/video-premiere-drift-into-black-storm-of-the-demon/",
+        "tags": [
+          "Exclusive",
+          "Featured",
+          "Track Premiere",
+          "Videos",
+          "Black Lion Records",
+          "Doom Metal",
+          "Drift Into Black",
+          "gothic doom",
+          "New Jersey",
+          "Storm of the Demon",
+          "When Ashes Remain"
+        ],
+        "published": "2026-11-25T20:00:00+00:00",
+        "firstSeen": "2026-11-26T02:06:55.709878+00:00",
+        "kind": "premiere",
+        "verification": "pending",
+        "excerpt": "New Jersey melodic doom crew Drift Into Black tackle a heavy topic on new single, \"Storm of the Demon.\" The post Video Premiere: Drift Into Black – “Storm of the Demon” appeared first on Decibel Magazine ."
+      },
+      "reason": "no_exact_recent_catalog_match"
+    },
     {
       "article": {
         "source": "Decibel",
@@ -488,7 +543,7 @@
           "Electronica",
           "Ambient"
         ],
-        "title": "Philip Golub – Loop 8/9",
+        "title": "Phillip Golub – Loop 8/9",
         "url": "https://thequietus.com/quietus-reviews/philip-golub-loop-8-9-review/",
         "tags": [
           "Reviews"
@@ -497,7 +552,7 @@
         "firstSeen": "2026-11-24T10:04:56.619450+00:00",
         "kind": "review",
         "verification": "pending",
-        "excerpt": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and con"
+        "excerpt": "Phillip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Phillip Golub has emerged as a major figure straddling the worlds of jazz, experimental and c"
       },
       "reason": "no_exact_recent_catalog_match"
     },
