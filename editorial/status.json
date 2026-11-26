@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T15:31:54.555973+00:00",
-  "total": 1201,
-  "candidates": 79,
+  "updated": "2026-11-26T02:06:55.709878+00:00",
+  "total": 1297,
+  "candidates": 81,
   "sources": [
     {
       "id": "pitchfork.com",
@@ -236,6 +236,11 @@
     {
       "id": "rapreviews.com",
       "count": 6,
+      "status": "ok"
+    },
+    {
+      "id": "inverted-audio.com",
+      "count": 10,
       "status": "ok"
     }
   ]
