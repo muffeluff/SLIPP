@@ -1,0 +1,774 @@
+{
+  "updated": "2026-11-26T03:35:37.615416+00:00",
+  "releaseDate": "2026-11-20",
+  "windowStart": "2026-11-14",
+  "genres": {
+    "Breakbeat": [],
+    "Garage": [
+      {
+        "artist": "BUTCHABOI",
+        "title": "RUMOUR - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/gb/album/rumour-ep/6825402365?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/73/aa/8273aaea-f187-7252-16fc-b444ddd7970f/5053760162964_cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "gb",
+        "signals": {
+          "gb": 100
+        },
+        "score": 100,
+        "articles": []
+      },
+      {
+        "artist": "Verschiedene Interpret:innen",
+        "title": "Deep Garage Sessions, Vol. 1",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/deep-garage-sessions-vol-1/6833480406?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/4d/cd/574dcd3c-a9d1-fd80-8393-0f5afd5d950b/cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "de",
+        "signals": {
+          "de": 100
+        },
+        "score": 100,
+        "articles": []
+      },
+      {
+        "artist": "Arthi",
+        "title": "Chromatic - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/chromatic-ep/6829739557?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/fe/6f/dafe6f2e-0488-42c4-5db7-71bfd3b8a327/cover.jpg/170x170bb.png",
+        "rank": 7,
+        "country": "us",
+        "signals": {
+          "us": 94
+        },
+        "score": 94,
+        "articles": []
+      }
+    ],
+    "Hardcore": [
+      {
+        "artist": "Various Artists",
+        "title": "MECH WAR",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/jp/album/mech-war/6825843623?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/3d/77/e13d776c-9f53-efde-87f4-c875eccba0f3/cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "jp",
+        "signals": {
+          "jp": 100
+        },
+        "score": 100,
+        "articles": []
+      }
+    ],
+    "House": [
+      {
+        "artist": "Edward",
+        "title": "Running Back Mastermix: Edward Edits",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/running-back-mastermix-edward-edits/6825337355?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/e1/64/e4e16408-ba36-0cde-0111-2df5d4c86601/4070209009391_3000.jpg/170x170bb.png",
+        "rank": 3,
+        "country": "us",
+        "signals": {
+          "us": 98,
+          "jp": 33
+        },
+        "score": 131,
+        "articles": []
+      },
+      {
+        "artist": "The Random TOK Music Channel",
+        "title": "MINISTRY OF SYNTHETIC SOUND (DEEP HOUSE SESSIONS VOLUME 1)",
+        "releaseDate": "2026-11-16",
+        "url": "https://music.apple.com/gb/album/ministry-of-synthetic-sound-deep-house-sessions-volume-1/6835567167?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/32/67/043267b5-6ff4-77a7-766a-fe6df62cf751/artwork.jpg/170x170bb.png",
+        "rank": 4,
+        "country": "gb",
+        "signals": {
+          "gb": 97
+        },
+        "score": 97,
+        "articles": []
+      },
+      {
+        "artist": "NOELLE",
+        "title": "NOIRLINE - EP",
+        "releaseDate": "2026-11-16",
+        "url": "https://music.apple.com/fr/album/noirline-ep/6835551556?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/d1/88/1bd1884d-2a3b-9064-a41c-bd2a34c44394/artwork.jpg/170x170bb.png",
+        "rank": 6,
+        "country": "fr",
+        "signals": {
+          "fr": 95
+        },
+        "score": 95,
+        "articles": []
+      },
+      {
+        "artist": "Vick Lavender",
+        "title": "Dimensions Travel",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/gb/album/dimensions-travel/6828447948?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/85/15/ff851563-fc87-50a8-0dd3-3bca6e84526d/cover.jpg/170x170bb.png",
+        "rank": 6,
+        "country": "gb",
+        "signals": {
+          "gb": 95
+        },
+        "score": 95,
+        "articles": []
+      },
+      {
+        "artist": "M.S.R",
+        "title": "Burn Dis - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/burn-dis-ep/6825750890?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/8c/49/f98c4906-7aee-b108-845c-48b41df4c7eb/5063817016393_cover.jpg/170x170bb.png",
+        "rank": 10,
+        "country": "us",
+        "signals": {
+          "us": 91
+        },
+        "score": 91,
+        "articles": []
+      }
+    ],
+    "Jungle/Drum & Bass": [
+      {
+        "artist": "Zero T",
+        "title": "Dialects - EP",
+        "releaseDate": "2026-11-19",
+        "url": "https://music.apple.com/us/album/dialects-ep/6822731807?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/d0/6b/7bd06b98-0975-98c2-3d99-4f1e57489faa/cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "us",
+        "signals": {
+          "us": 100,
+          "gb": 62,
+          "de": 81
+        },
+        "score": 243,
+        "articles": []
+      },
+      {
+        "artist": "dBridge",
+        "title": "Curiosity Clicks - EP",
+        "releaseDate": "2026-11-19",
+        "url": "https://music.apple.com/us/album/curiosity-clicks-ep/6814865995?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/24/ab/6124abc0-b2f9-0f63-9e99-513f6a82332e/cover.jpg/170x170bb.png",
+        "rank": 37,
+        "country": "us",
+        "signals": {
+          "us": 64,
+          "gb": 61,
+          "de": 80
+        },
+        "score": 205,
+        "articles": []
+      },
+      {
+        "artist": "Speaker Louis & G-Class",
+        "title": "Speaker Louis & G-Class present: Welcome to the Jungle",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/speaker-louis-g-class-present-welcome-to-the-jungle/6822139386?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/c3/20/4ec3203c-0eb3-b9bd-1d37-e17a0dacc67c/cover.jpg/170x170bb.png",
+        "rank": 22,
+        "country": "us",
+        "signals": {
+          "us": 79,
+          "gb": 63
+        },
+        "score": 142,
+        "articles": []
+      },
+      {
+        "artist": "Cynthoni",
+        "title": "THE GRAPHIC REALITY",
+        "releaseDate": "2026-11-15",
+        "url": "https://music.apple.com/fr/album/the-graphic-reality/6823264390?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/e1/7e/52e17ef1-3876-3628-13a8-88e71b674299/artwork.jpg/170x170bb.png",
+        "rank": 9,
+        "country": "fr",
+        "signals": {
+          "fr": 92
+        },
+        "score": 92,
+        "articles": []
+      },
+      {
+        "artist": "Groove Division",
+        "title": "Noir - EP",
+        "releaseDate": "2026-11-18",
+        "url": "https://music.apple.com/de/album/noir-ep/6816936328?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/79/79/6e7979d7-6171-cac0-b14c-f364befb5aa7/cover.jpg/170x170bb.png",
+        "rank": 25,
+        "country": "de",
+        "signals": {
+          "de": 76
+        },
+        "score": 76,
+        "articles": []
+      }
+    ],
+    "Techno": [
+      {
+        "artist": "Ombrar",
+        "title": "The Stairs",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/fr/album/the-stairs/6816253146?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/73/85/37738533-36fb-d220-294e-7905636ca968/artwork.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "fr",
+        "signals": {
+          "fr": 93
+        },
+        "score": 93,
+        "articles": []
+      },
+      {
+        "artist": "Sveira",
+        "title": "Northern Pulse",
+        "releaseDate": "2026-11-16",
+        "url": "https://music.apple.com/de/album/northern-pulse/6836024599?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/7b/bc/9b7bbc58-3a70-e686-30bf-e3a9c337cbb3/artwork.jpg/170x170bb.png",
+        "rank": 16,
+        "country": "de",
+        "signals": {
+          "de": 85
+        },
+        "score": 85,
+        "articles": []
+      },
+      {
+        "artist": "Verschiedene Interpret:innen",
+        "title": "D.Trance 116",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/d-trance-116/6827105614?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/bc/61/8bbc61aa-7cf9-41d8-4298-7c072075497a/4051972160649_3000.jpg/170x170bb.png",
+        "rank": 21,
+        "country": "de",
+        "signals": {
+          "de": 80
+        },
+        "score": 80,
+        "articles": []
+      },
+      {
+        "artist": "APRS",
+        "title": "Reclaim (Original) - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/reclaim-original-ep/6826077565?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/1f/8e/571f8edb-aea5-9d55-ae25-cf561ccff46d/8721639414021.png/170x170bb.png",
+        "rank": 29,
+        "country": "de",
+        "signals": {
+          "de": 72
+        },
+        "score": 72,
+        "articles": []
+      },
+      {
+        "artist": "Border One",
+        "title": "Atonia - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/atonia-ep/6815226504?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/8d/6a/e68d6a4c-0459-e2d0-707d-26233ae8db43/5414166697199.png/170x170bb.png",
+        "rank": 62,
+        "country": "de",
+        "signals": {
+          "de": 39
+        },
+        "score": 39,
+        "articles": []
+      }
+    ],
+    "Trance": [
+      {
+        "artist": "Armin van Buuren",
+        "title": "A State of Trance Radio Top 50 - 2026, Vol. 2 (Selected by Armin van Buuren)",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/a-state-of-trance-radio-top-50-2026-vol-2-selected/6830156945?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/ce/1b/8ace1bb3-2f74-a063-b939-250e25ca89dd/8718522609060.png/170x170bb.png",
+        "rank": 1,
+        "country": "us",
+        "signals": {
+          "us": 100,
+          "gb": 83,
+          "de": 94,
+          "fr": 95,
+          "jp": 86,
+          "au": 94
+        },
+        "score": 552,
+        "articles": []
+      },
+      {
+        "artist": "Drop Impact BEATZ",
+        "title": "Trance × EDM Banger Vol.27 - Love Start Signal",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/trance-edm-banger-vol-27-love-start-signal/6837228289?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/70/b4/3b70b497-d5d1-e29a-d7f4-2ed4b0560474/4550796865902_cover.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "us",
+        "signals": {
+          "us": 93,
+          "jp": 87
+        },
+        "score": 180,
+        "articles": []
+      },
+      {
+        "artist": "Dan Stone",
+        "title": "Fragments",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/fragments/6822752833?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/ec/9d/b4ec9d09-c807-255a-e771-cda4d79a234e/cover.jpg/170x170bb.png",
+        "rank": 9,
+        "country": "us",
+        "signals": {
+          "us": 92,
+          "gb": 62
+        },
+        "score": 154,
+        "articles": []
+      },
+      {
+        "artist": "Mekkanikka",
+        "title": "Beings of Light",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/beings-of-light/6826285615?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/d4/9d/42d49d9b-f104-42be-2ab3-21feb1e5e872/5063857798471_cover.jpg/170x170bb.png",
+        "rank": 63,
+        "country": "us",
+        "signals": {
+          "us": 38,
+          "jp": 85
+        },
+        "score": 123,
+        "articles": []
+      },
+      {
+        "artist": "Godtripper & Jenna Shaw",
+        "title": "Synergy - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/synergy-ep/6830787775?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f7/50/23f7507c-dc37-842f-4b02-671ab2de52b9/cover.jpg/170x170bb.png",
+        "rank": 3,
+        "country": "us",
+        "signals": {
+          "us": 98
+        },
+        "score": 98,
+        "articles": []
+      }
+    ],
+    "Ambient": [
+      {
+        "artist": "Richard Skelton & Lawrence English",
+        "title": "NOON",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/noon/6783288970?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/ac/91/7aac9180-832f-8fca-6d62-4309bf465fa5/5053760155683_cover.jpg/170x170bb.png",
+        "rank": 7,
+        "country": "us",
+        "signals": {
+          "us": 94,
+          "gb": 72,
+          "de": 60
+        },
+        "score": 226,
+        "articles": []
+      },
+      {
+        "artist": "Stella Z",
+        "title": "Thunder Is the Sky Dreaming",
+        "releaseDate": "2026-11-19",
+        "url": "https://music.apple.com/gb/album/thunder-is-the-sky-dreaming/6819917135?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/20/a1/f720a15b-fe6f-baae-c4fe-b8d76bd680cc/5050580884021.png/170x170bb.png",
+        "rank": 20,
+        "country": "gb",
+        "signals": {
+          "gb": 81,
+          "au": 89
+        },
+        "score": 170,
+        "articles": []
+      },
+      {
+        "artist": "Lord Of The Isles",
+        "title": "Ambient Store",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/ambient-store/6825807832?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/c5/51/23c551d7-db05-4113-4496-3a01dc3781f3/5050580884571.png/170x170bb.png",
+        "rank": 2,
+        "country": "de",
+        "signals": {
+          "de": 99
+        },
+        "score": 99,
+        "articles": []
+      },
+      {
+        "artist": "Marta Mist",
+        "title": "Pattern Recognition - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/gb/album/pattern-recognition-ep/6830243260?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e8/80/aae880cc-9269-2c85-b6f1-1682da81a0e0/5053760163510_cover.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "gb",
+        "signals": {
+          "gb": 93
+        },
+        "score": 93,
+        "articles": []
+      },
+      {
+        "artist": "Thomas Lemmer & Christoph Sebastian Pabst",
+        "title": "The Wide Stillness",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/the-wide-stillness/6813412935?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/65/94/ed6594a1-fed6-41de-c797-28b8abbcafa8/cover.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "de",
+        "signals": {
+          "de": 93
+        },
+        "score": 93,
+        "articles": []
+      }
+    ],
+    "Downtempo": [
+      {
+        "artist": "Eric Hilton",
+        "title": "The Easy Underground",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/the-easy-underground/6808187919?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/21/67/8c216786-7c2b-0f84-9194-ed51660fb197/823375299523_Cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "us",
+        "signals": {
+          "us": 100,
+          "gb": 81,
+          "de": 92,
+          "au": 95
+        },
+        "score": 368,
+        "articles": []
+      },
+      {
+        "artist": "Curlychopz",
+        "title": "The Other Place",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/gb/album/the-other-place/6832433541?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/f0/a4/38f0a451-f97b-35c4-aa30-9c547337f6d2/artwork.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "gb",
+        "signals": {
+          "gb": 93
+        },
+        "score": 93,
+        "articles": []
+      },
+      {
+        "artist": "Zak Bond",
+        "title": "THREADLIGHT: HOME",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/threadlight-home/6826371648?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/46/3a/e5463ab3-158d-7004-70ea-88645133f127/artwork.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "us",
+        "signals": {
+          "us": 93
+        },
+        "score": 93,
+        "articles": []
+      },
+      {
+        "artist": "Askin Dedeoglu",
+        "title": "Underneath Everything",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/underneath-everything/6807711781?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/27/57/db2757a0-98b9-1fc8-c944-ab2208cf8ee3/00_Cover_Art.jpg/170x170bb.png",
+        "rank": 54,
+        "country": "us",
+        "signals": {
+          "us": 47
+        },
+        "score": 47,
+        "articles": []
+      },
+      {
+        "artist": "Sadhu Sensi, Turu Anasi, Sydney Seymour & Lou Cypher",
+        "title": "Jade Palace - EP",
+        "releaseDate": "2026-11-16",
+        "url": "https://music.apple.com/gb/album/jade-palace-ep/6822688013?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/55/db/ea55db8a-839b-1753-c779-142582ee53e4/00_Cover_Art.jpg/170x170bb.png",
+        "rank": 54,
+        "country": "gb",
+        "signals": {
+          "gb": 47
+        },
+        "score": 47,
+        "articles": []
+      }
+    ],
+    "Electronica": [
+      {
+        "artist": "Acid Pauli, Hani Mojtahedy & Kingdom Molongi",
+        "title": "Mystic Meltdown",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/de/album/mystic-meltdown/6811013458?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/8d/19/7d8d1954-9396-469e-7551-b17d4cccbacd/cover.jpg/170x170bb.png",
+        "rank": 8,
+        "country": "de",
+        "signals": {
+          "de": 93,
+          "fr": 83,
+          "jp": 85
+        },
+        "score": 261,
+        "articles": []
+      },
+      {
+        "artist": "Puli & Apiento",
+        "title": "Paseo",
+        "releaseDate": "2026-11-19",
+        "url": "https://music.apple.com/gb/album/paseo/6837279858?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/79/7e/83797e54-0e36-ea87-4a1e-5ca59d278ad3/artwork.jpg/170x170bb.png",
+        "rank": 3,
+        "country": "gb",
+        "signals": {
+          "gb": 98
+        },
+        "score": 98,
+        "articles": []
+      },
+      {
+        "artist": "Scratch Massive",
+        "title": "Live at L'Olympia",
+        "releaseDate": "2026-11-19",
+        "url": "https://music.apple.com/fr/album/live-at-lolympia/6816176230?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/6a/6e/d96a6e20-5349-7390-9dd9-48e311bed1b5/cover.jpg/170x170bb.png",
+        "rank": 11,
+        "country": "fr",
+        "signals": {
+          "fr": 90
+        },
+        "score": 90,
+        "articles": []
+      },
+      {
+        "artist": "Alpha Focus",
+        "title": "Max Focus | Dark Ambient Music for Deep Work",
+        "releaseDate": "2026-11-15",
+        "url": "https://music.apple.com/us/album/max-focus-dark-ambient-music-for-deep-work/6823730607?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/e9/02/6ce9027d-d96a-c8eb-7205-82699c6b3e20/artwork.jpg/170x170bb.png",
+        "rank": 17,
+        "country": "us",
+        "signals": {
+          "us": 84
+        },
+        "score": 84,
+        "articles": []
+      },
+      {
+        "artist": "O Yuki Conjugate & Philipp Otterbach",
+        "title": "Sleep Machines",
+        "releaseDate": "2026-11-18",
+        "url": "https://music.apple.com/gb/album/sleep-machines/6815350535?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/c0/f0/3ac0f0a6-af46-8f53-159c-a676d52fce63/764656550875_cover.jpg/170x170bb.png",
+        "rank": 69,
+        "country": "gb",
+        "signals": {
+          "gb": 32,
+          "de": 21
+        },
+        "score": 53,
+        "articles": []
+      }
+    ],
+    "IDM/Experimental": [
+      {
+        "artist": "Uninvited Lab",
+        "title": "Keeper of the Spark",
+        "releaseDate": "2026-11-17",
+        "url": "https://music.apple.com/us/album/keeper-of-the-spark/6835907241?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/93/47/a69347b5-0d63-9cb7-7897-246729c662ba/059442068192.png/170x170bb.png",
+        "rank": 5,
+        "country": "us",
+        "signals": {
+          "us": 96,
+          "gb": 96,
+          "fr": 98
+        },
+        "score": 290,
+        "articles": []
+      },
+      {
+        "artist": "FemmeChill",
+        "title": "Delight Comes Naturally",
+        "releaseDate": "2026-11-15",
+        "url": "https://music.apple.com/us/album/delight-comes-naturally/6822261904?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/75/91/7c75915a-ef04-bf45-9fa6-4d27a3113540/1519969.jpg/170x170bb.png",
+        "rank": 7,
+        "country": "us",
+        "signals": {
+          "us": 94
+        },
+        "score": 94,
+        "articles": []
+      }
+    ],
+    "Industrial": [],
+    "Dubstep": [],
+    "Bass": [
+      {
+        "artist": "Kaval",
+        "title": "Hack Dem Up - EP",
+        "releaseDate": "2026-11-20",
+        "url": "https://music.apple.com/us/album/hack-dem-up-ep/6820993317?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/96/63/9d9663ce-5ae0-15e5-aeaf-c2059bff37ed/5063817016188_cover.jpg/170x170bb.png",
+        "rank": 6,
+        "country": "us",
+        "signals": {
+          "us": 95,
+          "jp": 99
+        },
+        "score": 194,
+        "articles": []
+      }
+    ]
+  },
+  "audit": {
+    "Breakbeat": {
+      "successfulCharts": 8,
+      "eligible": 0,
+      "selected": 0,
+      "matched": 0
+    },
+    "Garage": {
+      "successfulCharts": 8,
+      "eligible": 3,
+      "selected": 3,
+      "matched": 0
+    },
+    "Hardcore": {
+      "successfulCharts": 8,
+      "eligible": 1,
+      "selected": 1,
+      "matched": 0
+    },
+    "House": {
+      "successfulCharts": 8,
+      "eligible": 12,
+      "selected": 5,
+      "matched": 0
+    },
+    "Jungle/Drum & Bass": {
+      "successfulCharts": 8,
+      "eligible": 6,
+      "selected": 5,
+      "matched": 0
+    },
+    "Techno": {
+      "successfulCharts": 8,
+      "eligible": 7,
+      "selected": 5,
+      "matched": 0
+    },
+    "Trance": {
+      "successfulCharts": 8,
+      "eligible": 12,
+      "selected": 5,
+      "matched": 0
+    },
+    "Ambient": {
+      "successfulCharts": 8,
+      "eligible": 14,
+      "selected": 5,
+      "matched": 0
+    },
+    "Downtempo": {
+      "successfulCharts": 8,
+      "eligible": 6,
+      "selected": 5,
+      "matched": 0
+    },
+    "Electronica": {
+      "successfulCharts": 8,
+      "eligible": 8,
+      "selected": 5,
+      "matched": 0
+    },
+    "IDM/Experimental": {
+      "successfulCharts": 8,
+      "eligible": 2,
+      "selected": 2,
+      "matched": 0
+    },
+    "Industrial": {
+      "successfulCharts": 8,
+      "eligible": 0,
+      "selected": 0,
+      "matched": 0
+    },
+    "Dubstep": {
+      "successfulCharts": 8,
+      "eligible": 0,
+      "selected": 0,
+      "matched": 0
+    },
+    "Bass": {
+      "successfulCharts": 8,
+      "eligible": 1,
+      "selected": 1,
+      "matched": 0
+    }
+  }
+}
