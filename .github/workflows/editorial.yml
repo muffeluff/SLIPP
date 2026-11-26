@@ -5,7 +5,7 @@ on:
     - cron: '15 5 * * *'
   push:
     branches: [main]
-    paths: [.github/workflows/editorial.yml]
+    paths: [.github/workflows/editorial.yml, scripts/production_editorial.py]
 permissions:
   contents: write
 concurrency:
