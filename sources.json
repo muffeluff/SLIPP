@@ -704,6 +704,30 @@
       "status": "pending_test",
       "type": "editorial",
       "lastChecked": null
+    },
+    {
+      "id": "inverted-audio.com",
+      "name": "Inverted Audio",
+      "website": "https://inverted-audio.com/",
+      "genres": [
+        "Elektronisk",
+        "Electronica",
+        "House",
+        "Techno",
+        "Ambient"
+      ],
+      "rssCandidates": [
+        "https://inverted-audio.com/feed/"
+      ],
+      "reviewUrl": null,
+      "status": "pending_test",
+      "type": "editorial",
+      "lastChecked": null,
+      "permission": {
+        "granted": "2026-11-26",
+        "by": "Tom Durston, Director, Inverted Audio",
+        "terms": "Link to original articles; no full republication. SLIPP uses title, source and original URL only; no excerpts or summaries."
+      }
     }
   ]
 }
