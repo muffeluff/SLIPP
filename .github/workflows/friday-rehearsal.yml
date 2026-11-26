@@ -1,4 +1,4 @@
-name: Friday rehearsal – editorial outage
+name: Friday rehearsal – editorial coverage
 on:
   push:
     paths:
@@ -15,11 +15,11 @@ jobs:
       SLIPP_RELEASE_DATE: '2026-11-20'
     steps:
       - uses: actions/checkout@v4
-      - name: Rehearse with last Friday catalog and missing editorial data
+      - name: Rehearse with last Friday catalog and editorial feeds
         run: |
           pip install requests beautifulsoup4 feedparser
           python scripts/production_album_feeds.py
-          rm -f editorial/articles.json editorial/candidates.json
+          python scripts/production_editorial.py
           python scripts/production_albums.py
           python scripts/production_singles.py
           python scripts/production_validate.py
