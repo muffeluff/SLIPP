@@ -9,6 +9,11 @@ stamp=now.isoformat()
 root=Path('editorial')
 root.mkdir(exist_ok=True)
 sources=json.load(open('source-audit.json'))['sources']
+# Explicitly permitted feeds remain available even if the source audit is stale.
+for configured in json.load(open('sources.json'))['sources']:
+    if configured['id']=='inverted-audio.com' and configured.get('permission'):
+        sources=[s for s in sources if s['id']!=configured['id']]
+        sources.append(dict(configured,feed=configured['rssCandidates'][0]))
 def canonical(url):
     p=urlsplit(url)
     return urlunsplit((p.scheme,p.netloc,p.path,urlencode([(k,v) for k,v in parse_qsl(p.query) if not k.startswith('utm_')]),''))
@@ -43,6 +48,8 @@ def collect(s):
             date=x.get('published_parsed') or x.get('updated_parsed')
             published=datetime.fromtimestamp(calendar.timegm(date),timezone.utc).isoformat() if date else None
             rows.append(dict(source=s['name'],sourceId=s['id'],sourceType=s['type'],genres=s['genres'],title=title,url=url,tags=tags,published=published,firstSeen=stamp,kind=kind,verification='pending',excerpt=BeautifulSoup(x.get('summary',''),'html.parser').get_text(' ',strip=True)[:400]))
+        if s['id']=='inverted-audio.com':
+            for row in rows: row.pop('excerpt',None)
         return s['id'],rows,'ok'
     except Exception as e: return s['id'],[],str(e)
 with ThreadPoolExecutor(max_workers=6) as pool: results=list(pool.map(collect,sources))
@@ -55,6 +62,7 @@ for sid,rows,status in results:
         if key in merged: row['firstSeen']=merged[key]['firstSeen']
         merged[key]=row
 for row in merged.values():
+    if row['sourceId']=='inverted-audio.com': row.pop('excerpt',None)
     row['kind']=classify(row['sourceId'],row['title'],row['url'],row.get('tags',[]))
 cutoff=(now-timedelta(days=60)).isoformat()
 articles=sorted([x for x in merged.values() if x['firstSeen']>=cutoff],key=lambda x:x['published'] or x['firstSeen'],reverse=True)
