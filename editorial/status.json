@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T04:20:10.072705+00:00",
-  "total": 1313,
-  "candidates": 81,
+  "updated": "2026-11-26T15:06:27.220299+00:00",
+  "total": 1386,
+  "candidates": 78,
   "sources": [
     {
       "id": "pitchfork.com",
@@ -175,8 +175,8 @@
     },
     {
       "id": "drumandbass.nl",
-      "count": 0,
-      "status": "Empty feed"
+      "count": 10,
+      "status": "ok"
     },
     {
       "id": "acloserlisten.com",
