@@ -23,6 +23,7 @@ def classify(source,title,url,tags):
     if re.search(r'product-recommendations|film-reviews|tv-reviews|book-reviews|live-reviews|concert-review|/interviews?/|/fashion/|/politics/|/tv-movies/|/lifestyle/',path): return 'other'
     if re.search(r'\b(concert review|live review|tour dates|announces? (a |new |final )?tour|live residency|festival lineup|film review|movie review|book review|in conversation|interview|magnesium supplements|car accident|wedding|has passed away|has died)\b',title.lower()): return 'other'
     if re.search(r'\b(at|live at)\b.*\b(jazz club|cadogan hall|festival|arena)\b|\bEFG LJF\b',title,re.I): return 'other'
+    if source=='inverted-audio.com' and (re.search(r'/(review|reviews)/',path) or any(re.fullmatch(r'(music |record |album |ep |track |single )?reviews?',t.strip(),re.I) for t in tags)): return 'review'
     if source=='pitchfork.com' and '/reviews/albums/' in path: return 'review'
     if re.search(r'album.review|track.review|single.review|ep.review|record.review|/reviews/albums/|/reviews/tracks/|/quietus-reviews/|/reviews/premature-evaluation/|album-of-the-day|/music/reviews/',signal): return 'review'
     if source=='angrymetalguy.com' and re.search(r'\breview\b',title,re.I): return 'review'
@@ -67,6 +68,7 @@ for row in merged.values():
 cutoff=(now-timedelta(days=60)).isoformat()
 articles=sorted([x for x in merged.values() if x['firstSeen']>=cutoff],key=lambda x:x['published'] or x['firstSeen'],reverse=True)
 path.write_text(json.dumps(dict(updated=stamp,articles=articles),ensure_ascii=False,indent=2))
+(root/'inverted-audio-reviews.json').write_text(json.dumps(dict(updated=stamp,articles=[x for x in articles if x['sourceId']=='inverted-audio.com' and x['kind']=='review']),ensure_ascii=False,indent=2))
 candidates=[x for x in articles if x['kind'] in ('review','premiere','recommendation') and x['published'] and x['published']>=(now-timedelta(days=7)).isoformat()]
 (root/'candidates.json').write_text(json.dumps(dict(updated=stamp,articles=candidates),ensure_ascii=False,indent=2))
 (root/'status.json').write_text(json.dumps(dict(updated=stamp,total=len(articles),candidates=len(candidates),sources=[dict(id=sid,count=len(rows),status=status) for sid,rows,status in results]),ensure_ascii=False,indent=2))
