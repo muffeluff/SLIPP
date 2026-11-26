@@ -1,6 +1,141 @@
 {
-  "updated": "2026-11-26T02:06:55.709878+00:00",
+  "updated": "2026-11-26T04:20:10.072705+00:00",
   "articles": [
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
+      "url": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
+      "tags": [
+        "Music",
+        "Music News",
+        "Ariana Grande"
+      ],
+      "published": "2026-11-26T04:13:01+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\""
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Journey's new drummer is the frontman in a Bob Seger tribute band",
+      "url": "https://www.loudersound.com/bands-artists/journeys-new-drummer-is-the-frontman-in-a-bob-seger-tribute-band",
+      "tags": [
+        "Bands & Artists"
+      ],
+      "published": "2026-11-26T04:05:00+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Steve Murphy, who is currently standing in for Journey drummer Deen Castronovo, portrays Bob Seger in the tribute show Beautiful Loser – The Bob Seger Concert Experience"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show",
+      "url": "https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/",
+      "tags": [
+        "Music",
+        "Rock",
+        "bbnews",
+        "nfl"
+      ],
+      "published": "2026-11-26T03:41:38+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The Rock Hall-inducted group headlined the halftime show, which streamed live late Wednesday, Nov. 25 on Netflix."
+    },
+    {
+      "source": "Consequence",
+      "sourceId": "consequence.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "title": "U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show",
+      "url": "https://consequence.net/2026/11/u2-thanksgiving-eve-nfl-show/",
+      "tags": [
+        "Music News",
+        "Music",
+        "News",
+        "Classic Rock",
+        "NFL"
+      ],
+      "published": "2026-11-26T03:20:26+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The five-song set included \"Torn,\" \"Sunday Bloody Sunday,\" \"Where the Streets Have No Name,\" and \"Pride (In the Name of Love).\" U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show Travis Bland and Alex Young"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Duran Duran’s Andy Taylor Was the Wildest of the Wild Boys",
+      "url": "https://www.rollingstone.com/music/music-features/duran-duran-andy-taylor-guitarist-tribute-1235664822/",
+      "tags": [
+        "Music",
+        "Music Features",
+        "Andy Taylor",
+        "Duran Duran"
+      ],
+      "published": "2026-11-26T02:21:58+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The late guitarist gave the band an aggressive edge that no other New Romantic act had — which is part of the reason the songs never fade into the past"
+    },
+    {
+      "source": "Stereogum",
+      "sourceId": "stereogum.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Legss – “Angels Hide (Their Faces)”",
+      "url": "https://stereogum.com/2521577/legss-angels-hide-their-faces/music/",
+      "tags": [
+        "New Music",
+        "Legss"
+      ],
+      "published": "2026-11-26T02:14:36+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The post Legss – “Angels Hide (Their Faces)” appeared first on Stereogum ."
+    },
     {
       "source": "Mixmag",
       "sourceId": "mixmag.net",
@@ -14403,6 +14538,28 @@
       "excerpt": "Nobody seems to know exactly how to categorize the music of Noah Kahan. They only know that in the realm of music, he's massive. Only Ella Langley and Taylor Swift had bigger years in 2026, maybe Olivia Rodrigo. The post No, Noah Kahan Was Not “Snubbed” by the Grammy Awards first appeared on Saving Country Music ."
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Wormogenic Is Creating Her Own Pop Universe with Debut EP ‘bandaids’",
+      "url": "https://www.clashmusic.com/news/wormogenic-is-creating-her-own-pop-universe-with-debut-ep-bandaids/",
+      "tags": [
+        "News",
+        "Wormogenic"
+      ],
+      "published": "2026-11-20T18:31:01+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Wormogenic has shared her debut EP, ‘bandaids’. A magnetic introduction to the singer-songwriter, the project holds up a mirror to a shifting pop landscape. Blurring elements of electro, punk and rock, each track takes listeners down a new path, building its own universe that revolves in the dreamy and DIY.… The post Wormogenic Is Creating Her Own Pop Universe with Debut EP ‘bandaids’ appeared fir"
+    },
+    {
       "source": "Metal Injection",
       "sourceId": "metalinjection.net",
       "sourceType": "editorial",
@@ -14442,6 +14599,50 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Metalcore's favourite horror obsessives pull back the curtain on their wild reinterpretations of Christmas classics"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "“Our Connection Is What Makes Us Special” JUST YOUR TYPE Interviewed",
+      "url": "https://www.clashmusic.com/features/our-connection-is-what-makes-us-special-just-your-type-interviewed/",
+      "tags": [
+        "Features",
+        "JYT"
+      ],
+      "published": "2026-11-20T17:29:03+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The boy band era has just gained one more remarkable group. JUST YOUR TYPE (JYT) stands out for its authentic bond and vibrant sound.  Drawing inspiration from South Korea’s biggest groups, JYT has taken cues from their idols whilst embracing their own identity to create the group they have always… The post “Our Connection Is What Makes Us Special” JUST YOUR TYPE Interviewed appeared first on Clas"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Tems Shares Powerful Single ‘African Love Story’",
+      "url": "https://www.clashmusic.com/news/tems-shares-powerful-single-african-love-story/",
+      "tags": [
+        "News",
+        "Tems"
+      ],
+      "published": "2026-11-20T17:21:56+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Grammy-winning artist Tems today shares the rousing single, ‘African Love Story’. The executive music producer of the upcoming feature film from Paramount Pictures, Children Of Blood And Bone, Tems brings her signature gospel inflection to a lilting Afrobeats anthem. Directed by Gina Prince-Bythewood, the film takes us to the epic fantasy world… The post Tems Shares Powerful Single ‘African Love S"
     },
     {
       "source": "XXL",
@@ -14484,6 +14685,28 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The post Brittany Howard & Robert Glasper – “Makings Of Tomorrow” appeared first on Stereogum ."
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Live Report: Soweto Kinch And LSO – Trilogy At The Barbican, London",
+      "url": "https://www.clashmusic.com/live/live-report-soweto-kinch-and-lso-trilogy-at-the-barbican-london/",
+      "tags": [
+        "Live",
+        "Soweto Kinch"
+      ],
+      "published": "2026-11-20T17:09:07+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The EFG London Jazz Festival has positively outgrown its title with programming that goes far beyond just “jazz”. One of the last shows of this year’s season was Soweto Kinch and the London Symphony Orchestra (LSO) at one of the city’s most memorable venues, The Barbican Hall. The partnership between… The post Live Report: Soweto Kinch And LSO – Trilogy At The Barbican, London appeared first on Cl"
     },
     {
       "source": "Metal Injection",
@@ -14764,6 +14987,50 @@
       "excerpt": "Singer and multi-instrumentalist suffered fatal accident at home in 2021"
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Finding Beauty In The Brutal: Kwamie Liv Interviewed",
+      "url": "https://www.clashmusic.com/features/finding-beauty-in-the-brutal-kwamie-liv-interviewed/",
+      "tags": [
+        "Features",
+        "Kwamie Liv"
+      ],
+      "published": "2026-11-20T15:58:21+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Returning with her first album since 2018, Kwamie Liv discusses embracing vulnerability, her passion for painting and finding freedom through creativity. For Kwamie Liv, creativity is less about escaping the world than finding a way to be fully present in it. “I actually feel it’s more a form of presence… The post Finding Beauty In The Brutal: Kwamie Liv Interviewed appeared first on Clash Magazin"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Yves Shares New EP ‘Cute & Anxiety’",
+      "url": "https://www.clashmusic.com/news/yves-shares-new-ep-cute-anxiety/",
+      "tags": [
+        "News",
+        "Yves"
+      ],
+      "published": "2026-11-20T15:41:07+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "South Korean artist Yves today unveils her new EP, ‘Cute & Anxiety’, out via PAIX PER MIL. Since her girl-group days with LOONA, Yves has emerged as a formidable genre-pivoting solo artist. This year, she’s maintained the momentum with her ‘NAIL’ project and collaborations with the likes of PinkPantheress, underscores, Lolo Zouaï,… The post Yves Shares New EP ‘Cute & Anxiety’ appeared first on Cla"
+    },
+    {
       "source": "Stereogum",
       "sourceId": "stereogum.com",
       "sourceType": "editorial",
@@ -14787,6 +15054,28 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The post Gates To Hell – “Rotting Heart” appeared first on Stereogum ."
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Billie Eilish To Headline BST Hyde Park 2027",
+      "url": "https://www.clashmusic.com/live/billie-eilish-to-headline-bst-hyde-park-2027/",
+      "tags": [
+        "Live",
+        "Billie Eilish"
+      ],
+      "published": "2026-11-20T15:32:38+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Billie Eilish is set to headline BST Hyde Park 2027. The American songwriter will make her first ever BST Hyde Park appearance next summer, bringing her ecstatic live show to the Great Oak Stage. Taking place on July 3rd, Billie Eilish will be joined by a series of guest support… The post Billie Eilish To Headline BST Hyde Park 2027 appeared first on Clash Magazine Music News, Reviews & Interviews"
     },
     {
       "source": "Stereogum",
@@ -14852,6 +15141,27 @@
       "excerpt": "Grab an exclusive vinyl from Metal Injection. The post Trivium Releases Video For \"The Terror,\" New Album Out Today appeared first on Metal Injection ."
     },
     {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Dermot Henry Shares Impressive New Album ‘Bad Throw, Good Catch’",
+      "url": "https://www.clashmusic.com/news/dermot-henry-shares-impressive-new-album-bad-throw-good-catch/",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-20T15:11:22+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Wiltshire-born songwriter Dermot Henry shares his new album, ‘Bad Throw, Good Catch’, today via Island Records.  Recorded live and straight to tape by producer Dom Monks (Laura Marling, Big Thief) at his studio in Frome, just 15 minutes from Henry’s childhood home, the album features previously released singles ‘(I Wish… The post Dermot Henry Shares Impressive New Album ‘Bad Throw, Good Catch’ app"
+    },
+    {
       "source": "Stereogum",
       "sourceId": "stereogum.com",
       "sourceType": "editorial",
@@ -14913,6 +15223,28 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The post Ovven – “Outside” appeared first on Stereogum ."
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "CHINCHILLA Confirms New Album ‘I Swear I Don’t Want To Be Sad’",
+      "url": "https://www.clashmusic.com/news/chinchilla-confirms-new-album-i-swear-i-dont-want-to-be-sad/",
+      "tags": [
+        "News",
+        "Chinchilla"
+      ],
+      "published": "2026-11-20T14:51:15+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "CHINCHILLA announces her new album, ‘I Swear I Don’t Want To Be Sad’ which will be coming out on January 29th 2027. Pre-order here.  The album announcement comes hand in hand with her new single, ‘Strawberry Golden Skies’ released today, which is a tempestuous and cathartic exploration of love and… The post CHINCHILLA Confirms New Album ‘I Swear I Don’t Want To Be Sad’ appeared first on Clash Maga"
     },
     {
       "source": "Aquarium Drunkard",
@@ -15053,6 +15385,28 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "Jim Kweskin may be in his seventh decade of making music, but on his new release, A Songster’s Journey , he sounds far younger than 86. This album celebrates roots music with the feel of the finest jug band west of the Mississippi. A veteran musician who first recorded"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Introspekt Shows Her Class On New ‘Mutant Transmissions’ EP",
+      "url": "https://www.clashmusic.com/news/introspekt-shows-her-class-on-new-mutant-transmissions-ep/",
+      "tags": [
+        "News",
+        "Introspekt"
+      ],
+      "published": "2026-11-20T14:27:00+00:00",
+      "firstSeen": "2026-11-26T04:20:10.072705+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Introspekt returns with new EP ‘Mutant Transmissions’. The American producer won acclaim with her excellent album ‘Moving The Center’, a chic overhaul of bass-focused club textures. Taking dubstep forwards, Introspekt refused to be limited, and with her DJ sets displaying a vivacious sense of eclecticism. New EP ‘Mutant Transmissions’ grew… The post Introspekt Shows Her Class On New ‘Mutant Transm"
     },
     {
       "source": "Stereogum",
