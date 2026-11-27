@@ -1,0 +1,638 @@
+{
+  "date": "2026-11-27",
+  "sections": [
+    {
+      "source": "SLIPP",
+      "title": "Indie · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Björk & The Hamrahlíð Choir",
+          "Björk Orkestral with the Hamrahlíð Choir (Live at Harpa Hall, Reykjavík)",
+          "Alternative",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/1b/ff/d21bff05-a37a-96fb-3f4d-13de086c4683/5016958110734.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 7,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/bj%C3%B6rk-orkestral-with-the-hamrahl%C3%AD%C3%B0-choir-live-at/6833893635?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Rock · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Peter Gabriel",
+          "o\\i",
+          "Rock",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/df/92/58df923b-ea4e-b9d6-65d4-fcaa57013812/PG24_PeterGabriel_OI_3000pxls.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 72,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 16,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 9,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 13,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 3,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/o-i/6818148729?uo=4"
+          }
+        ],
+        [
+          "Midnight Oil",
+          "Head Injuries (Live At Selina's)",
+          "Rock",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/98/0c/fc980c85-db4c-78d8-4a4e-ac0b5c1e9aff/196874597514.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 1,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/au/album/head-injuries-live-at-selinas/6829609031?uo=4"
+          }
+        ],
+        [
+          "ピーター・ガブリエル",
+          "o\\i",
+          "ロック",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/df/92/58df923b-ea4e-b9d6-65d4-fcaa57013812/PG24_PeterGabriel_OI_3000pxls.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 23,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/o-i/6818148729?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Pop · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Morten Harket",
+          "Human Grace",
+          "Pop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0e/c7/d90ec7f9-c5a9-6009-00fc-85ae4e5bcfc4/1200214945619.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "no",
+                "rank": 57,
+                "url": "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 1,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 2,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 24,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 6,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/human-grace/6810761923?uo=4"
+          }
+        ],
+        [
+          "Roxette & Per Gessle",
+          "The Per Gessle Archives - The Pearls Of Passion Demos",
+          "Pop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/c5/e5/99c5e5fd-c69b-974a-c146-c8ec514aebd9/1200220508860.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 14,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/se/album/the-per-gessle-archives-the-pearls-of-passion-demos/6836000543?uo=4"
+          }
+        ],
+        [
+          "Blümchen",
+          "Der letzte Rave (30 Jahre Blümchen)",
+          "Pop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/21/73/3a2173c6-de23-1610-0956-b9c6d3136aac/26UM1IM40083.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 16,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/der-letzte-rave-30-jahre-bl%C3%BCmchen/6831399157?uo=4"
+          }
+        ],
+        [
+          "モートン・ハルケット",
+          "Human Grace",
+          "ポップ",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0e/c7/d90ec7f9-c5a9-6009-00fc-85ae4e5bcfc4/1200214945619.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 16,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/human-grace/6810761923?uo=4"
+          }
+        ],
+        [
+          "ブラックベアー",
+          "analogue_OFF",
+          "ポップ",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/d6/54/9dd65468-15ae-86eb-f049-91ea2ab39524/26UM1IM46368.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 41,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/analogue-off/6838445824?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Hip-hop · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Lukasyno & Kriso",
+          "Amor Fati",
+          "Hip-Hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/e0/c2/44e0c288-cc79-23dc-1dd4-557dbf149fd5/1200220530175.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 32,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=18/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/amor-fati/6837355760?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Country · Ukens album",
+      "date": "2026-11-27",
+      "items": []
+    },
+    {
+      "source": "SLIPP",
+      "title": "Jazz · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "マイルス・デイヴィス",
+          "Copenhagen Live 1969",
+          "ジャズ",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/7f/02/b67f02ab-2363-34f6-dad3-f88632517c35/196874827093.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 10,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/copenhagen-live-1969/6823689149?uo=4"
+          }
+        ],
+        [
+          "Julian & Roman Wasserfuhr",
+          "Timelines",
+          "Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e1/ce/11e1cefa-359b-265c-ec2d-a1074030e8f3/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 15,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/timelines/6802596169?uo=4"
+          }
+        ],
+        [
+          "Espen Berg & Aileron",
+          "Aileron",
+          "Jazz",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/e7/81/9be78172-5be7-a002-a902-043302af870f/7033662050031_Cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 65,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/aileron/6816286625?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Metal · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Mystic Prophecy",
+          "In Metal",
+          "Metal",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/cf/c6/4fcfc644-7078-780c-80ac-3b5f29b85478/4251981719610.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "au",
+                "rank": 6,
+                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/au/album/in-metal/6790513741?uo=4"
+          }
+        ],
+        [
+          "Northlane",
+          "Anemoia",
+          "Metal",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/4e/af/654eaf41-7681-f03a-0748-9e6868d4348b/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 44,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/au/album/anemoia/6796652471?uo=4"
+          }
+        ]
+      ]
+    },
+    {
+      "source": "SLIPP",
+      "title": "Elektronisk · Ukens album",
+      "date": "2026-11-27",
+      "items": [
+        [
+          "Schrotthagen",
+          "Neue Welt",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/a7/8f/5ea78f51-ebac-d5d8-c135-8d2040da5502/26UM1IM20653.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 3,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 41,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/neue-welt/6814760673?uo=4"
+          }
+        ],
+        [
+          "Mesh",
+          "Fallen Angel",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/7e/c9/917ec9f4-f6e7-7fca-350b-d2b791629cf9/2986.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "de",
+                "rank": 84,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/de/album/fallen-angel/6814763545?uo=4"
+          }
+        ]
+      ]
+    }
+  ],
+  "mustListen": {
+    "date": "2026-11-27",
+    "method": "Fredagens nye album: iTunes-kjøp og Apple Music-strømming",
+    "albums": [
+      [
+        "Morten Harket",
+        "Human Grace",
+        "Pop",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0e/c7/d90ec7f9-c5a9-6009-00fc-85ae4e5bcfc4/1200214945619.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-27",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "Apple Music v2",
+              "country": "no",
+              "rank": 57,
+              "url": "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "no",
+              "rank": 1,
+              "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "de",
+              "rank": 2,
+              "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "fr",
+              "rank": 24,
+              "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "au",
+              "rank": 6,
+              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/no/album/human-grace/6810761923?uo=4"
+        }
+      ],
+      [
+        "Peter Gabriel",
+        "o\\i",
+        "Rock",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/df/92/58df923b-ea4e-b9d6-65d4-fcaa57013812/PG24_PeterGabriel_OI_3000pxls.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-27",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "iTunes Store purchases",
+              "country": "gb",
+              "rank": 72,
+              "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=21/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "no",
+              "rank": 16,
+              "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "de",
+              "rank": 9,
+              "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "fr",
+              "rank": 13,
+              "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "au",
+              "rank": 3,
+              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/gb/album/o-i/6818148729?uo=4"
+        }
+      ],
+      [
+        "Schrotthagen",
+        "Neue Welt",
+        "Electronic",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/a7/8f/5ea78f51-ebac-d5d8-c135-8d2040da5502/26UM1IM20653.rgb.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-27",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "iTunes Store purchases",
+              "country": "de",
+              "rank": 3,
+              "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+            },
+            {
+              "source": "iTunes Store purchases",
+              "country": "fr",
+              "rank": 41,
+              "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/de/album/neue-welt/6814760673?uo=4"
+        }
+      ],
+      [
+        "Midnight Oil",
+        "Head Injuries (Live At Selina's)",
+        "Rock",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/98/0c/fc980c85-db4c-78d8-4a4e-ac0b5c1e9aff/196874597514.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-27",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "iTunes Store purchases",
+              "country": "au",
+              "rank": 1,
+              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/au/album/head-injuries-live-at-selinas/6829609031?uo=4"
+        }
+      ],
+      [
+        "Mystic Prophecy",
+        "In Metal",
+        "Metal",
+        "",
+        "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/cf/c6/4fcfc644-7078-780c-80ac-3b5f29b85478/4251981719610.jpg/100x100bb.jpg",
+        {
+          "releaseDate": "2026-11-27",
+          "label": "Populært nå",
+          "articles": [],
+          "signals": [
+            {
+              "source": "iTunes Store purchases",
+              "country": "au",
+              "rank": 6,
+              "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
+            }
+          ],
+          "catalogUrl": "https://music.apple.com/au/album/in-metal/6790513741?uo=4"
+        }
+      ]
+    ],
+    "singles": [],
+    "singlesDate": "2026-11-27"
+  }
+}
