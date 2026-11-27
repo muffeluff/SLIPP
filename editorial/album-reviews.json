@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:34:44.236112+00:00",
+  "updated": "2026-11-27",
   "releases": [
     {
       "artist": "Manes",
@@ -9,7 +9,62 @@
     {
       "artist": "Peter Gabriel",
       "title": "o\\i",
-      "articles": []
+      "articles": [
+        {
+          "source": "RIFF Magazine",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://riffmagazine.com/album-reviews/peter-gabriel-oi/",
+          "published": "2026-11-21",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Ultimate Classic Rock",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://ultimateclassicrock.com/peter-gabriel-oi-album-review/",
+          "published": "2026-11-24",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Rolling Stone DE",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://www.rollingstone.de/reviews/peter-gabriel-oi-review/",
+          "published": "2026-11-27",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Classic Rock / Louder",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://www.loudersound.com/music/albums/peter-gabriel-o-i",
+          "published": "2026-11-26",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "At The Barrier",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://atthebarrier.com/2026/11/25/peter-gabriel-o-i-album-review/",
+          "published": "2026-11-25",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Associated Press",
+          "title": "Peter Gabriel – o\\i Review",
+          "url": "https://apnews.com/article/85af76f72e2747f516f9031906c21270",
+          "published": "2026-11-24",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        }
+      ]
     },
     {
       "artist": "The Rolling Stones",
@@ -39,7 +94,26 @@
     {
       "artist": "Morten Harket",
       "title": "Human Grace",
-      "articles": []
+      "articles": [
+        {
+          "source": "Rolling Stone DE",
+          "title": "Morten Harket – Human Grace Review",
+          "url": "https://www.rollingstone.de/reviews/morten-harket-human-grace-review/",
+          "published": "2026-11-27",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Applausen",
+          "title": "Morten Harket – Human Grace Review",
+          "url": "https://www.applausen.no/artikkel/morten-harket-vender-tilbake-med-et-album-om-kjaerlighet-og-menneskelig-ansvar-copy",
+          "published": "2026-11-27",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        }
+      ]
     },
     {
       "artist": "blackbear",
@@ -118,13 +192,68 @@
           "kind": "review",
           "verified": true,
           "verification": "editorial-feed-match"
+        },
+        {
+          "source": "Metal Hammer DE",
+          "title": "Mystic Prophecy – In Metal Review",
+          "url": "https://www.metal-hammer.de/reviews/mystic-prophecy-in-metal/",
+          "published": "2026-11-27",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "metal.de",
+          "title": "Mystic Prophecy – In Metal Review",
+          "url": "https://www.metal.de/reviews/mystic-prophecy-in-metal-639518/",
+          "published": "2026-11-21",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Sonic Perspectives",
+          "title": "Mystic Prophecy – In Metal Review",
+          "url": "https://www.sonicperspectives.com/album-reviews/mystic-prophecy-in-metal/",
+          "published": "2026-11-25",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Heavymetal.dk",
+          "title": "Mystic Prophecy – In Metal Review",
+          "url": "https://heavymetal.dk/anmeldelse/mystic-prophecy-metal",
+          "published": "2026-11-18",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
         }
       ]
     },
     {
       "artist": "Northlane",
       "title": "Anemoia",
-      "articles": []
+      "articles": [
+        {
+          "source": "Kerrang!",
+          "title": "Northlane – Anemoia Review",
+          "url": "https://www.kerrang.com/album-review-northlane-anemoia",
+          "published": "2026-11-27",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        },
+        {
+          "source": "Distorted Sound",
+          "title": "Northlane – Anemoia Review",
+          "url": "https://distortedsoundmag.com/album-review-anemoia-northlane/",
+          "published": "2026-11-26",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        }
+      ]
     },
     {
       "artist": "Osyron",
@@ -134,7 +263,17 @@
     {
       "artist": "Contrarian",
       "title": "Escaping Depravity",
-      "articles": []
+      "articles": [
+        {
+          "source": "Metal Noise",
+          "title": "Contrarian – Escaping Depravity Review",
+          "url": "https://metalnoise.net/2026/11/review-escaping-depravity-by-contrarian",
+          "published": "2026-11-25",
+          "kind": "review",
+          "verified": true,
+          "verification": "editorial-web-match"
+        }
+      ]
     },
     {
       "artist": "Whiplash",
