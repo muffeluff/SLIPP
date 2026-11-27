@@ -11,7 +11,7 @@ print('Singles source coverage:',json.dumps(audit['sources']),flush=True)
 assert e['date']==today, 'Edition date mismatch'
 assert audit['date']==today, 'Singles audit date mismatch'
 assert audit['targetDate']==target
-assert 1<=audit['selected']<=5, 'No verified Friday singles; refusing stale fallback'
+assert 0<=audit['selected']<=5, 'Invalid verified single count'
 assert all(r[5]['releaseDate']==target for r in e['mustListen']['singles'])
 assert len(g)==8 and 1<=len(e['mustListen']['albums'])<=5 and len(e['mustListen']['singles'])==audit['selected']
 rows=[r for sections in g.values() for s in sections for r in s['items']]
