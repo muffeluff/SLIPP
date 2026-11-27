@@ -13,24 +13,55 @@
     "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/songs.json": 100,
     "https://itunes.apple.com/us/rss/topsongs/limit=100/json": 89,
     "https://itunes.apple.com/gb/rss/topsongs/limit=100/json": 87,
-    "https://itunes.apple.com/no/rss/topsongs/limit=100/json": 95,
-    "https://itunes.apple.com/se/rss/topsongs/limit=100/json": 90,
-    "https://itunes.apple.com/de/rss/topsongs/limit=100/json": 90,
-    "https://itunes.apple.com/fr/rss/topsongs/limit=100/json": 85,
+    "https://itunes.apple.com/no/rss/topsongs/limit=100/json": 89,
+    "https://itunes.apple.com/se/rss/topsongs/limit=100/json": 94,
+    "https://itunes.apple.com/de/rss/topsongs/limit=100/json": 91,
+    "https://itunes.apple.com/fr/rss/topsongs/limit=100/json": 89,
     "https://itunes.apple.com/jp/rss/topsongs/limit=100/json": 98,
-    "https://itunes.apple.com/au/rss/topsongs/limit=100/json": 86,
+    "https://itunes.apple.com/au/rss/topsongs/limit=100/json": 90,
     "https://itunes.apple.com/ca/rss/topsongs/limit=100/json": 83,
-    "https://itunes.apple.com/nl/rss/topsongs/limit=100/json": 94,
+    "https://itunes.apple.com/nl/rss/topsongs/limit=100/json": 88,
     "https://www.officialcharts.com/charts/singles-chart/": 0,
     "https://ca.billboard.com/charts/billboard-global-200": 0,
-    "https://charts.spotify.com/charts/view/regional-global-daily/latest": "not integrated: authenticated chart download required"
+    "https://charts.spotify.com/charts/view/regional-global-daily/latest": "not integrated: authenticated chart download required",
+    "editorial/single-discovery.json": 15,
+    "Spotify token": 200,
+    "Spotify candidates": 24
   },
-  "checked": 160,
-  "selected": 0,
+  "checked": 5,
+  "selected": 5,
   "targetDate": "2026-11-27",
-  "rejections": {
-    "wrong track date": 73,
-    "no exact match": 5,
-    "HTTPError": 1035
-  }
+  "rejections": {},
+  "details": [
+    {
+      "artist": "PAWSA",
+      "title": "WORLDWIDE",
+      "verified": true,
+      "reason": "verified"
+    },
+    {
+      "artist": "Club Angel",
+      "title": "brokenbruised",
+      "verified": true,
+      "reason": "verified"
+    },
+    {
+      "artist": "Cookin Soul",
+      "title": "ICE WATER",
+      "verified": true,
+      "reason": "verified"
+    },
+    {
+      "artist": "Daffodils",
+      "title": "Ritual",
+      "verified": true,
+      "reason": "verified"
+    },
+    {
+      "artist": "Gabzy",
+      "title": "Heartbreaker",
+      "verified": true,
+      "reason": "verified"
+    }
+  ]
 }
