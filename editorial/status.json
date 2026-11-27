@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T15:06:27.220299+00:00",
-  "total": 1386,
-  "candidates": 78,
+  "updated": "2026-11-27T14:58:29.156250+00:00",
+  "total": 1518,
+  "candidates": 65,
   "sources": [
     {
       "id": "pitchfork.com",
@@ -150,8 +150,8 @@
     },
     {
       "id": "electronicsound.co.uk",
-      "count": 10,
-      "status": "ok"
+      "count": 0,
+      "status": "Empty feed"
     },
     {
       "id": "daily.bandcamp.com",
@@ -195,7 +195,7 @@
     },
     {
       "id": "thewire.co.uk",
-      "count": 88,
+      "count": 89,
       "status": "ok"
     },
     {

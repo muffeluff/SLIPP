@@ -1,6 +1,137 @@
 {
-  "updated": "2026-11-26T15:06:27.220299+00:00",
+  "updated": "2026-11-27T14:58:29.156250+00:00",
   "articles": [
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Dick Raaijmakers and Horst Rickels ~ FORT KLANK",
+      "url": "https://acloserlisten.com/2026/11/27/dick-raaijmakers-and-horst-rickels-fort-klank/",
+      "tags": [
+        "Uncategorized",
+        "Dick Raaijmakers",
+        "FORT KLANK",
+        "Horst Rickels",
+        "Richard Allen",
+        "Staalplaat"
+      ],
+      "published": "2026-11-27T12:01:52+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Can a fort be an instrument?  In the hands of Dick Raaijmakers, Horst Rickels and Walter Maioli, it can be, and is.  Constructed in the 19th century, Fort Asperen has become the “outer shell” for a series of mechanical installations"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Record Store Day Black Friday 2026: The 85 best releases you can possibly buy",
+      "url": "https://www.loudersound.com/music/albums/record-store-day-black-friday-2026-85-best-releases",
+      "tags": [
+        "Albums",
+        "Music"
+      ],
+      "published": "2026-11-27T10:05:00+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Starring The Beatles, Eagles, Genesis, Grateful Dead, Iron Maiden, Motörhead, King Crimson, Stevie Nicks, Rolling Stones, Bob Seger, Rainbow and more"
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Music of the Month: The Best Albums and Tracks of November 2026",
+      "url": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-november-2026/",
+      "tags": [
+        "Music of the Month"
+      ],
+      "published": "2026-11-27T08:00:00+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "tQ's staffers round up everything that's excellent from the last few weeks in music Although End Of Year list season is very nearly upon us, November has been such a sterling month for new music that we couldn't resist one more of our monthly round-ups. Below you'll find everything we've loved, from riotous Brazilian funk to avant-garde space trumpet. Everything featured below, as well as all the "
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Laura Cannell – Winter Rites",
+      "url": "https://thequietus.com/quietus-reviews/laura-cannell-winter-rites-review/",
+      "tags": [
+        "Reviews"
+      ],
+      "published": "2026-11-27T06:00:00+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Laura Cannell Winter Rites Recorded at the Octagon Unitarian Chapel in Norwich,  the English composer and improviser welcomes in the season of Advent WINTER RITES by Laura Cannell Although we do not often think to question it, the church organ is a strange concept. Uniquely, it is tied to its location, more like a building than an instrument. While the organ triggers sound, the resonance of its bu"
+    },
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "Music for Two Films About Water",
+      "url": "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-27T05:00:00+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "TK"
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Born Erased ~ What You Destroy, I Love",
+      "url": "https://acloserlisten.com/2026/11/27/born-erased-what-you-destroy-i-love/",
+      "tags": [
+        "Drone",
+        "Born Erased",
+        "gianmarco del re",
+        "Midira Records"
+      ],
+      "published": "2026-11-27T00:01:18+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Born Erased brings together two sides of Bulgarian musician Angel Simitchiev’s musical practice: the dark ambient experimentation of his former solo project Mytrip and the harsher sounds of Dayin, which he once described as “Harsh drones and regret. But it’s"
+    },
     {
       "source": "Groove",
       "sourceId": "groove.de",
@@ -18,6 +149,7 @@
         "!K7",
         "Coil",
         "HAAi",
+        "Instagram",
         "Lorenzo Senni",
         "LP (Louis Payne)",
         "Marcel Dettmann",
@@ -1535,474 +1667,6 @@
       "kind": "recommendation",
       "verification": "pending",
       "excerpt": "GTA VI strippers just got some heat to dance to."
-    },
-    {
-      "source": "Louder",
-      "sourceId": "loudersound.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Rock",
-        "Metal"
-      ],
-      "title": "Trivium enjoy a defiant victory with Crown In The Grave",
-      "url": "https://www.loudersound.com/music/albums/trivium-crown-in-the-grave-album-review",
-      "tags": [
-        "Albums",
-        "Music"
-      ],
-      "published": "2026-11-20T14:57:27+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The last few years almost broke Trivium, but their 11th album finds the Florida band on brilliant form"
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "RÓIS, “MO LÉAN”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/rois-mo-lean-review",
-      "tags": [
-        "Album of the Day"
-      ],
-      "published": "2026-11-20T14:40:24+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The Irish artist's electronic reframing of the caoineadh, a style of funeral song undertaken by veiled women, makes for extraordinary emotional songcraft. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "Decibel",
-      "sourceId": "decibelmagazine.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Video Premiere: Gorgatron – “Turmoil”",
-      "url": "https://www.decibelmagazine.com/2026/11/20/video-premiere-gorgatron-turmoil/",
-      "tags": [
-        "Exclusive",
-        "Featured",
-        "Streaming",
-        "Track Premiere",
-        "Videos",
-        "death metal",
-        "Gorgatron",
-        "premiere",
-        "Turmoil"
-      ],
-      "published": "2026-11-20T14:30:15+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "premiere",
-      "verification": "pending",
-      "excerpt": "Decibel premieres the official video for \"Turmoil\" the title track from Gorgatron 's new LP, a fitting introduction to a record forged through years of decidedly unpleasant circumstances. The post Video Premiere: Gorgatron – “Turmoil” appeared first on Decibel Magazine ."
-    },
-    {
-      "source": "No Depression",
-      "sourceId": "nodepression.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Country"
-      ],
-      "title": "ALBUM REVIEW: Jim Kweskin's 'A Songster's Journey' Is a Timeless Trek Through American Roots Music",
-      "url": "https://nodepression.org/album-review-jim-kweskins-a-songsters-journey-is-a-timeless-trek-through-american-roots-music/",
-      "tags": [
-        "Album Reviews"
-      ],
-      "published": "2026-11-20T14:27:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Jim Kweskin may be in his seventh decade of making music, but on his new release, A Songster’s Journey , he sounds far younger than 86. This album celebrates roots music with the feel of the finest jug band west of the Mississippi. A veteran musician who first recorded"
-    },
-    {
-      "source": "Louder",
-      "sourceId": "loudersound.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Rock",
-        "Metal"
-      ],
-      "title": "Great new prog from Swallow The Sun/Crown Lands, The Flaming Lips, Jakub Zytecki and more in Prog's brand new Tracks Of The Week",
-      "url": "https://www.loudersound.com/music/music-videos/great-new-prog-from-swallow-the-sun-crown-lands-the-flaming-lips-jakub-zytecki-and-more-in-progs-brand-new-tracks-of-the-week",
-      "tags": [
-        "Music Videos",
-        "Music"
-      ],
-      "published": "2026-11-20T14:11:35+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "Cool new proggy sounds from Amoeba Split, Minir Dents, Death of The Author, From Sand To Stardust and more in our all-new Tracks Of The Week"
-    },
-    {
-      "source": "Angry Metal Guy",
-      "sourceId": "angrymetalguy.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Thy Catafalque – XIII: Sárga Erdő Review",
-      "url": "https://www.angrymetalguy.com/thy-catafalque-xiii-sarga-erdo-review/",
-      "tags": [
-        "Reviews",
-        "2026",
-        "3.5",
-        "Arcturus",
-        "Avant-garde Black Metal",
-        "Avant-garde Metal",
-        "Black Metal",
-        "Folk Metal",
-        "Hungarian Metal",
-        "Ihsahn",
-        "Nov26",
-        "Review",
-        "Sade",
-        "Season of Mist Records",
-        "Solefald",
-        "Thy Catafalque",
-        "XIII: Sárga Erdő Review"
-      ],
-      "published": "2026-11-20T12:49:54+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "\"I first encountered Thy Catafalque with 2020's Naiv , and I relished discovering they had two decades of rich history to investigate. Established in 1998, Thy Catafalque began as a two-piece. Guitarist János Juhász and everything else-ist Tamás Kátai released four albums between 1999 and Juhász‘s departure in 2011, and since then Kátai has masterminded music as eclectic as he is prolific.\" Thy pr"
-    },
-    {
-      "source": "The Quietus",
-      "sourceId": "thequietus.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Electronica",
-        "Ambient"
-      ],
-      "title": "Reissue of the Week: Hi Scores by Boards of Canada",
-      "url": "https://thequietus.com/quietus-reviews/reissue-of-the-week/boards-of-canada-hi-scores-review/",
-      "tags": [
-        "Reissue of the Week"
-      ],
-      "published": "2026-11-20T08:27:49+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "BOC’s Hi Scores was the original portal opening up to give us an early glimpse of future possibilities says Gerry Valle Hi Scores by Boards of Canada Like many, I fell in love with Boards of Canada when I first listened to 1998’s Music Has The Right To Children. Even friends who weren’t necessarily into electronica were taken by its surreal cover, its psychedelic wanderings. The haunting synth mel"
-    },
-    {
-      "source": "The Quietus",
-      "sourceId": "thequietus.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Electronica",
-        "Ambient"
-      ],
-      "title": "Lottie Brazier – On Course But No-One There To Salute You",
-      "url": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
-      "tags": [
-        "Reviews"
-      ],
-      "published": "2026-11-20T06:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Lottie Brazier On Course But No-One There To Salute You Partly recorded at the studios of 4AD, the debut album from the Suffolk songwriter is less sunburst and snowblind than wind-battered and rain-sodden On Course but No-one There to Salute You by Lottie Brazier There’s an atmospheric, weather-beaten quality to Lottie Brazier’s On Course But No-One There To Salute You, a debut album that dons a r"
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "Live at the Barbican",
-      "url": "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-20T05:03:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Two years after her long-awaited solo debut, the Pixes/Breeders/Amps singer-songwriter returns with an opulent concert album that pushes her abundant personality to the fore."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "Astro",
-      "url": "https://pitchfork.com/reviews/albums/donato-dozzy-astro/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-20T05:02:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The veteran Italian techno producer draws on the sounds of his childhood, transforming vintage anime anthems into a heady electronic odyssey."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "MO LÉAN",
-      "url": "https://pitchfork.com/reviews/albums/rois-mo-lean/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-20T05:01:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Rose Connolly’s newly reissued second album explores suppressed Irish mourning customs. In her mix of electronic processing and traditional music, she uncovers a communal, expressive vision of grief."
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "Whistler",
-      "url": "https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-20T05:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The New York guitarist and producer fits the anxiety, hope, and frustration of a day into six pieces of sculptural guitar din and beauty."
-    },
-    {
-      "source": "A Closer Listen",
-      "sourceId": "acloserlisten.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica"
-      ],
-      "title": "zakè & Akira Film Script ~ Bellscapes",
-      "url": "https://acloserlisten.com/2026/11/20/zake-akira-film-script-bellscapes/",
-      "tags": [
-        "Ambient",
-        "Akira Film Script",
-        "Bellscapes",
-        "Richard Allen",
-        "zakè"
-      ],
-      "published": "2026-11-20T00:01:43+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Maybe we shouldn’t be giving this release more attention, since it was “recorded entirely without permission,” which makes us suspect a similar thing about the cover photo.  But it’s impossible to resist.  zakè and Akira Film Script tell us “iykyk”"
-    },
-    {
-      "source": "Angry Metal Guy",
-      "sourceId": "angrymetalguy.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Necropanther – The Book of Change Review",
-      "url": "https://www.angrymetalguy.com/necropanther-the-book-of-change-review/",
-      "tags": [
-        "Reviews",
-        "2026",
-        "4.0",
-        "American Metal",
-        "Anthrax",
-        "Cryptic Shift",
-        "Dissimulator",
-        "Kreator",
-        "Melodic Death Metal",
-        "Necropanther",
-        "Nov26",
-        "Review",
-        "Self Release",
-        "Skeletonwitch",
-        "The Book of Change",
-        "Thrash Metal"
-      ],
-      "published": "2026-11-19T20:15:46+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "\"2026 has been a great year for thrash, with worthy offerings from the olde guard like Anthrax and Kreator and younger guns like Dissimulator and Cryptic Shift alike. It would've been a shame, then, if the most consistently great thrash bands of the past decade didn't get involved. That band, of course, is Denver, Colorado's Necropanther , whose first three LPs in Eyes of Blue Light , The Doomed C"
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "The Best Ambient Music on Bandcamp, November 2026",
-      "url": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-november-2026",
-      "tags": [
-        "Best Ambient"
-      ],
-      "published": "2026-11-19T19:02:45+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "Our guide to the month’s crucial ambient LPs. Read full story on the Bandcamp Daily ."
-    },
-    {
-      "source": "Angry Metal Guy",
-      "sourceId": "angrymetalguy.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Down – V Review",
-      "url": "https://www.angrymetalguy.com/down-v-review/",
-      "tags": [
-        "Reviews",
-        "2026",
-        "3.5",
-        "American Metal",
-        "Corrosion of Conformity",
-        "Crowbar",
-        "Doom Metal",
-        "Down",
-        "Eyehategod",
-        "King Diamond",
-        "Nuclear Blast Records",
-        "Pantera",
-        "Review",
-        "Sludge Metal",
-        "Stoner Metal",
-        "Superjoint",
-        "V"
-      ],
-      "published": "2026-11-19T17:05:55+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "\"The legendary DOWN formed in 1991 in New Orleans, Louisiana, featuring an esteemed pedigree, including members of Pantera , Eyehategod , Crowbar , and Corrosion of Conformity . Living up to the dreaded and often underwhelming supergroup tag, DOWN unloaded their classic NOLA debut in 1995, a high-water mark release and stoner-sludge masterpiece. DOWN re-emerged on 2002's underrated Down II: A Bust"
-    },
-    {
-      "source": "No Depression",
-      "sourceId": "nodepression.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Country"
-      ],
-      "title": "ALBUM REVIEW: Neal Casal’s ‘Book of Stories’ Showcases a Master Craftsman in the Shadows",
-      "url": "https://nodepression.org/album-review-neal-casals-book-of-stories-showcases-a-master-craftsman-in-the-shadows/",
-      "tags": [
-        "Album Reviews"
-      ],
-      "published": "2026-11-19T16:29:31+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Neal Casal’s name often evokes the iconic ensemble work that defined large stretches of his career — his incendiary, soulful guitar work for the Chris Robinson Brotherhood, Ryan Adams & The Cardinals, Circles Around the Sun, Beachwood Sparks, Shooter Jennings, GospelbeacH, and others. Yet, while his reputation as"
-    },
-    {
-      "source": "Saving Country Music",
-      "sourceId": "savingcountrymusic.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Country"
-      ],
-      "title": "Album Review – Randy Travis – “Same Old Way”",
-      "url": "https://savingcountrymusic.com/album-review-randy-travis-same-old-way/",
-      "tags": [
-        "Reviews",
-        "Bill Anderson",
-        "Don Williams",
-        "Gary Stewart",
-        "Kyle Lehning",
-        "Larry Cordle",
-        "Leslie Satcher",
-        "Randy Travis",
-        "Review",
-        "Waylon Jennings"
-      ],
-      "published": "2026-11-19T16:25:06+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "A collection of archived songs left over from previous recording sessions are finally seeing the light of day in the release of \"Same Old Way.\" Tracks from the album were originally recorded from 1986 to 2013 The post Album Review – Randy Travis – “Same Old Way” first appeared on Saving Country Music ."
-    },
-    {
-      "source": "Bandcamp Daily",
-      "sourceId": "daily.bandcamp.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "Jazz",
-        "Metal",
-        "Indie",
-        "House",
-        "Techno",
-        "Disco",
-        "Drum & Bass",
-        "UK Garage"
-      ],
-      "title": "Wayfarer, “Riders of the Setting Sun”",
-      "url": "https://daily.bandcamp.com/album-of-the-day/wayfarer-riders-of-the-setting-sun-review",
-      "tags": [
-        "Album of the Day"
-      ],
-      "published": "2026-11-19T15:46:14+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The Colorado titans lock into twangy, improv-heavy gothic Americana on their first non-black metal album. Read full story on the Bandcamp Daily ."
     }
   ]
 }
