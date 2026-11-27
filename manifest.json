@@ -1,16 +1,1 @@
-{
-  "name": "SLIPP.",
-  "short_name": "SLIPP.",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f8eed2",
-  "theme_color": "#f8eed2",
-  "icons": [
-    {
-      "src": "slipp-icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
-}
+{"name":"SLIPP.","short_name":"SLIPP.","start_url":"./","display":"standalone","background_color":"#0b0b0b","theme_color":"#0b0b0b","icons":[{"src":"punk-icon.png","sizes":"512x512","type":"image/png"}]}
