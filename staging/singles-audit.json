@@ -11,390 +11,57 @@
     "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/songs.json": 100,
-    "https://itunes.apple.com/us/rss/topsongs/limit=100/json": 90,
-    "https://itunes.apple.com/gb/rss/topsongs/limit=100/json": 88,
-    "https://itunes.apple.com/no/rss/topsongs/limit=100/json": 90,
-    "https://itunes.apple.com/se/rss/topsongs/limit=100/json": 92,
+    "https://itunes.apple.com/us/rss/topsongs/limit=100/json": 89,
+    "https://itunes.apple.com/gb/rss/topsongs/limit=100/json": 87,
+    "https://itunes.apple.com/no/rss/topsongs/limit=100/json": 89,
+    "https://itunes.apple.com/se/rss/topsongs/limit=100/json": 94,
     "https://itunes.apple.com/de/rss/topsongs/limit=100/json": 91,
     "https://itunes.apple.com/fr/rss/topsongs/limit=100/json": 89,
     "https://itunes.apple.com/jp/rss/topsongs/limit=100/json": 98,
-    "https://itunes.apple.com/au/rss/topsongs/limit=100/json": 87,
-    "https://itunes.apple.com/ca/rss/topsongs/limit=100/json": 82,
-    "https://itunes.apple.com/nl/rss/topsongs/limit=100/json": 90,
+    "https://itunes.apple.com/au/rss/topsongs/limit=100/json": 90,
+    "https://itunes.apple.com/ca/rss/topsongs/limit=100/json": 83,
+    "https://itunes.apple.com/nl/rss/topsongs/limit=100/json": 88,
     "https://www.officialcharts.com/charts/singles-chart/": 0,
     "https://ca.billboard.com/charts/billboard-global-200": 0,
     "https://charts.spotify.com/charts/view/regional-global-daily/latest": "not integrated: authenticated chart download required",
-    "editorial/single-discovery.json": 15
+    "editorial/single-discovery.json": 15,
+    "Spotify token": 200,
+    "Spotify candidates": 24
   },
-  "checked": 40,
-  "selected": 0,
+  "checked": 5,
+  "selected": 5,
   "targetDate": "2026-11-27",
-  "rejections": {
-    "no exact match": 20,
-    "MusicBrainz no verified single with artwork": 33,
-    "wrong track date": 60,
-    "MusicBrainz HTTP 503": 7
-  },
+  "rejections": {},
   "details": [
-    {
-      "artist": "Bella Kay",
-      "title": "Like a Dog",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
-    },
-    {
-      "artist": "Chase Atlantic",
-      "title": "Wherever You Are",
-      "verified": false,
-      "rejections": {
-        "wrong track date": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
     {
       "artist": "PAWSA",
       "title": "WORLDWIDE",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
-    },
-    {
-      "artist": "Ball Park Music",
-      "title": "The New Me Starts Tomorrow",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Anna Lunoe",
-      "title": "Everything",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
-    },
-    {
-      "artist": "Baby Smith",
-      "title": "Kinky",
-      "verified": false,
-      "rejections": {
-        "wrong track date": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Becca Hatch",
-      "title": "T-Shirt",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Blanco",
-      "title": "Tyrant",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
+      "verified": true,
+      "reason": "verified"
     },
     {
       "artist": "Club Angel",
-      "title": "Brokenbruised",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
+      "title": "brokenbruised",
+      "verified": true,
+      "reason": "verified"
     },
     {
       "artist": "Cookin Soul",
-      "title": "Ice Water",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
+      "title": "ICE WATER",
+      "verified": true,
+      "reason": "verified"
     },
     {
       "artist": "Daffodils",
       "title": "Ritual",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
-    },
-    {
-      "artist": "EGOISM",
-      "title": "I Need Your Connection",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz no verified single with artwork": 1
-      }
-    },
-    {
-      "artist": "Electric Fields",
-      "title": "Kiss Your Tears",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
+      "verified": true,
+      "reason": "verified"
     },
     {
       "artist": "Gabzy",
       "title": "Heartbreaker",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Kanye West",
-      "title": "OUT OF MY MIND",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-      "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-      "verified": false,
-      "rejections": {
-        "wrong track date": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Tate McRae",
-      "title": "Housewife",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Mariah Carey",
-      "title": "All I Want for Christmas Is You",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Ashe",
-      "title": "Stop The Wedding!",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Olivia Rodrigo",
-      "title": "the cure",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Ella Langley",
-      "title": "Choosin' Texas",
-      "verified": false,
-      "rejections": {
-        "wrong track date": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Wham!",
-      "title": "Last Christmas (Single Version)",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Olivia Rodrigo",
-      "title": "stupid song",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "AD\u00c9LA",
-      "title": "Nicole Kidman",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Michael Bubl\u00e9",
-      "title": "It's Beginning To Look a Lot Like Christmas",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Dua Lipa",
-      "title": "Go Easy",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Kelly Clarkson",
-      "title": "Underneath the Tree",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Morgan Wallen",
-      "title": "Last Thing You Need",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Sia",
-      "title": "Snowman",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Travis Scott",
-      "title": "Burn This Shit Down (from GTAVI: The Album)",
-      "verified": false,
-      "rejections": {
-        "no exact match": 2,
-        "MusicBrainz HTTP 503": 1
-      }
-    },
-    {
-      "artist": "Olivia Dean",
-      "title": "Man I Need",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "SIENNA SPIRO",
-      "title": "Great Expectation",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Zach Bryan & Lana Del Rey",
-      "title": "Lies (feat. Lana Del Rey)",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Jamie Miller",
-      "title": "Babydoll",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "KAROL G, Judeline & rusowsky",
-      "title": "BbY WOW",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Bobby Helms",
-      "title": "Jingle Bell Rock",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Ariana Grande",
-      "title": "Santa Tell Me",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "AD\u00c9LA",
-      "title": "Ain't In LA",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "Taylor Swift",
-      "title": "Patient Zero",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
-    },
-    {
-      "artist": "STELLA LEFTY",
-      "title": "Boston",
-      "verified": false,
-      "rejections": {
-        "MusicBrainz no verified single with artwork": 1,
-        "wrong track date": 2
-      }
+      "verified": true,
+      "reason": "verified"
     }
   ]
 }
