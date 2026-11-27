@@ -2,8 +2,8 @@
   "updated": "2026-11-27T04:34:44.236112+00:00",
   "releases": [
     {
-      "artist": "Björk & The Hamrahlíð Choir",
-      "title": "Björk Orkestral with the Hamrahlíð Choir (Live at Harpa Hall, Reykjavík)",
+      "artist": "Manes",
+      "title": "To Burn Is to Shine",
       "articles": []
     },
     {
@@ -12,13 +12,28 @@
       "articles": []
     },
     {
-      "artist": "Midnight Oil",
-      "title": "Head Injuries (Live At Selina's)",
+      "artist": "The Rolling Stones",
+      "title": "Foreign Tongues, Loose Lips",
       "articles": []
     },
     {
-      "artist": "ピーター・ガブリエル",
-      "title": "o\\i",
+      "artist": "Neal Morse",
+      "title": "River of Light",
+      "articles": []
+    },
+    {
+      "artist": "Lady Pank",
+      "title": "Mniej obcy (Muzyka z filmu Netflixa)",
+      "articles": []
+    },
+    {
+      "artist": "Biff Baby's Allstars",
+      "title": "Biff Baby's Allstars",
+      "articles": []
+    },
+    {
+      "artist": "Nelly Furtado, Adam Tendler",
+      "title": "The Shadow Sessions: Songs From Loose",
       "articles": []
     },
     {
@@ -27,8 +42,13 @@
       "articles": []
     },
     {
-      "artist": "Roxette & Per Gessle",
-      "title": "The Per Gessle Archives - The Pearls Of Passion Demos",
+      "artist": "blackbear",
+      "title": "analogue_OFF",
+      "articles": []
+    },
+    {
+      "artist": "Jon Niklas Rønning",
+      "title": "Jula er nær",
       "articles": []
     },
     {
@@ -37,23 +57,43 @@
       "articles": []
     },
     {
-      "artist": "モートン・ハルケット",
-      "title": "Human Grace",
-      "articles": []
-    },
-    {
-      "artist": "ブラックベアー",
-      "title": "analogue_OFF",
-      "articles": []
-    },
-    {
       "artist": "Lukasyno & Kriso",
       "title": "Amor Fati",
       "articles": []
     },
     {
-      "artist": "マイルス・デイヴィス",
-      "title": "Copenhagen Live 1969",
+      "artist": "Leto",
+      "title": "Rue André Bréchet",
+      "articles": []
+    },
+    {
+      "artist": "7apes",
+      "title": "The Connoisseur",
+      "articles": []
+    },
+    {
+      "artist": "Zed",
+      "title": "NEPHILIM",
+      "articles": []
+    },
+    {
+      "artist": "Moha MMZ",
+      "title": "Les clés de la casa",
+      "articles": []
+    },
+    {
+      "artist": "Kirsty Clinch",
+      "title": "Prologue",
+      "articles": []
+    },
+    {
+      "artist": "Mason McCannon",
+      "title": "Abandoned Opulence",
+      "articles": []
+    },
+    {
+      "artist": "Torsten Goods, Dennis Chambers & Brian Charette",
+      "title": "State Of Mind",
       "articles": []
     },
     {
@@ -75,6 +115,7 @@
           "title": "Mystic Prophecy – In Metal Review",
           "url": "https://www.angrymetalguy.com/mystic-prophecy-in-metal-review/",
           "published": "2026-11-24T16:33:53+00:00",
+          "kind": "review",
           "verified": true,
           "verification": "editorial-feed-match"
         }
@@ -86,6 +127,26 @@
       "articles": []
     },
     {
+      "artist": "Osyron",
+      "title": "Osyron",
+      "articles": []
+    },
+    {
+      "artist": "Contrarian",
+      "title": "Escaping Depravity",
+      "articles": []
+    },
+    {
+      "artist": "Whiplash",
+      "title": "Roar",
+      "articles": []
+    },
+    {
+      "artist": "Martinwhite, Loyaltty",
+      "title": "CHEETAHWAI",
+      "articles": []
+    },
+    {
       "artist": "Schrotthagen",
       "title": "Neue Welt",
       "articles": []
@@ -93,6 +154,41 @@
     {
       "artist": "Mesh",
       "title": "Fallen Angel",
+      "articles": []
+    },
+    {
+      "artist": "Korfian",
+      "title": "Licensed Fool",
+      "articles": []
+    },
+    {
+      "artist": "Graham Walker",
+      "title": "Making Memories",
+      "articles": []
+    },
+    {
+      "artist": "PAWSA",
+      "title": "WORLDWIDE",
+      "articles": []
+    },
+    {
+      "artist": "Club Angel",
+      "title": "brokenbruised",
+      "articles": []
+    },
+    {
+      "artist": "Cookin Soul",
+      "title": "ICE WATER",
+      "articles": []
+    },
+    {
+      "artist": "Daffodils",
+      "title": "Ritual",
+      "articles": []
+    },
+    {
+      "artist": "Gabzy",
+      "title": "Heartbreaker",
       "articles": []
     }
   ]
