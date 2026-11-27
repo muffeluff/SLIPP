@@ -1,0 +1,59 @@
+name: Spotify catalog singles test
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Search catalog
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID || vars.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: |
+          python - <<'PY'
+          import os,json,urllib.request,urllib.parse,urllib.error,base64,time,datetime
+          from zoneinfo import ZoneInfo
+          now=datetime.datetime.now(ZoneInfo('Europe/Oslo')).date()
+          target=str(now-datetime.timedelta(days=(now.weekday()-4)%7))
+          def call(url,headers,data=None):
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(url,headers=headers,data=data),timeout=20) as r:
+                      return r.status,json.load(r)
+              except urllib.error.HTTPError as e:
+                  print('HTTP',e.code,'Retry-After',e.headers.get('Retry-After',''))
+                  return e.code,{}
+          auth=base64.b64encode((os.environ['SPOTIFY_CLIENT_ID']+':'+os.environ['SPOTIFY_CLIENT_SECRET']).encode()).decode()
+          status,data=call('https://accounts.spotify.com/api/token',{'Authorization':'Basic '+auth,'Content-Type':'application/x-www-form-urlencoded'},b'grant_type=client_credentials')
+          if status!=200: raise SystemExit('Authentication failed')
+          headers={'Authorization':'Bearer '+data['access_token']}
+          found={}
+          def search(q,market):
+              time.sleep(2)
+              status,data=call('https://api.spotify.com/v1/search?'+urllib.parse.urlencode(dict(q=q,type='album',market=market,limit=10)),headers)
+              print('Search',market,q,status)
+              if status==429: raise SystemExit('Rate limited; stopping')
+              for a in (data.get('albums') or {}).get('items',[]):
+                  if not a: continue
+                  row=dict(artist=', '.join(x.get('name','') for x in a.get('artists',[])),title=a.get('name'),date=a.get('release_date'),precision=a.get('release_date_precision'),type=a.get('album_type'),tracks=a.get('total_tracks'),cover=(a.get('images') or [{}])[0].get('url'),url=(a.get('external_urls') or {}).get('spotify'))
+                  print(json.dumps(row,ensure_ascii=False))
+                  if row['date']==target and row['precision']=='day' and row['type']=='single' and row['cover'] and row['url']:
+                      found[a['id']]=row
+          print('Target Friday:',target)
+          for market in ['US','GB','NO','DE']:
+              search('tag:new year:'+target[:4],market)
+          try:
+              seeds=json.load(open('editorial/single-discovery.json'))
+              if seeds.get('date')==target:
+                  print('Discovery file keys:',list(seeds))
+                  rows=next((v for v in seeds.values() if isinstance(v,list)),[])
+                  for x in rows[:15]:
+                      if isinstance(x,dict) and x.get('artist') and (x.get('title') or x.get('track')):
+                          search('artist:'+x['artist']+' album:'+(x.get('title') or x.get('track')),'US')
+          except FileNotFoundError: pass
+          print('Exact-date single candidates:',len(found))
+          print(json.dumps(list(found.values()),ensure_ascii=False,indent=2))
+          PY
