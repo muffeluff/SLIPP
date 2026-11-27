@@ -1,0 +1,49 @@
+name: Spotify New Music Friday test
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Test official Spotify API
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID || vars.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: |
+          python - <<'PY'
+          import os,json,urllib.request,urllib.parse,urllib.error,base64
+          cid=os.environ.get('SPOTIFY_CLIENT_ID')
+          secret=os.environ.get('SPOTIFY_CLIENT_SECRET')
+          if not cid or not secret:
+              raise SystemExit('Missing Spotify credentials in GitHub Actions; configure SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET.')
+          def call(url,headers,data=None):
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(url,headers=headers,data=data),timeout=20) as r:
+                      return r.status,json.load(r)
+              except urllib.error.HTTPError as e:
+                  return e.code,{}
+          status,data=call('https://accounts.spotify.com/api/token',{'Authorization':'Basic '+base64.b64encode((cid+':'+secret).encode()).decode(),'Content-Type':'application/x-www-form-urlencoded'},b'grant_type=client_credentials')
+          print('Token endpoint:',status)
+          if status!=200: raise SystemExit('Authentication failed')
+          headers={'Authorization':'Bearer '+data['access_token']}
+          base='https://api.spotify.com/v1/'
+          for market in ['US','GB','NO','DE']:
+              q=urllib.parse.urlencode({'q':'New Music Friday','type':'playlist','market':market,'limit':10})
+              status,data=call(base+'search?'+q,headers)
+              print(market,'search:',status)
+              for p in (data.get('playlists') or {}).get('items',[]):
+                  if p and (p.get('owner') or {}).get('id')=='spotify':
+                      print(market,p.get('name'),p.get('id'))
+          pid='37i9dQZF1DX4JAvHpjipBk'
+          for endpoint in ['','/items?limit=10','/tracks?limit=10']:
+              status,data=call(base+'playlists/'+pid+endpoint,headers)
+              print('Official US playlist',endpoint or 'metadata',status,data.get('name',''))
+              if status==429: break
+              for i,row in enumerate(data.get('items',[]),1):
+                  t=row.get('item') or row.get('track') or {}
+                  a=t.get('album') or {}
+                  print(json.dumps({'rank':i,'artist':', '.join(x.get('name','') for x in t.get('artists',[])),'title':t.get('name'),'date':a.get('release_date'),'precision':a.get('release_date_precision'),'type':a.get('album_type'),'cover':(a.get('images') or [{}])[0].get('url'),'url':(t.get('external_urls') or {}).get('spotify')},ensure_ascii=False))
+          PY
