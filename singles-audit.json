@@ -1,20 +1,36 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-27",
   "sources": {
     "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/100/songs.json": 100,
-    "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/100/songs.json": "502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/100/songs.json",
-    "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/songs.json": "502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/songs.json",
-    "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/songs.json": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=20)",
-    "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/songs.json": "HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=20)",
+    "https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/100/songs.json": 100,
+    "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/songs.json": 100,
+    "https://rss.marketingtools.apple.com/api/v2/se/music/most-played/100/songs.json": 100,
+    "https://rss.marketingtools.apple.com/api/v2/de/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/ca/music/most-played/100/songs.json": 100,
     "https://rss.marketingtools.apple.com/api/v2/nl/music/most-played/100/songs.json": 100,
+    "https://itunes.apple.com/us/rss/topsongs/limit=100/json": 89,
+    "https://itunes.apple.com/gb/rss/topsongs/limit=100/json": 87,
+    "https://itunes.apple.com/no/rss/topsongs/limit=100/json": 95,
+    "https://itunes.apple.com/se/rss/topsongs/limit=100/json": 90,
+    "https://itunes.apple.com/de/rss/topsongs/limit=100/json": 90,
+    "https://itunes.apple.com/fr/rss/topsongs/limit=100/json": 85,
+    "https://itunes.apple.com/jp/rss/topsongs/limit=100/json": 98,
+    "https://itunes.apple.com/au/rss/topsongs/limit=100/json": 86,
+    "https://itunes.apple.com/ca/rss/topsongs/limit=100/json": 83,
+    "https://itunes.apple.com/nl/rss/topsongs/limit=100/json": 94,
     "https://www.officialcharts.com/charts/singles-chart/": 0,
     "https://ca.billboard.com/charts/billboard-global-200": 0,
     "https://charts.spotify.com/charts/view/regional-global-daily/latest": "not integrated: authenticated chart download required"
   },
   "checked": 160,
-  "selected": 0
+  "selected": 0,
+  "targetDate": "2026-11-27",
+  "rejections": {
+    "wrong track date": 73,
+    "no exact match": 5,
+    "HTTPError": 1035
+  }
 }
