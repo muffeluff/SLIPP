@@ -78,20 +78,53 @@ def score(k):
     best={p:min(x['rank'] for x in ss if x['source']==p) for p in others}
     return (len(others),sum(201-r for r in best.values()),sum(101-x['rank'] for x in ss if x['apple']))
 ordered=sorted(names,key=lambda k:(any(x['source'] in ('New release discovery','iTunes purchases') for x in signals[k]),score(k)),reverse=True)
-def verify(k):
+last_catalog=0
+apple_blocked=False
+details=[]
+def catalog(url,params):
+    global last_catalog,apple_blocked
+    time.sleep(max(0,5-(time.monotonic()-last_catalog)))
+    last_catalog=time.monotonic()
+    r=requests.get(url,params=params,timeout=15,headers={'User-Agent':'SLIPP/1.0 (https://github.com/muffeluff/SLIPP)'})
+    if 'itunes.apple.com' in url and r.status_code in (403,429):
+        apple_blocked=True
+    r.raise_for_status()
+    return r.json()
+def verify_mb(k):
+    a,t=names[k]
+    try:
+        esc=lambda s:s.replace(chr(92),chr(92)*2).replace('"',chr(92)+'"')
+        data=catalog('https://musicbrainz.org/ws/2/release-group',dict(query=f'artist:"{esc(a)}" AND releasegroup:"{esc(t)}" AND primarytype:single',fmt='json',limit=20))
+        for x in data.get('release-groups',[]):
+            artist=''.join(y.get('name',y.get('artist',{}).get('name',''))+y.get('joinphrase','') for y in x.get('artist-credit',[]))
+            if key(artist,x.get('title',''))!=k or x.get('primary-type')!='Single' or x.get('first-release-date')!=str(target):continue
+            if x.get('secondary-types'):continue
+            releases=catalog('https://musicbrainz.org/ws/2/release-group/'+x['id'],dict(inc='releases',fmt='json')).get('releases',[])
+            if any(y.get('date','') and y['date']<str(target) for y in releases):continue
+            for y in releases:
+                if y.get('date')!=str(target) or y.get('status')!='Official':continue
+                url='https://coverartarchive.org/release/'+y['id']+'/front-500'
+                im=requests.get(url,timeout=15)
+                if im.ok and im.headers.get('Content-Type','').startswith('image/'):
+                    return [a,t,'','',url,dict(releaseDate=str(target),articles=[],signals=signals[k],verification='MusicBrainz',releaseGroupId=x['id'])]
+        reject['MusicBrainz no verified single with artwork']+=1
+    except requests.HTTPError as e:reject['MusicBrainz HTTP '+str(e.response.status_code if e.response is not None else 0)]+=1
+    except Exception as e:reject['MusicBrainz '+type(e).__name__]+=1
+def verify_apple(k):
     a,t=names[k]
     if re.search(r'remaster|anniversary|re.record|sped up|slowed|karaoke|live version',t,re.I):return
     for country in ['US','GB']:
+        if apple_blocked:break
         try:
-            r=requests.get('https://itunes.apple.com/search',params=dict(term=a+' '+t,entity='song',country=country,limit=25),timeout=12);r.raise_for_status()
-            rows=[x for x in r.json()['results'] if key(x.get('artistName',''),x.get('trackName',''))==k]
+            data=catalog('https://itunes.apple.com/search',dict(term=a+' '+t,entity='song',country=country,limit=25))
+            rows=[x for x in data.get('results',[]) if key(x.get('artistName',''),x.get('trackName',''))==k and x.get('releaseDate') and x.get('collectionId')]
             if not rows:reject['no exact match']+=1;continue
             x=min(rows,key=lambda x:x.get('releaseDate','9999'))
             day=datetime.fromisoformat(x['releaseDate'].replace('Z','+00:00')).date()
             if day!=target:reject['wrong track date']+=1;continue
             if x.get('trackCount',99)>3 or not x.get('artworkUrl100'):reject['format or artwork']+=1;continue
-            q=requests.get('https://itunes.apple.com/lookup',params={'id':x['collectionId'],'entity':'song','country':country},timeout=12);q.raise_for_status()
-            col=next((y for y in q.json()['results'] if y.get('collectionType')=='Album'),{})
+            q=catalog('https://itunes.apple.com/lookup',{'id':x['collectionId'],'entity':'song','country':country})
+            col=next((y for y in q.get('results',[]) if y.get('collectionType')=='Album' and y.get('releaseDate')),{})
             if not col or not re.search(r'\bSingle$',col.get('collectionName',''),re.I):reject['not single']+=1;continue
             if datetime.fromisoformat(col['releaseDate'].replace('Z','+00:00')).date()!=target:reject['wrong collection date']+=1;continue
             im=get(x['artworkUrl100'])
@@ -103,12 +136,14 @@ def verify(k):
             if status in (403,429):
                 time.sleep(3)
                 return
-        except Exception as e:reject[type(e).__name__]+=1
+        except Exception as e:reject[type(e).__name__+': '+str(e)[:120]]+=1
 # Rate-limit catalog queries and stop after enough verified candidates.
 out=[];artists=set();checked=0
 for k in ordered[:40]:
-    if reject['HTTP 429']+reject['HTTP 403']>=3:break
-    row=verify(k);checked+=1
+    before=reject.copy()
+    row=verify_apple(k) or verify_mb(k);checked+=1
+    details.append(dict(artist=names[k][0],title=names[k][1],verified=bool(row),rejections=dict(reject-before)))
+    print(json.dumps(details[-1],ensure_ascii=False),flush=True)
     if row and norm(row[0]) not in artists:
         artists.add(norm(row[0]));out.append(row)
     if len(out)>=5:break
@@ -120,7 +155,7 @@ try:
     for row in out:
         row[5]['articles']=[a for x in reviews if key(x['artist'],x['title'])==key(*row[:2]) and x.get('format') in ('single','song','track') for a in x.get('articles',[]) if a.get('verified') is True]
 except Exception:pass
-Path('singles-audit.json').write_text(json.dumps(dict(date=str(today),sources=audit,checked=checked,selected=len(out),targetDate=str(target),rejections=dict(reject)),indent=2))
+Path('singles-audit.json').write_text(json.dumps(dict(date=str(today),sources=audit,checked=checked,selected=len(out),targetDate=str(target),rejections=dict(reject),details=details),indent=2))
 # Do not overwrite the previous edition on total failure.
 if out or os.environ.get('SLIPP_RELEASE_DATE'):
     d.setdefault('mustListen',{})['singles']=out
