@@ -1,0 +1,37 @@
+name: Hybrid album ranking test
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Europe/Oslo
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID || vars.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test album ranking
+        run: |
+          pip install requests beautifulsoup4 feedparser
+          export SLIPP_RELEASE_DATE=$(date +%F)
+          python -m py_compile scripts/production_albums.py scripts/production_validate.py
+          python scripts/production_album_feeds.py
+          python scripts/production_editorial.py || true
+          python scripts/production_albums.py
+          python - <<'PY'
+          import json,datetime,os
+          e=json.load(open('edition.json'));g=json.load(open('genres.json'))
+          end=datetime.date.fromisoformat(os.environ['SLIPP_RELEASE_DATE']);start=end-datetime.timedelta(days=6)
+          rows=[r for sections in g.values() for s in sections for r in s['items']]
+          assert len(g)==8 and rows
+          assert all(start.isoformat()<=r[5]['releaseDate']<=end.isoformat() for r in rows)
+          assert len({(r[0].casefold(),r[1].casefold()) for r in rows})==len(rows)
+          for genre,sections in g.items():
+              print(genre)
+              for s in sections:
+                  for r in s['items']:print(r[0],r[1],r[5]['releaseDate'],len(r[5].get('articles',[])),bool(r[5].get('spotifyUrl')))
+          print('FRONT PAGE',json.dumps(e['mustListen']['albums'],ensure_ascii=False))
+          PY
