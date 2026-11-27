@@ -632,7 +632,118 @@
         }
       ]
     ],
-    "singles": [],
+    "singles": [
+      [
+        "PAWSA",
+        "WORLDWIDE",
+        "",
+        "",
+        "https://i.scdn.co/image/ab67616d0000b273685112cb866f43208ac7e722",
+        {
+          "releaseDate": "2026-11-27",
+          "articles": [],
+          "signals": [
+            {
+              "source": "New release discovery",
+              "rank": 3,
+              "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+              "apple": false
+            }
+          ],
+          "verification": "Spotify",
+          "spotifyUrl": "https://open.spotify.com/track/1KM2SquQT02mMqDKNwVieX",
+          "spotifyAlbumId": "5ITTQkaQnJi4RmukFOtAup"
+        }
+      ],
+      [
+        "Club Angel",
+        "brokenbruised",
+        "",
+        "",
+        "https://i.scdn.co/image/ab67616d0000b2730459550c2954827e8bd53991",
+        {
+          "releaseDate": "2026-11-27",
+          "articles": [],
+          "signals": [
+            {
+              "source": "New release discovery",
+              "rank": 9,
+              "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+              "apple": false
+            }
+          ],
+          "verification": "Spotify",
+          "spotifyUrl": "https://open.spotify.com/track/21zhwd37nOYhOh51mZslMV",
+          "spotifyAlbumId": "0vrc9k8rLqEgQnVElxPwOs"
+        }
+      ],
+      [
+        "Cookin Soul",
+        "ICE WATER",
+        "",
+        "",
+        "https://i.scdn.co/image/ab67616d0000b27344897d6bab0417b26cb4e44f",
+        {
+          "releaseDate": "2026-11-27",
+          "articles": [],
+          "signals": [
+            {
+              "source": "New release discovery",
+              "rank": 10,
+              "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+              "apple": false
+            }
+          ],
+          "verification": "Spotify",
+          "spotifyUrl": "https://open.spotify.com/track/1pG9JwSlbrDLjeTu15C0Tq",
+          "spotifyAlbumId": "6LNpdYQDJ7KZkJetrRQ0dc"
+        }
+      ],
+      [
+        "Daffodils",
+        "Ritual",
+        "",
+        "",
+        "https://i.scdn.co/image/ab67616d0000b273453cb773364e4e6aa8ad1632",
+        {
+          "releaseDate": "2026-11-27",
+          "articles": [],
+          "signals": [
+            {
+              "source": "New release discovery",
+              "rank": 11,
+              "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+              "apple": false
+            }
+          ],
+          "verification": "Spotify",
+          "spotifyUrl": "https://open.spotify.com/track/7FWVFIICIFvRDpopJYfjPc",
+          "spotifyAlbumId": "2T2dQyEynsS4pO3Ulveffc"
+        }
+      ],
+      [
+        "Gabzy",
+        "Heartbreaker",
+        "",
+        "",
+        "https://i.scdn.co/image/ab67616d0000b273adb962fd749495f4f77d6c40",
+        {
+          "releaseDate": "2026-11-27",
+          "articles": [],
+          "signals": [
+            {
+              "source": "New release discovery",
+              "rank": 14,
+              "url": "https://www.officialcharts.com/chart-news/new-music-friday-november-27-songs-album-releases/",
+              "apple": false
+            }
+          ],
+          "verification": "Spotify",
+          "spotifyUrl": "https://open.spotify.com/track/70ReQN1WIeV1LmJBwPfUfH",
+          "spotifyAlbumId": "7IZkPvCYvMfAd3ELEYfRoE"
+        }
+      ]
+    ],
     "singlesDate": "2026-11-27"
   }
 }
