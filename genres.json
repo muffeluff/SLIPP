@@ -6,11 +6,11 @@
       "date": "2026-11-27",
       "items": [
         [
-          "Björk & The Hamrahlíð Choir",
-          "Björk Orkestral with the Hamrahlíð Choir (Live at Harpa Hall, Reykjavík)",
+          "Manes",
+          "To Burn Is to Shine",
           "Alternative",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/1b/ff/d21bff05-a37a-96fb-3f4d-13de086c4683/5016958110734.png/100x100bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/82/6b/c6826b5a-7a1e-b145-917e-bfa72a674d76/cover.jpg/100x100bb.jpg",
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
@@ -18,12 +18,19 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
-                "country": "no",
-                "rank": 7,
-                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=20/json"
+                "country": "gb",
+                "rank": 36,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=20/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/no/album/bj%C3%B6rk-orkestral-with-the-hamrahl%C3%AD%C3%B0-choir-live-at/6833893635?uo=4"
+            "catalogUrl": "https://music.apple.com/gb/album/to-burn-is-to-shine/6817317759?uo=4",
+            "catalogId": "6817317759",
+            "ranking": {
+              "charts": 2.166666666666667,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -48,26 +55,38 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 8,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
                 "country": "gb",
-                "rank": 72,
+                "rank": 1,
                 "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=21/json"
               },
               {
                 "source": "iTunes Store purchases",
                 "country": "no",
-                "rank": 16,
+                "rank": 1,
                 "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=21/json"
               },
               {
                 "source": "iTunes Store purchases",
+                "country": "se",
+                "rank": 1,
+                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 9,
+                "rank": 1,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=21/json"
               },
               {
                 "source": "iTunes Store purchases",
                 "country": "fr",
-                "rank": 13,
+                "rank": 1,
                 "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
               },
               {
@@ -75,17 +94,65 @@
                 "country": "au",
                 "rank": 3,
                 "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 4,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=21/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/gb/album/o-i/6818148729?uo=4"
+            "catalogUrl": "https://music.apple.com/us/album/o-i/6818148729?uo=4",
+            "catalogId": "6818148729",
+            "ranking": {
+              "charts": 26.266666666666666,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
-          "Midnight Oil",
-          "Head Injuries (Live At Selina's)",
+          "The Rolling Stones",
+          "Foreign Tongues, Loose Lips",
           "Rock",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/98/0c/fc980c85-db4c-78d8-4a4e-ac0b5c1e9aff/196874597514.jpg/100x100bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cd/86/1ccd867e-7def-1fbe-e4d0-90b1cad7936f/26UM1IM29303.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "no",
+                "rank": 100,
+                "url": "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json"
+              },
+              {
+                "source": "Apple Music v2",
+                "country": "au",
+                "rank": 90,
+                "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/foreign-tongues-loose-lips/6820456312?uo=4",
+            "catalogId": "6820456312",
+            "spotifyUrl": "https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3",
+            "ranking": {
+              "charts": 0.4,
+              "spotify": 25.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Neal Morse",
+          "River of Light",
+          "Rock",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/1a/f1/061af12f-c02f-27ba-a861-9a29700fa565/196874595138.jpg/100x100bb.jpg",
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
@@ -93,20 +160,59 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
-                "country": "au",
-                "rank": 1,
-                "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=21/json"
+                "country": "gb",
+                "rank": 45,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "fr",
+                "rank": 14,
+                "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=21/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "nl",
+                "rank": 32,
+                "url": "https://itunes.apple.com/nl/rss/topalbums/limit=100/genre=21/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/au/album/head-injuries-live-at-selinas/6829609031?uo=4"
+            "catalogUrl": "https://music.apple.com/gb/album/river-of-light/6810750763?uo=4",
+            "catalogId": "6810750763",
+            "ranking": {
+              "charts": 7.066666666666666,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
-          "ピーター・ガブリエル",
-          "o\\i",
+          "Lady Pank",
+          "Mniej obcy (Muzyka z filmu Netflixa)",
+          "Rock",
+          "",
+          "https://i.scdn.co/image/ab67616d0000b273e0302146d9f501829ca64816",
+          {
+            "releaseDate": "2026-11-27",
+            "articles": [],
+            "signals": [],
+            "spotifyUrl": "https://open.spotify.com/album/3B7ujQqzQl7mgsz5L4iTPJ",
+            "verification": "Spotify",
+            "ranking": {
+              "charts": 0.0,
+              "spotify": 6.25,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Biff Baby's Allstars",
+          "Biff Baby's Allstars",
           "ロック",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/df/92/58df923b-ea4e-b9d6-65d4-fcaa57013812/PG24_PeterGabriel_OI_3000pxls.jpg/100x100bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/30/05/28300547-bf83-1368-59e6-1973c01ab55c/8721562700970.png/100x100bb.jpg",
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
@@ -115,11 +221,18 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "jp",
-                "rank": 23,
+                "rank": 78,
                 "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=21/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/jp/album/o-i/6818148729?uo=4"
+            "catalogUrl": "https://music.apple.com/jp/album/biff-babys-allstars/6819840239?uo=4",
+            "catalogId": "6819840239",
+            "ranking": {
+              "charts": 0.7666666666666666,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -132,6 +245,26 @@
       "date": "2026-11-27",
       "items": [
         [
+          "Nelly Furtado, Adam Tendler",
+          "The Shadow Sessions: Songs From Loose",
+          "Pop",
+          "",
+          "https://i.scdn.co/image/ab67616d0000b2732ae5c8b66b1eb1dae72cb994",
+          {
+            "releaseDate": "2026-11-27",
+            "articles": [],
+            "signals": [],
+            "spotifyUrl": "https://open.spotify.com/album/7bRFMypZw6a9Ma1xlDgqcQ",
+            "verification": "Spotify",
+            "ranking": {
+              "charts": 0.0,
+              "spotify": 25.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
           "Morten Harket",
           "Human Grace",
           "Pop",
@@ -143,9 +276,15 @@
             "articles": [],
             "signals": [
               {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 1,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
                 "source": "Apple Music v2",
                 "country": "no",
-                "rank": 57,
+                "rank": 7,
                 "url": "https://rss.marketingtools.apple.com/api/v2/no/music/most-played/100/albums.json"
               },
               {
@@ -157,31 +296,44 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 2,
+                "rank": 1,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
               },
               {
                 "source": "iTunes Store purchases",
                 "country": "fr",
-                "rank": 24,
+                "rank": 3,
                 "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=14/json"
               },
               {
                 "source": "iTunes Store purchases",
                 "country": "au",
-                "rank": 6,
+                "rank": 2,
                 "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 2,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/no/album/human-grace/6810761923?uo=4"
+            "catalogUrl": "https://music.apple.com/gb/album/human-grace/6810761923?uo=4",
+            "catalogId": "6810761923",
+            "ranking": {
+              "charts": 23.0,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
-          "Roxette & Per Gessle",
-          "The Per Gessle Archives - The Pearls Of Passion Demos",
+          "blackbear",
+          "analogue_OFF",
           "Pop",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/c5/e5/99c5e5fd-c69b-974a-c146-c8ec514aebd9/1200220508860.jpg/100x100bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/d6/54/9dd65468-15ae-86eb-f049-91ea2ab39524/26UM1IM46368.rgb.jpg/100x100bb.jpg",
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
@@ -189,12 +341,53 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
-                "country": "se",
-                "rank": 14,
-                "url": "https://itunes.apple.com/se/rss/topalbums/limit=100/genre=14/json"
+                "country": "us",
+                "rank": 33,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=14/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 72,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=14/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/se/album/the-per-gessle-archives-the-pearls-of-passion-demos/6836000543?uo=4"
+            "catalogUrl": "https://music.apple.com/us/album/analogue-off/6838445824?uo=4",
+            "catalogId": "6838445824",
+            "ranking": {
+              "charts": 3.233333333333333,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Jon Niklas Rønning",
+          "Jula er nær",
+          "Pop",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/30/35/d63035fb-f2d9-2e10-1830-7ff65ba92489/196874798041.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 4,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=14/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/no/album/jula-er-n%C3%A6r/6826330926?uo=4",
+            "catalogId": "6826330926",
+            "ranking": {
+              "charts": 3.233333333333333,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
@@ -211,53 +404,18 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 16,
+                "rank": 4,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=14/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/de/album/der-letzte-rave-30-jahre-bl%C3%BCmchen/6831399157?uo=4"
-          }
-        ],
-        [
-          "モートン・ハルケット",
-          "Human Grace",
-          "ポップ",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/0e/c7/d90ec7f9-c5a9-6009-00fc-85ae4e5bcfc4/1200214945619.jpg/100x100bb.jpg",
-          {
-            "releaseDate": "2026-11-27",
-            "label": "Populært nå",
-            "articles": [],
-            "signals": [
-              {
-                "source": "iTunes Store purchases",
-                "country": "jp",
-                "rank": 16,
-                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
-              }
-            ],
-            "catalogUrl": "https://music.apple.com/jp/album/human-grace/6810761923?uo=4"
-          }
-        ],
-        [
-          "ブラックベアー",
-          "analogue_OFF",
-          "ポップ",
-          "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/d6/54/9dd65468-15ae-86eb-f049-91ea2ab39524/26UM1IM46368.rgb.jpg/100x100bb.jpg",
-          {
-            "releaseDate": "2026-11-27",
-            "label": "Populært nå",
-            "articles": [],
-            "signals": [
-              {
-                "source": "iTunes Store purchases",
-                "country": "jp",
-                "rank": 41,
-                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=14/json"
-              }
-            ],
-            "catalogUrl": "https://music.apple.com/jp/album/analogue-off/6838445824?uo=4"
+            "catalogUrl": "https://music.apple.com/de/album/der-letzte-rave-30-jahre-bl%C3%BCmchen/6831399157?uo=4",
+            "catalogId": "6831399157",
+            "ranking": {
+              "charts": 3.233333333333333,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -282,12 +440,137 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 3,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=18/json"
+              },
+              {
+                "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 32,
+                "rank": 6,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=18/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/de/album/amor-fati/6837355760?uo=4"
+            "catalogUrl": "https://music.apple.com/gb/album/amor-fati/6837355760?uo=4",
+            "catalogId": "6837355760",
+            "ranking": {
+              "charts": 6.433333333333334,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Leto",
+          "Rue André Bréchet",
+          "Hip-hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/00/7b/98007bfa-9d53-5a1d-55e0-9c1b98fb1947/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "fr",
+                "rank": 4,
+                "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/fr/album/rue-andr%C3%A9-br%C3%A9chet/6826162177?uo=4",
+            "catalogId": "6826162177",
+            "ranking": {
+              "charts": 3.233333333333333,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "7apes",
+          "The Connoisseur",
+          "ヒップホップ／ラップ",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/11/be/2e11be89-928c-5059-7322-1ccc1128710c/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "jp",
+                "rank": 30,
+                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=18/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/jp/album/the-connoisseur/6800319980?uo=4",
+            "catalogId": "6800319980",
+            "ranking": {
+              "charts": 2.3666666666666667,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Zed",
+          "NEPHILIM",
+          "Hip-hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/a6/8e/d2a68e07-93b5-18d0-3694-685332052800/cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "fr",
+                "rank": 35,
+                "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/fr/album/nephilim/6828008046?uo=4",
+            "catalogId": "6828008046",
+            "ranking": {
+              "charts": 2.2,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Moha MMZ",
+          "Les clés de la casa",
+          "Hip-hop/Rap",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/64/40/ec6440f8-2059-ec6d-2693-7c0ab2d8fce7/196874929254.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "Apple Music v2",
+                "country": "fr",
+                "rank": 59,
+                "url": "https://rss.marketingtools.apple.com/api/v2/fr/music/most-played/100/albums.json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/fr/album/les-cl%C3%A9s-de-la-casa/6832446143?uo=4",
+            "catalogId": "6832446143",
+            "ranking": {
+              "charts": 1.4000000000000001,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -298,7 +581,64 @@
       "source": "SLIPP",
       "title": "Ukens album",
       "date": "2026-11-27",
-      "items": []
+      "items": [
+        [
+          "Kirsty Clinch",
+          "Prologue",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/5d/94/555d9486-efdf-f68b-a1e8-954f1f7cec60/859749749578_cover.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 11,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/prologue/6828038001?uo=4",
+            "catalogId": "6828038001",
+            "ranking": {
+              "charts": 3.0,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Mason McCannon",
+          "Abandoned Opulence",
+          "Country",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/9a/a1/669aa109-3c51-e3c8-540c-a1edba083f94/artwork.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 38,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=6/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/ca/album/abandoned-opulence/6830659682?uo=4",
+            "catalogId": "6830659682",
+            "ranking": {
+              "charts": 2.1,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ]
+      ]
     }
   ],
   "Jazz": [
@@ -308,11 +648,11 @@
       "date": "2026-11-27",
       "items": [
         [
-          "マイルス・デイヴィス",
-          "Copenhagen Live 1969",
-          "ジャズ",
+          "Torsten Goods, Dennis Chambers & Brian Charette",
+          "State Of Mind",
+          "Smooth Jazz",
           "",
-          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/7f/02/b67f02ab-2363-34f6-dad3-f88632517c35/196874827093.jpg/100x100bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/81/c3/9981c3d1-7461-7a74-6df2-513bb6cfe903/885288275179.jpg/100x100bb.jpg",
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
@@ -320,12 +660,19 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
-                "country": "jp",
-                "rank": 10,
-                "url": "https://itunes.apple.com/jp/rss/topalbums/limit=100/genre=11/json"
+                "country": "de",
+                "rank": 6,
+                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/jp/album/copenhagen-live-1969/6823689149?uo=4"
+            "catalogUrl": "https://music.apple.com/de/album/state-of-mind/6810990304?uo=4",
+            "catalogId": "6810990304",
+            "ranking": {
+              "charts": 3.1666666666666665,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
@@ -342,11 +689,18 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 15,
+                "rank": 13,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=11/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/de/album/timelines/6802596169?uo=4"
+            "catalogUrl": "https://music.apple.com/de/album/timelines/6802596169?uo=4",
+            "catalogId": "6802596169",
+            "ranking": {
+              "charts": 2.9333333333333336,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
@@ -363,11 +717,18 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "gb",
-                "rank": 65,
+                "rank": 78,
                 "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=11/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/gb/album/aileron/6816286625?uo=4"
+            "catalogUrl": "https://music.apple.com/gb/album/aileron/6816286625?uo=4",
+            "catalogId": "6816286625",
+            "ranking": {
+              "charts": 0.7666666666666666,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -388,16 +749,45 @@
           {
             "releaseDate": "2026-11-27",
             "label": "Populært nå",
-            "articles": [],
+            "articles": [
+              {
+                "source": "Angry Metal Guy",
+                "title": "Mystic Prophecy – In Metal Review",
+                "url": "https://www.angrymetalguy.com/mystic-prophecy-in-metal-review/",
+                "published": "2026-11-24T16:33:53+00:00",
+                "kind": "review",
+                "verified": true,
+                "verification": "editorial-feed-match"
+              }
+            ],
             "signals": [
               {
                 "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 5,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 11,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+              },
+              {
+                "source": "iTunes Store purchases",
                 "country": "au",
-                "rank": 6,
+                "rank": 17,
                 "url": "https://itunes.apple.com/au/rss/topalbums/limit=100/genre=1153/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/au/album/in-metal/6790513741?uo=4"
+            "catalogUrl": "https://music.apple.com/us/album/in-metal/6790513741?uo=4",
+            "catalogId": "6790513741",
+            "ranking": {
+              "charts": 9.0,
+              "spotify": 0.0,
+              "editorial": 8.333333333333332,
+              "freshness": 10.0
+            }
           }
         ],
         [
@@ -414,11 +804,102 @@
               {
                 "source": "Apple Music v2",
                 "country": "au",
-                "rank": 44,
+                "rank": 9,
                 "url": "https://rss.marketingtools.apple.com/api/v2/au/music/most-played/100/albums.json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/au/album/anemoia/6796652471?uo=4"
+            "catalogUrl": "https://music.apple.com/au/album/anemoia/6796652471?uo=4",
+            "catalogId": "6796652471",
+            "ranking": {
+              "charts": 3.0666666666666664,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Osyron",
+          "Osyron",
+          "Metal",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/c8/62/5ac86273-61d6-08d0-2ee0-92dd1d3b5780/4251981720173.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 10,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/osyron/6802361672?uo=4",
+            "catalogId": "6802361672",
+            "ranking": {
+              "charts": 3.033333333333333,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Contrarian",
+          "Escaping Depravity",
+          "Metal",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/c3/5f/63c35fab-78e5-9ff5-70bd-8256fa30b0bf/26UM1IM21517.rgb.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 19,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/escaping-depravity/6831394213?uo=4",
+            "catalogId": "6831394213",
+            "ranking": {
+              "charts": 2.7333333333333334,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Whiplash",
+          "Roar",
+          "Metal",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/5c/5a/f25c5ae9-4c21-f1af-eb67-7198ff175e6d/22250.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "us",
+                "rank": 20,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=1153/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/us/album/roar/6827581666?uo=4",
+            "catalogId": "6827581666",
+            "ranking": {
+              "charts": 2.7,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
@@ -430,6 +911,26 @@
       "title": "Ukens album",
       "date": "2026-11-27",
       "items": [
+        [
+          "Martinwhite, Loyaltty",
+          "CHEETAHWAI",
+          "Elektronisk",
+          "",
+          "https://i.scdn.co/image/ab67616d0000b2735ccc693952f74854dd5e9d04",
+          {
+            "releaseDate": "2026-11-26",
+            "articles": [],
+            "signals": [],
+            "spotifyUrl": "https://open.spotify.com/album/6lWGL7ERXTnnyGOuU2vt9q",
+            "verification": "Spotify",
+            "ranking": {
+              "charts": 0.0,
+              "spotify": 12.5,
+              "editorial": 0.0,
+              "freshness": 8.571428571428571
+            }
+          }
+        ],
         [
           "Schrotthagen",
           "Neue Welt",
@@ -444,17 +945,30 @@
               {
                 "source": "iTunes Store purchases",
                 "country": "de",
-                "rank": 3,
+                "rank": 10,
                 "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
               },
               {
                 "source": "iTunes Store purchases",
                 "country": "fr",
-                "rank": 41,
+                "rank": 51,
                 "url": "https://itunes.apple.com/fr/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 15,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=7/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/de/album/neue-welt/6814760673?uo=4"
+            "catalogUrl": "https://music.apple.com/de/album/neue-welt/6814760673?uo=4",
+            "catalogId": "6814760673",
+            "ranking": {
+              "charts": 7.566666666666667,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ],
         [
@@ -470,12 +984,87 @@
             "signals": [
               {
                 "source": "iTunes Store purchases",
-                "country": "de",
-                "rank": 84,
-                "url": "https://itunes.apple.com/de/rss/topalbums/limit=100/genre=7/json"
+                "country": "us",
+                "rank": 80,
+                "url": "https://itunes.apple.com/us/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 24,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+              },
+              {
+                "source": "iTunes Store purchases",
+                "country": "no",
+                "rank": 1,
+                "url": "https://itunes.apple.com/no/rss/topalbums/limit=100/genre=7/json"
               }
             ],
-            "catalogUrl": "https://music.apple.com/de/album/fallen-angel/6814763545?uo=4"
+            "catalogUrl": "https://music.apple.com/us/album/fallen-angel/6814763545?uo=4",
+            "catalogId": "6814763545",
+            "ranking": {
+              "charts": 6.6000000000000005,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Korfian",
+          "Licensed Fool",
+          "Electronic",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/92/67/2c92672b-a070-a931-1017-3499408492a6/885000864582.png/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "ca",
+                "rank": 14,
+                "url": "https://itunes.apple.com/ca/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/ca/album/licensed-fool/6831434103?uo=4",
+            "catalogId": "6831434103",
+            "ranking": {
+              "charts": 2.9,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
+          }
+        ],
+        [
+          "Graham Walker",
+          "Making Memories",
+          "Electronica",
+          "",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/91/85/2091851c-193c-a498-1247-41ce4d49733c/artwork.jpg/100x100bb.jpg",
+          {
+            "releaseDate": "2026-11-27",
+            "label": "Populært nå",
+            "articles": [],
+            "signals": [
+              {
+                "source": "iTunes Store purchases",
+                "country": "gb",
+                "rank": 28,
+                "url": "https://itunes.apple.com/gb/rss/topalbums/limit=100/genre=7/json"
+              }
+            ],
+            "catalogUrl": "https://music.apple.com/gb/album/making-memories/6836968427?uo=4",
+            "catalogId": "6836968427",
+            "ranking": {
+              "charts": 2.4333333333333336,
+              "spotify": 0.0,
+              "editorial": 0.0,
+              "freshness": 10.0
+            }
           }
         ]
       ]
