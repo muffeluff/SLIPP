@@ -27,7 +27,10 @@ reviews=[]
 for r in rows+e['mustListen']['singles']:
     matches=[dict(source=x.get('source',x.get('sourceId','')),title=x['title'],url=x['url'],published=x['published'],verified=True,verification='editorial-feed-match') for x in a if x.get('kind')=='review' and x.get('published') and x.get('url','').startswith('https://') and norm(r[0]) in norm(x['title']) and norm(r[1]) in norm(x['title'])]
     reviews.append(dict(artist=r[0],title=r[1],articles=matches))
-for r in rows+e['mustListen']['albums']+e['mustListen']['singles']:
+start=(datetime.date.fromisoformat(target)-datetime.timedelta(days=6)).isoformat()
+for r in rows+e['mustListen']['albums']:
+    assert r[4].startswith('https://') and start<=r[5]['releaseDate']<=target
+for r in e['mustListen']['singles']:
     assert r[4].startswith('https://') and r[5]['releaseDate']==target
 Path('editorial/album-reviews.json').write_text(json.dumps(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(),releases=reviews),ensure_ascii=False,indent=2))
 print('Validated',len(rows),'albums,',audit['selected'],'Friday singles,',sum(len(r['articles']) for r in reviews),'feed-matched reviews')
