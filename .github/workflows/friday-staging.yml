@@ -1,8 +1,8 @@
 name: Friday edition staging
 on:
   schedule:
-    - cron: '0 0 * * 5'
-    - cron: '0 23 * * 4'
+    - cron: '17 * * * 5'
+    - cron: '17 22,23 * * 4'
   workflow_dispatch:
 permissions:
   contents: write
@@ -20,7 +20,7 @@ jobs:
       - name: Check Oslo schedule
         id: gate
         run: |
-          if [ "$(date +%u-%H)" = "5-01" ] || [ "${{ github.event_name }}" = workflow_dispatch ]; then
+          if [ "$(date +%u)" = "5" ]; then
             test "$(date +%u)" = 5
             echo "go=true" >> "$GITHUB_OUTPUT"
             echo "SLIPP_RELEASE_DATE=$(date +%F)" >> "$GITHUB_ENV"
@@ -28,10 +28,20 @@ jobs:
       - if: steps.gate.outputs.go == 'true'
         run: |
           pip install requests beautifulsoup4 feedparser
-          python scripts/production_album_feeds.py
-          python scripts/production_editorial.py || echo 'Optional editorial collection failed; continuing'
-          python scripts/production_albums.py
+          if python -c 'import json,os; e=json.load(open("staging/edition.json")); a=json.load(open("staging/singles-audit.json")); assert e["date"]==a["targetDate"]==os.environ["SLIPP_RELEASE_DATE"]; assert a["selected"]==5'; then
+            exit 0
+          fi
+          if python -c 'import json,os; assert json.load(open("staging/edition.json"))["date"]==os.environ["SLIPP_RELEASE_DATE"]'; then
+            cp staging/edition.json staging/genres.json .
+          else
+            python scripts/production_album_feeds.py
+            python scripts/production_editorial.py || echo 'Optional editorial collection failed; continuing'
+            python scripts/production_albums.py
+          fi
           python scripts/production_singles.py
+          if test -f staging/singles-audit.json && python -c 'import json,os; a=json.load(open("staging/singles-audit.json")); b=json.load(open("singles-audit.json")); assert a["targetDate"]==os.environ["SLIPP_RELEASE_DATE"] and a["selected"]>b["selected"]'; then
+            exit 0
+          fi
           python scripts/production_validate.py
           mkdir -p staging
           cp edition.json genres.json singles-audit.json staging/
