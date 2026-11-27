@@ -12,6 +12,10 @@ reject=Counter()
 def norm(s): return ''.join(c for c in unicodedata.normalize('NFKC',s).casefold() if c.isalnum())
 def key(a,t): return norm(a),norm(t)
 signals=defaultdict(list); names={}; audit={}
+seed_path=Path('editorial/single-discovery.json')
+if seed_path.exists():
+    seeds=json.loads(seed_path.read_text())
+else: seeds={}
 def add(a,t,p,rank,url,apple=False):
     k=key(a,t)
     if not all(k) or not 1<=rank<=200:return
@@ -64,6 +68,11 @@ for provider,url in [('Official Charts','https://www.officialcharts.com/charts/s
 # Spotify chart access is not assumed; add only when an official CSV endpoint is accessible.
 url='https://charts.spotify.com/charts/view/regional-global-daily/latest'
 audit[url]='not integrated: authenticated chart download required'
+# Dated editorial discovery candidates are supplied by public search, not page scraping.
+if seeds.get('date')==str(target):
+    for i,x in enumerate(seeds.get('items',[])[:40],1):
+        add(x['artist'],x['title'],'New release discovery',i,x['url'])
+    audit['editorial/single-discovery.json']=len(seeds.get('items',[]))
 def score(k):
     ss=signals[k];others={x['source'] for x in ss if not x['apple']}
     best={p:min(x['rank'] for x in ss if x['source']==p) for p in others}
@@ -72,7 +81,7 @@ ordered=sorted(names,key=lambda k:(any(x['source'] in ('New release discovery','
 def verify(k):
     a,t=names[k]
     if re.search(r'remaster|anniversary|re.record|sped up|slowed|karaoke|live version',t,re.I):return
-    for country in ['US','GB','NO','DE','AU','CA','JP']:
+    for country in ['US','GB']:
         try:
             r=requests.get('https://itunes.apple.com/search',params=dict(term=a+' '+t,entity='song',country=country,limit=25),timeout=12);r.raise_for_status()
             rows=[x for x in r.json()['results'] if key(x.get('artistName',''),x.get('trackName',''))==k]
@@ -88,10 +97,17 @@ def verify(k):
             im=get(x['artworkUrl100'])
             if not im.ok or not im.headers.get('Content-Type','').startswith('image/'):reject['invalid artwork']+=1;continue
             return [x['artistName'],x['trackName'],x.get('primaryGenreName',''),'',x['artworkUrl100'],dict(releaseDate=str(day),articles=[],signals=signals[k])]
+        except requests.HTTPError as e:
+            status=e.response.status_code if e.response is not None else 0
+            reject['HTTP '+str(status)]+=1
+            if status in (403,429):
+                time.sleep(3)
+                return
         except Exception as e:reject[type(e).__name__]+=1
 # Rate-limit catalog queries and stop after enough verified candidates.
 out=[];artists=set();checked=0
-for k in ordered[:160]:
+for k in ordered[:40]:
+    if reject['HTTP 429']+reject['HTTP 403']>=3:break
     row=verify(k);checked+=1
     if row and norm(row[0]) not in artists:
         artists.add(norm(row[0]));out.append(row)
