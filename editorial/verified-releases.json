@@ -1,7 +1,99 @@
 {
-  "updated": "2026-11-26T15:06:50.795043+00:00",
+  "updated": "2026-11-27T14:58:50.174277+00:00",
   "method": "Exact recent iTunes catalog match; editorial endorsement not verified",
   "releases": [
+    {
+      "artist": "Laura Cannell",
+      "title": "Winter Rites",
+      "releaseDate": "2026-11-27",
+      "genre": "Alternative",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/14/55/08145513-9da7-67ac-8146-4617e32e351c/17536.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/winter-rites/6833061481?uo=4",
+      "catalogId": 6833061481,
+      "articles": [
+        {
+          "source": "The Quietus",
+          "sourceId": "thequietus.com",
+          "sourceType": "editorial",
+          "title": "Laura Cannell – Winter Rites",
+          "url": "https://thequietus.com/quietus-reviews/laura-cannell-winter-rites-review/",
+          "published": "2026-11-27T06:00:00+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "Purple Pilgrims",
+      "title": "Given to the Night",
+      "releaseDate": "2026-11-27",
+      "genre": "Alternative",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/06/77/0706775b-34cf-e7ca-240c-208ea5b48425/191400613270.png/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/given-to-the-night/6801585081?uo=4",
+      "catalogId": 6801585081,
+      "articles": [
+        {
+          "source": "Bandcamp Daily",
+          "sourceId": "daily.bandcamp.com",
+          "sourceType": "editorial",
+          "title": "Purple Pilgrims, “Given To The Night”",
+          "url": "https://daily.bandcamp.com/album-of-the-day/purple-pilgrims-given-to-the-night-review",
+          "published": "2026-11-25T13:50:08+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "Mystic Prophecy",
+      "title": "In Metal",
+      "releaseDate": "2026-11-27",
+      "genre": "Metal",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/cf/c6/4fcfc644-7078-780c-80ac-3b5f29b85478/4251981719610.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/in-metal/6790513741?uo=4",
+      "catalogId": 6790513741,
+      "articles": [
+        {
+          "source": "Angry Metal Guy",
+          "sourceId": "angrymetalguy.com",
+          "sourceType": "editorial",
+          "title": "Mystic Prophecy – In Metal Review",
+          "url": "https://www.angrymetalguy.com/mystic-prophecy-in-metal-review/",
+          "published": "2026-11-24T16:33:53+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
+    {
+      "artist": "Rosetta",
+      "title": "Temporal Lapse",
+      "releaseDate": "2026-11-27",
+      "genre": "Metal",
+      "format": "album",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/09/71/6c097105-245a-ceb7-b7e0-cd054a5ec8a5/artwork.jpg/100x100bb.jpg",
+      "catalogUrl": "https://music.apple.com/us/album/temporal-lapse/6797384886?uo=4",
+      "catalogId": 6797384886,
+      "articles": [
+        {
+          "source": "Bandcamp Daily",
+          "sourceId": "daily.bandcamp.com",
+          "sourceType": "editorial",
+          "title": "Rosetta, “Temporal Lapse”",
+          "url": "https://daily.bandcamp.com/album-of-the-day/rosetta-temporal-lapse-review",
+          "published": "2026-11-24T14:43:57+00:00",
+          "kind": "review"
+        }
+      ],
+      "editorialVerification": "pending",
+      "independentSourceCount": 1
+    },
     {
       "artist": "Golgothan Remains",
       "title": "Born From Darkness Absolute",
@@ -98,7 +190,7 @@
       "artist": "Bang on a Can All-Stars",
       "title": "Sakamoto: 1996",
       "releaseDate": "2026-11-20",
-      "genre": "Crossover Jazz",
+      "genre": "Classical Crossover",
       "format": "album",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/d1/8d/e8d18d30-cb57-6b9f-1db5-08a424aec3b7/713746322625.png/100x100bb.jpg",
       "catalogUrl": "https://music.apple.com/us/album/sakamoto-1996/6825117573?uo=4",
@@ -134,52 +226,6 @@
           "title": "Soulfallen – Uncharted Plains Review",
           "url": "https://www.angrymetalguy.com/soulfallen-uncharted-plains-review/",
           "published": "2026-11-23T12:13:00+00:00",
-          "kind": "review"
-        }
-      ],
-      "editorialVerification": "pending",
-      "independentSourceCount": 1
-    },
-    {
-      "artist": "Thy Catafalque",
-      "title": "XIII: Sárga Erdő",
-      "releaseDate": "2026-11-20",
-      "genre": "Death Metal/Black Metal",
-      "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/77/29/9277296b-9094-f542-15e8-d72d3e423633/822603021059.jpg/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/xiii-s%C3%A1rga-erd%C5%91/6798033431?uo=4",
-      "catalogId": 6798033431,
-      "articles": [
-        {
-          "source": "Angry Metal Guy",
-          "sourceId": "angrymetalguy.com",
-          "sourceType": "editorial",
-          "title": "Thy Catafalque – XIII: Sárga Erdő Review",
-          "url": "https://www.angrymetalguy.com/thy-catafalque-xiii-sarga-erdo-review/",
-          "published": "2026-11-20T12:49:54+00:00",
-          "kind": "review"
-        }
-      ],
-      "editorialVerification": "pending",
-      "independentSourceCount": 1
-    },
-    {
-      "artist": "Lottie Brazier",
-      "title": "On Course but No-one There to Salute You",
-      "releaseDate": "2026-11-20",
-      "genre": "Indie Pop",
-      "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/ed/ef/8bedefa8-c979-5c39-5264-eea3d40681be/5053760155485_cover.jpg/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/on-course-but-no-one-there-to-salute-you/6822238148?uo=4",
-      "catalogId": 6822238148,
-      "articles": [
-        {
-          "source": "The Quietus",
-          "sourceId": "thequietus.com",
-          "sourceType": "editorial",
-          "title": "Lottie Brazier – On Course But No-One There To Salute You",
-          "url": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
-          "published": "2026-11-20T06:00:00+00:00",
           "kind": "review"
         }
       ],
@@ -226,29 +272,6 @@
           "title": "Graviton – Graviton Review",
           "url": "https://www.angrymetalguy.com/graviton-graviton-review/",
           "published": "2026-11-23T19:51:38+00:00",
-          "kind": "review"
-        }
-      ],
-      "editorialVerification": "pending",
-      "independentSourceCount": 1
-    },
-    {
-      "artist": "Necropanther",
-      "title": "The Book of Change",
-      "releaseDate": "2026-11-13",
-      "genre": "Rock",
-      "format": "album",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/60/43/4b60439f-6466-8161-8873-2df82b6e9a15/885000965326.png/100x100bb.jpg",
-      "catalogUrl": "https://music.apple.com/us/album/the-book-of-change/6836269079?uo=4",
-      "catalogId": 6836269079,
-      "articles": [
-        {
-          "source": "Angry Metal Guy",
-          "sourceId": "angrymetalguy.com",
-          "sourceType": "editorial",
-          "title": "Necropanther – The Book of Change Review",
-          "url": "https://www.angrymetalguy.com/necropanther-the-book-of-change-review/",
-          "published": "2026-11-19T20:15:46+00:00",
           "kind": "review"
         }
       ],
