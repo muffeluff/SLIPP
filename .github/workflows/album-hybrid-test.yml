@@ -1,8 +1,13 @@
 name: Hybrid album ranking test
 on:
   workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish validated albums to SLIPP
+        type: boolean
+        default: false
 permissions:
-  contents: read
+  contents: write
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -20,6 +25,7 @@ jobs:
           python -m py_compile scripts/production_albums.py scripts/production_validate.py
           python scripts/production_album_feeds.py
           python scripts/production_editorial.py || true
+          cp edition.json /tmp/slipp-original-edition.json
           python scripts/production_albums.py
           python - <<'PY'
           import json,datetime,os
@@ -35,3 +41,22 @@ jobs:
                   for r in s['items']:print(r[0],r[1],r[5]['releaseDate'],len(r[5].get('articles',[])),bool(r[5].get('spotifyUrl')))
           print('FRONT PAGE',json.dumps(e['mustListen']['albums'],ensure_ascii=False))
           PY
+      - name: Publish validated albums
+        if: inputs.publish == true
+        run: |
+          python - <<'PY'
+          import json,os
+          from pathlib import Path
+          old=json.load(open('/tmp/slipp-original-edition.json'))
+          new=json.load(open('edition.json'))
+          assert old['date']==new['date']==os.environ.get('SLIPP_RELEASE_DATE',new['date'])
+          old['sections']=new['sections']
+          old['mustListen']['albums']=new['mustListen']['albums']
+          old['mustListen']['method']=new['mustListen']['method']
+          Path('edition.json').write_text(json.dumps(old,ensure_ascii=False,indent=2)+'\n')
+          PY
+          git config user.name "SLIPP publishing"
+          git config user.email "actions@users.noreply.github.com"
+          git add edition.json genres.json
+          git diff --cached --quiet || git commit -m "Publish validated hybrid album edition"
+          git push origin HEAD:main
