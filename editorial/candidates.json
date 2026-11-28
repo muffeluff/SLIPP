@@ -1,6 +1,156 @@
 {
-  "updated": "2026-11-27T14:58:29.156250+00:00",
+  "updated": "2026-11-28T14:07:57.899918+00:00",
   "articles": [
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Heith & Tarawangsawelas ~ Duori",
+      "url": "https://acloserlisten.com/2026/11/28/heith-tarawangsawelas-duori/",
+      "tags": [
+        "Experimental",
+        "gianmarco del re",
+        "Heith",
+        "Tarawangsawelas"
+      ],
+      "published": "2026-11-28T12:01:51+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "What comes after Jon Hassell’s Fourth World? In 1980, Hassell and Brian Eno’s Fourth World, Vol. 1: Possible Musics imagined a musical geography in which traditions from different cultures merged with advanced electronic techniques, with Hassell’s electronically treated trumpet sounding"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Vote for the best metal album of 2026",
+      "url": "https://www.loudersound.com/music/albums/vote-for-the-best-metal-album-of-2026",
+      "tags": [
+        "Albums",
+        "Music"
+      ],
+      "published": "2026-11-28T11:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "From Megadeth to Skindred, Trivium to Worm, we want to know which metal albums dominated your year in 2026"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Metal Hammer's tracks of the week: November 27 2026",
+      "url": "https://www.loudersound.com/music/tracks-singles/metal-hammer-tracks-of-the-week-november-27-2026",
+      "tags": [
+        "Tracks & Singles",
+        "Music"
+      ],
+      "published": "2026-11-28T10:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Last chance to dance! Its the final Metal Hammer tracks of the week in 2026 featuring Battlesnake, The Hara, Power Trip and more"
+    },
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "La Ola Nocturna: Experimental Songs & Deviant Pop From the Spanish ’80s",
+      "url": "https://pitchfork.com/reviews/albums/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-28T05:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "The third in a series dedicated to the Spanish pop vanguard of the 1980s captures a moment when Franco’s dictatorship gave way to an explosion of youthful creativity across post-punk, new wave, and more."
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Nicola Di Croce ~ Attuning To / Resonating with (Aomori)",
+      "url": "https://acloserlisten.com/2026/11/28/nicola-di-croce-attuning-to-resonating-with-aomori/",
+      "tags": [
+        "Field Recording & Soundscape",
+        "Cronica",
+        "gianmarco del re",
+        "Nicola Di Croce"
+      ],
+      "published": "2026-11-28T00:01:55+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Birdsong and flowing water are familiar staples of field recording, and both feature in Nicola Di Croce’s Attuning To / Resonating With (Aomori). But they are only part of a more complex sonic ecosystem encompassing fishing communities, nuclear facilities and"
+    },
+    {
+      "source": "Decibel",
+      "sourceId": "decibelmagazine.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Track Premiere: All Out War – “Black Metal” (Venom Cover)",
+      "url": "https://www.decibelmagazine.com/2026/11/27/track-premiere-all-out-war-black-metal-venom-cover/",
+      "tags": [
+        "Track Premiere",
+        "all out war",
+        "black metal",
+        "Hardcore",
+        "premiere",
+        "Venom"
+      ],
+      "published": "2026-11-27T17:00:27+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "premiere",
+      "verification": "pending",
+      "excerpt": "Want a little Black Metal for Black Friday? Check out hardcore legends' All Out War 's excellent and totally unhinged cover of the Venom classic! The post Track Premiere: All Out War – “Black Metal” (Venom Cover) appeared first on Decibel Magazine ."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Top prog sounds from Jan Akkerman, Reliqa, Aaronson and more in Prog's brand new Tracks Of The Week",
+      "url": "https://www.loudersound.com/music/music-videos/top-prog-sounds-from-jan-akkerman-reliqa-aaronson-and-more-in-progs-brand-new-tracks-of-the-week",
+      "tags": [
+        "Music Videos",
+        "Music"
+      ],
+      "published": "2026-11-27T16:56:37+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Ace new proggy sounds from Kuumet, The Pulse Theory, Sentient Ignition, and more in our all-new Tracks Of The Week"
+    },
     {
       "source": "A Closer Listen",
       "sourceId": "acloserlisten.com",
@@ -108,7 +258,7 @@
       "firstSeen": "2026-11-27T14:58:29.156250+00:00",
       "kind": "review",
       "verification": "pending",
-      "excerpt": "TK"
+      "excerpt": "On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions."
     },
     {
       "source": "A Closer Listen",
@@ -1495,178 +1645,6 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "After nearly a year of silence, forms of minutiae has returned!  Our Label of the Year in 2024 dominated our field recording charts with the Ice Series in 2025, so it’s great to have them back.  f-o-m’s triumphant return begins with a"
-    },
-    {
-      "source": "Louder",
-      "sourceId": "loudersound.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Rock",
-        "Metal"
-      ],
-      "title": "Metal Hammer's Tracks Of The Week: November 20 2026",
-      "url": "https://www.loudersound.com/music/tracks-singles/metal-hammer-tracks-of-the-week-november-20-2026-bruce-dickinson-kerry-king-within-temptation",
-      "tags": [
-        "Tracks & Singles",
-        "Music"
-      ],
-      "published": "2026-11-21T10:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "Kerry King, Bruce Dickinson and Within Temptation are among the bands in Metal's Hammer's latest tracks of the week"
-    },
-    {
-      "source": "Pitchfork",
-      "sourceId": "pitchfork.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Pop",
-        "Hip-hop",
-        "Rock",
-        "Electronica",
-        "Metal"
-      ],
-      "title": "Reveal (25th Anniversary Edition)",
-      "url": "https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/",
-      "tags": [
-        "Reviews / Albums"
-      ],
-      "published": "2026-11-21T05:00:00+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "The rock band’s sunny synth-pop pivot remains an undersung gem. On a new reissue, it also feels like a touchstone for the sound of indie-pop in the 21st century."
-    },
-    {
-      "source": "A Closer Listen",
-      "sourceId": "acloserlisten.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Ambient",
-        "Electronica"
-      ],
-      "title": "The Vegetable Orchestra ~ Season V",
-      "url": "https://acloserlisten.com/2026/11/21/the-vegetable-orchestra-season-v/",
-      "tags": [
-        "Experimental",
-        "Richard Allen",
-        "Season V",
-        "Vegetabe Orchestra"
-      ],
-      "published": "2026-11-21T00:01:25+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "Ten musicians playing fresh and dried vegetables ~ what’s not to love?  We’ve been enamored with this project from the moment we first heard Onionoise. Amazingly, they’ve been around since the tail end of the last millenium.  All of those"
-    },
-    {
-      "source": "Stereogum",
-      "sourceId": "stereogum.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "The 5 Best Songs Of The Week",
-      "url": "https://stereogum.com/2518768/the-5-best-songs-of-the-week-653/lists/the-5-best-songs-of-the-week/",
-      "tags": [
-        "Lists",
-        "The 5 Best Songs Of The Week",
-        "Awning",
-        "Bill Kelliher",
-        "Erika de Casier",
-        "Julien Baker",
-        "Philip Frobos",
-        "Ryley Walker"
-      ],
-      "published": "2026-11-20T21:30:52+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "The post The 5 Best Songs Of The Week appeared first on Stereogum ."
-    },
-    {
-      "source": "Angry Metal Guy",
-      "sourceId": "angrymetalguy.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Maceration – Mercy To The Miserable Review",
-      "url": "https://www.angrymetalguy.com/maceration-mercy-to-the-miserable-review/",
-      "tags": [
-        "Reviews",
-        "2026",
-        "3.5",
-        "Amon Amarth",
-        "Bolt Thrower",
-        "Danish Metal",
-        "Death Breath",
-        "Death Metal",
-        "Dismember",
-        "Edge of Sanity",
-        "Emanzipation Productions",
-        "Entombed",
-        "Maceration",
-        "Massacre",
-        "Nov26",
-        "Review",
-        "Serpent Devourment"
-      ],
-      "published": "2026-11-20T21:17:02+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "review",
-      "verification": "pending",
-      "excerpt": "\"Danish death metal dumbbells Maceration first spewed their reeking wares on the scene back in 1992 with their A Serenade in Agony debut. After that they struggled to keep things going and crumbled. They reunited in 2022 and cut their It Never Ends platter, and followed it up with 2025s Serpent Devourment , which was my first exposure to what these rotten Danes were slinging. They bring a very old"
-    },
-    {
-      "source": "Metal Injection",
-      "sourceId": "metalinjection.net",
-      "sourceType": "editorial",
-      "genres": [
-        "Metal"
-      ],
-      "title": "Trivium, Suicide Silence, Kerry King & More Added to Metal Injection's Tracks of the Week",
-      "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/trivium-suicide-silence-kerry-king-more-added-to-metal-injections-tracks-of-the-week",
-      "tags": [
-        "Top Tracks Of The Week",
-        "Suicide Silence",
-        "disfear",
-        "Trivium",
-        "kerry king",
-        "bruce dickinson",
-        "bury tomorrow",
-        "within temptation",
-        "Eidola",
-        "Guilt Trip",
-        "scatterbrain"
-      ],
-      "published": "2026-11-20T20:51:13+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "Including picks from Bury Tomorrow, Scatterbrain, and Bruce Dickinson. The post Trivium, Suicide Silence, Kerry King & More Added to Metal Injection's Tracks of the Week appeared first on Metal Injection ."
-    },
-    {
-      "source": "The FADER",
-      "sourceId": "thefader.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Hip-hop",
-        "Pop",
-        "Indie"
-      ],
-      "title": "The best songs on Grand Theft Auto VI: The Album, reviewed",
-      "url": "https://www.thefader.com/2026/11/20/gta-6-soundtrack-album-best-songs",
-      "tags": [],
-      "published": "2026-11-20T20:21:34+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "recommendation",
-      "verification": "pending",
-      "excerpt": "GTA VI strippers just got some heat to dance to."
     }
   ]
 }

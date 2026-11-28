@@ -1,6 +1,2050 @@
 {
-  "updated": "2026-11-27T14:58:29.156250+00:00",
+  "updated": "2026-11-28T14:07:57.899918+00:00",
   "articles": [
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Roger Waters slates David Gilmour’s playing: “Comfortably Numb is not that hard”",
+      "url": "https://www.loudersound.com/bands-artists/pink-floyd-roger-waters-david-gilmour-comfortably-numb",
+      "tags": [
+        "Bands & Artists"
+      ],
+      "published": "2026-11-28T14:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "He slams the pair’s 2011 reunion, says his solo albums should be seen as Pink Floyd works, and explains why he’s making animations of his ex bandmates for a movie"
+    },
+    {
+      "source": "Groove",
+      "sourceId": "groove.de",
+      "sourceType": "editorial",
+      "genres": [
+        "Techno",
+        "House",
+        "Electronica"
+      ],
+      "title": "Die Deutsche Oper präsentiert Bára Gísladóttir im Berghain: Wenn der Klang uns innerlich beben lässt",
+      "url": "https://groove.de/2026/11/28/die-deutsche-oper-praesentiert-bara-gisladottir-im-berghain-wenn-der-klang-uns-innerlich-beben-laesst/",
+      "tags": [
+        "Festivals & Konzerte",
+        "Reviews",
+        "Bára Gísladóttir",
+        "Berghain",
+        "CTM Festival",
+        "Deutsche Oper Berlin",
+        "Robert Piotrowicz"
+      ],
+      "published": "2026-11-28T13:48:27+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Die Deutsche Oper beschreitet in der aktuellen Spielzeit neue Wege, dazu gehört auch ein Konzert der Komponistin Bára Gísladóttir im Berghain. Unsere Autorin hat beobachtet, wie sich das Opernpublikum dort schlägt. Der Beitrag Die Deutsche Oper präsentiert Bára Gísladóttir im Berghain: Wenn der Klang uns innerlich beben lässt erschien zuerst auf Groove ."
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Maggie Nicols Phil Durrant Emil Karlsen – ‘What Remains’",
+      "url": "https://ukjazznews.com/maggie-nicols-phil-durrant-emil-karlsen-what-remains/",
+      "tags": [
+        "Albums",
+        "Misc",
+        "Reviews"
+      ],
+      "published": "2026-11-28T13:24:57+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "What Remains brings together two well established musicians from the improvised music community, vocalist Maggie Nicols and multi-instrumentalist Phil Durrant with the young drummer  Emil Karlsen who has become a key member of that community, having studied at Leeds Conservatoire and made his base in the city, seemingly because there are more opportunities to play free jazz […] The post Maggie Nic"
+    },
+    {
+      "source": "Metal Injection",
+      "sourceId": "metalinjection.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Chris Garza Quits Suicide Silence: \"The Book Closes With a Sad Ending\"",
+      "url": "https://metalinjection.net/news/chris-garza-quits-suicide-silence",
+      "tags": [
+        "Latest News",
+        "suicide silence"
+      ],
+      "published": "2026-11-28T13:18:10+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The guitarist says leaving had been \"a gut feeling for years,\" and his mother's death mid-tour made it final. The post Chris Garza Quits Suicide Silence: \"The Book Closes With a Sad Ending\" appeared first on Metal Injection ."
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "‘The Adventures of Carmen Llena’s Trio’ at Milton Hall (2026 EFG LJF)",
+      "url": "https://ukjazznews.com/the-adventures-of-carmen-llenas-trio-at-milton-hall-2026-efg-ljf/",
+      "tags": [
+        "Live",
+        "Reviews",
+        "2026 EFG London Jazz Festival"
+      ],
+      "published": "2026-11-28T13:10:16+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Dropping in on the Guildhall School of Music and Drama’s three-day London Jazz Festival programme at Milton Court, I caught The Adventures of Carmen Llena’s Trio, a set that preceded a grand performance of Miles Davis/Palle Mikkelborg’s Aura directed by Scott Stroman. This programming perhaps deliberately set out to remind us how this music passes […] The post ‘The Adventures of Carmen Llena’s Tri"
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Brad Mehldau, Fred Hersch and Gonzalo Rubalcaba for ‘Piano Solo Jazz Festival’ in Paris",
+      "url": "https://ukjazznews.com/brad-mehldau-fred-hersch-and-gonzalo-rubalcaba-for-piano-solo-jazz-festival-in-paris/",
+      "tags": [
+        "Features/Interviews",
+        "Previews"
+      ],
+      "published": "2026-11-28T12:22:11+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The stellar line-up for this festival of solo piano in Paris has something of the “nec plus ultra” about it. Firstly, to present the opportunity to hear Brad Mehldau, Fred Hersch and Gonzalo Rubalcaba on successive nights is quite a coup. And then there’s the venue. In a word, wow. The Salle Cortot on the […] The post Brad Mehldau, Fred Hersch and Gonzalo Rubalcaba for ‘Piano Solo Jazz Festival’ i"
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Heith & Tarawangsawelas ~ Duori",
+      "url": "https://acloserlisten.com/2026/11/28/heith-tarawangsawelas-duori/",
+      "tags": [
+        "Experimental",
+        "gianmarco del re",
+        "Heith",
+        "Tarawangsawelas"
+      ],
+      "published": "2026-11-28T12:01:51+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "What comes after Jon Hassell’s Fourth World? In 1980, Hassell and Brian Eno’s Fourth World, Vol. 1: Possible Musics imagined a musical geography in which traditions from different cultures merged with advanced electronic techniques, with Hassell’s electronically treated trumpet sounding"
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Morrissey writes to Queen Mary University to end “grotesque” sepsis experiments on mice",
+      "url": "https://www.nme.com/news/music/morrissey-queen-mary-university-end-grotesque-sepsis-experiments-mice-3977196",
+      "tags": [
+        "Music News",
+        "News",
+        "Indie"
+      ],
+      "published": "2026-11-28T11:41:31+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The singer has offered to meet with the university’s president alongside PETA scientists during his upcoming UK tour The post Morrissey writes to Queen Mary University to end “grotesque” sepsis experiments on mice appeared first on NME ."
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Shuteen Erdenebaatar Quartet – ‘Bright Folk’",
+      "url": "https://ukjazznews.com/shuteen-erdenebaatar-quartet-bright-folk/",
+      "tags": [
+        "Albums",
+        "Reviews"
+      ],
+      "published": "2026-11-28T11:00:03+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "It was back in 2023 that a young pianist and composer, based in Munich but hailing from – of all places – Mongolia, started making waves on the international jazz scene. Shuteen Erdenebaatar was signed by the Motéma label and made her debut with the acclaimed Rising Sun, an album of original compositions on which […] The post Shuteen Erdenebaatar Quartet – ‘Bright Folk’ first appeared on UK Jazz N"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Vote for the best metal album of 2026",
+      "url": "https://www.loudersound.com/music/albums/vote-for-the-best-metal-album-of-2026",
+      "tags": [
+        "Albums",
+        "Music"
+      ],
+      "published": "2026-11-28T11:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "From Megadeth to Skindred, Trivium to Worm, we want to know which metal albums dominated your year in 2026"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Where to Stream the Macy’s Thanksgiving Day Parade Free Online",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-macys-thanksgiving-day-parade-2026-online-free-1235664408/",
+      "tags": [
+        "TV & Movies",
+        "TV & Movies News",
+        "noads",
+        "RS Recommends",
+        "streaming",
+        "Thanksgiving",
+        "thanksgiving day parade"
+      ],
+      "published": "2026-11-28T11:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The (rescheduled) 100th Macy’s Thanksgiving Day Parade makes its way down Manhattan today — here’s where to get a free livestream without cable"
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Remembering Jean-Claude Vannier",
+      "url": "https://thequietus.com/news/remember-them/jean-claude-vannier-obituary/",
+      "tags": [
+        "Remember Them…"
+      ],
+      "published": "2026-11-28T10:54:35+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Serge Gainsbourg biographer Jeremy Allen looks back at the life and times of an inspired French composer. Main portrait by Léo Alestro, with thanks to Ipecac I was lucky enough to meet Jean-Claude Vannier, the French composer who died on Friday 27 November aged 83, on two separate occasions. The first time was at his apartment in the 3eme arrondissement of Paris, which was reached via the creakies"
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Lost Daft Punk mix from 1997 discovered, restored and released: “It’s nice to make people happy”",
+      "url": "https://www.nme.com/news/music/lost-daft-punk-mix-1997-discovered-restored-and-released-3977192",
+      "tags": [
+        "Music News",
+        "News",
+        "Dance",
+        "Electronic"
+      ],
+      "published": "2026-11-28T10:38:50+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The hour-long vinyl mix was rescued from a damaged, mould-covered tape by a team of specialists in Bristol The post Lost Daft Punk mix from 1997 discovered, restored and released: “It’s nice to make people happy” appeared first on NME ."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Metal Hammer's tracks of the week: November 27 2026",
+      "url": "https://www.loudersound.com/music/tracks-singles/metal-hammer-tracks-of-the-week-november-27-2026",
+      "tags": [
+        "Tracks & Singles",
+        "Music"
+      ],
+      "published": "2026-11-28T10:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Last chance to dance! Its the final Metal Hammer tracks of the week in 2026 featuring Battlesnake, The Hara, Power Trip and more"
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Former Buzzcocks drummer Phil Barker dies aged 61",
+      "url": "https://www.nme.com/news/music/former-buzzcocks-drummer-phil-barker-dies-aged-61-3977188",
+      "tags": [
+        "Music News",
+        "News",
+        "..",
+        "Punk"
+      ],
+      "published": "2026-11-28T09:32:06+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The musician, who played with the Manchester punk band from 1992 to 2006, had been diagnosed with prostate cancer five years ago The post Former Buzzcocks drummer Phil Barker dies aged 61 appeared first on NME ."
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Where to Watch the 100th Macy’s Thanksgiving Day Parade for Free to See Queen Latifah, LL Cool J & Dolly Parton Tribute",
+      "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-100th-macys-day-parade-thanksgiving-free-1236389567/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "Billboard Family",
+        "how to watch",
+        "Macy's Thanksgiving Day Parade",
+        "Music News",
+        "NOADS",
+        "streaming"
+      ],
+      "published": "2026-11-28T09:30:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The centennial event will take place Saturday, Nov. 28, at 8:30 a.m. ET on NBC and Telemundo, but you can watch across several streaming platforms with a free trial."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "“Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live",
+      "url": "https://www.nme.com/news/music/small-group-organised-criminals-don-toliver-evacuation-manchesters-co-op-live-3977184",
+      "tags": [
+        "Music News",
+        "News",
+        ".."
+      ],
+      "published": "2026-11-28T08:36:57+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Police are looking to contact more than 100 concertgoers and are investigating similar incidents at two of the rapper’s European shows The post “Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live appeared first on NME ."
+    },
+    {
+      "source": "All About Jazz",
+      "sourceId": "allaboutjazz.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Higino Andrade: In Depth",
+      "url": "https://www.allaboutjazz.com/in-depth-higino-andrade-melro-preto",
+      "tags": [],
+      "published": "2026-11-28T06:33:30+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "In Haboku sansui by the 15th-century Japanese monk Sesshū Tōyō, an ink blot on a scroll of washi (traditional Japanese paper) diffuses into the silhouette of an overgrown cliff with a faint roofline against a blurred mountainside. Ink wash paintings (suibokuga) such as this one merely suggest a landscape with their bold strokes and fading splashes, leaving plenty of room for the imagination... [ r"
+    },
+    {
+      "source": "All About Jazz",
+      "sourceId": "allaboutjazz.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": ": Phillip Golub's Notes Between the Notes",
+      "url": "https://www.allaboutjazz.com/phillip-golubs-notes-between-the-notes",
+      "tags": [],
+      "published": "2026-11-28T06:33:27+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Based around a range of micro-tones--finely pinpointing the pitches among and between the \"usual\" notes we all know and love--this section of Phillip Golub 's ever-evolving series is like a landscape through a window covered by solid sheets of rain... [ read more ]"
+    },
+    {
+      "source": "All About Jazz",
+      "sourceId": "allaboutjazz.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Dan Webb: Lion Dance",
+      "url": "https://www.allaboutjazz.com/lion-dance-dan-webb-self-produced",
+      "tags": [],
+      "published": "2026-11-28T06:33:22+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Some albums fit neatly into established categories, while others resist easy classification. Dan Webb's Lion Dance belongs firmly in the latter camp, drawing on jazz, rock, funk, and electronic music without settling comfortably into any one genre. This musical cross-pollination is not surprising considering Webb's background... [ read more ]"
+    },
+    {
+      "source": "All About Jazz",
+      "sourceId": "allaboutjazz.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "RJ Spangler's Bop Insurgents, featuring Bill Heid: Ain't Doin' Too Bad",
+      "url": "https://www.allaboutjazz.com/aint-doin-too-bad-bop-insurgents-self-produced",
+      "tags": [],
+      "published": "2026-11-28T06:33:17+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The assertion \"featuring Bill Heid \" may be an understatement on Detroit -based RJ Spangler 's Bop Insurgents' album, Ain't Doin' Too Bad, as the skillful pianist and organist not only solos eloquently on every number but lends the enterprise resilience and range by moving back and forth between the two... [ read more ]"
+    },
+    {
+      "source": "All About Jazz",
+      "sourceId": "allaboutjazz.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Art Blakey and The Jazz Messengers: Blue Moon Over Paris: ORTF Recordings 1963 - 1968",
+      "url": "https://www.allaboutjazz.com/blue-moon-over-paris-ortf-recordings-1963-1968-art-blakey-and-the-jazz-messengers-elemental-music",
+      "tags": [],
+      "published": "2026-11-28T06:33:14+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Few doubted what awaited you when Art Blakey took the stage with the Jazz Messengers. Power, excitement, and musical adventure above all, a rhythm section and a bandleader who could make the most familiar material sound as if it were being rediscovered... [ read more ]"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "The Killers’ Dave Keuning Says He Survived a Major Stroke: ‘By Some Miracle I Am Fine’",
+      "url": "https://www.billboard.com/music/rock/the-killers-dave-keuning-stroke-recovery-instagram-1236390473/",
+      "tags": [
+        "Music",
+        "Rock",
+        "Dave Keuning",
+        "The Killers"
+      ],
+      "published": "2026-11-28T06:32:29+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The guitarist says doctors gave him a 40% chance of survival — and that the first thing he checked after surgery was whether he could still play."
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Empirical – ‘Like Lambs – To The Slaughter’",
+      "url": "https://ukjazznews.com/empirical-like-lambs-to-the-slaughter/",
+      "tags": [
+        "Albums",
+        "Reviews"
+      ],
+      "published": "2026-11-28T06:30:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "It’s hard to believe Empirical have been around for twenty years or so. The line up has changed in that time, the most recent departure from the quartet was vibraphonist Lewis Wright, who moved to the US.  Their latest album, Like Lambs: To The Slaughter, is a ‘radical reworking’ of the quartet’s 2022 four track […] The post Empirical – ‘Like Lambs – To The Slaughter’ first appeared on UK Jazz New"
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Paperback Writers: Why Do Rock Stars Make Terrible Novelists?",
+      "url": "https://thequietus.com/culture/books/paperback-writers-why-do-rock-stars-make-terrible-novelists-essay/",
+      "tags": [
+        "Books"
+      ],
+      "published": "2026-11-28T06:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The Go-Betweens' Robert Forster has a novel out – it joins a wretched parade of books by pop musicians hellbent on parlaying their fame in the publishing world Earlier this year, Robert Forster, ex-Go-Between and respected elder-statesman of indie rock, did something only a handful of his peers have had the nerve – or foolhardiness – to do before. He put his reputation on the line, flung all cauti"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Watch The Pineapple Thief’s Bruce Soord get emotional over his own lyrics",
+      "url": "https://www.loudersound.com/bands-artists/bruce-soord-pineapple-thief-emotional-lyrics",
+      "tags": [
+        "Bands & Artists"
+      ],
+      "published": "2026-11-28T05:24:08+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "He says their latest album Far And Wide isn’t all dark and hopeless, although it was inspired by difficult times"
+    },
+    {
+      "source": "Pitchfork",
+      "sourceId": "pitchfork.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Rock",
+        "Electronica",
+        "Metal"
+      ],
+      "title": "La Ola Nocturna: Experimental Songs & Deviant Pop From the Spanish ’80s",
+      "url": "https://pitchfork.com/reviews/albums/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s/",
+      "tags": [
+        "Reviews / Albums"
+      ],
+      "published": "2026-11-28T05:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "The third in a series dedicated to the Spanish pop vanguard of the 1980s captures a moment when Franco’s dictatorship gave way to an explosion of youthful creativity across post-punk, new wave, and more."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Dimmu Borgir on criticism and how satanic black metal should be",
+      "url": "https://www.loudersound.com/bands-artists/hate-always-comes-from-people-that-have-done-less-than-you-dimmu-borgir-on-criticism-and-how-satanic-black-metal-should-be",
+      "tags": [
+        "Bands & Artists"
+      ],
+      "published": "2026-11-28T04:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Dimmu Borgir bassist Silenoz says the darkness in their music is more atmospheric than satanic"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Bose’s Best Headphones and Earbuds Are Steeply Discounted for Black Friday",
+      "url": "https://www.rollingstone.com/product-recommendations/tech/bose-headphones-deals-black-friday-2026-1235665533/",
+      "tags": [
+        "RS Recommends",
+        "Tech",
+        "Bose",
+        "Headphones",
+        "noads",
+        "tech"
+      ],
+      "published": "2026-11-28T01:56:47+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Looking for a gift? Need noise-canceling headphones to survive holiday travel? You can find last-minute Black Friday deals right now"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "$100 Off the AirPods Pro 3 Might Just Be the Best Black Friday Deal This Year",
+      "url": "https://www.rollingstone.com/product-recommendations/tech/apple-airpods-black-friday-deal-2026-1235665455/",
+      "tags": [
+        "RS Recommends",
+        "Tech",
+        "AirPods",
+        "Apple",
+        "noads",
+        "tech"
+      ],
+      "published": "2026-11-28T00:48:38+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "There are plenty of sizeable deals on audio gear this year, but 40% off the current pro-model AirPods is tough to beat"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Olivia Rodrigo Shares Second Holiday Song ‘Miss This Christmas’ on Amazon Music",
+      "url": "https://www.billboard.com/music/pop/olivia-rodrigo-miss-this-christmas-amazon-music-1236390458/",
+      "tags": [
+        "Music",
+        "Pop",
+        "christmas",
+        "genre pop",
+        "holiday",
+        "Music News"
+      ],
+      "published": "2026-11-28T00:41:10+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The new track follows the pop star’s debut holiday song, “Take Me Home (4 Christmas).”"
+    },
+    {
+      "source": "A Closer Listen",
+      "sourceId": "acloserlisten.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Ambient",
+        "Electronica"
+      ],
+      "title": "Nicola Di Croce ~ Attuning To / Resonating with (Aomori)",
+      "url": "https://acloserlisten.com/2026/11/28/nicola-di-croce-attuning-to-resonating-with-aomori/",
+      "tags": [
+        "Field Recording & Soundscape",
+        "Cronica",
+        "gianmarco del re",
+        "Nicola Di Croce"
+      ],
+      "published": "2026-11-28T00:01:55+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "review",
+      "verification": "pending",
+      "excerpt": "Birdsong and flowing water are familiar staples of field recording, and both feature in Nicola Di Croce’s Attuning To / Resonating With (Aomori). But they are only part of a more complex sonic ecosystem encompassing fishing communities, nuclear facilities and"
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Today’s Wordle answer and hints for #1988 on November 28",
+      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240",
+      "tags": [
+        "Gaming Guides",
+        "Guides",
+        "-",
+        "Mobile",
+        "PC"
+      ],
+      "published": "2026-11-28T00:01:34+00:00",
+      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1988 on November 28 appeared first on NME ."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "‘Connections’ answers and hints for today, November 28",
+      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066",
+      "tags": [
+        "Gaming Guides",
+        "Guides",
+        "-",
+        "Mobile",
+        "PC"
+      ],
+      "published": "2026-11-28T00:00:27+00:00",
+      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Here are hints, groups and answers for 'Connections' #1266 The post ‘Connections’ answers and hints for today, November 28 appeared first on NME ."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Globle answer today – here’s the answer and hints for November 28",
+      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991",
+      "tags": [
+        "Gaming Guides",
+        "Guides",
+        "-",
+        "PC"
+      ],
+      "published": "2026-11-28T00:00:17+00:00",
+      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Where in the world? The post Globle answer today – here’s the answer and hints for November 28 appeared first on NME ."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Framed answer today – here’s the solution for November 28",
+      "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186",
+      "tags": [
+        "Gaming Guides",
+        "Guides",
+        "-",
+        "Mobile"
+      ],
+      "published": "2026-11-28T00:00:09+00:00",
+      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "You’ve been framed The post Framed answer today – here’s the solution for November 28 appeared first on NME ."
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Brandy Returns in ‘Christmas Everyday: Married and Bright’ — Stream Lifetime Holiday Movie Online Free Here",
+      "url": "https://www.billboard.com/culture/product-recommendations/watch-brandy-christmas-everyday-married-and-bright-lifetime-online-1236390444/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "christmas",
+        "lifetime",
+        "NOADS",
+        "streaming"
+      ],
+      "published": "2026-11-27T23:48:51+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Premiering Nov. 28, the new film is a follow-up to last year's holiday hit, Christmas Everyday ."
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde",
+      "url": "https://www.billboard.com/music/latin/fuerza-regida-pisteando-con-la-regida-vol-4-rancho-humilde-1236390434/",
+      "tags": [
+        "Latin",
+        "Music",
+        "genre latin",
+        "Legal",
+        "Music News",
+        "Record Labels"
+      ],
+      "published": "2026-11-27T23:39:37+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "“I’m free now they’ve finally taken their foot off the tiger’s neck,” frontman Jesús Ortiz Paz wrote in Spanish on Instagram."
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "A Bunch of Our Favorite Headphones and Earbuds Are Discounted for Black Friday",
+      "url": "https://www.rollingstone.com/product-recommendations/tech/best-headphone-earbud-deals-black-friday-cyber-monday-2026-1235663158/",
+      "tags": [
+        "RS Recommends",
+        "Tech",
+        "Headphones",
+        "noads",
+        "tech"
+      ],
+      "published": "2026-11-27T23:05:24+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "From Apple to Sonos, some of the best editor-approved headphones are on sale during Black Friday"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Black Friday Deal: Amazon Marks Down AMC+ Subscription to Just $1.99/Month, A 75% Savings",
+      "url": "https://www.billboard.com/culture/product-recommendations/amc-plus-2026-streaming-deals-black-friday-online-1236390413/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "AMC",
+        "black friday",
+        "Deals",
+        "how to watch",
+        "NOADS",
+        "streaming",
+        "streaming deals"
+      ],
+      "published": "2026-11-27T22:38:16+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "For Black Friday, get AMC+ for cheap to stream The Walking Dead , Interview With the Vampire , Dark Winds , Gangs of London and original music programming."
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Soul Train Awards 2026: Here’s Where to Watch the Awards Ceremony Online Free",
+      "url": "https://www.billboard.com/culture/product-recommendations/soul-train-awards-2026-nov-how-to-watch-live-online-free-1236388588/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "bet",
+        "CBS",
+        "how to watch",
+        "NOADS",
+        "Soul Train",
+        "Soul Train Awards",
+        "streaming"
+      ],
+      "published": "2026-11-27T22:33:12+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Hosted by Anthony Anderson, stream the 37th edition of the Soul Train Awards on Nov. 27."
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "The 33 Best Black Friday Tech Deals — Save Up to 60% on Audio Gear, Gaming, and More",
+      "url": "https://www.rollingstone.com/product-recommendations/tech/black-friday-cyber-monday-tech-deals-2026-1235663961/",
+      "tags": [
+        "RS Recommends",
+        "Tech",
+        "black friday",
+        "noads",
+        "tech"
+      ],
+      "published": "2026-11-27T21:38:21+00:00",
+      "firstSeen": "2026-11-26T02:06:55.709878+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Black Friday is here, and there are a dizzying number of discounts on gadgets. These are the ones that we think are worth it"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Where to Stream the 2026 ‘Soul Train Awards’ Online Free Without Cable",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-soul-train-awards-2026-online-free-without-cable-1235665413/",
+      "tags": [
+        "TV & Movies",
+        "TV & Movies News",
+        "noads",
+        "RS Recommends",
+        "Soul Train",
+        "soul train awards",
+        "streaming"
+      ],
+      "published": "2026-11-27T21:33:21+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The Soul Train Awards are back after a two-year hiatus. Here’s how to watch the revamped awards show online"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "A Bibliophile’s Dream Deal: Get Audible for Less Than $1 a Month",
+      "url": "https://www.rollingstone.com/product-recommendations/books/best-amazon-audible-books-deals-2026-sign-up-now-1235665351/",
+      "tags": [
+        "Books",
+        "RS Recommends",
+        "Amazon",
+        "Audible",
+        "noads"
+      ],
+      "published": "2026-11-27T21:10:13+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The audiobook service gives you access to some of our favorite titles, from Heated Rivalry to The Hunger Games . Here’s how to get the discounted membership"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "FOX One Black Friday Deal: Here’s How to Save 75% Off a Streaming Subscription",
+      "url": "https://www.billboard.com/culture/product-recommendations/fox-one-2026-streaming-deals-black-friday-online-1236390396/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "black friday",
+        "Deals",
+        "Fox",
+        "how to watch",
+        "NOADS",
+        "streaming",
+        "streaming deals"
+      ],
+      "published": "2026-11-27T21:01:26+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Watch FOX, FOX News, FOX Sports, TMZ and original music programming for just $4.99 per month (was $19.99 per month)."
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "Ski Season Is Here — These Are the Colorado Hotels We’re Picking to Make the Most of It",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-hilton-hotels-ski-snowboard-denver-colorado-1235665316/",
+      "tags": [
+        "Lifestyle",
+        "RS Recommends",
+        "noads",
+        "travel"
+      ],
+      "published": "2026-11-27T21:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Ahead of winter travel and ski season, Hilton is also offering 20% off stays"
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "From Breville to Birkin, Macy’s Is Discounting Top Brands by Up to 70% for Black Friday",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-macys-black-friday-deals-2026-mens-womens-home-sale-1235663866/",
+      "tags": [
+        "Lifestyle",
+        "RS Recommends",
+        "Deals",
+        "Macy&#039;s",
+        "noads"
+      ],
+      "published": "2026-11-27T20:38:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Macy's is running one of the year's best Black Friday sales. Here's what's worth buying"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Best Black Friday Audio Deals 2026: Save Up to 60% Off Bose, Apple & Beats, Sonos, Sony & More Online",
+      "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-2026-nov-audio-headphones-deals-online-1236390314/",
+      "tags": [
+        "Culture",
+        "Product Recommendations",
+        "black friday",
+        "Deals",
+        "electronics",
+        "NOADS"
+      ],
+      "published": "2026-11-27T20:09:20+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Shop the best Black Friday headphones, earbuds, soundbars, turntables and other audio deals — save up to 60% off the top brands."
+    },
+    {
+      "source": "Rolling Stone",
+      "sourceId": "rollingstone.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Pop",
+        "Country",
+        "Hip-hop"
+      ],
+      "title": "IM8 Is David Beckham’s Answer to Late Nights, Long Flights, and Early Call Times",
+      "url": "https://www.rollingstone.com/product-recommendations/lifestyle/david-beckham-im8-supplements-drink-powder-review-buy-1235665253/",
+      "tags": [
+        "Lifestyle",
+        "RS Recommends",
+        "David Beckham",
+        "noads",
+        "wellness"
+      ],
+      "published": "2026-11-27T20:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The soccer star co-founded IM8 with health sciences company Prenetics, and the brand's most complete product now carries his name: the Beckham Stack"
+    },
+    {
+      "source": "Billboard",
+      "sourceId": "billboard.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Pop",
+        "Hip-hop",
+        "Country"
+      ],
+      "title": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: ‘Badly Handled’",
+      "url": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401/",
+      "tags": [
+        "Music",
+        "Music News",
+        "genre rock",
+        "halftime show",
+        "thanksgiving"
+      ],
+      "published": "2026-11-27T19:59:09+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The network aired just 90 seconds of the band's performance in favor of Aaron Rodgers coverage."
+    },
+    {
+      "source": "Stereogum",
+      "sourceId": "stereogum.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Listen To Torture Methods’ Bewitching Dark Realities For The Quasi-Angelic",
+      "url": "https://stereogum.com/2522132/listen-to-torture-methods-bewitching-dark-realities-for-the-quasi-angelic/music/",
+      "tags": [
+        "New Music",
+        "Torture Methods"
+      ],
+      "published": "2026-11-27T19:41:37+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The post Listen To Torture Methods’ Bewitching <em>Dark Realities For The Quasi-Angelic</em> appeared first on Stereogum ."
+    },
+    {
+      "source": "Consequence",
+      "sourceId": "consequence.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "title": "Ticketmaster Launches Black Friday 2026 Sale",
+      "url": "https://consequence.net/2026/11/ticketmaster-black-friday-2026-sale/",
+      "tags": [
+        "News Bites",
+        "Music",
+        "Music News",
+        "News",
+        "Ticketmaster"
+      ],
+      "published": "2026-11-27T19:39:16+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Ticketmaster's 2026 Black Friday and holiday sale offers up to 50% off select concert and event tickets, plus two-for-one and four-pack deals through December 31st. Ticketmaster Launches Black Friday 2026 Sale Scoop Harrison"
+    },
+    {
+      "source": "Stereogum",
+      "sourceId": "stereogum.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Dating – “Lesbians”",
+      "url": "https://stereogum.com/2522123/dating-lesbians/music/",
+      "tags": [
+        "New Music",
+        "Dating"
+      ],
+      "published": "2026-11-27T18:59:17+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The post Dating – “Lesbians” appeared first on Stereogum ."
+    },
+    {
+      "source": "Saving Country Music",
+      "sourceId": "savingcountrymusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Country"
+      ],
+      "title": "An Honest Review of Miranda Lambert’s Thanksgiving Halftime Performance",
+      "url": "https://savingcountrymusic.com/an-honest-review-of-miranda-lamberts-thanksgiving-halftime-performance/",
+      "tags": [
+        "Reviews",
+        "Dolly Parton",
+        "Eric Church",
+        "Miranda Lambert"
+      ],
+      "published": "2026-11-27T18:18:48+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "It was fine. And the folks complaining ... well, folks love to complain about this kind of stuff. Screw football. Complaining is truly America's favorite sport. And so that's what we're doing. Happy Holidays, everyone! The post An Honest Review of Miranda Lambert’s Thanksgiving Halftime Performance first appeared on Saving Country Music ."
+    },
+    {
+      "source": "Stereogum",
+      "sourceId": "stereogum.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Double Virgo – “City Zen”",
+      "url": "https://stereogum.com/2522115/double-virgo-city-zen/music/",
+      "tags": [
+        "New Music",
+        "Double Virgo"
+      ],
+      "published": "2026-11-27T18:05:25+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The post Double Virgo – “City Zen” appeared first on Stereogum ."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "‘The Traitors’ season five premiere date revealed",
+      "url": "https://www.nme.com/news/tv/the-traitors-season-five-premiere-date-revealed-3977169",
+      "tags": [
+        "News",
+        "TV News"
+      ],
+      "published": "2026-11-27T18:01:31+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "We're heading back to the castle very soon... The post ‘The Traitors’ season five premiere date revealed appeared first on NME ."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "How Charli XCX's Brat made a new fan in Parkway Drive's Winston McCall",
+      "url": "https://www.loudersound.com/bands-artists/interviews/how-charli-xcxs-brat-made-a-new-fan-in-heavy-metal-hero-and-parkway-drive-frontman-winston-mccall-i-hear-the-outsider-in-it",
+      "tags": [
+        "Interviews",
+        "Bands & Artists"
+      ],
+      "published": "2026-11-27T18:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Winston McCall was impressed by how Charli XCX managed to conquer pop music from the outside"
+    },
+    {
+      "source": "London Jazz News",
+      "sourceId": "londonjazznews.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Jazz"
+      ],
+      "title": "Schnellertollermeier – ‘Shadow Web’",
+      "url": "https://ukjazznews.com/schnellertollermeier-shadow-web/",
+      "tags": [
+        "Albums",
+        "Reviews"
+      ],
+      "published": "2026-11-27T17:47:27+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Schnellertollermeier is a Swiss trio, which gets it’s name from fusing the surnames of its three members: Andi Schnellmann bass, Manuel Troller guitars & drum programming, David Meier drums & percussion.  Formed when they were all students in Lucerne, they have now been together for 20 years playing across Europe, Japan, India and the USA, […] The post Schnellertollermeier – ‘Shadow Web’ first app"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Four Pence Takes A Chance On ‘Collection Two’ And Wins Big: Rufus Dorey Interviewed",
+      "url": "https://www.clashmusic.com/fashion/four-pence-takes-a-chance-on-collection-two-and-wins-big-rufus-dorey-interviewed/",
+      "tags": [
+        "Fashion"
+      ],
+      "published": "2026-11-27T17:25:34+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "On the dawn of its sixth birthday, Four Pence is rolling the dice. Founded by Rufus Dorey, the London-based jewellery studio first came into being as a lockdown project, transforming his grandfather’s coin collection as a creative outlet. Stuck indoors, the pandemic forced the designer to look inwards, repurposing his… The post Four Pence Takes A Chance On ‘Collection Two’ And Wins Big: Rufus Dore"
+    },
+    {
+      "source": "Stereogum",
+      "sourceId": "stereogum.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Killers Guitarist Details Recovery From Major Stroke",
+      "url": "https://stereogum.com/2522105/killers-guitarist-details-recovery-from-major-stroke/news/",
+      "tags": [
+        "News",
+        "Dave Keuning",
+        "The Killers"
+      ],
+      "published": "2026-11-27T17:24:30+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The post Killers Guitarist Details Recovery From Major Stroke appeared first on Stereogum ."
+    },
+    {
+      "source": "NME",
+      "sourceId": "nme.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years",
+      "url": "https://www.nme.com/news/music/mastodon-announce-first-uk-and-european-tour-in-eight-years-buy-tickets-3977154",
+      "tags": [
+        "Music News",
+        "News",
+        "Grammys",
+        "Live Music News",
+        "Metal",
+        "Rock"
+      ],
+      "published": "2026-11-27T17:24:07+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Tickets are on sale now The post Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years appeared first on NME ."
+    },
+    {
+      "source": "SPIN",
+      "sourceId": "spin.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Pop"
+      ],
+      "title": "O-Rod Doubles Down On Xmas With Amazon Exclusive",
+      "url": "https://www.spinmagazine.com/2026/11/olivia-rodrigo-holiday-song-amazon/",
+      "tags": [
+        "News",
+        "olivia rodrigo",
+        "Pushly"
+      ],
+      "published": "2026-11-27T17:12:09+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Olivia Rodrigo isn’t letting one Christmas song get the job done."
+    },
+    {
+      "source": "Kerrang!",
+      "sourceId": "kerrang.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "“I feel in a great place, as far as writing goes”: Robert Trujillo suggests Metallica could start writing again soon",
+      "url": "https://www.kerrang.com/robert-trujillo-suggests-metallica",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T17:12:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Though they've been touring 2023's 72 Seasons pretty intensively, Metallica bassist Robert Trujillo has suggested that the band is laying the groundwork for its follow-up, and could double down on that in the not-so-distant future."
+    },
+    {
+      "source": "Decibel",
+      "sourceId": "decibelmagazine.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "Track Premiere: All Out War – “Black Metal” (Venom Cover)",
+      "url": "https://www.decibelmagazine.com/2026/11/27/track-premiere-all-out-war-black-metal-venom-cover/",
+      "tags": [
+        "Track Premiere",
+        "all out war",
+        "black metal",
+        "Hardcore",
+        "premiere",
+        "Venom"
+      ],
+      "published": "2026-11-27T17:00:27+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "premiere",
+      "verification": "pending",
+      "excerpt": "Want a little Black Metal for Black Friday? Check out hardcore legends' All Out War 's excellent and totally unhinged cover of the Venom classic! The post Track Premiere: All Out War – “Black Metal” (Venom Cover) appeared first on Decibel Magazine ."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Top prog sounds from Jan Akkerman, Reliqa, Aaronson and more in Prog's brand new Tracks Of The Week",
+      "url": "https://www.loudersound.com/music/music-videos/top-prog-sounds-from-jan-akkerman-reliqa-aaronson-and-more-in-progs-brand-new-tracks-of-the-week",
+      "tags": [
+        "Music Videos",
+        "Music"
+      ],
+      "published": "2026-11-27T16:56:37+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "recommendation",
+      "verification": "pending",
+      "excerpt": "Ace new proggy sounds from Kuumet, The Pulse Theory, Sentient Ignition, and more in our all-new Tracks Of The Week"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "James Emmanuel Shares ‘Christmas In The Sunshine’",
+      "url": "https://www.clashmusic.com/news/james-emmanuel-shares-christmas-in-the-sunshine/",
+      "tags": [
+        "News",
+        "James Emmanuel"
+      ],
+      "published": "2026-11-27T16:49:16+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "James Emmanuel brings festive soul with ‘Christmas in the Sunshine’. Soul singer James Emmanuel is celebrating the festive season with two Christmas singles, releasing original track ‘Christmas in the Sunshine’ today (November 27th). This will be followed by his cover of Chris Rea’s ‘Driving Home For Christmas’ on December 4th,… The post James Emmanuel Shares ‘Christmas In The Sunshine’ appeared f"
+    },
+    {
+      "source": "Consequence",
+      "sourceId": "consequence.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "title": "These Are the Black Friday Deals I Would Actually Buy",
+      "url": "https://consequence.net/2026/11/best-black-friday-deals-2026-editors-picks/",
+      "tags": [
+        "Tech News",
+        "News",
+        "Pop Culture",
+        "AirPods",
+        "Criterion",
+        "Disney Plus",
+        "Hulu",
+        "iPad"
+      ],
+      "published": "2026-11-27T16:44:17+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "AirPods Pro 3, a Disney+ and Hulu bundle, and deals on Kindle, iPad, and The Criterion Collection are among the recommendations. These Are the Black Friday Deals I Would Actually Buy Eddie Fu"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Love Profusion: Dawuna Interviewed",
+      "url": "https://www.clashmusic.com/features/love-profusion-dawuna-interviewed/",
+      "tags": [
+        "Features",
+        "Dawuna"
+      ],
+      "published": "2026-11-27T16:42:22+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "When Dawuna – real name Ian Mugerwa – officially released his breakthrough work ‘Glass Lit Dream’ in 2021, critics lavished praise on a fresh new voice infusing the multi-tracked, choral wizardry pioneered by D’Angelo and Russell Elevado, and the nocturnal psychodrama of Coil, into a smouldering piece of moon-lit digital… The post Love Profusion: Dawuna Interviewed appeared first on Clash Magazine"
+    },
+    {
+      "source": "Metal Injection",
+      "sourceId": "metalinjection.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "10 Metal Songs That Got Banned for Going Too Far",
+      "url": "https://metalinjection.net/lists/banned-metal-songs",
+      "tags": [
+        "Lists"
+      ],
+      "published": "2026-11-27T16:36:17+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Thrash, shock rock, industrial, and more share this list, and the songs have long outlived the fights over them The post 10 Metal Songs That Got Banned for Going Too Far appeared first on Metal Injection ."
+    },
+    {
+      "source": "BrooklynVegan",
+      "sourceId": "brooklynvegan.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Metal"
+      ],
+      "title": "Santacon Documentary Takes You Back To ’90s NYC",
+      "url": "https://www.brooklynvegan.com/santacon-documentary-takes-you-back-to-90s-nyc/",
+      "tags": [
+        "Comedy",
+        "movies",
+        "Music",
+        "bvhome",
+        "Fight Club",
+        "Michael Moore",
+        "Santacon",
+        "Seth Porges"
+      ],
+      "published": "2026-11-27T16:32:14+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "‘Santacon’ doc director Seth Porges, who you might also know from  “Class Action Park,” stopped by to tell us about his new film which is premiering digitally on VEEPS."
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "DAYLA Shares New Single ‘Fast Car’",
+      "url": "https://www.clashmusic.com/news/dayla-shares-new-single-fast-car/",
+      "tags": [
+        "News",
+        "DAYLA"
+      ],
+      "published": "2026-11-27T16:25:38+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "DAYLA confronts grief ahead of debut EP ‘14:44’ Paris-born DAYLA has shared her new single ‘Fast Car’, ahead of her debut EP ‘14:44’, set to arrive on December 11th. Written several years after the loss of her mother, ‘Fast Car’ navigates grief and the process of rebuilding. DAYLA’s soulful vocals… The post DAYLA Shares New Single ‘Fast Car’ appeared first on Clash Magazine Music News, Reviews & I"
+    },
+    {
+      "source": "Metal Injection",
+      "sourceId": "metalinjection.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "\"A Journey Between Hope And Despair\": Evergrey's 'In Search of Truth' Turns 25",
+      "url": "https://metalinjection.net/anniversary/evergrey-in-search-of-truth-25th-anniversary",
+      "tags": [
+        "Anniversary",
+        "evergrey"
+      ],
+      "published": "2026-11-27T16:09:54+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Nine songs of dark, keyboard-heavy metal follow one man’s abduction, his confusion and his institutionalization The post \"A Journey Between Hope And Despair\": Evergrey's 'In Search of Truth' Turns 25 appeared first on Metal Injection ."
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Jean-Claude Vannier has Died, Aged 83",
+      "url": "https://thequietus.com/news/jean-claude-vannier-has-died-aged-83/",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T16:04:12+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The French composer was famed for his work on Serge Gainsbourg's Histoire de Melody Nelson Jean-Claude Vannier, the widely respected French composer and arranger whose work lit up Serge Gainsbourg's 1971 concept album Histoire de Melody Nelson, has died at the age of 83. He passed away in Paris earlier today (27 November), Libération reports. \"Jean-Claude Vannier was a singular, unclassifiable, pr"
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "Binge The Beatles, Bon Jovi, and Travis Barker docs from $4.99/£5.99 a month with this bargainous Black Friday Disney+/Hulu offer",
+      "url": "https://www.loudersound.com/music/streaming-services/binge-the-beatles-bon-jovi-and-travis-barker-docs-from-usd4-99-gbp5-99-a-month-with-this-bargainous-black-friday-disney-hulu-offer",
+      "tags": [
+        "Streaming Services",
+        "Music"
+      ],
+      "published": "2026-11-27T16:03:03+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Save big on some of this year's best rock documentaries, live shows, and backstage insights with this time-limited Black Friday streaming offer"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "October And The Eyes shares “Itch To Scratch” and vinyl-only Madonna cover",
+      "url": "https://www.thelineofbestfit.com/news/october-and-the-eyes-shares-itch-to-scratch-and-vinyl-only-madonna-cover",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T16:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Goth-glam New Zealand experimentalist and model October And The Eyes has released new single “Itch To Scratch” via Kartel Music Group, alongside a 7-inch vinyl featuring a cover of Madonna’s “Beautiful Stranger”."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Chimer share new single “Difficult” and announce 2027 UK tour dates",
+      "url": "https://www.thelineofbestfit.com/news/chimer-share-new-single-difficult-and-announce-2027-uk-tour-dates",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T16:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Sugary noise band Chimer, a trio from Hastings, have released a new single called \"Difficult\" and announced a run of shows for January 2027."
+    },
+    {
+      "source": "Louder",
+      "sourceId": "loudersound.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Metal"
+      ],
+      "title": "How the meaning of a Pink Floyd lyric inspired Neal Morse And The Resonance's new album River Of Light",
+      "url": "https://www.loudersound.com/music/albums/neal-morse-resonance-river-of-light",
+      "tags": [
+        "Albums",
+        "Music"
+      ],
+      "published": "2026-11-27T16:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Second album River Of Light is loaded with fiddly bits to showcase their virtuosity – after difficult tour dates put them through the fire"
+    },
+    {
+      "source": "Clash",
+      "sourceId": "clashmusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop",
+        "Hip-hop",
+        "Elektronisk"
+      ],
+      "title": "Charlotte Han Steps Into The Spotlight With Debut Album ‘The Diary of a Twenty-Something’",
+      "url": "https://www.clashmusic.com/news/charlotte-han-steps-into-the-spotlight-with-debut-album-the-diary-of-a-twenty-something/",
+      "tags": [
+        "News",
+        "Charlotte Han"
+      ],
+      "published": "2026-11-27T15:48:39+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Charlotte Han has dropped her debut album, ‘The Diary of a Twenty-Something’. A profound exploration of early adulthood, the riser delivers a heart-warming body of wok that travels far and wide. Over journal-entry-style lyricism and a stripped-back pop production, Charlotte Han creates a space for introspection, embarking her listener on… The post Charlotte Han Steps Into The Spotlight With Debut "
+    },
+    {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Outer Waves Announces First Acts Playing 2027 Edition",
+      "url": "https://thequietus.com/news/outer-waves-announces-first-acts-playing-2027-edition/",
+      "tags": [
+        "News",
+        "Merzbow",
+        "Nihiloxica",
+        "OUTER WAVES",
+        "The Ex"
+      ],
+      "published": "2026-11-27T15:47:16+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Merzbow, The Ex and more will play the Liverpool event next May The Ex, photo by Maarten Mooijman Outer Waves has shared the first wave of acts playing its 2027 edition. The festival returns to Liverpool for its third edition next May, and will take over the venues Invisible Wind Factory, Make. and Quarry. The lineup will be headed up by Merzbow and The Ex. Also confirmed to play are Nihiloxica, S"
+    },
+    {
+      "source": "Saving Country Music",
+      "sourceId": "savingcountrymusic.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Country"
+      ],
+      "title": "New Adds to Saving Country Music’s Top 25 Playlist (#189)",
+      "url": "https://savingcountrymusic.com/new-adds-to-saving-country-musics-top-25-playlist-189/",
+      "tags": [
+        "News",
+        "Ags Connolly",
+        "Arlo McKinley",
+        "Kristina Murray",
+        "Slater Nalley",
+        "Timbo",
+        "Tony Logue",
+        "Tyler Richards",
+        "Zach Top"
+      ],
+      "published": "2026-11-27T15:46:15+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Before we get absolutely inundated with Christmas music---and as people are looking for tunes on the road trip home after Thanksgiving---let's juice up the Top 25 Playlist with a few new fresh horses. The post New Adds to Saving Country Music’s Top 25 Playlist (#189) first appeared on Saving Country Music ."
+    },
+    {
+      "source": "Groove",
+      "sourceId": "groove.de",
+      "sourceType": "editorial",
+      "genres": [
+        "Techno",
+        "House",
+        "Electronica"
+      ],
+      "title": "Die Platten der Woche mit Arpy Brown feat. Theon Bower, Ben Kaczor & Lb Honne, Michael J. Blood, reflex blue und Ryan Elliott",
+      "url": "https://groove.de/2026/11/27/die-platten-der-woche-mit-arpy-brown-theon-bower-ben-kaczor-lb-honne-michael-j-blood-reflex-blue-ryan-elliott/",
+      "tags": [
+        "Reviews",
+        "Single",
+        "Arpy Brown",
+        "Ben Kaczor",
+        "Clone Royal Oak",
+        "Faith Beat",
+        "Lb Honne",
+        "Michael J. Blood",
+        "R.A.N.D. Muzik",
+        "Reflex Blue",
+        "Ryan Elliott",
+        "St. Odes",
+        "Theon Bower",
+        "Toy Tonics"
+      ],
+      "published": "2026-11-27T15:35:47+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Unsere Platten der Woche kommen von Arpy Brown feat. Theon Bower, Ben Kaczor & Lb Honne, Michael J. Blood, reflex blue und Ryan Elliott. Der Beitrag Die Platten der Woche mit Arpy Brown feat. Theon Bower, Ben Kaczor & Lb Honne, Michael J. Blood, reflex blue und Ryan Elliott erschien zuerst auf Groove ."
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "New book explores Burial’s influence on British electronic music",
+      "url": "https://djmag.com/news/new-book-explores-burials-influence-british-electronic-music",
+      "tags": [],
+      "published": "2026-11-27T15:30:18+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "\"Tracing the ghosts of rave culture, hauntology, urban isolation and the lost futures of the 20th century\""
+    },
+    {
+      "source": "Consequence",
+      "sourceId": "consequence.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "title": "The Criterion Collection Is 50% Off on Amazon for Black Friday",
+      "url": "https://consequence.net/2026/11/criterion-collection-black-friday-amazon-sale/",
+      "tags": [
+        "TV & Movie News",
+        "News",
+        "TV & Movies",
+        "4K",
+        "Amazon",
+        "Criterion"
+      ],
+      "published": "2026-11-27T15:21:57+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The holiday sale includes KPop Demon Hunters, David Lynch's Lost Highway and Mulholland Drive, and a complete Kubrick set. The Criterion Collection Is 50% Off on Amazon for Black Friday Eddie Fu"
+    },
+    {
+      "source": "Metal Injection",
+      "sourceId": "metalinjection.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Metal"
+      ],
+      "title": "The Weekly Injection: New Releases From Northlane, Rosetta, and More Out This Week – 11/27",
+      "url": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-northlane-rosetta-and-more-out-this-week-11-27",
+      "tags": [
+        "Weekly Injection",
+        "rosetta",
+        "Leviathan",
+        "Northlane",
+        "featured1",
+        "peelingflesh",
+        "mgta"
+      ],
+      "published": "2026-11-27T15:15:55+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Plus releases from Leviathan, Mgta, and PeelingFlesh The post The Weekly Injection: New Releases From Northlane, Rosetta, and More Out This Week – 11/27 appeared first on Metal Injection ."
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Listen to Mya Mehmi’s debut EP, ‘M1’, on Dialled In Records",
+      "url": "https://djmag.com/news/listen-mya-mehmis-debut-ep-m1-dialled-records",
+      "tags": [],
+      "published": "2026-11-27T15:14:48+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The seven-track release explores themes of love and loneliness"
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Free The Night launches £50,000 appeal for Northern Ireland nightlife licensing challenge",
+      "url": "https://djmag.com/news/free-night-launches-ps50000-appeal-northern-ireland-nightlife-licensing-challenge",
+      "tags": [],
+      "published": "2026-11-27T15:12:54+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Campaigners have “exhausted many of the conventional avenues available” and are now pursuing legal action"
+    },
+    {
+      "source": "Consequence",
+      "sourceId": "consequence.net",
+      "sourceType": "editorial",
+      "genres": [
+        "Rock",
+        "Indie",
+        "Metal",
+        "Pop"
+      ],
+      "title": "The Apple Watch Series 12 Is $100 Off for Black Friday",
+      "url": "https://consequence.net/2026/11/apple-watch-series-12-black-friday-amazon-deal/",
+      "tags": [
+        "News Bites",
+        "News",
+        "Pop Culture",
+        "Tech News",
+        "Apple"
+      ],
+      "published": "2026-11-27T15:07:26+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The new flagship features faster Siri AI alongside more frequent and accurate measurement of health metrics. The Apple Watch Series 12 Is $100 Off for Black Friday Eddie Fu"
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "New Iranian electronic music compilation, ‘With Unity’, announced by Apranik Records",
+      "url": "https://djmag.com/news/new-iranian-electronic-music-compilation-unity-announced-apranik-records",
+      "tags": [],
+      "published": "2026-11-27T15:05:30+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The 17-track project features music from Sepehr, Voiski, and more"
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Maria Lui looks for the light between two walls on \"Fire\"",
+      "url": "https://www.thelineofbestfit.com/tracks/maria-lui-looks-for-the-light-between-two-walls-on-fire",
+      "tags": [
+        "Tracks"
+      ],
+      "published": "2026-11-27T15:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Ukrainian artist and producer Maria Lui pulls from within to find the strength she needs to make it through the chaos and despair of Russia's cruel war."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Getdown Services announce \"The Massive Champion Ship\" shows for 2027",
+      "url": "https://www.thelineofbestfit.com/news/getdown-services-announce-the-massive-champion-ship-shows-for-2027",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T15:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Bristol wordsmiths Getdown Services have announced a six-date summer run, \"The Massive Champion Ship\", for June 2027 in support of their recent album. The news comes with a music video for \"Probiotic\", featuring a pint of worms and a too-small Game of Thrones shirt."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Manizeh and Laraaji team up for Buddhist chant collaboration \"Cosmic Sandbox\"",
+      "url": "https://www.thelineofbestfit.com/news/manizeh-and-laraaji-team-up-for-buddhist-chant-collaboration-cosmic-sandbox",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T15:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "London artist Manizeh has released a standalone single titled \"Cosmic Sandbox\", a 10-minute collaboration with ambient and spiritual music figure Laraaji. It arrives a year on from her debut album Mahku."
+    },
+    {
+      "source": "The Line of Best Fit",
+      "sourceId": "thelineofbestfit.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "title": "Goo Records announce compilation covering label's first four years",
+      "url": "https://www.thelineofbestfit.com/news/goo-records-announce-compilation-covering-labels-first-four-years",
+      "tags": [
+        "News"
+      ],
+      "published": "2026-11-27T15:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Your Friend Goo: Volume One collects 12 tracks from Brighton label Goo Records' first four years, featuring artists such as Welly, Jopy, and The Stanford Family Band."
+    },
     {
       "source": "Mixmag",
       "sourceId": "mixmag.net",
@@ -370,6 +2414,27 @@
       "excerpt": "Mad Cool by Zurich 2027 has confirmed special performances from The Strokes, Tame Impala, RAYE, and more. The Spanish festival goes from strength to strength, with fans set to flock to Madrid’s Iberdrola Music venue from July 7th to 10th. On Wednesday, July 7th the festival opens with Faith No… The post Mad Cool by Zurich 2027: The Strokes, Tame Impala, RAYE Confirmed appeared first on Clash Magaz"
     },
     {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Latin American electronic music digital archive launched by Discótica",
+      "url": "https://djmag.com/news/latin-american-electronic-music-digital-archive-launched-discotica",
+      "tags": [],
+      "published": "2026-11-27T14:19:30+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "La Biblioteca Discótica compiles over 3,000 releases spanning 500 labels"
+    },
+    {
       "source": "Kerrang!",
       "sourceId": "kerrang.com",
       "sourceType": "editorial",
@@ -441,6 +2506,27 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The Chihuahua native is thinking as much about what he can accomplish beyond music as what he can accomplish through it. Ed Maverick on Making Music, Making Money, and Making it Matter With New Album Sin Agua Es Ruta Yerma Pedro Camacho"
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Stevie Hyper D documentary, HYPER, available to stream online for four days",
+      "url": "https://djmag.com/news/stevie-hyper-d-documentary-hyper-available-stream-online-four-days",
+      "tags": [],
+      "published": "2026-11-27T14:06:01+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "Viewers can stream the documentary online for one weekend only, with tickets available to book now"
     },
     {
       "source": "Clash",
@@ -579,6 +2665,27 @@
       "excerpt": "Check out all-time low discounts on portable Bose and JBL models. Best Black Friday Bluetooth Speaker Deals: Save on Bose, JBL, and Beats Eddie Fu"
     },
     {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Kavinsky’s family breaks silence four months after his death, pledge to ‘keep his music alive’",
+      "url": "https://djmag.com/news/kavinskys-family-breaks-silence-four-months-after-his-death-pledge-keep-his-music-alive",
+      "tags": [],
+      "published": "2026-11-27T13:36:02+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The French producer behind Drive hit ‘Nightcall’ died in July at the age of 50"
+    },
+    {
       "source": "Consequence",
       "sourceId": "consequence.net",
       "sourceType": "editorial",
@@ -594,7 +2701,8 @@
         "Tech News",
         "News",
         "Pop Culture",
-        "Apple"
+        "Apple",
+        "iPad"
       ],
       "published": "2026-11-27T13:35:22+00:00",
       "firstSeen": "2026-11-27T14:58:29.156250+00:00",
@@ -802,6 +2910,33 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Name  GAYLE Best known for  I  would say I’m best known for my music, songwriting, and touring! Current city  Nashville, Tennessee! Really want to be in  I’m not going to lie, I love Nashville and definitely see myself here long term. But at some point in my life I’d love to live in New York even if it’s just for […]"
+    },
+    {
+      "source": "DIY",
+      "sourceId": "diymag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Mad Cool unveils huge first wave of artists for 2027",
+      "url": "https://diymag.com/news/mad-cool-by-zurich-festival-2027-lineup",
+      "tags": [
+        "News",
+        "The Strokes",
+        "Tame Impala",
+        "Raye",
+        "Ezra Collective",
+        "Mad Cool",
+        "Festivals",
+        "Daisy Carter"
+      ],
+      "published": "2026-11-27T13:00:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The Madrid festival — now dubbed Mad Cool by Zurich — will host The Strokes, RAYE, Tame Impala and more next summer."
     },
     {
       "source": "Clash",
@@ -1176,6 +3311,29 @@
       "kind": "review",
       "verification": "pending",
       "excerpt": "Can a fort be an instrument?  In the hands of Dick Raaijmakers, Horst Rickels and Walter Maioli, it can be, and is.  Constructed in the 19th century, Fort Asperen has become the “outer shell” for a series of mechanical installations"
+    },
+    {
+      "source": "DIY",
+      "sourceId": "diymag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Pop"
+      ],
+      "title": "Get To Know… Spanish Horses",
+      "url": "https://diymag.com/interview/get-to-know-spanish-horses",
+      "tags": [
+        "Neu",
+        "Get to Know",
+        "Spanish Horses",
+        "A. L. Noonan"
+      ],
+      "published": "2026-11-27T12:00:00+00:00",
+      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "London-by-Paris slackers with a penchant for Americana earworms."
     },
     {
       "source": "NME",
@@ -1927,7 +4085,7 @@
       "firstSeen": "2026-11-27T14:58:29.156250+00:00",
       "kind": "review",
       "verification": "pending",
-      "excerpt": "TK"
+      "excerpt": "On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions."
     },
     {
       "source": "Louder",
@@ -2039,29 +4197,6 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The native Texan tackled songs like \"Gunpowder & Lead\" and \"Little Red Wagon\" in her first NFL appearance during the annual Thanksgiving tradition"
-    },
-    {
-      "source": "DIY",
-      "sourceId": "diymag.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "Get To Know… Spanish Horses",
-      "url": "https://diymag.com/interview/get-to-know-spanish-horses",
-      "tags": [
-        "Neu",
-        "Get to Know",
-        "Spanish Horses",
-        "A. L. Noonan"
-      ],
-      "published": "2026-11-27T00:00:00+00:00",
-      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "London-by-Paris slackers with a penchant for Americana earworms."
     },
     {
       "source": "Louder",
@@ -2583,6 +4718,29 @@
       "excerpt": "Vom 82-Stunden-Weekender im RSO über sechs Tage Tresor New Year’s Week bis zum gemeinsamen Auftritt von Ricardo Villalobos und Richard Akingbehin im Zenner: Diese Berliner Clubs haben ihre Programme für den Jahreswechsel bereits veröffentlicht. Der Beitrag Berliner Club-Marathons zum Jahreswechsel 2026/27: Die Line-ups im Überblick erschien zuerst auf Groove ."
     },
     {
+      "source": "The Quietus",
+      "sourceId": "thequietus.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Indie",
+        "Rock",
+        "Electronica",
+        "Ambient"
+      ],
+      "title": "Main’s ‘Motion Pool’ Set for Vinyl Reissue",
+      "url": "https://thequietus.com/news/mains-motion-pool-set-for-vinyl-reissue/",
+      "tags": [
+        "News",
+        "Main",
+        "World Of Echo"
+      ],
+      "published": "2026-11-26T16:30:00+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "The duo's 1994 debut album has been remastered and will be newly released with three extra tracks Photo by Tom Sheehan Main's 1994 debut album Motion Pool is being reissued. The record, which followed an initial series of EPs from Robert Hampson and Scott Dowson's project, has been remastered for the updated edition, which will also take in three additional tracks from the era of the original albu"
+    },
+    {
       "source": "Stereogum",
       "sourceId": "stereogum.com",
       "sourceType": "editorial",
@@ -2603,6 +4761,27 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "The post Macy Gray Is Releasing Her New Album In A Microdrama appeared first on Stereogum ."
+    },
+    {
+      "source": "DJ Mag",
+      "sourceId": "djmag.com",
+      "sourceType": "editorial",
+      "genres": [
+        "Elektronisk",
+        "House",
+        "UK Garage",
+        "Techno",
+        "Trance",
+        "Drum & Bass"
+      ],
+      "title": "Listen to DJ Paulette’s debut solo record, ‘Take Control/The Way’",
+      "url": "https://djmag.com/news/listen-dj-paulettes-debut-solo-record-take-controlthe-way",
+      "tags": [],
+      "published": "2026-11-26T15:46:33+00:00",
+      "firstSeen": "2026-11-28T14:07:57.899918+00:00",
+      "kind": "other",
+      "verification": "pending",
+      "excerpt": "“In making these tracks I flipped the middle finger at the career versus creativity time limit”, she shared"
     },
     {
       "source": "Groove",
@@ -2707,27 +4886,6 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "Percussionist Shawn ‘Clown’ Crahan recently hinted that the nu metal stars could make a double-album out of all the material they’re working on"
-    },
-    {
-      "source": "DJ Mag",
-      "sourceId": "djmag.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Elektronisk",
-        "House",
-        "UK Garage",
-        "Techno",
-        "Trance",
-        "Drum & Bass"
-      ],
-      "title": "Free The Night launches £50,000 appeal for Northern Ireland nightlife licensing challenge",
-      "url": "https://djmag.com/news/free-night-launches-ps50000-appeal-northern-ireland-nightlife-licensing-challenge",
-      "tags": [],
-      "published": "2026-11-26T15:12:54+00:00",
-      "firstSeen": "2026-11-27T14:58:29.156250+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "Campaigners have “exhausted many of the conventional avenues available” and are now pursuing legal action"
     },
     {
       "source": "Metal Injection",
@@ -4584,100 +6742,6 @@
       "excerpt": "Marina Herlop‘s Dja Dja unfolds like a picaresque adventure through an enchanted world, populated by witches, angels, wolves and other less identifiable creatures. There are moments of childlike wonder, encounters with darker forces and sudden changes of scenery. The Catalan"
     },
     {
-      "source": "NME",
-      "sourceId": "nme.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "Today’s Wordle answer and hints for #1986 on November 26",
-      "url": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240",
-      "tags": [
-        "Gaming Guides",
-        "Guides",
-        "-",
-        "Mobile",
-        "PC"
-      ],
-      "published": "2026-11-26T00:01:34+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1986 on November 26 appeared first on NME ."
-    },
-    {
-      "source": "NME",
-      "sourceId": "nme.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "‘Connections’ answers and hints for today, November 26",
-      "url": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066",
-      "tags": [
-        "Gaming Guides",
-        "Guides",
-        "-",
-        "Mobile",
-        "PC"
-      ],
-      "published": "2026-11-26T00:00:27+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "Here are hints, groups and answers for 'Connections' #1264 The post ‘Connections’ answers and hints for today, November 26 appeared first on NME ."
-    },
-    {
-      "source": "NME",
-      "sourceId": "nme.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "Globle answer today – here’s the answer and hints for November 26",
-      "url": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991",
-      "tags": [
-        "Gaming Guides",
-        "Guides",
-        "-",
-        "PC"
-      ],
-      "published": "2026-11-26T00:00:17+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "Where in the world? The post Globle answer today – here’s the answer and hints for November 26 appeared first on NME ."
-    },
-    {
-      "source": "NME",
-      "sourceId": "nme.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Indie",
-        "Rock",
-        "Pop"
-      ],
-      "title": "Framed answer today – here’s the solution for November 26",
-      "url": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186",
-      "tags": [
-        "Gaming Guides",
-        "Guides",
-        "-",
-        "Mobile"
-      ],
-      "published": "2026-11-26T00:00:09+00:00",
-      "firstSeen": "2026-11-24T10:04:56.619450+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "You’ve been framed The post Framed answer today – here’s the solution for November 26 appeared first on NME ."
-    },
-    {
       "source": "Louder",
       "sourceId": "loudersound.com",
       "sourceType": "editorial",
@@ -4844,31 +6908,6 @@
       "kind": "other",
       "verification": "pending",
       "excerpt": "It arrives in the top 10 on seven charts in total, including the Billboard 200."
-    },
-    {
-      "source": "Rolling Stone",
-      "sourceId": "rollingstone.com",
-      "sourceType": "editorial",
-      "genres": [
-        "Rock",
-        "Pop",
-        "Country",
-        "Hip-hop"
-      ],
-      "title": "The 25 Best Black Friday Tech Deals — Save Up to 51% on Audio Gear, Gaming, and More",
-      "url": "https://www.rollingstone.com/product-recommendations/tech/black-friday-cyber-monday-tech-deals-2026-1235663961/",
-      "tags": [
-        "RS Recommends",
-        "Tech",
-        "black friday",
-        "noads",
-        "tech"
-      ],
-      "published": "2026-11-25T22:48:45+00:00",
-      "firstSeen": "2026-11-26T02:06:55.709878+00:00",
-      "kind": "other",
-      "verification": "pending",
-      "excerpt": "Black Friday is here, and there are dizzying number of deals on gadgets. These are the ones that we think are worth it"
     },
     {
       "source": "Rolling Stone",
