@@ -1,9 +1,25 @@
 {
-  "updated": "2026-11-27T15:30:14.729747+00:00",
+  "updated": "2026-11-28T14:28:29.985938+00:00",
   "releaseDate": "2026-11-27",
   "windowStart": "2026-11-21",
   "genres": {
-    "Breakbeat": [],
+    "Breakbeat": [
+      {
+        "artist": "Kutiman",
+        "title": "You Will Shine",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/gb/album/you-will-shine/6807394505?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/f4/fe/14f4fe35-3046-22f1-5abd-eb7ca9dac729/846833003241.png/170x170bb.png",
+        "rank": 1,
+        "country": "gb",
+        "signals": {
+          "gb": 100
+        },
+        "score": 100,
+        "articles": []
+      }
+    ],
     "Garage": [
       {
         "artist": "Various Artists",
@@ -12,12 +28,12 @@
         "url": "https://music.apple.com/gb/album/dametalmessiah-x-fabriclive/6832559604?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/f8/4d/30f84d57-03e5-45ef-4885-b54be6528992/cover.jpg/170x170bb.png",
-        "rank": 34,
+        "rank": 1,
         "country": "gb",
         "signals": {
-          "gb": 67
+          "gb": 100
         },
-        "score": 67,
+        "score": 100,
         "articles": []
       }
     ],
@@ -30,44 +46,44 @@
         "url": "https://music.apple.com/gb/album/fabric-presents-palms-trax/6826230376?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/78/f1/9b78f11c-1068-ec3f-4a5f-5847dd532b1d/cover.jpg/170x170bb.png",
-        "rank": 1,
+        "rank": 6,
         "country": "gb",
         "signals": {
-          "gb": 100,
-          "jp": 93
+          "gb": 95,
+          "jp": 95
         },
-        "score": 193,
+        "score": 190,
         "articles": []
       },
       {
-        "artist": "DAWDO",
-        "title": "Afro House",
-        "releaseDate": "2026-11-22",
-        "url": "https://music.apple.com/us/album/afro-house/6814317422?uo=2",
-        "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/20/d8/d720d8d1-9a25-2fa2-204f-34ec03aec2e8/artwork.jpg/170x170bb.png",
-        "rank": 23,
-        "country": "us",
-        "signals": {
-          "us": 78,
-          "de": 37
-        },
-        "score": 115,
-        "articles": []
-      },
-      {
-        "artist": "Capital Kings",
-        "title": "Free - EP",
+        "artist": "Tour-Maubourg",
+        "title": "It's Time - EP",
         "releaseDate": "2026-11-27",
-        "url": "https://music.apple.com/us/album/free-ep/6829844538?uo=2",
+        "url": "https://music.apple.com/us/album/its-time-ep/6815184036?uo=2",
         "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/bb/a9/26bba930-44ca-4245-278f-943906aab4a2/708208500468_cover.jpg/170x170bb.png",
-        "rank": 1,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/21/ff/3c21ff86-7895-d2d4-fd5b-756058ec8523/cover.jpg/170x170bb.png",
+        "rank": 57,
         "country": "us",
         "signals": {
-          "us": 100
+          "us": 44,
+          "gb": 72
         },
-        "score": 100,
+        "score": 116,
+        "articles": []
+      },
+      {
+        "artist": "Groove Armada",
+        "title": "Body Action (Remixed) - EP",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/us/album/body-action-remixed-ep/6828906476?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d0/ec/80d0ecd6-f27e-5bae-6632-5dd83b8f27ba/5063817016669_cover.jpg/170x170bb.png",
+        "rank": 6,
+        "country": "us",
+        "signals": {
+          "us": 95
+        },
+        "score": 95,
         "articles": []
       },
       {
@@ -77,27 +93,27 @@
         "url": "https://music.apple.com/de/album/all-night-ep/6831411552?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/09/08/eb0908fb-5d59-485d-aff4-75aec8723c4d/711641227519.jpg/170x170bb.png",
-        "rank": 4,
+        "rank": 18,
         "country": "de",
         "signals": {
-          "de": 97
+          "de": 83
         },
-        "score": 97,
+        "score": 83,
         "articles": []
       },
       {
-        "artist": "Aeriva",
-        "title": "Next Chapter",
-        "releaseDate": "2026-11-26",
-        "url": "https://music.apple.com/de/album/next-chapter/6839131617?uo=2",
+        "artist": "Aura Safari",
+        "title": "Spaced Out Disco",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/de/album/spaced-out-disco/6820481246?uo=2",
         "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/d3/8c/03d38c87-a131-1c52-7390-94ede7b48466/artwork.jpg/170x170bb.png",
-        "rank": 13,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/43/bd/1943bd4a-271f-1ae4-96f7-b374d5b66f89/4070335177766.jpg/170x170bb.png",
+        "rank": 20,
         "country": "de",
         "signals": {
-          "de": 88
+          "de": 81
         },
-        "score": 88,
+        "score": 81,
         "articles": []
       }
     ],
@@ -109,13 +125,28 @@
         "url": "https://music.apple.com/gb/album/elser-ep/6832586824?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/45/17/e245178f-46da-4ad1-4fdd-c92ac8ac7f4a/5063817017093_cover.jpg/170x170bb.png",
-        "rank": 4,
+        "rank": 3,
         "country": "gb",
         "signals": {
-          "gb": 97,
+          "gb": 98,
           "de": 97
         },
-        "score": 194,
+        "score": 195,
+        "articles": []
+      },
+      {
+        "artist": "Cheff the Boy",
+        "title": "'92 N You - EP",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/gb/album/92-n-you-ep/6827355128?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/22/70/3722704b-3227-f33a-5303-4cc6b0c9458c/823375562061_Cover.jpg/170x170bb.png",
+        "rank": 19,
+        "country": "gb",
+        "signals": {
+          "gb": 82
+        },
+        "score": 82,
         "articles": []
       },
       {
@@ -125,32 +156,16 @@
         "url": "https://music.apple.com/us/album/silhouettes-ep/6832616589?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/01/6e/90016e59-4c97-0ca2-7851-10cb931833e4/cover.jpg/170x170bb.png",
-        "rank": 39,
+        "rank": 52,
         "country": "us",
         "signals": {
-          "us": 62
+          "us": 49
         },
-        "score": 62,
+        "score": 49,
         "articles": []
       }
     ],
     "Techno": [
-      {
-        "artist": "Jaklyn Feara",
-        "title": "All I Want For Christmas Is Your Soul",
-        "releaseDate": "2026-11-23",
-        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-your-soul/6834182133?uo=2",
-        "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/6e/a7/e86ea73f-ec6c-3921-78ea-33aa5a182d05/artwork.jpg/170x170bb.png",
-        "rank": 36,
-        "country": "us",
-        "signals": {
-          "us": 65,
-          "se": 98
-        },
-        "score": 163,
-        "articles": []
-      },
       {
         "artist": "Various Artists",
         "title": "ALL STARS 2027",
@@ -161,58 +176,91 @@
         "rank": 1,
         "country": "se",
         "signals": {
-          "se": 100
+          "se": 100,
+          "jp": 94
+        },
+        "score": 194,
+        "articles": []
+      },
+      {
+        "artist": "Jaklyn Feara",
+        "title": "All I Want For Christmas Is Your Soul",
+        "releaseDate": "2026-11-23",
+        "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-your-soul/6834182133?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/6e/a7/e86ea73f-ec6c-3921-78ea-33aa5a182d05/artwork.jpg/170x170bb.png",
+        "rank": 47,
+        "country": "us",
+        "signals": {
+          "us": 54,
+          "se": 98
+        },
+        "score": 152,
+        "articles": []
+      },
+      {
+        "artist": "A.Paul",
+        "title": "Fifty Five",
+        "releaseDate": "2026-11-26",
+        "url": "https://music.apple.com/us/album/fifty-five/6833080685?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/d1/16/ced11696-2d3d-9127-6f49-afffe6e562d0/cover.jpg/170x170bb.png",
+        "rank": 1,
+        "country": "us",
+        "signals": {
+          "us": 100
         },
         "score": 100,
         "articles": []
       },
       {
-        "artist": "Verschiedene Interpret:innen",
-        "title": "ALL STARS 2027",
-        "releaseDate": "2026-11-26",
-        "url": "https://music.apple.com/de/album/all-stars-2027/6836411427?uo=2",
+        "artist": "Al Wootton",
+        "title": "Movements For Four Dancers",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/gb/album/movements-for-four-dancers/6827563563?uo=2",
         "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/93/e1/3993e18b-af4c-46ff-366a-b28e7cf770af/cover.jpg/170x170bb.png",
-        "rank": 3,
-        "country": "de",
-        "signals": {
-          "de": 98
-        },
-        "score": 98,
-        "articles": []
-      },
-      {
-        "artist": "Michael Morra",
-        "title": "Nøåh - EP",
-        "releaseDate": "2026-11-25",
-        "url": "https://music.apple.com/gb/album/n%C3%B8%C3%A5h-ep/6809330545?uo=2",
-        "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/0f/b7/eb0fb77c-bd74-d4ba-8753-efbadbe88f3e/00_Cover_Art.jpg/170x170bb.png",
-        "rank": 13,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/e3/3a/4ae33a40-8b80-948b-8302-f4bc49ca1312/5063817016591_cover.jpg/170x170bb.png",
+        "rank": 14,
         "country": "gb",
         "signals": {
-          "gb": 88
+          "gb": 87
         },
-        "score": 88,
+        "score": 87,
         "articles": []
       },
       {
-        "artist": "Yeiks",
-        "title": "Variance",
+        "artist": "Vera-XX",
+        "title": "Izanami",
         "releaseDate": "2026-11-23",
-        "url": "https://music.apple.com/de/album/variance/6828358919?uo=2",
+        "url": "https://music.apple.com/us/album/izanami/6838652388?uo=2",
         "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/24/64/e32464c5-af77-7072-81b1-ff271f6bd859/4070335206176.jpg/170x170bb.png",
-        "rank": 26,
-        "country": "de",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/83/6b/01836b63-bea0-8246-dcac-0fa2d3769403/artwork.jpg/170x170bb.png",
+        "rank": 17,
+        "country": "us",
         "signals": {
-          "de": 75
+          "us": 84
         },
-        "score": 75,
+        "score": 84,
         "articles": []
       }
     ],
     "Trance": [
+      {
+        "artist": "BALTHVS",
+        "title": "Siente (Anthology) - EP",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/us/album/siente-anthology-ep/6834036897?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2d/3a/a42d3a9c-71c7-f16f-d4a2-357614d43f11/708208620692_cover.jpg/170x170bb.png",
+        "rank": 19,
+        "country": "us",
+        "signals": {
+          "us": 82,
+          "gb": 100
+        },
+        "score": 182,
+        "articles": []
+      },
       {
         "artist": "Fabio Fusco",
         "title": "Hope",
@@ -229,18 +277,33 @@
         "articles": []
       },
       {
+        "artist": "Armin van Buuren",
+        "title": "The Prophet - EP",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/de/album/the-prophet-ep/6833446388?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/c6/be/a7c6be10-05f0-721e-b2a9-2de7ddb20588/cover.jpg/170x170bb.png",
+        "rank": 3,
+        "country": "de",
+        "signals": {
+          "de": 98
+        },
+        "score": 98,
+        "articles": []
+      },
+      {
         "artist": "Dusky",
         "title": "Bindweed (Limonata Mix)",
         "releaseDate": "2026-11-27",
         "url": "https://music.apple.com/gb/album/bindweed-limonata-mix/6818548338?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/b4/7e/c8b47e54-1296-7e31-d71d-791ce1324f49/5039061288497.png/170x170bb.png",
-        "rank": 11,
+        "rank": 4,
         "country": "gb",
         "signals": {
-          "gb": 90
+          "gb": 97
         },
-        "score": 90,
+        "score": 97,
         "articles": []
       },
       {
@@ -250,42 +313,12 @@
         "url": "https://music.apple.com/jp/album/trance-edm-banger-vol-36-afterglow-overdrive/6839575878?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/37/cc/9d37ccbe-0742-b0d4-3167-03d414c986c2/4550797037643_cover.jpg/170x170bb.png",
-        "rank": 12,
+        "rank": 22,
         "country": "jp",
         "signals": {
-          "jp": 89
+          "jp": 79
         },
-        "score": 89,
-        "articles": []
-      },
-      {
-        "artist": "Colors Sound",
-        "title": "RITUAL OF MANTRA",
-        "releaseDate": "2026-11-25",
-        "url": "https://music.apple.com/jp/album/ritual-of-mantra/6828151032?uo=2",
-        "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/d5/42/7cd5427f-1013-ad58-a2ac-e1c09c320829/artwork.jpg/170x170bb.png",
-        "rank": 15,
-        "country": "jp",
-        "signals": {
-          "jp": 86
-        },
-        "score": 86,
-        "articles": []
-      },
-      {
-        "artist": "Konebu",
-        "title": "Director's Cut",
-        "releaseDate": "2026-11-27",
-        "url": "https://music.apple.com/jp/album/directors-cut/6837027208?uo=2",
-        "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/1d/fb/d01dfb17-9e1d-5d1d-57cc-2ef30adaa7cf/823375612766_Cover.jpg/170x170bb.png",
-        "rank": 16,
-        "country": "jp",
-        "signals": {
-          "jp": 85
-        },
-        "score": 85,
+        "score": 79,
         "articles": []
       }
     ],
@@ -297,12 +330,12 @@
         "url": "https://music.apple.com/jp/album/children-of-phoenix/6804752966?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/02/d4/1202d459-87e8-0f64-baf1-21af44db4821/3663729462589_cover.jpg/170x170bb.png",
-        "rank": 3,
+        "rank": 6,
         "country": "jp",
         "signals": {
-          "jp": 98
+          "jp": 95
         },
-        "score": 98,
+        "score": 95,
         "articles": []
       },
       {
@@ -312,12 +345,12 @@
         "url": "https://music.apple.com/us/album/528hz-432hz-anxiety-relief-fast-cortisol-detox-relaxing/6800574369?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/c5/14/87c51436-5c03-0501-8789-9eb679192f40/1282658.jpg/170x170bb.png",
-        "rank": 77,
+        "rank": 95,
         "country": "us",
         "signals": {
-          "us": 24
+          "us": 6
         },
-        "score": 24,
+        "score": 6,
         "articles": []
       }
     ],
@@ -338,18 +371,18 @@
         "articles": []
       },
       {
-        "artist": "Amir Nazari",
-        "title": "God, make me worthy of this Love",
-        "releaseDate": "2026-11-21",
-        "url": "https://music.apple.com/de/album/god-make-me-worthy-of-this-love/6837556915?uo=2",
+        "artist": "Paul Losev",
+        "title": "Pòmny - EP",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/de/album/p%C3%B2mny-ep/6821852208?uo=2",
         "source": "Apple / iTunes",
-        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/50/83/ed5083c5-914e-217b-e1d5-cf24a3d9b10d/artwork.jpg/170x170bb.png",
-        "rank": 6,
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/31/6b/d5316bad-b6c2-13a2-be85-b78b5409773f/00_Cover_Art.jpg/170x170bb.png",
+        "rank": 8,
         "country": "de",
         "signals": {
-          "de": 95
+          "de": 93
         },
-        "score": 95,
+        "score": 93,
         "articles": []
       },
       {
@@ -359,12 +392,27 @@
         "url": "https://music.apple.com/jp/album/the-secret-diary/6815453921?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/3f/fd/8f3ffd32-7e66-1002-b445-5e86d1dc81a9/00_Cover_Art.jpg/170x170bb.png",
-        "rank": 6,
+        "rank": 8,
         "country": "jp",
         "signals": {
-          "jp": 95
+          "jp": 93
         },
-        "score": 95,
+        "score": 93,
+        "articles": []
+      },
+      {
+        "artist": "Amir Nazari",
+        "title": "God, make me worthy of this Love",
+        "releaseDate": "2026-11-21",
+        "url": "https://music.apple.com/de/album/god-make-me-worthy-of-this-love/6837556915?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/50/83/ed5083c5-914e-217b-e1d5-cf24a3d9b10d/artwork.jpg/170x170bb.png",
+        "rank": 16,
+        "country": "de",
+        "signals": {
+          "de": 85
+        },
+        "score": 85,
         "articles": []
       }
     ],
@@ -385,18 +433,33 @@
         "articles": []
       },
       {
+        "artist": "Kedr Livanskiy",
+        "title": "Pretty Without You - EP",
+        "releaseDate": "2026-11-24",
+        "url": "https://music.apple.com/de/album/pretty-without-you-ep/6804843668?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/ab/d1/f6abd179-d03a-0ad8-b160-952384ecd47f/cover.jpg/170x170bb.png",
+        "rank": 7,
+        "country": "de",
+        "signals": {
+          "de": 94
+        },
+        "score": 94,
+        "articles": []
+      },
+      {
         "artist": "Masefield Labs & Twitchy Bones",
-        "title": "Untaken Paths EP - EP",
+        "title": "Untaken Paths - EP",
         "releaseDate": "2026-11-27",
-        "url": "https://music.apple.com/gb/album/untaken-paths-ep-ep/6829868133?uo=2",
+        "url": "https://music.apple.com/gb/album/untaken-paths-ep/6829868133?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/f3/52/ebf35256-210c-5bd9-a9ea-d388f0d7f86c/artwork.jpg/170x170bb.png",
-        "rank": 10,
+        "rank": 17,
         "country": "gb",
         "signals": {
-          "gb": 91
+          "gb": 84
         },
-        "score": 91,
+        "score": 84,
         "articles": []
       },
       {
@@ -406,12 +469,12 @@
         "url": "https://music.apple.com/us/album/the-eight-lights-harmonic-edition/6839487724?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/85/a9/7385a99d-e964-9f3f-8b19-8e00fd0de258/artwork.jpg/170x170bb.png",
-        "rank": 22,
+        "rank": 35,
         "country": "us",
         "signals": {
-          "us": 79
+          "us": 66
         },
-        "score": 79,
+        "score": 66,
         "articles": []
       },
       {
@@ -421,16 +484,31 @@
         "url": "https://music.apple.com/us/album/the-songstress-project-volume-one/6839187377?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/ce/56/aece5651-dcaf-6f2f-40e2-61bc435b35d9/artwork.jpg/170x170bb.png",
-        "rank": 41,
+        "rank": 54,
         "country": "us",
         "signals": {
-          "us": 60
+          "us": 47
         },
-        "score": 60,
+        "score": 47,
         "articles": []
       }
     ],
     "IDM/Experimental": [
+      {
+        "artist": "Supersilent",
+        "title": "15",
+        "releaseDate": "2026-11-27",
+        "url": "https://music.apple.com/us/album/15/6805114876?uo=2",
+        "source": "Apple / iTunes",
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/5e/30/395e307b-10db-6356-5793-5e1fc8232927/68495.jpg/170x170bb.png",
+        "rank": 3,
+        "country": "us",
+        "signals": {
+          "us": 98
+        },
+        "score": 98,
+        "articles": []
+      },
       {
         "artist": "ARTI Queen",
         "title": "Gta: Night Drive",
@@ -438,12 +516,12 @@
         "url": "https://music.apple.com/us/album/gta-night-drive/6838514963?uo=2",
         "source": "Apple / iTunes",
         "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/fd/a7/94fda77d-f22f-6ec9-d087-dac402b0d153/0.jpg/170x170bb.png",
-        "rank": 3,
+        "rank": 6,
         "country": "us",
         "signals": {
-          "us": 98
+          "us": 95
         },
-        "score": 98,
+        "score": 95,
         "articles": []
       }
     ],
@@ -485,8 +563,8 @@
   "audit": {
     "Breakbeat": {
       "successfulCharts": 8,
-      "eligible": 0,
-      "selected": 0,
+      "eligible": 1,
+      "selected": 1,
       "matched": 0
     },
     "Garage": {
@@ -503,25 +581,25 @@
     },
     "House": {
       "successfulCharts": 8,
-      "eligible": 9,
+      "eligible": 15,
       "selected": 5,
       "matched": 0
     },
     "Jungle/Drum & Bass": {
       "successfulCharts": 8,
-      "eligible": 2,
-      "selected": 2,
+      "eligible": 3,
+      "selected": 3,
       "matched": 0
     },
     "Techno": {
       "successfulCharts": 8,
-      "eligible": 5,
+      "eligible": 8,
       "selected": 5,
       "matched": 0
     },
     "Trance": {
       "successfulCharts": 8,
-      "eligible": 6,
+      "eligible": 7,
       "selected": 5,
       "matched": 0
     },
@@ -533,20 +611,20 @@
     },
     "Downtempo": {
       "successfulCharts": 8,
-      "eligible": 3,
-      "selected": 3,
-      "matched": 0
-    },
-    "Electronica": {
-      "successfulCharts": 8,
       "eligible": 4,
       "selected": 4,
       "matched": 0
     },
+    "Electronica": {
+      "successfulCharts": 8,
+      "eligible": 5,
+      "selected": 5,
+      "matched": 0
+    },
     "IDM/Experimental": {
       "successfulCharts": 8,
-      "eligible": 1,
-      "selected": 1,
+      "eligible": 2,
+      "selected": 2,
       "matched": 0
     },
     "Industrial": {
