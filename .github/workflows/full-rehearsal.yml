@@ -1,0 +1,53 @@
+name: Full edition rehearsal
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  rehearsal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      TZ: Europe/Oslo
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID || vars.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build latest Friday edition without publishing
+        run: |
+          set -e
+          export SLIPP_RELEASE_DATE=$(python -c 'import datetime; d=datetime.date.today(); print(d-datetime.timedelta(days=(d.weekday()-4)%7))')
+          pip install requests beautifulsoup4 feedparser
+          python scripts/production_album_feeds.py
+          python scripts/production_editorial.py
+          python scripts/production_albums.py
+          python scripts/production_singles.py
+          python scripts/production_validate.py
+      - name: Simulate publication and verify completeness
+        run: |
+          mkdir -p /tmp/slipp-rehearsal
+          cp edition.json genres.json singles-audit.json editorial/album-reviews.json /tmp/slipp-rehearsal/
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('/tmp/slipp-rehearsal')
+          e=json.loads((p/'edition.json').read_text())
+          g=json.loads((p/'genres.json').read_text())
+          a=json.loads((p/'singles-audit.json').read_text())
+          assert set(g)=={'Indie','Rock','Pop','Hip-hop','Country','Jazz','Metal','Elektronisk'}
+          assert len(e['mustListen']['singles'])==a['selected']
+          print('Albums:',len(e['mustListen']['albums']))
+          print('Singles:',a['selected'])
+          print('Genres:',list(g))
+          print('Simulated publication only; no push or production writes')
+          assert len(e['mustListen']['albums'])==5 and a['selected']==5, 'Incomplete front page'
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rehearsal-results
+          path: |
+            edition.json
+            genres.json
+            singles-audit.json
+            editorial/album-reviews.json
